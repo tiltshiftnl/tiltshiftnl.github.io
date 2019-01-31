@@ -9,13 +9,38 @@
         font-size: 1em;
         background: black;
       }
+      .tiltshift-menu-page {
+        width: 100vw;
+        height: 100vh;
+        position: fixed;
+        top: 0;
+        justify-content: center;
+        flex-direction: row;
+        display: flex;
+      }
       .tiltshift-close {
         position: fixed;
         top: 30px;
         right: 40px;
       }
+      .tiltshift-menu-page-layout-big-theme {
+        flex: 3;
+      }
+      .tiltshift-menu-page-layout-contact-info {
+        flex: 2;
+      }
     </style>
 
-    {% include tiltshift-close.html %}
+    <div class="tiltshift-menu-page">
+      {% include tiltshift-close.html %}
+
+      <div class="tiltshift-menu-page-layout-big-theme">
+        {% include tiltshift-big-theme.html %}
+      </div>
+
+      <div class="tiltshift-menu-page-layout-contact-info">
+        {% include tiltshift-contact-info.html %}
+      </div>
+    </div>
   </body>
 </html>
