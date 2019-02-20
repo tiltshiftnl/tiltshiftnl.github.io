@@ -1,0 +1,124 @@
+<!DOCTYPE html>
+<html style="min-height: 100%">
+
+  {% include head.html %}
+
+  <body style="margin: 0; padding: 0; font-size: 1em; min-height: 100%; background: url(/assets/img/tiltshift-bg-angled.svg) bottom right no-repeat;">
+
+    <div class="flex-wrapper">
+
+      <main class="main-content-col">
+
+        <style>
+          .flex-wrapper {
+            display: flex;
+          }
+          .tiltshift-hamburger {
+            position: fixed;
+            top: 30px;
+            right: 40px;
+          }
+          .main-content-col {
+            width: 400px;
+            margin: 0 25px 0 50px;
+          }
+          .tiltshift-title {
+            margin-top: 80px;
+          }
+          .tiltshift-menu a {
+            font-size: 22px !important;
+          }
+          .main-content-col p {
+            /* text-align: justify; */
+          }
+          .main-image-col {
+            flex: auto;
+            background: black;
+            margin: 0 120px 0 25px;
+            background-position: center center;
+            background-repeat: no-repeat;
+            background-size: cover;
+            min-height: 100vh;
+          }
+          @media only screen and (max-width: 800px) {
+            .main-image-col {
+              display: none;
+            }
+            .main-content-col {
+              width: 100%;
+            }
+            .tiltshift-menu a {
+              font-size: 25px !important;
+            }
+          }
+          @media only screen and (max-width: 475px) {
+            .tiltshift-menu a {
+              font-size: 22px !important;
+            }
+          }
+          @media only screen and (max-width: 425px) {
+            .tiltshift-banner-img {
+              width: 70%;
+            }
+            .tiltshift-hamburger {
+              right: 20px;
+            }
+            .main-content-col {
+              margin: 0 25px 0 25px;
+            }
+            .tiltshift-title {
+              margin-top: 20px;
+            }
+            .tiltshift-title-text {
+              font-size: 28px !important;
+            }
+            .tiltshift-content p {
+              font-size: 14px !important;
+            }
+            .tiltshift-menu a {
+              font-size: 16px !important;
+            }
+          }
+        </style>
+
+        {% include tiltshift-banner.html %}
+
+        {% include tiltshift-hamburger.html %}
+
+        {% include tiltshift-title.html %}
+
+        {% include tiltshift-content.html %}
+
+        {% if page.menu %}
+
+          {% include tiltshift-menu.html %}
+
+        {% endif %}
+
+        {% include tiltshift-contact-button.html %}
+
+      </main>
+
+      <div class="main-image-col" style="background-image: url({{ page.image }})"></div>
+
+    </div>
+
+    <script>
+      $(".tiltshift-hamburger-link, .tiltshift-contact-button-link").click(function (e) {
+        e.preventDefault();
+        $(".tiltshift-hamburger-overlay").fadeIn(400, function () {
+          $("body").css({"position": "fixed", "width": "100%", "overflow-y": "scroll"});
+        });
+      });
+
+      $(".tiltshift-close-link").click(function (e) {
+        e.preventDefault();
+        $("body").css({"position": "relative", "width": "100%", "overflow-y": "auto"});
+        $(".tiltshift-hamburger-overlay")
+          .animate({scrollTop: "0"}, 150)
+          .fadeOut(400);
+      });
+    </script>
+
+  </body>
+</html>

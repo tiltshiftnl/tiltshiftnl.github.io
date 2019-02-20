@@ -1,0 +1,50 @@
+<div class="tiltshift-menu-page" data-component-id="tiltshift-menu-page">
+  <style>
+    .tiltshift-menu-page {
+      width: 100vw;
+      min-height: 100vh;
+      display: flex;
+      background: black;
+    }
+    .tiltshift-menu-page-wrapper {
+      display: flex;
+      margin: auto;
+    }
+    .tiltshift-close {
+      position: fixed;
+      top: 30px;
+      right: 40px;
+    }
+    .tiltshift-menu-page-layout-big-theme {
+      flex: 3;
+    }
+    .tiltshift-menu-page-layout-contact-info {
+      flex: 2;
+    }
+    .signature {
+      position: fixed;
+      bottom: 20px;
+      right: 20px;
+      width: 80px;
+    }
+    @media only screen and (max-width: 1200px) {
+      .tiltshift-menu-page-wrapper {
+        display: block;
+      }
+    }
+  </style>
+
+  {% include tiltshift-close.html %}
+
+  <div class="tiltshift-menu-page-wrapper">
+    <div class="tiltshift-menu-page-layout-big-theme">
+      {% include tiltshift-big-theme.html %}
+    </div>
+
+    <div class="tiltshift-menu-page-layout-contact-info">
+      {% include tiltshift-contact-info.html %}
+    </div>
+
+    <img src="/assets/img/tiltshift-signature-white.svg" class="signature">
+  </div>
+</div>
