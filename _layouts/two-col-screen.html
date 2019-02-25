@@ -93,6 +93,24 @@
 
           {% include tiltshift-menu.html %}
 
+        {% else %}
+
+          <div class="tiltshift-menu">
+            <style>
+              .tiltshift-menu a {
+                font-family: 'Roboto', sans-serif;
+                display: block;
+                padding: 15px 0;
+                font-weight: 500;
+                line-height: 1.2;
+                color: #3c3c3c;
+                font-size: 25px;
+                text-decoration: none;
+              }
+            </style>
+            <a href="./">← terug</a>
+          </div>
+
         {% endif %}
 
         {% include tiltshift-contact-button.html %}
