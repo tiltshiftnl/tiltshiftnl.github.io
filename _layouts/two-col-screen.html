@@ -121,6 +121,8 @@
 
     </div>
 
+    {% if site.enable_js_nav %}
+
     <script>
       $(".tiltshift-hamburger-link, .tiltshift-contact-button-link").click(function (e) {
         e.preventDefault();
@@ -137,6 +139,8 @@
           .fadeOut(400);
       });
     </script>
+
+    {% endif %}
 
   </body>
 </html>

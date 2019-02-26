@@ -7,12 +7,16 @@
 
     {% include tiltshift-menu-page.html %}
 
+    {% if site.enable_js_nav %}
+
     <script>
       $(".tiltshift-close-link").click(function (e) {
         e.preventDefault();
         window.history.go(-1);
       });
     </script>
+
+    {% endif %}
 
   </body>
 </html>
