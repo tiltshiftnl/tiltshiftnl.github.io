@@ -50,6 +50,19 @@
             .tiltshift-menu a {
               font-size: 25px !important;
             }
+            .header-image-placeholder {
+              background: url({{ page.image }}) center center no-repeat;
+              background-size: cover;
+              height: 400px;
+              margin: 0 -30px 0 -50px;
+              padding: 0 30px 0 50px;
+            }
+            .tiltshift-hamburger {
+              background: white;
+              opacity: 0.5;
+              padding: 8px;
+              border-radius: 8px;
+            }
           }
           @media only screen and (max-width: 475px) {
             .tiltshift-menu a {
@@ -81,9 +94,13 @@
           }
         </style>
 
-        {% include tiltshift-banner.html %}
+        <div class="header-image-placeholder">
 
-        {% include tiltshift-hamburger.html %}
+          {% include tiltshift-banner.html %}
+
+          {% include tiltshift-hamburger.html %}
+
+        </div>
 
         {% include tiltshift-title.html %}
 
