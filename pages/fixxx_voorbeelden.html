@@ -21,7 +21,7 @@ caption: 'Fixxx<sup>®</sup> Ideation "Schulddossier", Gemeente&nbsp;Amsterdam'
 
 {% for fixxx in site.fixxx %}
 <p>
-  <a href="/fixxx/makkelijke-markt">{{ fixxx.title }}</a><br>
+  <a href="{{ fixxx.permalink }}">{{ fixxx.title }}</a><br>
   {{ fixxx.subtitle }}<br>
   {% for label in fixxx.labels %}
   <span class="label">{{ label }}</span>
