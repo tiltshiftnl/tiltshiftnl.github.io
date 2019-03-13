@@ -1,13 +1,13 @@
 enable_js_nav: false
 url: https://www.tiltshift.nl
 collections:
-  explore:
-    output: true
+#  explore:
+#    output: true
   fixxx:
     output: true
-  design-sprint:
-    output: true
-  push:
-    output: true
-  labs:
-    output: true
+#  design-sprint:
+#    output: true
+#  push:
+#    output: true
+#  labs:
+#    output: true
