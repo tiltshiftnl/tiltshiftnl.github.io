@@ -3,26 +3,33 @@
     .tiltshift-contact-button {
       text-align: center;
     }
-    .tiltshift-contact-button button {
+    .tiltshift-contact-button a {
       font-family: 'Roboto', sans-serif;
       padding: 10px 15px;
-      border-radius: 80px;
-      background: #df4c44 url('/assets/img/phone.png') center center no-repeat;
-      background-size: 60%;
+      color: #aaa;
+      text-decoration: none;
       font-weight: 100;
       line-height: 1.2;
       font-size: 22px;
-      color: #fff;
-      border: 0;
-      cursor: pointer;
       margin-top: 84px;
       margin-bottom: 84px;
+      cursor: pointer;
+      display: block;
+    }
+    .tiltshift-contact-button button {
+      background: #df4c44 url('/assets/img/phone.png') center center no-repeat;
+      background-size: 60%;
+      border: 0;
       height: 56px;
       width: 56px;
+      border-radius: 56px;
       border-bottom: 2px solid #999;
+      vertical-align: middle;
+      margin-bottom: 20px;
     }
   </style>
   <a href="tel:+31207220207">
-    <button><!-- Bel direct! --></button>
+    <button></button><br>
+    Bel direct
   </a>
 </div>
