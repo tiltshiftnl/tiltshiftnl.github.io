@@ -146,7 +146,11 @@
                 text-decoration: none;
               }
             </style>
+            {% if page.backlink %}
+            <a href="{{ page.backlink }}">← terug</a>
+            {% else %}
             <a href="{{ site.url }}/">← terug</a>
+            {% endif %}
           </div>
 
         {% endif %}
