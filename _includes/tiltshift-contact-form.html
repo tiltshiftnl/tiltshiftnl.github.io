@@ -97,7 +97,7 @@
 <script>
   $("form").submit(function (e) {
     e.preventDefault();
-    $.post('http://berichten.tiltshift.nl', $(this).serialize(), function () {
+    $.post('https://berichten.tiltshift.nl', $(this).serialize(), function () {
       $("form").hide();
       $(".tiltshift-contact-form h2").html("Bedankt voor uw bericht");
       $(".tiltshift-contact-form p").html("We nemen snel contact met u op!");
