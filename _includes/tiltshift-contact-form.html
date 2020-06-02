@@ -66,9 +66,9 @@
       color: #3c3c3c;
     }
   </style>
-  <h2>Wat is uw probleem?</h2>
+  <h2>Meer weten{% if page.subject %} over {{ page.subject }}{% endif %}?</h2>
   <div class="tiltshift-content">
-  <p>We praten er graag een keer vrijblijvend over om te kijken hoe we u kunnen helpen. Laat een bericht achter, dan nemen we snel contact op.</p>
+  <p>We maken graag een (video)afspraak. Laat een bericht achter, dan nemen we snel contact op.</p>
   <form>
     <input type="hidden" name="pagina" value="{{ page.title }}">
     <div>
