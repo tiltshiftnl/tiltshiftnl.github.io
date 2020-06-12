@@ -1,7 +1,6 @@
 <div class="tiltshift-contact-form" data-component-id="tiltshift-contact-form">
   <style>
     .tiltshift-contact-form {
-      margin-top: 80px;
     }
     .tiltshift-contact-form form {
       display: block;
@@ -66,28 +65,28 @@
       color: #3c3c3c;
     }
   </style>
-  <h2>Meer weten{% if page.subject %} over {{ page.subject }}{% endif %}?</h2>
+  <h2>Aan de slag?</h2>
   <div class="tiltshift-content">
-  <p>We maken graag een (video)afspraak. Laat een bericht achter, dan nemen we snel contact op.</p>
+  <p>We helpen u graag. Laat een bericht achter, dan nemen we snel contact op voor een kosteloos intake- en adviesgesprek.</p>
   <form>
     <input type="hidden" name="pagina" value="{{ page.title }}">
     <div>
       <span>uw naam</span>
       <input type="text" name="voornaam" placeholder="...">
     </div>
-    <div>
+    <div style="display: none">
       <span>organisatie</span>
       <input type="text" name="achternaam" placeholder="...">
     </div>
-    <div>
+    <div style="display: none">
       <span>e-mailadres</span>
       <input type="text" name="email" placeholder="...">
     </div>
-    <div>
+    <div style="display: none">
       <span>telefoonnummer</span>
       <input type="text" name="telefoon" placeholder="...">
     </div>
-    <div>
+    <div style="display: none">
       <span>vraag of probleem</span>
       <textarea name="probleem" placeholder="..."></textarea>
     </div>
@@ -95,6 +94,9 @@
   </form>
 </div>
 <script>
+  $("input").focus(function () {
+    $("form div").show();
+  });
   $("form").submit(function (e) {
     e.preventDefault();
     $.post('https://berichten.tiltshift.nl', $(this).serialize(), function () {
