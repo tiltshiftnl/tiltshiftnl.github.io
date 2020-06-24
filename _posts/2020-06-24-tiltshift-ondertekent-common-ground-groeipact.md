@@ -17,7 +17,7 @@ Gedurende de afgelopen jaren hebben we veel en vaak met VNG (*Vereniging van Ned
 
 Toen we gevraagd werden om het Groeipact Common Ground te tekenen, was dat voor ons dan ook een no-brainer.
 
-Als design en innovatiebureau voor good public tech willen we niks liever dan samen software maken. Software die échte problemen oplost. Software die écht werkt voor mensen. Software die niet los staat van de organisatie, maar daar onderdeel van uitmaakt. Software die leeft.
+Als design en innovatiebureau voor *good public tech* willen we niets liever dan samen software maken. Software die échte problemen oplost. Software die écht werkt voor mensen. Software die niet los staat van de organisatie, maar daar onderdeel van uitmaakt. Software die leeft.
 
 In onze <a href="/fixxx">Fixxx trajecten</a> combineren we de architectuur van common ground daarom met design thinking aanpak. Op een probleemgedreven manier zijn we in staat om snel innovatieve toepassingen te maken die echt iets oplossen, zoals effectieve, gebruiksvriendelijke procestools voor ambtenaren op straat, en duidelijke, toegankelijke digitale diensten voor burgers en bedrijven. Daarop blijven we ons dan ook richten: probleemgedreven innovatie, en van daaruit samen software maken die écht werkt!
 
