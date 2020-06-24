@@ -11,7 +11,7 @@ author: Johan Groenen
 ---
 *{{ page.description }}*
 
-Data zo veel mogelijk bij de bron laten en deze daaruit realtime opvragen via *Application Programming Interfaces* (API's); een Agile manier van software ontwikkelen, waarbij iedere week een verbeterde versie van de software wordt opgeleverd aan de gebruikers; componentgebaseerde, open source applicaties maken &ldash; dat is hoe we bij TiltShift al sinds 2015 werken, en hoe we erin geslaagd zijn om Datalab Amsterdam tot een voorbeeld te maken van hoe je als gemeente innovatieve datagedreven toepassingen kan ontwikkelen.
+Data zo veel mogelijk bij de bron laten en deze daaruit realtime opvragen via *Application Programming Interfaces* (API's); een Agile manier van software ontwikkelen, waarbij iedere week een verbeterde versie van de software wordt opgeleverd aan de gebruikers; componentgebaseerde, open source applicaties maken &mdash; dat is hoe we bij TiltShift al sinds 2015 werken, en hoe we erin geslaagd zijn om Datalab Amsterdam tot een voorbeeld te maken van hoe je als gemeente innovatieve datagedreven toepassingen kan ontwikkelen.
 
 Gedurende de afgelopen jaren hebben we veel en vaak met VNG (*Vereniging van Nederlandse Gemeenten*) gesproken over onze manier van werken, de oplossingen die we hebben gerealiseerd, en hoe we deze naar meer gemeenten kunnen opschalen.
 
