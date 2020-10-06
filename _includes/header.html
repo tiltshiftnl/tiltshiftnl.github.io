@@ -38,7 +38,7 @@
       right: 40px;
       z-index: 100;
     }
-    .overlay {
+    .header-with-image-overlay {
       background: url({{ site.url }}/{{ page.image }}) center center no-repeat;
       background-size: cover;
       position: absolute;
@@ -48,6 +48,14 @@
       /*Shades of Cinnabar: https://www.htmlcsscolor.com/hex/E54545*/
       background-blend-mode: multiply;
       opacity: 0.3;
+    }
+    .header-with-image-overlay-black {
+      position: absolute;
+      top: 0;
+      width: 100%;
+      height: 100%;
+      background-color: #000;
+      opacity: 0.2;
     }
     @media screen and (max-width: 530px) {
       .header-with-image__caption__content,
@@ -82,7 +90,9 @@
     }
   </style>
 
-  <div class="overlay"></div>
+  <div class="header-with-image-overlay-black"></div>
+
+  <div class="header-with-image-overlay"></div>
 
   <div style="position: absolute; width: 100%; height: 100%;">
   
