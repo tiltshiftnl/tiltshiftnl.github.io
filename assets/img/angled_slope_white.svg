@@ -1,0 +1,10 @@
+<svg width="1024" height="108.79" version="1.1" viewBox="0 0 270.93 28.785" xmlns="http://www.w3.org/2000/svg">
+ <defs>
+  <clipPath id="clipPath1248">
+   <rect transform="rotate(-6)" x="2544" y="1134.3" width="3929.5" height="682.07" style="paint-order:markers fill stroke"/>
+  </clipPath>
+ </defs>
+ <g transform="translate(507.74 -43.742)">
+  <rect transform="matrix(.068571 .0072072 -.0072072 .068571 -683.15 -34.465)" x="2648.7" y="-291.02" width="3994" height="1153.2" clip-path="url(#clipPath1248)" fill="#fff" style="paint-order:markers fill stroke"/>
+ </g>
+</svg>

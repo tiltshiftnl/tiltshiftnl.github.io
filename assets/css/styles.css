@@ -1,0 +1,79 @@
+html, body {
+    margin: 0;
+    padding: 0;
+    min-height: 100%;
+    font-family: mr-eaves-modern, sans-serif;
+    font-size: 24px;
+    color: #1C1C1B;
+    background: #000;
+}
+
+h1, h2, h3 {
+    margin: 0 auto;
+    padding: 0;
+    max-width: 960px;
+}
+
+h1 {
+    font-family: HelveticaNeueLTPro-Bd, sans-serif;
+    font-weight: 700;
+    font-style: normal;
+    font-size: 2em;
+    line-height: 1em;
+    letter-spacing: -2px;
+    margin-bottom: 0.4em;
+}
+h2 {
+    font-family: 'Caveat', cursive;
+    font-weight: 500;
+    font-style: normal;
+    font-size: 1.4em;
+    line-height: 1em;
+}
+
+nav {
+    background: black;
+    padding: 10px 20px;
+    text-align: right;
+}
+
+nav a {
+    color: white;
+    font-size: 0.8em;
+    margin: 10px;
+}
+
+main {
+    background: #E54545;
+    color: #FFFFFF;
+    margin: 0 auto;
+    padding: 0 0.8em 2.4em;
+}
+
+main p {
+    margin: auto;
+    margin-bottom: 1em;
+    max-width: 960px;
+}
+
+main a {
+    color: inherit;
+}
+
+.page-menu a {
+    font-family: HelveticaNeueLTPro-Bd, sans-serif;
+    display: block;
+    padding: 15px 0;
+    color: inherit;
+    text-decoration: none;
+}
+
+@media screen and (max-width: 460px) {
+    h1 {
+        font-size: 1.5em;
+    }
+}
+@media screen and (max-width: 320px) {
+    h1 { font-size: 1.2em; }
+    h2 { font-size: 1em; }
+}

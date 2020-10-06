@@ -1,0 +1,40 @@
+/**
+ * @license
+ * MyFonts Webfont Build ID 3936974, 2020-08-18T05:52:32-0400
+ * 
+ * The fonts listed in this notice are subject to the End User License
+ * Agreement(s) entered into by the website owner. All other parties are 
+ * explicitly restricted from using the Licensed Webfonts(s).
+ * 
+ * You may obtain a valid license at the URLs below.
+ * 
+ * Webfont: Gilroy-ExtraBold by Radomir Tinkov
+ * URL: https://www.myfonts.com/fonts/radomir-tinkov/gilroy/extra-bold/
+ * Copyright: Copyright &amp;#x00A9; 2016 by Radomir Tinkov. All rights reserved.
+ * 
+ * Webfont: Northwell by Set Sail Studios
+ * URL: https://www.myfonts.com/fonts/set-sail-studios/northwell/reg/
+ * Copyright: Copyright (c) 2016 by Set Sail Studios. All rights reserved.
+ * 
+ * 
+ * 
+ * © 2020 MyFonts Inc
+*/
+
+
+/* @import must be at top of file, otherwise CSS will not work */
+@import url("//hello.myfonts.net/count/3c12ce");
+  
+@font-face {
+  font-family: 'Gilroy-ExtraBold';
+  src: url('webFonts/Gilroy-ExtraBold/font.woff2') format('woff2'), url('webFonts/Gilroy-ExtraBold/font.woff') format('woff');
+}
+@font-face {
+  font-family: 'Northwell';
+  src: url('webFonts/Northwell/font.woff2') format('woff2'), url('webFonts/Northwell/font.woff') format('woff');
+}
+@import url("//hello.myfonts.net/count/3c496e");
+@font-face {
+  font-family: 'HelveticaNeueLTPro-Bd';
+  src: url('webFonts/HelveticaNeueLTPro-Bd/font.woff2') format('woff2'), url('webFonts/HelveticaNeueLTPro-Bd/font.woff') format('woff');
+}

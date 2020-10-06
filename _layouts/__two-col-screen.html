@@ -1,0 +1,205 @@
+<!DOCTYPE html>
+<html style="min-height: 100%">
+
+  {% include head.html %}
+
+  <body style="margin: 0; padding: 0; font-size: 1em; min-height: 100%; background: url(/assets/img/tiltshift-bg-angled.svg) bottom right no-repeat;">
+
+    <div class="flex-wrapper">
+
+      <main class="main-content-col">
+
+        <style>
+          sup {
+            font-size: 0.6em;
+          }
+          .flex-wrapper {
+            display: flex;
+          }
+          .tiltshift-hamburger {
+            position: fixed;
+            top: 30px;
+            right: 40px;
+          }
+          .main-content-col {
+            width: 400px;
+            margin: 0 25px 0 50px;
+          }
+          .tiltshift-menu a {
+            font-size: 22px !important;
+          }
+          .main-content-col p {
+            /* text-align: justify; */
+          }
+          .main-image-col {
+            flex: auto;
+            background: black;
+            margin: 0 120px 0 25px;
+            background-position: center center;
+            background-repeat: no-repeat;
+            background-size: cover;
+            min-height: 100vh;
+            position: relative;
+          }
+          .image-caption {
+            position: absolute;
+            bottom: 0;
+            right: 0;
+            text-align: right;
+            color: white;
+            padding: 10px;
+            font-family: Roboto, Arial;
+            font-size: 0.9em;
+            display: block;
+            opacity: 0.75;
+          }
+          .header-image-placeholder .image-caption {
+            display: none;
+          }
+          .tiltshift-contact-button {
+            visibility: hidden;
+          }
+          @media only screen and (max-width: 800px) {
+            .main-image-col {
+              display: none;
+            }
+            .main-content-col {
+              width: 100%;
+            }
+            .tiltshift-menu a {
+              font-size: 25px !important;
+            }
+            .header-image-placeholder {
+              background: url({{ site.url }}/{{ page.image }}) center center no-repeat;
+              background-size: cover;
+              height: 400px;
+              margin: 0 -25px 0 -50px;
+              padding: 0 30px 0 50px;
+              position: relative;
+            }
+            .header-image-placeholder .image-caption {
+              display: block;
+            }
+            .tiltshift-banner-img {
+              margin-left: -10px;
+            }
+            .tiltshift-hamburger {
+              background: white;
+              opacity: 0.5;
+              padding: 8px;
+              border-radius: 8px;
+              top: 15px;
+              right: 32px;
+            }
+            .tiltshift-contact-button {
+              visibility: visible;
+            }
+          }
+          @media only screen and (max-width: 475px) {
+            .tiltshift-menu a {
+              font-size: 22px !important;
+            }
+          }
+          @media only screen and (max-width: 425px) {
+            .tiltshift-banner-img {
+              width: 70%;
+            }
+            .tiltshift-hamburger {
+              right: 20px;
+            }
+            .main-content-col {
+              margin: 0 25px 0 25px;
+            }
+            .tiltshift-title {
+              margin-top: 20px;
+            }
+            .tiltshift-title-text {
+              font-size: 28px !important;
+            }
+          }
+        </style>
+
+        <div class="header-image-placeholder">
+
+          <div class="image-caption">{{ page.caption }}</div>
+
+          <!-- {% include tiltshift-banner.html %} -->
+
+          {% include tiltshift-hamburger.html %}
+
+        </div>
+
+        <p style="font-family: mr-eaves-modern, serif;
+        font-weight: 300;
+        font-size: 24px;
+        line-height: 1.4;
+        color: #464646;
+        margin-bottom: 10px;">{{ page.description }}</p>
+
+        {% include tiltshift-title.html %}
+
+        {% include tiltshift-content.html %}
+
+        {% include tiltshift-contact-form.html %}
+
+        {% if page.menu %}
+
+          {% include tiltshift-menu.html %}
+
+        {% else %}
+
+          <div class="tiltshift-menu">
+            <style>
+              .tiltshift-menu a {
+                font-family: 'Roboto', sans-serif;
+                display: block;
+                padding: 15px 0;
+                font-weight: 500;
+                line-height: 1.2;
+                color: #3c3c3c;
+                font-size: 25px;
+                text-decoration: none;
+              }
+            </style>
+            {% if page.backlink %}
+            <a href="{{ page.backlink }}">← terug</a>
+            {% else %}
+            <a href="{{ site.url }}/">← terug</a>
+            {% endif %}
+          </div>
+
+        {% endif %}
+
+        {% include tiltshift-contact-button.html %}
+
+      </main>
+
+      <div class="main-image-col" style="background-image: url({{ site.url }}/{{ page.image }})">
+        <div class="image-caption">{{ page.caption }}</div>
+      </div>
+
+    </div>
+
+    {% if site.enable_js_nav %}
+
+    <script>
+      $(".tiltshift-hamburger-link, .tiltshift-contact-button-link").click(function (e) {
+        e.preventDefault();
+        $(".tiltshift-hamburger-overlay").fadeIn(400, function () {
+          $("body").css({"position": "fixed", "width": "100%", "overflow-y": "scroll"});
+        });
+      });
+
+      $(".tiltshift-close-link").click(function (e) {
+        e.preventDefault();
+        $("body").css({"position": "relative", "width": "100%", "overflow-y": "auto"});
+        $(".tiltshift-hamburger-overlay")
+          .animate({scrollTop: "0"}, 150)
+          .fadeOut(400);
+      });
+    </script>
+
+    {% endif %}
+
+  </body>
+</html>
