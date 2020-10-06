@@ -1,5 +1,5 @@
 ---
-layout: two-col-screen
+layout: default
 subject: Information Radiator
 title: "Information Radiator"
 description: Van de nieuwe concepten die ik de laatste jaren heb leren kennen is één van mijn favorieten de \"information radiator\".

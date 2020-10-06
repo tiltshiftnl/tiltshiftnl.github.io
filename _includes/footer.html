@@ -1,8 +1,42 @@
-<footer>
+<div class="tiltshift-2020-image-socials-block" data-component-id="tiltshift-2020-image-block">
   <style>
-    footer {
-      margin-bottom: 100px;
+    .tiltshift-2020-image-socials-block {
+      background: url(/assets/img/foto/geldersekade.png) center center no-repeat;
+      background-size: cover;
+      height: 30vw;
+      position: relative;
+      min-height: 18em;
+    }
+    .tiltshift-2020-image-block-caption {
+      position: absolute;
+      left: 0;
+      right: 0;
+      margin: auto;
+      bottom: 40px;
+      text-align: center;
+      color: white;
+    }
+    .tiltshift-2020-image-socials-block-overlay {
+      background: url(/assets/img/foto/geldersekade.png) center center no-repeat;
+      background-size: cover;
+      position: absolute;
+      top: 0;
+      width: 100%;
+      height: 100%;
+      background-color: #1E0909;
+      /*Shades of Cinnabar: https://www.htmlcsscolor.com/hex/E54545*/
+      background-blend-mode: multiply;
+      opacity: 0.8;
     }
   </style>
 
-</footer>
+  <div class="tiltshift-2020-image-socials-block-overlay"></div>
+
+  <div style="position: absolute; width: 100%; height: 100%;">
+    <div class="tiltshift-2020-image-block-caption">
+      {% include page-menu.html %}
+    </div>
+  </div>
+
+  <img src="/assets/img/angled_slope_red.svg" style="width:100%; position: absolute;">
+</div>

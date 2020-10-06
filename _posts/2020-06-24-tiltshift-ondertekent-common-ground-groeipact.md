@@ -1,5 +1,5 @@
 ---
-layout: two-col-screen
+layout: default
 subject: common ground
 title: TiltShift ondertekent Common Ground Groeipact
 description: "De manier waarop wij werken is uitgegroeid tot dé manier waarop gemeenten samen software willen maken. Dat is tof! Het was voor ons dan ook logisch om Common Ground partner te worden."
