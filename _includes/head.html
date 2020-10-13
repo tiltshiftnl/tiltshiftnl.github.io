@@ -10,9 +10,9 @@
   <meta name="twitter:site" content="@tiltshiftnl" />
   <meta name="twitter:creator" content="@jpagroenen" />
 
-  <meta name='title' content='{{ page.title }}'>
-  <meta name="twitter:title" content="{{ page.title }}" />
-  <meta property='og:title' content='{{ page.title }}'>
+  <meta name='title' content='{{ page.title | replace: "<br>", " " }}'>
+  <meta name="twitter:title" content="{{ page.title | replace: "<br>", " " }}" />
+  <meta property='og:title' content='{{ page.title | replace: "<br>", " " }}'>
 
   <meta property='og:description' content='{{ page.description }}'>
   <meta name="twitter:description" content="{{ page.description }}" />
