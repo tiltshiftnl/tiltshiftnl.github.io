@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   id="svg11"
+   viewBox="0 0 270.93 28.785"
+   version="1.1"
+   height="108.79"
+   width="1024">
+  <metadata
+     id="metadata15">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs5">
+    <clipPath
+       id="clipPath1248">
+      <rect
+         id="rect2"
+         style="paint-order:markers fill stroke"
+         height="682.07"
+         width="3929.5"
+         y="1134.3"
+         x="2544"
+         transform="rotate(-6)" />
+    </clipPath>
+  </defs>
+  <g
+     style="fill:#e54545"
+     id="g9"
+     transform="rotate(-180,-118.40524,36.266295)">
+    <rect
+       id="rect7"
+       style="fill:#e54546;paint-order:markers fill stroke"
+       clip-path="url(#clipPath1248)"
+       height="1153.2"
+       width="3994"
+       y="-291.01999"
+       x="2648.7"
+       transform="matrix(0.068571,0.0072072,-0.0072072,0.068571,-683.15,-34.465)" />
+  </g>
+</svg>

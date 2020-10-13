@@ -1,13 +1,18 @@
-enable_js_nav: false
-url: https://www.tiltshift.nl
 collections:
-#  explore:
-#    output: true
-  fixxx:
+  diensten:
     output: true
-#  design-sprint:
+    permalink: /:collection/:name/
+    order:
+      - advies.html
+      - innovatie.html
+      - apps.html
+      - labs.html
+#  methodes:
 #    output: true
-#  push:
+#    permalink: /:collection/:name/
+  projecten:
+    output: true
+    permalink: /:collection/:name/
+#  materialen:
 #    output: true
-#  labs:
-#    output: true
+#    permalink: /:collection/:name/

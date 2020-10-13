@@ -1,0 +1,19 @@
+<header>{% include header.html %}</header>
+
+<main>
+
+{% if page.back %}
+<p><a href="{{ page.back }}">« naar {{ page.collection }}overzicht</a></p>
+{% endif %}
+
+{% if page.type %}
+<h2>{{ page.type }}:</h2>
+{% endif %}
+
+<h1>{% if page.type %}&emsp;{% endif %}{{ page.title }}</h1>
+
+{{ content }}
+
+</main>
+
+<footer>{% include footer.html %}</footer>

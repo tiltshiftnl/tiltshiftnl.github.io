@@ -1,5 +1,4 @@
-<a href="{{ site.url }}/innovatie">design en innovatie</a>
-<a href="{{ site.url }}/apps">onderhoud van apps</a>
-<a href="{{ site.url }}/advies">advies en begeleiding</a>
-<a href="{{ site.url }}/labs">innovatielabs</a>
-<a href="{{ site.url }}/peeps">onze mensen</a>
+{% for dienst in site.diensten %}
+    <a href="{{ dienst.url }}">{{ dienst.title}}</a>
+{% endfor %}
+<a href="{{ site.url }}/good-public-tech">Good Public Tech</a>
