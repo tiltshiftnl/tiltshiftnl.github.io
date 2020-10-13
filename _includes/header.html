@@ -60,36 +60,6 @@
       background-color: #000;
       opacity: 0.2;
     }
-    @media screen and (max-width: 530px) {
-      .header-with-image__caption__content,
-      .header-with-image__caption__background {
-        font-size: 0.85em;
-      }
-    }
-    @media screen and (max-width: 340px) {
-      .header-with-image__caption__content,
-      .header-with-image__caption__background {
-        font-size: 0.75em;
-      }
-    }
-    @media screen and (min-width: 840px) {
-      .header-with-image__caption__content,
-      .header-with-image__caption__background {
-        font-size: 1.2em;
-      }
-    }
-    @media screen and (min-width: 1400px) {
-      .header-with-image__caption__content,
-      .header-with-image__caption__background {
-        font-size: 1.6em;
-      }
-    }
-    @media screen and (min-width: 1740px) {
-      .header-with-image__caption__content,
-      .header-with-image__caption__background {
-        font-size: 2.4em;
-      }
-    }
   </style>
 
   <div class="header-with-image-overlay-black"></div>
@@ -108,7 +78,21 @@
       <div class="header-with-image__caption__background">{{ page.subtitle }}</div>
       <div class="header-with-image__caption__content">{{ page.subtitle }}</div>
     </div>
+
     
-    <div class="slope slope--flip"></div>
+    <div class="slope slope--flip">
+      <style>
+        .image_caption {
+          color: white;
+          font-family: 'mr-eaves-modern';
+          font-size: 0.5em;
+          position: absolute;
+          right: 40px;
+          bottom: 40px;
+          text-align: right;
+        }
+      </style>
+      <div class="image_caption">{{ page.caption }}</div>
+    </div>
   </div>
 </div>

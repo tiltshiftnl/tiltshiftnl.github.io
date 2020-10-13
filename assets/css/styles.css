@@ -3,7 +3,7 @@ html, body {
     padding: 0;
     min-height: 100%;
     font-family: mr-eaves-modern, sans-serif;
-    font-size: 24px;
+    font-size: 14px;
     color: #1C1C1B;
     background: #000;
 }
@@ -96,12 +96,12 @@ main a {
     bottom: 0;
 }
 
-@media screen and (max-width: 460px) {
-    h1 {
-        font-size: 1.5em;
-    }
+@media screen and (min-width: 320px) {
+    html, body { font-size: 18px }
 }
-@media screen and (max-width: 320px) {
-    h1 { font-size: 1.2em; }
-    h2 { font-size: 1em; }
+@media screen and (min-width: 640px) {
+    html, body { font-size: 24px }
+}
+@media screen and (min-width: 1280px) {
+    html, body { font-size: 40px }
 }
