@@ -16,3 +16,9 @@ collections:
 #  materialen:
 #    output: true
 #    permalink: /:collection/:name/
+#  peeps:
+#    output: true
+#    permalink: /:collection/:name/
+#  good-public-tech:
+#    output: true
+#    permalink: /:collection/:name/
