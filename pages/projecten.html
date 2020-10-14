@@ -33,6 +33,9 @@ caption: 'Fixxx Ideation "Schulddossier", Gemeente&nbsp;Amsterdam'
 <h1><a href="{{ project.url }}">{{ project.title }}</a></h1>
 <p>
   {{ project.subtitle }}<br>
+  {% if project.type %}
+  <span class="label">{{ project.type | downcase }}</span>
+  {% endif %}
   {% for label in project.labels %}
   <span class="label">{{ label }}</span>
   {% endfor %}
