@@ -1,21 +1,13 @@
 collections:
-  pages:
-    output: true
-    permalink: /:name/
   diensten:
     output: true
-    permalink: /:collection/:name/
-    order:
-      - advies.html
-      - innovatie.html
-      - apps.html
-      - labs.html
+    permalink: /:collection/:name
   methodes:
     output: true
-    permalink: /:collection/:name/
+    permalink: /:collection/:name
   projecten:
     output: true
-    permalink: /:collection/:name/
+    permalink: /:collection/:name
 #  materialen:
 #    output: true
 #    permalink: /:collection/:name/
