@@ -1,13 +1,13 @@
 collections:
   diensten:
     output: true
-    permalink: /:collection/:name
+    permalink: /:collection/:name/
   methodes:
     output: true
-    permalink: /:collection/:name
+    permalink: /:collection/:name/
   projecten:
     output: true
-    permalink: /:collection/:name
+    permalink: /:collection/:name/
 #  materialen:
 #    output: true
 #    permalink: /:collection/:name/
