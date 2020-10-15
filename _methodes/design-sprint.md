@@ -4,7 +4,7 @@ layout: default--blue
 title: Design Sprint
 subtitle: Van probleem naar concept in 5 dagen.
 description: In een traject van vijf dagen gaat een designteam van Tiltshift in co-creatie met uitvoerenden van probleem naar getoetst concept.
-labels: [design]
+labels: [concept design]
 
 image: /assets/img/foto/IMG_9177_scaled.JPG
 caption: 'Design Sprint "Evenemententoezicht", Gemeente&nbsp;Amsterdam'
