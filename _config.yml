@@ -1,4 +1,7 @@
 collections:
+  pages:
+    output: true
+    permalink: /:name/
   diensten:
     output: true
     permalink: /:collection/:name/
@@ -7,9 +10,9 @@ collections:
       - innovatie.html
       - apps.html
       - labs.html
-#  methodes:
-#    output: true
-#    permalink: /:collection/:name/
+  methodes:
+    output: true
+    permalink: /:collection/:name/
   projecten:
     output: true
     permalink: /:collection/:name/

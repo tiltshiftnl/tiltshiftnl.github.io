@@ -75,8 +75,13 @@
     </a>
 
     <div class="header-with-image__caption">
-      <div class="header-with-image__caption__background">{{ page.subtitle }}</div>
-      <div class="header-with-image__caption__content">{{ page.subtitle }}</div>
+      {% if page.quote %}
+        <div class="header-with-image__caption__background">“{{ (page.quote }}”</div>
+        <div class="header-with-image__caption__content">“{{ (page.quote }}”</div>
+      {% else %}
+        <div class="header-with-image__caption__background">{{ (page.subtitle }}</div>
+        <div class="header-with-image__caption__content">{{ (page.subtitle }}</div>
+      {% endif %}
     </div>
 
     

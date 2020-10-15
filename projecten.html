@@ -1,0 +1,42 @@
+---
+layout: default
+
+subject: Tiltshift projecten
+title: Tiltshift projecten
+subtitle: Probleemgedreven innovatie begint en eindigt met de mens. Focus op het probleem, en laat de techniek volgen. Zo ontstaat een oplossing.
+
+description: "In ieder Tiltshift project gaan we op zoek naar het probleem achter de software-wens, op basis van software design thinking. Een aantal stappen staan daarbij vast: discovery, ideation, development, delivery."
+keywords: ""
+
+image: "assets/img/foto/IMG_8562.jpg"
+caption: 'Fixxx Ideation "Schulddossier", Gemeente&nbsp;Amsterdam'
+---
+<p>Om succesvol nieuwe software te ontwikkelen, is het belangrijk om goed te bedenken welk probleem je daarmee eigenlijk aan het oplossen bent en voor wie.</p>
+
+<p>{{ page.description }}</p>
+
+<p>Hoe dat er in de praktijk uit ziet hebben we in onderstaande cases beschreven.</p>
+
+<style>
+  .label {
+    display: inline-block;
+    background: #f4b4b4;
+    padding: 0 4px;
+    font-size: 0.7em;
+    color: #1C1C1B;
+    border-radius: 0.2em;
+  }
+</style>
+
+{% for project in site.projecten %}
+<h1><a href="{{ project.url }}">{{ project.title }}</a></h1>
+<p>
+  {{ project.description }}<br>
+  {% if project.type %}
+  <span class="label">{{ project.type | downcase }}</span>
+  {% endif %}
+  {% for label in project.labels %}
+  <span class="label">{{ label }}</span>
+  {% endfor %}
+</p>
+{% endfor %}

@@ -22,7 +22,7 @@
   <meta name="twitter:image" content="{{ page.image }}" />
   <link rel='image_src' href='{{ page.image }}'>
 
-  <meta name='keywords' content='{{ page.keywords }}'>
+  <meta name='keywords' content='{{ (page.labels | join: ", ") | default: page.keywords }}'>
 
   <link rel="stylesheet" href="https://use.typekit.net/tzf0mdq.css">
   <link rel="stylesheet" type="text/css" href="/assets/fonts/TILTSHIFT.css">

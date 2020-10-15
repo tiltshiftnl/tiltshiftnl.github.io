@@ -1,0 +1,36 @@
+---
+layout: default--blue
+
+subject: Materialen
+backlink: /
+title: "Materialen"
+subtitle: Ontwerp innovatie
+
+description: "Materialen ter ondersteuning de verschillende Tiltshift diensten. Alle materialen zijn vrij te gebruiken onder Creative Commons licentie CC BY-SA Tiltshift (www.tiltshift.nl)."
+keywords: ""
+
+image: "assets/img/foto/IMG_8562.jpg"
+caption: 'Fixxx Ideation "Schulddossier", Gemeente&nbsp;Amsterdam'
+---
+<p>{{ page.description }}</p>
+
+<style>
+  .label {
+    display: inline-block;
+    background: #b4b4f4;
+    padding: 0 4px;
+    font-size: 0.7em;
+    color: #1C1C1B;
+    border-radius: 0.2em;
+  }
+</style>
+
+{% for materiaal in site.materialen %}
+<p>
+  <a href="{{ materiaal.url }}">{{ materiaal.title }}</a><br>
+  {{ materiaal.description }}<br>
+  {% for label in materiaal.labels %}
+  <span class="label">{{ label }}</span>
+  {% endfor %}
+</p>
+{% endfor %}

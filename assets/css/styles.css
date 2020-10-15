@@ -31,6 +31,9 @@ h2 {
     font-size: 1.4em;
     line-height: 1em;
 }
+h3 {
+    font-family: HelveticaNeueLTPro-Bd, sans-serif;
+}
 
 nav {
     background: black;
@@ -47,12 +50,15 @@ nav a {
 main {
     background: #E54545;
     color: #FFFFFF;
-    margin: 0 auto;
-    padding: 0 0.8em 2.4em;
+    padding: 1px 0;
 }
 
 .body--variant-blue main {
     background: #4545E5;
+}
+
+main h1, h2, h3, p {
+    padding: 0 20px;
 }
 
 main p {
@@ -63,6 +69,10 @@ main p {
 
 main a {
     color: inherit;
+}
+
+.article-image {
+    background: url() center center no-repeat; background-size: cover; height: 40vw; position: relative
 }
 
 .page-menu a {
