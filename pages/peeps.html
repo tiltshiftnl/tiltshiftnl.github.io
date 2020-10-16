@@ -1,5 +1,6 @@
 ---
 layout: default
+variant: white
 permalink: /peeps/
 
 subject: good public tech
@@ -19,3 +20,37 @@ menu: show
 <p>In 2015 stonden we aan de wieg van Datalab Amsterdam, onder gemeenten hét voorbeeld op het gebied van innovatie in datagedreven werken. Met een team ruim 40 experts op het gebied van design, development, en veranderkunde werken we probleemgedreven aan oplossingen voor betere publieke diensten. Dat doen we door handige software te maken, samen met de mensen waar het om draait: op de werkvloer, aan het bed, en op straat.</p>
 
 <p>Onze methodieken benaderen innovatie (en digitale transformatie) op een holistische, en toch praktische manier: door stapsgewijs kleine aanpassingen te maken in organisatie, processen en software zoeken we continu de grens op van haalbare verandering.</p>
+
+
+<style>
+    .label {
+      display: inline-block;
+      background: #f4b4b4;
+      padding: 0 4px;
+      font-size: 0.7em;
+      color: #1C1C1B;
+      border-radius: 0.2em;
+    }
+    .pasfoto {
+        -webkit-box-shadow: 0px 0px 10px 0px rgba(0,0,0,0.7);
+        -moz-box-shadow: 0px 0px 10px 0px rgba(0,0,0,0.7);
+        box-shadow: 0px 0px 10px 0px rgba(0,0,0,0.7);
+        transform: rotate(-1deg);
+        height: 320px;
+        float: right; border: 20px solid white; margin: 20px;
+    }
+  </style>
+
+{% for person in site.peeps %}
+<p>
+  <a href="{{ person.url }}">{{ person.title }}</a><br>
+  <img class="pasfoto" src="{{ person.image }}">
+  {{ person.description }}<br>
+  {% if person.type %}
+  <span class="label">{{ person.type | downcase }}</span>
+  {% endif %}
+  {% for label in person.labels %}
+  <span class="label">{{ label }}</span>
+  {% endfor %}
+</p>
+{% endfor %}

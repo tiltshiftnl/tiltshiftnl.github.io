@@ -1,5 +1,6 @@
 ---
-layout: default--blue
+layout: default
+variant: blue
 
 title: Fixxx
 subtitle: Snelle innovatie die werkt

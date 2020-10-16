@@ -1,0 +1,25 @@
+.body--variant-blue main {
+    background: #4545E5;
+}
+.body--variant-blue .slope {
+    background: url(/assets/img/angled_slope_blue.svg) top left no-repeat;
+    background-size: cover;
+}
+.body--variant-blue .slope--flip {
+    background: url(/assets/img/angled_slope_blue--flip.svg) top left no-repeat;
+    background-size: cover;
+    bottom: 0;
+}
+.body--variant-white main {
+    background: #fff;
+    color: #1C1C1B;
+}
+.body--variant-white .slope {
+    background: url(/assets/img/angled_slope_white.svg) top left no-repeat;
+    background-size: cover;
+}
+.body--variant-white .slope--flip {
+    background: url(/assets/img/angled_slope_white--flip.svg) top left no-repeat;
+    background-size: cover;
+    bottom: 0;
+}

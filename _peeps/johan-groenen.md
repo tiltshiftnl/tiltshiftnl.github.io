@@ -2,14 +2,14 @@
 layout: default
 variant: white
 
-title: "Joris Boeren"
+title: "Johan Groenen"
 description: Op de Amsterdamse straatmarkten worden de plaatsen verdeeld op basis van heel veel regels. Maar gaat dit wel eerlijk en transparant? En kost het niet teveel tijd? Tiltshift organiseerde digitale innovatie op de straatmarkten van Amsterdam.
 quote: Ik ga pas naar de veiling als ik zeker weet dat ik een kraam krijg.
 type: Managing Partner
 keywords:
-labels: [programma management, agile, team coaching, mediation]
+labels: [open innovatie, lean startup, strategie, informatica]
 
-image: /assets/img/foto/peeps/joris-boeren.png
+image: /assets/img/foto/peeps/johan-groenen.png
 
 back: ..
 ---

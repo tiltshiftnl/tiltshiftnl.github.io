@@ -1,5 +1,6 @@
 ---
-layout: default--blue
+layout: default
+variant: blue
 
 title: Push
 subtitle: 

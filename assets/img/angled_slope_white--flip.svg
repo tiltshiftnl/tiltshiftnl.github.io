@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="1024"
+   height="108.79"
+   version="1.1"
+   viewBox="0 0 270.93 28.785"
+   id="svg11"
+   sodipodi:docname="angled_slope_white--flip.svg"
+   inkscape:version="0.92.4 (5da689c313, 2019-01-14)">
+  <metadata
+     id="metadata15">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1405"
+     inkscape:window-height="657"
+     id="namedview13"
+     showgrid="false"
+     inkscape:zoom="0.32226562"
+     inkscape:cx="186.18182"
+     inkscape:cy="54.395"
+     inkscape:window-x="2091"
+     inkscape:window-y="251"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg11" />
+  <defs
+     id="defs5">
+    <clipPath
+       id="clipPath1248">
+      <rect
+         transform="rotate(-6)"
+         x="2544"
+         y="1134.3"
+         width="3929.5"
+         height="682.07"
+         style="paint-order:markers fill stroke"
+         id="rect2" />
+    </clipPath>
+  </defs>
+  <g
+     transform="rotate(-180,-118.40524,36.266295)"
+     id="g9">
+    <rect
+       transform="matrix(0.068571,0.0072072,-0.0072072,0.068571,-683.15,-34.465)"
+       x="2648.7"
+       y="-291.01999"
+       width="3994"
+       height="1153.2"
+       clip-path="url(#clipPath1248)"
+       style="fill:#ffffff;paint-order:markers fill stroke"
+       id="rect7" />
+  </g>
+</svg>

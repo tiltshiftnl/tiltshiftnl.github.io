@@ -3,7 +3,7 @@
 
   {% include head.html %}
 
-  <body>
+  <body class="{% if page.variant %}body--variant-{{ page.variant }}{% endif %}">
 
     {% include body-content.html %}
 
