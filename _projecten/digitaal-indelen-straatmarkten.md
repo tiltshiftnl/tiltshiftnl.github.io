@@ -13,7 +13,7 @@ caption: 'Design Sprint "Digitaal Indelen Straatmarkten", Gemeente&nbsp;Amsterda
 
 back: ..
 ---
-Op de ruim vijfentwintig Amsterdamse markten krijgen de kooplieden een kraam op basis van anciënniteit en heel veel aanvullende regels. Die aanvullende regels zijn zo complex dat het voor de marktmeesters van de gemeente knap ingewikkeld is om de kramen ’s-ochtens eerlijk te verdelen. Al helemaal in een omgeving waar niemand op zijn mondje gevallen is.
+Op de ruim vijfentwintig Amsterdamse markten krijgen de kooplieden een kraam op basis van anciënniteit en heel veel aanvullende regels. Die aanvullende regels zijn zo complex dat het voor de marktmeesters van de gemeente knap ingewikkeld is om de kramen ’s-ochtens eerlijk te verdelen. Al helemaal in een omgeving waar niemand op zijn mondje gevallen is. 
 
 Het marktbureau van Amsterdam maakte zich zorgen over de eerlijkheid en de transparantie van de indeling van de markt. En over de daaraan gepaarde tekorten aan marktmeesters in de middag. Want veel aandacht van de marktmeesters gaat uit naar de indeling waardoor er in de middag regelmatig niemand beschikbaar was toezicht te houden op de markt.
 
