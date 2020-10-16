@@ -23,7 +23,7 @@ In de ideation maakte het team in co-creatie met marktmedewerkers en kooplieden 
 
 Bij de realisatie waren er twee onverwachte uitdagingen. Zo bleek de marktverordening, met daarin alle regels, niet op elke markt hetzelfde toegepast te worden. Veel details van een markt bleken vooral in de hoofden van de ervaren medewerkers te zitten. Denk daarbij aan de opstelling van de kramen, de situatie op straat, de eigenschappen van een kraam zoals branchering én sommige heel oude rechten van kooplieden.
 
-<div class="article-image" style="background-image: url(/assets/img/foto/IMG_9834 2.JPG)">
+<div class="article-image" style="background-image: url(/assets/img/foto/IMG_9834_2.JPG)">
     <div class="slope"></div>
     <div class="slope slope--flip"></div>
 </div>
