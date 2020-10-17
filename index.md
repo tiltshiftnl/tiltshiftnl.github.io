@@ -23,17 +23,6 @@ Tiltshift vertrekt vanuit deze problemen. We gebruiken software design thinking 
 <!-- probleemgedreven innovatie -->
 <!-- human centered design -->
 
-<style>
-    .label {
-      display: inline-block;
-      background: #f4b4b4;
-      padding: 0 4px;
-      font-size: 0.7em;
-      color: #1C1C1B;
-      border-radius: 0.2em;
-    }
-  </style>
-
 {% assign collection = site.diensten | sort: 'order' %}
 {% for item in collection %}
 <h1><a href="{{ item.url }}">{{ item.title }}</a></h1>
