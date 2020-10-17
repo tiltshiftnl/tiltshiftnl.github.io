@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html>
+
+  {% include head.html %}
+
+  <body class="{% if page.variant %}body--variant-{{ page.variant }}{% endif %}">
+
+    {% include body-content.html %}
+
+  </body>
+
+</html>

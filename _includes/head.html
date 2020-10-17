@@ -1,30 +1,34 @@
 <head>
   <meta charset="utf-8">
-  <title>{{ page.title }}</title>
+  <title>{{ page.title | replace: "<br>", " " }}</title>
 
   <meta name="viewport" content="width=device-width, initial-scale=1">
 
-  <link rel='icon' type='image/png' href='{{ site.url }}/favicon.png'>
+  <link rel='icon' type='image/png' href='/favicon.svg'>
 
   <meta name="twitter:card" content="summary_large_image" />
-  <meta name="twitter:site" content="@TiltShiftNL" />
+  <meta name="twitter:site" content="@tiltshiftnl" />
   <meta name="twitter:creator" content="@jpagroenen" />
 
-  <meta name='title' content='{{ page.title }}'>
-  <meta name="twitter:title" content="{{ page.title }}" />
-  <meta property='og:title' content='{{ page.title }}'>
+  <meta name='title' content='{{ page.title | replace: "<br>", " " }}'>
+  <meta name="twitter:title" content="{{ page.title | replace: "<br>", " " }}" />
+  <meta property='og:title' content='{{ page.title | replace: "<br>", " " }}'>
 
   <meta property='og:description' content='{{ page.description }}'>
   <meta name="twitter:description" content="{{ page.description }}" />
   <meta name='description' content='{{ page.description }}'>
 
-  <meta property='og:image' content='{{ site.url }}/{{ page.image }}'>
-  <meta name="twitter:image" content="{{ site.url }}/{{ page.image }}" />
-  <link rel='image_src' href='{{ site.url }}/{{ page.image }}'>
+  <meta property='og:image' content='{{ page.image }}'>
+  <meta name="twitter:image" content="{{ page.image }}" />
+  <link rel='image_src' href='{{ page.image }}'>
 
-  <meta name='keywords' content='{{ page.keywords }}'>
+  <meta name='keywords' content='{{ (page.labels | join: ", ") | default: page.keywords }}'>
 
-  <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Merriweather:300,400%7CRoboto:300,400,500,700,900" media="all">
+  <link rel="stylesheet" href="https://use.typekit.net/tzf0mdq.css">
+  <link rel="stylesheet" type="text/css" href="/assets/fonts/TILTSHIFT.css">
+  <link href="https://fonts.googleapis.com/css2?family=Caveat&display=swap" rel="stylesheet">
+  <link rel="stylesheet" type="text/css" href="/assets/css/styles.css">
+  <link rel="stylesheet" type="text/css" href="/assets/css/variants.css">
 
   <script
     src="https://code.jquery.com/jquery-3.3.1.min.js"

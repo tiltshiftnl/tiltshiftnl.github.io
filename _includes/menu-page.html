@@ -1,0 +1,65 @@
+<div class="menu-page" data-component-id="menu-page">
+  <style>
+    .menu-page {
+      width: 100vw;
+      min-height: 100vh;
+      display: flex;
+      background:#1C1C1B;
+    }
+    .menu-page-wrapper {
+      display: flex;
+      margin: auto;
+      padding-top: 150px;
+    }
+    .menu-close {
+      position: fixed;
+      top: 25px;
+      right: 35px;
+    }
+    .menu-page-layout-big-theme {
+    }
+    .menu-page-layout-contact-info {
+    }
+    .signature {
+      position: fixed;
+      bottom: 20px;
+      right: 20px;
+      width: 80px;
+    }
+    @media only screen and (max-width: 1200px) {
+      .menu-page-wrapper {
+        display: block;
+      }
+    }
+    @media only screen and (max-width: 640px) {
+      .menu-page-wrapper {
+        margin-left: 50px;
+      }
+    }
+    @media only screen and (max-width: 400px) {
+      .menu-page-wrapper {
+        margin-left: 25px;
+      }
+    }
+    @media only screen and (min-width: 1200px) {
+      .menu-page-layout-big-theme {
+        margin-right: 80px;
+      }
+    }
+  </style>
+  <a href="/" style="position: absolute; top: 0; left: 0">
+    <img class="logo" src="/assets/img/Logo_transparant.svg" style="width: 120px; height: 120px">
+  </a>
+
+  {% include menu-close.html %}
+
+  <div class="menu-page-wrapper">
+    <div class="menu-page-layout-big-theme">
+      {% include big-theme.html %}
+    </div>
+
+    <div class="menu-page-layout-contact-info">
+      {% include contact-info.html %}
+    </div>
+  </div>
+</div>

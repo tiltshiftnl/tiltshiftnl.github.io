@@ -1,0 +1,105 @@
+html, body {
+    margin: 0;
+    padding: 0;
+    min-height: 100%;
+    font-family: mr-eaves-modern, sans-serif;
+    font-size: 14px;
+    color: #1C1C1B;
+    background: #000;
+}
+
+h1 {
+    font-family: HelveticaNeueLTPro-Bd, sans-serif;
+    font-weight: 700;
+    font-style: normal;
+    font-size: 2em;
+    line-height: 1em;
+    letter-spacing: -2px;
+    margin-bottom: 0.4em;
+    padding-top: 0.2em;
+}
+h2 {
+    font-family: 'Caveat', cursive;
+    font-weight: 500;
+    font-style: normal;
+    font-size: 1.4em;
+    line-height: 1em;
+}
+h3 {
+    font-family: HelveticaNeueLTPro-Bd, sans-serif;
+}
+
+nav {
+    background: black;
+    padding: 10px 20px;
+    text-align: right;
+}
+
+nav a {
+    color: white;
+    font-size: 0.8em;
+    margin: 10px;
+}
+main { background: #E54545; color: #FFFFFF; padding: 1px 0 }
+main h1,
+main h2,
+main h3,
+main p,
+main ul { margin: 0 auto; padding: 0 20px; max-width: 960px }
+main p { margin-bottom: 1em }
+main li { margin-left: 40px }
+main a { color: inherit }
+
+.label {
+    margin: 0 3px;
+    display: inline-block;
+    background: #f4b4b4;
+    padding: 0 4px;
+    font-size: 0.7em;
+    color: #1C1C1B;
+    border-radius: 0.2em;
+}
+
+/*.pasfoto {
+    -webkit-box-shadow: 0px 0px 10px 0px rgba(0,0,0,0.7);
+    -moz-box-shadow: 0px 0px 10px 0px rgba(0,0,0,0.7);
+    box-shadow: 0px 0px 10px 0px rgba(0,0,0,0.7);
+    transform: rotate(-1deg);
+    height: 320px;
+    float: right; border: 20px solid white; margin: 20px;
+}*/
+
+.article-image {
+    background: url() center center no-repeat; background-size: cover; height: 40vw; position: relative
+}
+
+.page-menu a {
+    font-family: HelveticaNeueLTPro-Bd, sans-serif;
+    display: block;
+    padding: 15px 0;
+    color: inherit;
+    text-decoration: none;
+}
+
+.slope {
+    background: url(/assets/img/angled_slope_red.svg) top left no-repeat;
+    background-size: cover;
+    width: 100%;
+    position: absolute;
+    height: 10.5vw
+}
+.slope--flip {
+    background: url(/assets/img/angled_slope_red--flip.svg) top left no-repeat;
+    background-size: cover;
+    bottom: 0;
+}
+
+@media screen and (min-width: 320px) {
+    html, body { font-size: 18px }
+}
+@media screen and (min-width: 640px) {
+    html, body { font-size: 24px }
+}
+@media screen and (min-width: 1280px) {
+    html, body { font-size: 40px }
+}

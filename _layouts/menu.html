@@ -5,18 +5,14 @@
 
   <body style="margin: 0">
 
-    {% include tiltshift-menu-page.html %}
-
-    {% if site.enable_js_nav %}
+    {% include menu-page.html %}
 
     <script>
-      $(".tiltshift-close-link").click(function (e) {
+      $(".menu-close-link").click(function (e) {
         e.preventDefault();
         window.history.go(-1);
       });
     </script>
-
-    {% endif %}
 
   </body>
 </html>

@@ -1,0 +1,4 @@
+---
+layout: menu
+permalink: /menu/
+---

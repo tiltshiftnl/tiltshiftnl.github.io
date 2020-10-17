@@ -1,0 +1,23 @@
+<header>{% include header.html %}</header>
+
+<main>
+
+{% if page.back %}
+<p><a href="{{ page.back }}">« overzicht van {{ page.collection }}</a></p>
+{% endif %}
+
+{% if page.type %}
+<h2>&nbsp;{{ page.type }}:</h2>
+{% endif %}
+
+<h1>{{ page.title }}</h1>
+
+{{ content }}
+
+{% if page.back %}
+<p><a href="{{ page.back }}">« overzicht van {{ page.collection }}</a></p>
+{% endif %}
+
+</main>
+
+<footer>{% include footer.html %}</footer>

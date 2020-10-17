@@ -1,16 +1,100 @@
-<header>
+<div class="header-with-image">
   <style>
-    .tiltshift-banner {
-      position: fixed;
+    .header-with-image {
+      background: url({{ site.url }}/{{ page.image }}) center center no-repeat;
+      background-size: cover;
+      height: 380px;
+      min-height: 30vw;
+      position: relative;
     }
-    .tiltshift-hamburger {
-      position: fixed;
-      top: 30px;
+    .header-with-image__caption {
+      position: absolute;
+      top: 140px;
       right: 40px;
+      width: 60%;
+      font-family: HelveticaNeueLTPro-Bd, sans-serif;
+    }
+    .header-with-image__caption__background {
+      background: #ffffff;
+      color: #000;
+      opacity: 0.2;
+      position: absolute;
+      padding: 0.5em 1em;
+    }
+    .header-with-image__caption__content {
+      margin: 0.5em 1em;
+      color: #ffffff;
+      position: absolute;
+      text-shadow: 0 0 20px #1C1C1B;
+    }
+    .logo {
+      height: 120px;
+    }
+    .menu {
+      width: 28px;
+      height: 28px;
+      position: fixed;
+      top: 40px;
+      right: 40px;
+      z-index: 10;
+    }
+    .header-with-image-overlay {
+      background: url({{ site.url }}/{{ page.image }}) center center no-repeat;
+      background-size: cover;
+      position: absolute;
+      width: 100%;
+      height: 100%;
+      background-color: #E54545;
+      /*Shades of Cinnabar: https://www.htmlcsscolor.com/hex/E54545*/
+      background-blend-mode: multiply;
+      opacity: 0.3;
+    }
+    .header-with-image-overlay-black {
+      position: absolute;
+      top: 0;
+      width: 100%;
+      height: 100%;
+      background-color: #000;
+      opacity: 0.2;
     }
   </style>
 
-  {% include tiltshift-banner.html %}
+  <div class="header-with-image-overlay-black"></div>
 
-  {% include tiltshift-hamburger.html %}
-</header>
+  <div class="header-with-image-overlay"></div>
+
+  <div style="position: absolute; width: 100%; height: 100%;">
+  
+    <a href="/"><img class="logo" src="/assets/img/Logo_transparant.svg"></a>
+
+    <a href="/menu">
+      <img class="menu" src="/assets/img/hamburger-menu.svg">
+    </a>
+
+    <div class="header-with-image__caption">
+      {% if page.quote %}
+        <div class="header-with-image__caption__background">“{{ (page.quote }}”</div>
+        <div class="header-with-image__caption__content">“{{ (page.quote }}”</div>
+      {% else %}
+        <div class="header-with-image__caption__background">{{ (page.subtitle }}</div>
+        <div class="header-with-image__caption__content">{{ (page.subtitle }}</div>
+      {% endif %}
+    </div>
+
+    
+    <div class="slope slope--flip">
+      <style>
+        .image_caption {
+          color: white;
+          font-family: 'mr-eaves-modern';
+          font-size: 0.5em;
+          position: absolute;
+          right: 40px;
+          bottom: 50px;
+          text-align: right;
+        }
+      </style>
+      <div class="image_caption">{{ page.caption }}</div>
+    </div>
+  </div>
+</div>
