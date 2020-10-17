@@ -10,6 +10,12 @@
     background-size: cover;
     bottom: 0;
 }
+.body--variant-blue .header-with-image-overlay {
+  background-color: #4545E5;
+}
+.body--variant-blue .tiltshift-2020-image-socials-block-overlay {
+  background-color: #4545E5;
+}
 .body--variant-blue .label {
     background: #b4b4f4;
     color: #1C1C1B;
@@ -26,6 +32,12 @@
     background: url(/assets/img/angled_slope_white--flip.svg) top left no-repeat;
     background-size: cover;
     bottom: 0;
+}
+.body--variant-white .header-with-image-overlay {
+  background-color: #fff;
+}
+.body--variant-white .tiltshift-2020-image-socials-block-overlay {
+  background-color: #fff;
 }
 .body--variant-white .label {
     background: #1C1C1B;
