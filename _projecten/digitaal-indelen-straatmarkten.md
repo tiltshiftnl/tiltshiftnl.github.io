@@ -9,7 +9,7 @@ keywords:
 labels: [datagedreven werken, digitale transformatie, eerlijke algoritmes, public code]
 
 image: /assets/img/foto/IMG_9715.JPG
-caption: 'Design Sprint "Digitaal Indelen Straatmarkten", Gemeente&nbsp;Amsterdam'
+caption: 'Discovery "Digitaal Indelen Straatmarkten", Gemeente&nbsp;Amsterdam'
 
 back: ..
 ---
