@@ -16,17 +16,6 @@ caption: 'Fixxx Ideation "Schulddossier", Gemeente&nbsp;Amsterdam'
 ---
 {{ page.description }}
 
-<style>
-  .label {
-    display: inline-block;
-    background: #b4b4f4;
-    padding: 0 4px;
-    font-size: 0.7em;
-    color: #1C1C1B;
-    border-radius: 0.2em;
-  }
-</style>
-
 {% assign collection = site.materialen | sort: 'order' %}
 {% for item in collection %}
 <h1><a href="{{ item.url }}">{{ item.title }}</a></h1>
