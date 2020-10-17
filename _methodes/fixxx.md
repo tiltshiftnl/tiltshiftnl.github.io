@@ -11,6 +11,7 @@ labels: [innovatie, software design thinking, verandermanagement]
 image: /assets/img/foto/IMG_1001_scaled.JPG
 caption: 'Fixxx "Makkelijke Markt", Gemeente&nbsp;Amsterdam'
 
+order: 2
 back: ..
 ---
 {{ page.description }}

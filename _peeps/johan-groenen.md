@@ -3,16 +3,19 @@ layout: default
 variant: white
 
 title: "Johan Groenen"
-description: Op de Amsterdamse straatmarkten worden de plaatsen verdeeld op basis van heel veel regels. Maar gaat dit wel eerlijk en transparant? En kost het niet teveel tijd? Tiltshift organiseerde digitale innovatie op de straatmarkten van Amsterdam.
-quote: Ik ga pas naar de veiling als ik zeker weet dat ik een kraam krijg.
+description: Met een achtergrond in informatica en ruime ervaring in de wereld van startups en digital product development en strategie, is Johan onze solution architect en (product)strateeg.
+quote: The Proof of the Pudding is in the Eating
 type: Managing Partner
 keywords:
 labels: [open innovatie, lean startup, strategie, informatica]
 
 image: /assets/img/foto/peeps/johan-groenen.png
 
+order: 1
 back: ..
 ---
-Op de ruim vijfentwintig Amsterdamse markten krijgen de kooplieden een kraam op basis van anciënniteit en heel veel aanvullende regels. Die aanvullende regels zijn zo complex dat het voor de marktmeesters van de gemeente knap ingewikkeld is om de kramen ’s-ochtens eerlijk te verdelen. Al helemaal in een omgeving waar niemand op zijn mondje gevallen is.
+{{ page.description }}
 
-Het marktbureau van Amsterdam maakte zich zorgen over de eerlijkheid en de transparantie van de indeling van de markt. En over de daaraan gepaarde tekorten aan marktmeesters in de middag. Want veel aandacht van de marktmeesters gaat uit naar de indeling waardoor er in de middag regelmatig niemand beschikbaar was toezicht te houden op de markt.
+Daarnaast is Johan oprichter en bestuurslid van Stichting Code for NL en volgt hij de ontwikkelingen op het gebied van open digitale overheid en (inter)nationale civic tech nauwgezet.
+
+Samen met [Maarten](/peeps/maarten-geraets) maakte hij onze bekende [Fixxx methode](/methodes/fixxx) voor snelle innovatie die werkt.

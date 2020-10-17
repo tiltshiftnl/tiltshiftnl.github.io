@@ -11,9 +11,9 @@ collections:
   peeps:
     output: true
     permalink: /:collection/:name/
-#  materialen:
-#    output: true
-#    permalink: /:collection/:name/
-#  good-public-tech:
-#    output: true
-#    permalink: /:collection/:name/
+  waarden:
+    output: true
+    permalink: /:collection/:name/
+  materialen:
+    output: true
+    permalink: /:collection/:name/

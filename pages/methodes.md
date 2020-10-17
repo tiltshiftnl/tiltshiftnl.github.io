@@ -11,30 +11,16 @@ keywords: creative commons, methodes, design thinking, lean startup, service des
 image: /assets/img/foto/IMG_9253_scaled.jpg
 caption: 'Explore "Digitalisering Interne Dienstverlening", Gemeente&nbsp;Amsterdam'
 ---
-<p>{{ page.description }}</p>
+{{ page.description }}
 
-<p>Afhankelijk van de scope van het probleem, het doel van het project, en een aantal andere criteria, hebben we daarvoor verschillende concrete methodes.</p>
+Afhankelijk van de scope van het probleem, het doel van het project, en een aantal andere criteria, hebben we daarvoor verschillende concrete methodes.
 
-<style>
-  .label {
-    display: inline-block;
-    background: #b4b4f4;
-    padding: 0 4px;
-    font-size: 0.7em;
-    color: #1C1C1B;
-    border-radius: 0.2em;
-  }
-</style>
-
-{% for methodes in site.methodes %}
+{% assign collection = site.methodes | sort: 'order' %}
+{% for item in collection %}
+<h1><a href="{{ item.url }}">{{ item.title }}</a></h1>
 <p>
-  <a href="{{ methodes.url }}">{{ methodes.title }}</a><br>
-  {{ methodes.description }}<br>
-  {% if methodes.type %}
-  <span class="label">{{ methodes.type | downcase }}</span>
-  {% endif %}
-  {% for label in methodes.labels %}
-  <span class="label">{{ label }}</span>
-  {% endfor %}
+  {{ item.description }}<br>
+  {% if item.type %}<span class="label">{{ item.type | downcase }}</span>{% endif %}
+  {% for label in item.labels %}<span class="label">{{ label }}</span>{% endfor %}
 </p>
 {% endfor %}

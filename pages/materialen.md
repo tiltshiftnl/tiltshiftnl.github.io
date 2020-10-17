@@ -14,7 +14,7 @@ keywords: ""
 image: "assets/img/foto/IMG_8562.jpg"
 caption: 'Fixxx Ideation "Schulddossier", Gemeente&nbsp;Amsterdam'
 ---
-<p>{{ page.description }}</p>
+{{ page.description }}
 
 <style>
   .label {
@@ -27,12 +27,12 @@ caption: 'Fixxx Ideation "Schulddossier", Gemeente&nbsp;Amsterdam'
   }
 </style>
 
-{% for materiaal in site.materialen %}
+{% assign collection = site.materialen | sort: 'order' %}
+{% for item in collection %}
+<h1><a href="{{ item.url }}">{{ item.title }}</a></h1>
 <p>
-  <a href="{{ materiaal.url }}">{{ materiaal.title }}</a><br>
-  {{ materiaal.description }}<br>
-  {% for label in materiaal.labels %}
-  <span class="label">{{ label }}</span>
-  {% endfor %}
+  {{ item.description }}<br>
+  {% if item.type %}<span class="label">{{ item.type | downcase }}</span>{% endif %}
+  {% for label in item.labels %}<span class="label">{{ label }}</span>{% endfor %}
 </p>
 {% endfor %}

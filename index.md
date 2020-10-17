@@ -10,9 +10,9 @@ keywords: digitale transformatie, probleemgedreven innovatie, kwartiermaker, hum
 image: /assets/img/foto/IMG_1919.jpg
 caption: 'Fixxx discovery "Overlast Rembrandtplein", Gemeente&nbsp;Amsterdam'
 ---
-<p>Techniek dient de mens. Maar verouderde software, processen en structuren zitten vaak behoorlijk in de weg. Zo ontstaan veel problemen. Bij burgers en bedrijven maar zeker ook bij uitvoerende organisaties.</p>
+Techniek dient de mens. Maar verouderde software, processen en structuren zitten vaak behoorlijk in de weg. Zo ontstaan veel problemen. Bij burgers en bedrijven maar zeker ook bij uitvoerende organisaties.
 
-<p>Tiltshift vertrekt vanuit deze problemen. We gebruiken software design thinking om samen met de uitvoerenden op een overzichtelijke en snelle manier passende software te maken. Stapje voor stapje vervangen we zo de starre, verouderde systemen door moderne tools voor op de werkvloer, op straat en aan het bed — snelle innovatie die werkt!</p>
+Tiltshift vertrekt vanuit deze problemen. We gebruiken software design thinking om samen met de uitvoerenden op een overzichtelijke en snelle manier passende software te maken. Stapje voor stapje vervangen we zo de starre, verouderde systemen door moderne tools voor op de werkvloer, op straat en aan het bed — snelle innovatie die werkt!
 
 <!-- tools voor op straat -->
 <!-- tools op maat -->
@@ -23,4 +23,23 @@ caption: 'Fixxx discovery "Overlast Rembrandtplein", Gemeente&nbsp;Amsterdam'
 <!-- probleemgedreven innovatie -->
 <!-- human centered design -->
 
-<p>Bekijken onze <a href="/projecten">projecten</a> en <a href="/methodes">methodes</a>, of lees verder over <a href="/diensten/advies">advies en begeleiding »</a>.</p>
+<style>
+    .label {
+      display: inline-block;
+      background: #f4b4b4;
+      padding: 0 4px;
+      font-size: 0.7em;
+      color: #1C1C1B;
+      border-radius: 0.2em;
+    }
+  </style>
+
+{% assign collection = site.diensten | sort: 'order' %}
+{% for item in collection %}
+<h1><a href="{{ item.url }}">{{ item.title }}</a></h1>
+<p>
+  {{ item.description }}<br>
+  {% if item.type %}<span class="label">{{ item.type | downcase }}</span>{% endif %}
+  {% for label in item.labels %}<span class="label">{{ label }}</span>{% endfor %}
+</p>
+{% endfor %}

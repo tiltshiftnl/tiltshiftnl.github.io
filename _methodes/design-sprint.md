@@ -10,6 +10,7 @@ labels: [concept design]
 image: /assets/img/foto/IMG_9177_scaled.JPG
 caption: 'Design Sprint "Evenemententoezicht", Gemeente&nbsp;Amsterdam'
 
+order: 4
 back: ..
 ---
 {{ page.description }}
