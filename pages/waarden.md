@@ -19,9 +19,14 @@ Good Public Tech:
 {% assign collection = site.waarden | sort: 'order' %}
 {% for item in collection %}
 <!--<h1><a href="{{ item.url }}">{{ item.title }}</a></h1>-->
-  <li>{{ item.description }}<br>
-  {% if item.type %}<span class="label">{{ item.type | downcase }}</span>{% endif %}
-  {% for label in item.labels %}<span class="label">{{ label }}</span>{% endfor %}
+  <li>
+    {{ item.description }}<br>
+  {% if item.type %}
+    <span class="label">{{ item.type | downcase }}</span>
+  {% endif %}
+  {% for label in item.labels %}
+    <span class="label">{{ label }}</span>
+  {% endfor %}
   </li>
 {% endfor %}
 </ul>

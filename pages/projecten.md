@@ -23,7 +23,11 @@ Hoe dat er in de praktijk uit ziet hebben we in onderstaande cases beschreven.
 <h1><a href="{{ item.url }}">{{ item.title }}</a></h1>
 <p>
   {{ item.description }}<br>
-  {% if item.type %}<span class="label">{{ item.type | downcase }}</span>{% endif %}
-  {% for label in item.labels %}<span class="label">{{ label }}</span>{% endfor %}
+  {% if item.type %}
+  <span class="label">{{ item.type | downcase }}</span>
+  {% endif %}
+  {% for label in item.labels %}
+  <span class="label">{{ label }}</span>
+  {% endfor %}
 </p>
 {% endfor %}
