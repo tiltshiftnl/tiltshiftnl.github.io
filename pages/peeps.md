@@ -21,16 +21,4 @@ In 2015 stonden we aan de wieg van Datalab Amsterdam, onder gemeenten hét voorb
 
 Onze methodieken benaderen innovatie (en digitale transformatie) op een holistische, en toch praktische manier: door stapsgewijs kleine aanpassingen te maken in organisatie, processen en software zoeken we continu de grens op van haalbare verandering.
 
-{% assign collection = site.peeps | sort: 'order' %}
-{% for item in collection %}
-<h1><a href="{{ item.url }}">{{ item.title }}</a></h1>
-<p>
-  {{ item.description }}<br>
-  {% if item.type %}
-  <span class="label">{{ item.type | downcase }}</span>
-  {% endif %}
-  {% for label in item.labels %}
-  <span class="label">{{ label }}</span>
-  {% endfor %}
-</p>
-{% endfor %}
+{% include collection.html collection=site.peeps %}
