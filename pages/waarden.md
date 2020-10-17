@@ -15,15 +15,16 @@ Wij werken aan Good Public Tech. Dan is het natuurlijk wel handig om te vertelle
 
 Good Public Tech:
 
+<ul>
 {% assign collection = site.waarden | sort: 'order' %}
 {% for item in collection %}
 <!--<h1><a href="{{ item.url }}">{{ item.title }}</a></h1>-->
-<p>
-  {{ item.description }}<br>
+  <li>{{ item.description }}<br>
   {% if item.type %}<span class="label">{{ item.type | downcase }}</span>{% endif %}
   {% for label in item.labels %}<span class="label">{{ label }}</span>{% endfor %}
-</p>
+  </li>
 {% endfor %}
+</ul>
 
 <!--
 <p>Wij geloven dat we met ontwerp van goede software de wereld een beetje beter kunnen maken. Maar we zijn natuurlijk niet naief.</p>
