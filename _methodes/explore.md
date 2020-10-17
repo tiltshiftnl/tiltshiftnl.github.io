@@ -11,6 +11,7 @@ labels: [inventarisatie, kwartiermaken, troubleshooting]
 image: /assets/img/foto/IMG_8660_scaled.jpg
 caption: 'Explore "Digitalisering Interne Dienstverlening", Gemeente&nbsp;Amsterdam'
 
+order: 1
 back: ..
 ---
 {{ page.description }}

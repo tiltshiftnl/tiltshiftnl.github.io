@@ -11,6 +11,7 @@ labels: [agile development, verandermanagement]
 image: /assets/img/foto/IMG_1001_scaled.JPG
 caption: 'Push "Makkelijke Markt", Gemeente&nbsp;Amsterdam'
 
+order: 3
 back: ..
 ---
 Push is een een helder proces gericht op het (door)ontwikkelen en uitbreiden van Tiltshift applicaties. We gaan daarbij uit van aanpassing van de organisatie, processen en software.

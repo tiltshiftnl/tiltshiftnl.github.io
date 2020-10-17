@@ -11,14 +11,20 @@ keywords:
 image: /assets/img/foto/IMG_1919.jpg
 caption: 'Fixxx discovery "Overlast Rembrandtplein", Gemeente&nbsp;Amsterdam'
 ---
-<p>Good public tech:</p>
-<p>- dient de mens: ontworpen voor en met mensen</p>
-<p>- zit goed in elkaar: gemaakt door specialisten</p>
-<p>- zorgt voor echte verandering: forceert digitale transformatie</p>
-<p>- beweegt mee: wordt levend en actueel gehouden</p>
-<p>- is van ons samen: open proces, open resultaten</p>
-<p>- werkt gewoon: geen producten, maar diensten</p>
-<p>- is duurzaam: geen verspilling, geen rotzooi</p>
+Wij werken aan Good Public Tech. Dan is het natuurlijk wel handig om te vertellen wat we daarmee bedoelen.
+
+Good Public Tech:
+
+{% assign collection = site.waarden | sort: 'order' %}
+{% for item in collection %}
+<!--<h1><a href="{{ item.url }}">{{ item.title }}</a></h1>-->
+<p>
+  {{ item.description }}<br>
+  {% if item.type %}<span class="label">{{ item.type | downcase }}</span>{% endif %}
+  {% for label in item.labels %}<span class="label">{{ label }}</span>{% endfor %}
+</p>
+{% endfor %}
+
 <!--
 <p>Wij geloven dat we met ontwerp van goede software de wereld een beetje beter kunnen maken. Maar we zijn natuurlijk niet naief.</p>
 

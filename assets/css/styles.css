@@ -8,12 +8,6 @@ html, body {
     background: #000;
 }
 
-h1, h2, h3 {
-    margin: 0 auto;
-    padding: 0;
-    max-width: 960px;
-}
-
 h1 {
     font-family: HelveticaNeueLTPro-Bd, sans-serif;
     font-weight: 700;
@@ -46,26 +40,34 @@ nav a {
     font-size: 0.8em;
     margin: 10px;
 }
+main { background: #E54545; color: #FFFFFF; padding: 1px 0 }
+main h1,
+main h2,
+main h3,
+main p,
+main ul { margin: 0 auto; padding: 0 20px; max-width: 960px }
+main p { margin-bottom: 1em }
+main li { margin-left: 40px }
+main a { color: inherit }
 
-main {
-    background: #E54545;
-    color: #FFFFFF;
-    padding: 1px 0;
+.label {
+    margin: 0 3px;
+    display: inline-block;
+    background: #f4b4b4;
+    padding: 0 4px;
+    font-size: 0.7em;
+    color: #1C1C1B;
+    border-radius: 0.2em;
 }
 
-main h1, h2, h3, p {
-    padding: 0 20px;
-}
-
-main p {
-    margin: auto;
-    margin-bottom: 1em;
-    max-width: 960px;
-}
-
-main a {
-    color: inherit;
-}
+/*.pasfoto {
+    -webkit-box-shadow: 0px 0px 10px 0px rgba(0,0,0,0.7);
+    -moz-box-shadow: 0px 0px 10px 0px rgba(0,0,0,0.7);
+    box-shadow: 0px 0px 10px 0px rgba(0,0,0,0.7);
+    transform: rotate(-1deg);
+    height: 320px;
+    float: right; border: 20px solid white; margin: 20px;
+}*/
 
 .article-image {
     background: url() center center no-repeat; background-size: cover; height: 40vw; position: relative

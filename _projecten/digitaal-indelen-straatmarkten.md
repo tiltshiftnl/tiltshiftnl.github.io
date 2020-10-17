@@ -11,6 +11,7 @@ labels: [datagedreven werken, digitale transformatie, eerlijke algoritmes, publi
 image: /assets/img/foto/IMG_9715.JPG
 caption: 'Design Sprint "Digitaal Indelen Straatmarkten", Gemeente&nbsp;Amsterdam'
 
+order: 2
 back: ..
 ---
 Op de ruim vijfentwintig Amsterdamse straatmarkten krijgen de kooplieden een kraam op volgorde van anciënniteit en heel veel aanvullende regels. Die regels zijn zo complex dat het voor de marktmeesters knap lastig is om de kramen ’s-ochtens eerlijk in te delen. Al helemaal in een omgeving waar niemand op zijn mondje gevallen is. 
