@@ -51,7 +51,6 @@ main li { margin-left: 40px }
 main a { color: inherit }
 
 .label {
-    margin: 0 3px;
     display: inline-block;
     background: #f4b4b4;
     padding: 0 4px;
