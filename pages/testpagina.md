@@ -42,4 +42,4 @@ Lotte van der Steeg (opdrachtgever), Eef Pothast (projectmanager).
 Tiltshift team: Yolijn van der Kolk, Eva Leffef, Maarten Geraets en Adriaan Zwiers.
 </p>
 
-Lees meer over hoe wij een [Design Sprint] aanpakken (/methodes/design-sprint/).
+Lees meer over hoe wij een [Design Sprint](/methodes/design-sprint/) aanpakken.
