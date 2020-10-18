@@ -4,7 +4,7 @@ permalink: /projecten/
 
 subject: Tiltshift projecten
 title: Tiltshift projecten
-subtitle: Probleemgedreven innovatie begint bij de mensen. Focus op hun probleem en laat de techniek volgen. Zo ontstaat een oplossing.
+subtitle: Innovatie begint bij de mensen. Focus op hun probleem en laat de techniek volgen. Dan ontstaat de oplossing.
 
 description: "In ieder Tiltshift project gaan we op zoek naar het probleem achter de software-wens, op basis van software design thinking. Een aantal stappen staan daarbij vast: discovery, ideation, development, delivery."
 keywords: ""
