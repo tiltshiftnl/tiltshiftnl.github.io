@@ -22,7 +22,7 @@ Op de eerste dag gingen we op onderzoek uit, als discovery. We liepen mee in het
 
 In de ideation op dag twee brachten we wat we hadden gezien samen in empathy maps. Met elkaar bedachten we met behulp van ‘crazy-8’ een twintigtal concepten. We kozen uiteindelijk voor een oplossing waarbij we een ander probleem op de werkvloer verbeterden met als ‘bijvangst’ dat het dagelijkse metingen zou opleveren over de tevredenheid van de cliënten. De medewerkers kunnen hun werk beter doen en de metingen stromen als vanzelf binnen.
 
-<div class="article-image" style="background-image: url(/assets/img/foto/IMG_0123.jpg)">
+<div class="article-image" style="background-image: url(/assets/img/foto/ZC-IMG_0123.jpg)">
     <div class="slope"></div>
     <div class="slope slope--flip"></div>
 </div>
