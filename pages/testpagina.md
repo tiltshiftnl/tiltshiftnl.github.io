@@ -27,7 +27,8 @@ In de ideation op dag twee brachten we wat we hadden gezien samen in empathy map
     <div class="slope slope--flip"></div>
 </div>
 
-Dag drie en vier van onze designsprints is gereserveerd voor development. We geloven niet in paper-prototyping omdat je het ook in het echt kunt maken. En zo maakten we in nauwe afstemming met de medewerkers het ontwerp voor een prototype, programmeerden het en vulden het met echte en relevante data om te testen. Een prototype als dit is gericht op het testen van een vraagstelling. In dit geval wilden we onderzoeken of we de manier van overdracht tussen medewerkers op clientniveau konden verbeteren en versnellen met behulp van een mobiele app. Waardoor er als ook een permanente meting van (een onderdeel van) de klanttevredenheid zou ontstaan.
+Dag drie en vier van onze designsprints is gereserveerd voor development. We geloven niet in paper-prototyping omdat je het ook in het echt kunt maken. En zo maakten we in nauwe afstemming met de medewerkers het ontwerp voor een prototype, programmeerden het en vulden het met echte en relevante data om te testen. Een prototype als dit is gericht op het testen van een vraagstelling. 
+In dit geval wilden we onderzoeken of we de manier van overdracht tussen medewerkers op clientniveau konden verbeteren en versnellen met behulp van een mobiele app. Waarmee ook een permanente meting van (een onderdeel van) de klanttevredenheid zou ontstaan.
 
 Op de vijfde en laatste dag van de designsprint keerden we terug naar de vloer. Op ons verzoek gebruikten een  aantal medewerkers het prototype in hun dagelijkse werk. Dankzij de ‘echte’ data hoefde er niets in scene gezet te worden en konden we goed zien wat wel, en wat niet goed werkte. Aan het einde van de dag kwam iedereen die betrokken was bij de designsprint, van vloer tot en met directie bijeen om de resultaten te bespreken.
 
