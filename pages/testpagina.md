@@ -32,9 +32,8 @@ In dit geval wilden we onderzoeken of we de manier van overdracht tussen medewer
 
 Op de vijfde en laatste dag van de designsprint keerden we terug naar de vloer. Op ons verzoek gebruikten een  aantal medewerkers het prototype in hun dagelijkse werk. Dankzij de ‘echte’ data hoefde er niets in scene gezet te worden en konden we goed zien wat wel, en wat niet goed werkte. Aan het einde van de dag kwam iedereen die betrokken was bij de designsprint, van vloer tot en met directie bijeen om de resultaten te bespreken.
 
-Het resultaat van deze designsprint was een succesvol concept dat het werk van de mensen bewezen vereenvoudigde en zorgde voor een betrouwbare meting. We leerden dat de metingen weliswaar slechts een klein deel van de volledige klantervaring afdekte maar dat de hoeveelheid metingen potentieel veel trendinformatie bood. Een geslaagde designsprint met voor de beleidsmakers belangrijke aanknopingspunten voor vervolg. En voor de medewerkers aan het bed een manier van actieve participatie in een project dat hun werk direct aangaat.
-
-Lees meer over onze Design Sprint
+Het resultaat van deze designsprint was een succesvol concept dat het werk van de mensen bewezen vereenvoudigde en zorgde voor een betrouwbare meting. We leerden dat de metingen weliswaar slechts een klein deel van de volledige klantervaring afdekte maar dat de hoeveelheid metingen potentieel veel trendinformatie bood. 
+Een geslaagde designsprint met voor de beleidsmakers belangrijke aanknopingspunten voor vervolg. En voor de medewerkers aan het bed een manier van actieve participatie in een project dat hun werk direct aangaat.
 
 <p style="font-size: 0.75em">
 Lotte van der Steeg (opdrachtgever), Eef Pothast (projectmanager).
@@ -42,3 +41,5 @@ Lotte van der Steeg (opdrachtgever), Eef Pothast (projectmanager).
 <p style="font-size: 0.75em">
 Tiltshift team: Yolijn van der Kolk, Eva Leffef, Maarten Geraets en Adriaan Zwiers.
 </p>
+
+Lees meer over hoe wij een [Design Sprint] aanpakken (/methodes/design-sprint).
