@@ -18,4 +18,4 @@ Om succesvol software te ontwikkelen is het belangrijk om goed te bedenken welk 
 
 Hoe dat er in de praktijk uit ziet hebben we in onderstaande cases beschreven.
 
-{% include collection.html collection=site.projecten %}
+{% include collection.md collection=site.projecten %}

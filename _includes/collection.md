@@ -1,6 +1,6 @@
 {% assign collection = include.collection | sort: 'order' %}
 {% for item in collection %}
-<h1><a href="{{ item.url }}">{{ item.title }}</a></h1>
+# [{{ item.title }}]({{ item.url }})
 <p>
   {{ item.description }}<br>
   {% if item.type %}

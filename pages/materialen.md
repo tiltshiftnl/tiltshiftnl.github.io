@@ -16,4 +16,4 @@ caption: 'Fixxx Ideation "Schulddossier", Gemeente&nbsp;Amsterdam'
 ---
 {{ page.description }}
 
-{% include collection.html collection=site.materialen %}
+{% include collection.md collection=site.materialen %}
