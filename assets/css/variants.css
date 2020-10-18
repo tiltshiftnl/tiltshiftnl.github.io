@@ -20,6 +20,10 @@
     background: #b4b4f4;
     color: #1C1C1B;
 }
+.body--variant-blue button {
+  background: #b4b4f4 !important;
+  color: #1C1C1B !important;
+}
 .body--variant-white main {
     background: #fff;
     color: #1C1C1B;
@@ -42,4 +46,8 @@
 .body--variant-white .label {
     background: #1C1C1B;
     color: #fff;
+}
+.body--variant-white button {
+  background: #1C1C1B !important;
+  color: #fff !important;
 }
