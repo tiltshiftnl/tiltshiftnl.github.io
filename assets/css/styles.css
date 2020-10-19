@@ -86,11 +86,13 @@ main form { margin-bottom: 1em }
     background-size: cover;
     width: 100%;
     position: absolute;
-    height: 10.5vw
+    top: -1px;
+    height: 11vw
 }
 .slope--flip {
     background: url(/assets/img/angled_slope_red--flip.svg) top left no-repeat;
     background-size: cover;
+    top: auto;
     bottom: 0;
 }
 
