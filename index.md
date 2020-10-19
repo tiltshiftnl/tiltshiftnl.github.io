@@ -23,4 +23,4 @@ Tiltshift vertrekt vanuit deze problemen. We gebruiken software design thinking 
 <!-- probleemgedreven innovatie -->
 <!-- human centered design -->
 
-{% include collection.md collection=site.diensten %}
+
