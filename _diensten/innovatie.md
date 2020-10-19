@@ -7,7 +7,8 @@ subtitle: Samenwerken aan snelle innovatie die werkt. Niet alleen voor, maar voo
 order: 2
 
 description: In een software design thinking traject van twaalf weken gaat een innovatieteam van Tiltshift samen met uitvoerende ambtenaren aan de slag om een tastbaar probleem op te lossen. Daarbij worden organisatie, processen én software onder de loep genomen en op elkaar afgestemd.
-keywords:
+keywords: 
+labels: 
 
 image: /assets/img/foto/IMG_1002_scaled.jpg
 caption: 'Fixxx discovery "Touringcarparkeren", Gemeente&nbsp;Amsterdam'

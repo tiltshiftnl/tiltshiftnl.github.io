@@ -23,12 +23,4 @@ Tiltshift vertrekt vanuit deze problemen. We gebruiken software design thinking 
 <!-- probleemgedreven innovatie -->
 <!-- human centered design -->
 
-{% assign collection = site.diensten | sort: 'order' %}
-{% for item in collection %}
-<h1><a href="{{ item.url }}">{{ item.title }}</a></h1>
-<p>
-  {{ item.description }}<br>
-  {% if item.type %}<span class="label">{{ item.type | downcase }}</span>{% endif %}
-  {% for label in item.labels %}<span class="label">{{ label }}</span>{% endfor %}
-</p>
-{% endfor %}
+{% include collection.md collection=site.diensten %}

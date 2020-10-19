@@ -8,6 +8,7 @@ order: 3
 
 description: Software die stilstaat zorgt vroeg of laat voor problemen. Tiltshift draagt zorg voor onderhoud van software, zodat deze meebeweegt met de veranderende wensen en eisen.
 keywords: 
+labels: 
 
 image: /assets/img/foto/IMG_1001_scaled.JPG
 caption: 'Fixxx delivery "Makkelijke Markt", Gemeente&nbsp;Amsterdam'
