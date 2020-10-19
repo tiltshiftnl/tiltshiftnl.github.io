@@ -93,7 +93,7 @@ main form { margin-bottom: 1em }
     background: url(/assets/img/angled_slope_red--flip.svg) top left no-repeat;
     background-size: cover;
     top: auto;
-    bottom: 0;
+    bottom: -1px;
 }
 
 @media screen and (min-width: 320px) {
