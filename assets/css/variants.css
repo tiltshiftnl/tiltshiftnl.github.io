@@ -1,5 +1,36 @@
+/* DEFAULT: RED */
+body, main {
+    background: #E54545;
+    color: #FFF;
+}
+.slope {
+    background: url(/assets/img/angled_slope_red.svg) top left no-repeat;
+    background-size: cover;
+}
+.slope--flip {
+    background: url(/assets/img/angled_slope_red--flip.svg) top left no-repeat;
+    background-size: cover;
+    bottom: 0;
+}
+.header-with-image-overlay {
+  background-color: #E54545;
+}
+.tiltshift-2020-image-socials-block-overlay {
+  background-color: #E54545;
+}
+.label {
+    background: #f4b4b4;
+    color: #1C1C1B;
+}
+button {
+  background: #f4b4b4;
+  color: #1C1C1B;
+}
+/* BLUE */
+.body--variant-blue,
 .body--variant-blue main {
     background: #4545E5;
+    color: #FFF;
 }
 .body--variant-blue .slope {
     background: url(/assets/img/angled_slope_blue.svg) top left no-repeat;
@@ -24,6 +55,8 @@
   background: #b4b4f4 !important;
   color: #1C1C1B !important;
 }
+/* WHITE */
+.body--variant-white,
 .body--variant-white main {
     background: #fff;
     color: #1C1C1B;
