@@ -24,7 +24,7 @@ De directie Wonen van de gemeente Amsterdam constateerde dat de samenwerking met
 Een van onze Fixxx-teams ging aan de slag, aangevuld met domein-experts van de betrokken organisaties. In de eerste twee weken, tijdens de discovery-fase, liep het team mee op de werkvloer en brachten ze de werkzaamheden en problemen in kaart. De problemen werden niet alleen bevestigd, er bleek meer aan de hand te zijn. Zo hadden de betrokkenen elk een ander beeld van het gehele proces en werkte iedereen met andere versies van de vele formulieren.
 
 <!-- IDEATION -->
-In de ideation verzonnen de gebruikers en het team een zo breed mogelijk scala aan oplossingen. In co-creatie onstond zo het eerste doel: een eenvoudig online overzicht van de processtappen met daarbij de laatste versies van de te gebruiken formulieren. Dit idee is door het Tiltshift-team, bestaande uit developers en designers, in een paar weken gerealiseerd. En toe begon het pas echt.
+In de ideation bedenken de gebruikers en het team een zo breed mogelijk scala aan oplossingen. In co-creatie onstond zo het eerste doel: een eenvoudig online overzicht van de processtappen met daarbij de laatste versies van de te gebruiken formulieren. Dit idee is door het Tiltshift-team, bestaande uit developers en designers, in een paar weken gerealiseerd. En toe begon het pas echt.
 
 <!-- DEVELOPMENT EN IMPLEMENTATIE -->
 In de daarop volgende weken volgden diverse uitbreidingen, op basis van feedback van de gebruikers. Zo hebben we de formulieren grotendeels gedigitaliseerd. Dit zorgde voor hergebruik van informatie waardoor er veel minder ‘dubbele’ informatie wordt uitgevraagd. Toen de formulieren gedigitaliseerd waren voegden we voor elke gebruiker een dashboard toe met daarin status van aanvragen en documenten. Tenslotte werd door het toevoegen van een uploadfunctie een einde gemaakt aan de onveilige uitwisseling van informatie per e-mail.
@@ -45,6 +45,6 @@ Het hele proces nam enkele maanden in beslag. We overlegden, bouwden en werkten 
 Het resultaat is <a href="https://omslagroute.amsterdam.nl" target="_blank">omslagroute.amsterdam.nl</a>. Een helder proces dat de samenwerking tussen partners versneld en verbeterd. Achter de inlog van het systeem wordt samengewerkt in een eenvoudiger proces waarin dubbel werk wordt voorkomen. De veiligheid en privacy zijn nu gegarandeerd, de lijnen tussen betrokkenen zijn korter en het proces neemt veel minder tijd in beslag. Tenslotte ervaren de gebruikers het een heel prettige en overzichtelijke omgeving om in te werken.
 
 <!-- team -->
-<p style="font-size: 0.75em">Probleemeigenaar: Joost van Ravesteyn. Product Owner: Martin Gouwe. Programmamanager: Cor van Bavel. Tiltshift team: Rutger Dik, Maurice Guikema, Anne-Roos Hassing, Remco Hoff, Yvonne de Meij van Streefkerk en Anneke Sinnema. </p>
+<p style="font-size: 0.75em">Probleemeigenaar: Joost van Ravesteyn. Product Owner: Martin Louwe. Programmamanager: Cor van Bavel. Tiltshift team: Rutger Dik, Maurice Guikema, Anne-Roos Hassing, Remco Hoff, Yvonne de Meij van Streefkerk, Anneke Sinnema en Rik Vegt. </p>
 
 Lees meer over onze [Fixxx-methode](/methodes/fixxx).
