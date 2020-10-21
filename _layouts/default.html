@@ -25,7 +25,9 @@
     <p><a href="{{ page.back }}">« overzicht van {{ page.collection }}</a></p>
     {% endif %}
 
+    {% unless page.hideform %}
     {% include contact.html %}
+    {% endunless %}
 
     </main>
 

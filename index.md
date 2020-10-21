@@ -1,5 +1,6 @@
 ---
 layout: default
+hideform: true
 
 title: Innovatie die werkt.<br>Good Public Tech
 subtitle: Design software voor de mensen op de werkvloer, op straat en aan het bed.
