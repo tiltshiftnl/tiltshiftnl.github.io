@@ -1,7 +1,7 @@
 ---
 layout: default
 
-title: "Meten van klanttevredenheid in de zorg"
+title: "Sneller s"
 description: Hoe meet je als zorginstelling de klantervaringen? En hoe doe je dat in de intramurale zorg? Toen we met Zorgcirkel op zoek gingen naar het antwoord kwamen de deelnemers aan de designsprint met een tijdbesparende oplossing.
 
 quote: "Hier wordt ik dus echt blij van, kan dit blijven?"
@@ -9,7 +9,7 @@ type: Design Sprint
 keywords:
 labels: [datagedreven werken, samenwerken, privacy]
 
-image: /assets/img/foto/schulddossier2.jpg
+image: /assets/img/foto/Schulddossier2.jpg
 caption: 'Design Sprint "Meten klanttevredenheid in de zorg", De Zorgcirkel'
 
 back: ..
@@ -22,7 +22,7 @@ Op de eerste dag gingen we op onderzoek uit, als discovery. We liepen mee in het
 
 In de ideation op dag twee brachten we wat we hadden gezien samen in empathy maps. Met dat als uitgangspunt bedachten we met behulp van ‘crazy-8’ een tiental concepten. De medewerkers van Zorgcirkel kozen die middag voor het concept waarbij we een ander probleem op de werkvloer verbeterden dat als ‘bijvangst’ dagelijkse metingen over de klanttevredenheid zou opleveren. Zo verbetert het werkproces van de medewerkers en stromen de metingen als vanzelf binnen.
 
-<div class="article-image" style="background-image: url(/assets/img/foto/schulddossier1.JPG)">
+<div class="article-image" style="background-image: url(/assets/img/foto/Schulddossier1.JPG)">
     <div class="slope"></div>
     <div class="slope slope--flip"></div>
 </div>
