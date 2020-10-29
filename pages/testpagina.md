@@ -10,7 +10,7 @@ keywords:
 labels: [datagedreven werken, samenwerken, ketenpartners, digitale transitie]
 
 image: /assets/img/foto/Schulddossier1.jpg
-caption: 'Co-creatie sessie "Schulddossier", Gemeente Amsterdam'
+caption: 'papier, papier, papier tijdens de discovery van Schulddossier'
 
 back: ..
 ---
@@ -32,7 +32,7 @@ Na twee maanden was het systeem al uit de pilot-fase en actief in gebruik bij é
 Het resultaat is een omgeving schulddossier.amsterdam.nl waarin MaDi’s, GKA en straks ook bewindvoerders actief samenwerken aan minnelijke schuldhulpverlening. Partijen werken datagestuurd, veiliger, prettiger en volledig digitaal samen in een belangrijk en complex ketenproces. 
 
 <p style="font-size: 0.75em">
-Nathalie van Berkel (gemeente Amsterdam), Will van Schendel (Stichting De Sociale Maatschap, toen Doras).
+Nathalie van Berkel (gemeente Amsterdam), Will van Schendel (Stichting De Sociale Maatschap, voorheen Doras).
 </p>
 <p style="font-size: 0.75em">
 Tiltshift team (in de verschillende projecten): Rutger Dik, Maarten Geraets, Maarten de Keizer, Rik Vegt, Johan Groenen.
