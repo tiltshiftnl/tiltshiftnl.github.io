@@ -1,45 +1,41 @@
 ---
 layout: default
 
-title: "Schulddossier... "
-description: “Mensen in de schuldsanering blijven meerdere incasso’s krijgen van de Gemeente Amsterdam.” Toen we met Zorgcirkel op zoek gingen naar het antwoord kwamen de deelnemers aan de designsprint met een tijdbesparende oplossing.
+title: "Schulddossier voor betere samenwerking in de keten. "
+description: Schuldsanering is een heftig, maar ook een administratief veeleisend proces. En je bent zomaar een paar jaar bezig. Op aangeven van de ombudsman van de metropoolregio Amsterdam doken we in de problematiek, dat moet toch sneller kunnen. 
 
-quote: "Hier wordt ik dus echt blij van, kan dit blijven?"
+quote: "Ik scan de papieren zodat ze aan de andere kant geprint kunnen worden, dat moet toch anders kunnen?"
 type: Fixxx
 keywords:
-labels: [datagedreven werken, samenwerken, privacy]
+labels: [datagedreven werken, samenwerken, ketenpartners, digitale transitie]
 
 image: /assets/img/foto/Schulddossier1.jpg
 caption: 'Co-creatie sessie "Schulddossier", Gemeente Amsterdam'
 
 back: ..
 ---
-Zorginstellingen zoals De Zorgcirkel meten regelmatig de ervaring van hun cliënten. Dat is niet alleen wettelijk verplicht, het is ook wenselijk zodat je als organisatie je cliënten goed kunt bedienen. Dat meten gaat doorgaans via interviews of vragenlijsten. Maar hoe moet dat dan in de intramurale zorg, bij cliënten die misschien zelf niet meer in staat zijn hier aan mee te werken? En wat meet je dan? In plaats van de traditionele aanpak wilde De Zorgcirkel onderzoeken of het ook anders kon, veel vaker en misschien ook een beetje beter. En vroeg Tiltshift om hulp. 
+De gemeente Amsterdam biedt haar burgers hulp bij minnelijke schuldhulpverlening. Dat doet ze door te inventariseren welke schulden er zijn, en daarna afspraken te maken met de schuldeisers. Als de afspraken gemaakt zijn kan een burger in principe in drie jaar van zijn of haar schulden af zijn. 
 
-Om antwoord te krijgen op de vraag organiseerden we, samen met De Zorgcirkel, een designsprint. Ons team ging vijf dagen aan de slag, in co-creatie met de medewerkers. We gingen we op onderzoek uit, bedachten we concepten en werkten er eentje verder uit in het echt. En hebben ermee getest bij de bewoners zelf.
+Binnen Amsterdam is het proces van de schuldsanering in twee delen geknipt. De schuldenaar wordt geholpen met het inventariseren van de schulden door maatschappelijke dienstverleners (MaDi). Die MaDi vormt een dossier dat ze overdraagt aan de Gemeentelijke Kredietbank Amsterdam (GKA) die op haar beurt afspraken met de schuldeisers probeert te maken. Als dat rond is, en dat kan zomaar anderhalf jaar duren, start de feitelijke sanering van de schulden. Terwijl die lange doorlooptijd in deze keten nadelige gevolgen heeft voor de burger, zijn of haar problemen blijven zich maar opstapelen.
 
-Op de eerste dag gingen we op onderzoek uit, als discovery. We liepen mee in het dagelijkse proces en kregen een goed beeld van hoe het er op de vloer aan toe ging. Het is flink doorwerken en waar iedereen het belang van een soort ervaringsmonitor onderschreef lag de prioriteit toch echt bij de zorg zelf. Er bleek eigenlijk vooral behoefte te zijn aan simpele ondersteunende tools.
-
-In de ideation op dag twee brachten we wat we hadden gezien samen in empathy maps. Met dat als uitgangspunt bedachten we met behulp van ‘crazy-8’ een tiental concepten. De medewerkers van Zorgcirkel kozen die middag voor het concept waarbij we een ander probleem op de werkvloer verbeterden dat als ‘bijvangst’ dagelijkse metingen over de klanttevredenheid zou opleveren. Zo verbetert het werkproces van de medewerkers en stromen de metingen als vanzelf binnen.
+Een Fixxx-team van Tiltshift ging aan de slag om te kijken of we deze doorlooptijd niet flink konden verkorten. En of er nog andere oorzaken aan te wijzen waren voor dit probleem. Met behulp van technieken uit Design Thinking, Service Design en Lean Startup gingen we er op uit (discovery) en verzonnen we oplossingen (ideation), samen met medewerkers van het GKA en MaDi Doras. Al gauw kwam naar voren dat er op de scheidslijn van het overgaan van dossiers van de ene partij  naar de andere partij veel onduidelijkheid was en stappen dubbel werden genomen. Het maakte de doorlooptijd onnodig lang en stond de samenwerking behoorlijk in de weg.  In vier weken gingen we van onderzoek naar een concreet nieuw werkproces dat voor beide partijen efficiënt en overzichtelijk is en de doorlooptijd met weken verkort. 
 
 <div class="article-image" style="background-image: url(/assets/img/foto/Schulddossier2.jpg)">
     <div class="slope"></div>
     <div class="slope slope--flip"></div>
 </div>
 
-Dag drie en vier van onze designsprints is gereserveerd voor development. We geloven niet in paper-prototyping omdat je het ook in het echt kunt maken. En zo maakten we in nauwe afstemming met de medewerkers het ontwerp voor een prototype, programmeerden het en vulden het met echte en relevante data om te testen. Een prototype als dit is gericht op het testen van een vraagstelling. 
-In dit geval wilden we onderzoeken of we de manier van overdracht tussen medewerkers op clientniveau konden verbeteren en versnellen met behulp van een mobiele app. Waarmee ook een permanente meting van (een onderdeel van) de klanttevredenheid zou ontstaan.
+Het concept werkten we, in nauwe samenwerking met maatschappelijk dienstverlener Doras (Amsterdam Noord) en de GKA, in twee maanden uit tot een volledig digitaal schulddossier. De MaDi en de GKA werken hierin actief samen aan de dossiers, waardoor dubbele processtappen zijn vervallen. Ook zijn partijen in een keer van een papieren proces overgestapt op een digitaal waardoor weer aan alle vereisten rondom privacy, security en archivering wordt voldaan.
 
-Op de vijfde en laatste dag van de designsprint keerden we terug naar de vloer. Op ons verzoek gebruikten een  aantal medewerkers het prototype in hun dagelijkse werk. Dankzij de ‘echte’ data hoefde er niets in scene gezet te worden en konden we goed zien wat wel, en wat niet goed werkte. Aan het einde van de dag kwam iedereen die betrokken was bij de designsprint, van vloer tot en met directie bijeen om de resultaten te bespreken.
+Na twee maanden was het systeem al uit de pilot-fase en actief in gebruik bij één van de MaDi’s van Amsterdam. In een aansluitend project voegden we de overige MaDi’s toe en zorgden we ervoor dat de bestaande backoffice systemen van GKA werden gekoppeld aan het schulddossier. En op dit moment werken we aan het toevoegen van bewindvoerders in het systeem. 
 
-Het resultaat van deze designsprint was een succesvol concept dat het werk van de mensen bewezen vereenvoudigde en zorgde voor een betrouwbare meting. We leerden dat de metingen weliswaar slechts een klein deel van de volledige klantervaring afdekte maar dat de hoeveelheid metingen potentieel veel trendinformatie bood. 
-Een geslaagde designsprint met voor de beleidsmakers belangrijke aanknopingspunten voor vervolg. En voor de medewerkers aan het bed een manier van actieve participatie in een project dat hun werk direct aangaat.
+Het resultaat is een omgeving schulddossier.amsterdam.nl waarin MaDi’s, GKA en straks ook bewindvoerders actief samenwerken aan minnelijke schuldhulpverlening. Partijen werken datagestuurd, veiliger, prettiger en volledig digitaal samen in een belangrijk en complex ketenproces. 
 
 <p style="font-size: 0.75em">
-Lotte van der Steeg (opdrachtgever), Eef Pothast (projectmanager).
+Nathalie van Berkel (gemeente Amsterdam), Wil van Schendel (Stichting De Sociale Maatschap, toen Doras).
 </p>
 <p style="font-size: 0.75em">
-Tiltshift team: Yolijn van der Kolk, Eva Leffef, Maarten Geraets en Adriaan Zwiers.
+Tiltshift team (in de verschillende projecten): Rutger Dik, Maarten Geraets, Maarten de Keizer, Rik Vegt, Johan Groenen.
 </p>
 
-Lees meer over hoe wij een [Design Sprint](/methodes/design-sprint/) aanpakken.
+Lees meer over hoe wij een [Fixxx-traject](/methodes/fixxx/) aanpakken.
