@@ -1,16 +1,16 @@
 ---
 layout: default
 
-title: "Sneller s"
-description: Hoe meet je als zorginstelling de klantervaringen? En hoe doe je dat in de intramurale zorg? Toen we met Zorgcirkel op zoek gingen naar het antwoord kwamen de deelnemers aan de designsprint met een tijdbesparende oplossing.
+title: "Schulddossier... "
+description: “Mensen in de schuldsanering blijven meerdere incasso’s krijgen van de Gemeente Amsterdam.” Toen we met Zorgcirkel op zoek gingen naar het antwoord kwamen de deelnemers aan de designsprint met een tijdbesparende oplossing.
 
 quote: "Hier wordt ik dus echt blij van, kan dit blijven?"
-type: Design Sprint
+type: Fixxx
 keywords:
 labels: [datagedreven werken, samenwerken, privacy]
 
 image: /assets/img/foto/Schulddossier2.jpg
-caption: 'Design Sprint "Meten klanttevredenheid in de zorg", De Zorgcirkel'
+caption: 'Co-creatie sessie "Schulddossier", Gemeente Amsterdam'
 
 back: ..
 ---
