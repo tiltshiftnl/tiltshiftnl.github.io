@@ -9,7 +9,7 @@ type: Fixxx
 keywords:
 labels: [datagedreven werken, samenwerken, privacy]
 
-image: /assets/img/foto/Schulddossier2.jpg
+image: /assets/img/foto/Schulddossier1.jpg
 caption: 'Co-creatie sessie "Schulddossier", Gemeente Amsterdam'
 
 back: ..
@@ -22,7 +22,7 @@ Op de eerste dag gingen we op onderzoek uit, als discovery. We liepen mee in het
 
 In de ideation op dag twee brachten we wat we hadden gezien samen in empathy maps. Met dat als uitgangspunt bedachten we met behulp van ‘crazy-8’ een tiental concepten. De medewerkers van Zorgcirkel kozen die middag voor het concept waarbij we een ander probleem op de werkvloer verbeterden dat als ‘bijvangst’ dagelijkse metingen over de klanttevredenheid zou opleveren. Zo verbetert het werkproces van de medewerkers en stromen de metingen als vanzelf binnen.
 
-<div class="article-image" style="background-image: url(/assets/img/foto/Schulddossier1.jpg)">
+<div class="article-image" style="background-image: url(/assets/img/foto/Schulddossier2.jpg)">
     <div class="slope"></div>
     <div class="slope slope--flip"></div>
 </div>
