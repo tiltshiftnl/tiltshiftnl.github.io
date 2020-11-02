@@ -5,7 +5,7 @@ variant: blue
 title: Explore
 subtitle: "Samen problemen en ideeën ophalen waar ze zijn: op de werkvloer, op straat, aan het bed."
 
-description: In een traject van drie weken gaat een expertteam van Tiltshift samen met uw eigen mensen de organisatie in en halen problemen en ideeën op van de mensen uit de business.
+description: In een traject van drie weken gaat een expertteam van Tiltshift samen met uw eigen mensen de organisatie in en halen we problemen en ideeën op van de mensen uit de business.
 labels: [inventarisatie, kwartiermaken, troubleshooting]
 
 image: /assets/img/foto/IMG_8660_scaled.jpg
