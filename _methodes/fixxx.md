@@ -30,6 +30,11 @@ In deze eerste twee weken doorgronden we de situatie. We brengen het proces in k
 
 Met kennis en ervaringen uit de discovery gaan we aan de slag met het verzinnen van concepten en oplossingen. Dat doen we iteratief, in een aantal rondes, en in co-creatie met de mensen waar we eerder mee hebben meegelopen. We selecteren telkens de beste ideeën om mee verder te gaan, zodat er aan het eind vaak 10 tot 20 concepten zijn, <em>minimum viable solutions</em>. Hiervan kiezen we er één om te gaan maken in de eerste development week.
 
+<div class="article-image" style="background-image: url(/assets/img/foto/FixxxMethode-makkelijkemarkt.jpg)">
+    <div class="slope"></div>
+    <div class="slope slope--flip"></div>
+</div>
+
 ### week 5 t/m 8: development
 
 Door in week één een bruikbare, zij het zeer minimale, versie te maken van het concept, en dit direct in de praktijk te brengen door weer mee te lopen, krijgen we meteen de echte gebruikerswensen in beeld. Op basis daarvan maken we in week twee een verbeterde versie, en zo maken we de oplossing we week in, week uit telkens beter geschikt voor de mensen die er mee moeten werken.
