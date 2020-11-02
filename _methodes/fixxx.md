@@ -5,7 +5,7 @@ variant: blue
 title: Fixxx
 subtitle: Snelle innovatie die werkt
 
-description: "Samen met de gemeente Amsterdam ontwikkelde Tiltshift de Fixxx methode voor snelle innovatie. Deze aanpak is kort, praktisch en gebaseerd op software design thinking. Het is opgebouwd uit een aantal vaste onderdelen: launch, discovery, ideation, development, implementatie en delivery."
+description: "Samen met de gemeente Amsterdam ontwikkelde Tiltshift de Fixxx methode voor snelle innovatie. Deze aanpak is kort, praktisch en gebaseerd op software design thinking. Het is opgebouwd uit een aantal vaste onderdelen: launch days, discovery, ideation, push (development) en delivery."
 labels: [innovatie, software design thinking, verandermanagement]
 
 image: /assets/img/foto/IMG_1001_scaled.JPG
@@ -16,38 +16,41 @@ back: ..
 ---
 {{ page.description }}
 
+Fixxx is een snel verandertraject waarbij organisatie, processen en techniek gesmeed worden tot een soepel lopend geheel. Het maakt daarbij gebruik van alle mogelijkheden die software design thinking biedt om proces en gedrag te veranderen. Het uitgangspunt is een probleem dat in het begin wordt gevalideerd, verfijnd en aansluitend opgelost. Het is een human centered design methode die organisaties een pragmatische aanpak biedt om slim, snel en effectief innovatie toe te passen.
 
-Een innovatieteam van Tiltshift ondersteunt de probleemeigenaar uit de business. In 14 weken maken ze samen met alle stakeholders stapsgewijs een oplossing. Daarbij worden organisatie, proces en techniek bij elkaar gebracht, en stapsgewijs verbeterd.
+Veranderen doe je niet achter de tekentafel te bedenken, maar door in een multi-disciplinair team te doen. Fixxx start met onderzoek naar het werkelijke probleem, en met het bedenken van oplossingen voor de gevonden uitdagingen. Maar al na een paar weken gaat het team oplossingen in het echt maken zodat deze door de medewerkers van de organisatie in het dagelijks werk gebruikt en getest worden. Implementatie en realisatie gaan dus gelijk op. Dit zorgt voor draagvlak bij de gebruikers en software die naadloos aansluit op de werkzaamheden. Los van kennisdeling en een positieve sfeer tussen de medewerkers onderling.
+
+De Fixxx methode is door ons al in enkele tientallen projecten toegepast. In alle gevallen was het een succesvol begin van verandering of digitale transitie. Dit leidde soms tot een product dat niet meer weg te denken is bij de gebruikers, soms tot een programma voor digitale transitie waar iedereen weer vertrouwen in heeft. Het is altijd een positief startpunt dat naar meer smaakt.
 
 <img style="margin: 40px 0;" src="/assets/img/foto/fixxx-methode-canvas.svg">
 
 Download hier het [Fixxx-canvas op A0](/assets/pdf/TiltShiftFixxxCanvasA0.pdf).
 
-### launch
+### week 0: launch days
 
-Voorafgaand aan het Fixxx traject organiseren we een launch dag waarop we met elkaar kennismaken, de doelen, de organisatie en stakeholders samen in kaart brengen, de teamruimte inrichten, en een plan maken voor de discovery.
+Voorafgaand aan ieder Fixxx traject organiseren we een twee 'launch'-dagen waarop we met elkaar kennismaken, de doelen, de organisatie en stakeholders samen in kaart brengen, de (virtuele) teamruimte inrichten en een plan maken voor de discovery.
 
 ### week 1 en 2: discovery
 
-In deze eerste twee weken doorgronden we de situatie. We brengen het proces in kaart zoals dat in de praktijk echt plaatsvindt. Dat doen we door met het hele team mee te lopen op locatie en de uitvoerende mensen te spreken en observeren. Terug in de teamruimte brengen we dagelijks alles wat we hebben gezien samen met behulp van design tools zoals empathy maps, fotomateriaal en service maps. Zo krijgen we goed zicht op de concrete problemen die waardevol zijn om op te lossen, en een gevoel bij of en hoe die op te lossen zijn. Samen met de probleemeigenaar maken we aan het eind van de discovery een keuze over op welke concrete problemen we in de ideation fase oplossingen gaan verzinnen.
+In de eerste twee weken doorgronden we de situatie. We brengen het proces in kaart zoals dat in de praktijk echt plaatsvindt. Dat doen we door met de uitvoerenden te spreken en hen in het dagelijks werk te observeren. In de teamruimte brengen we dagelijks alles wat we hebben gezien samen met behulp van design tools zoals empathy maps, fotomateriaal en service maps. Zo krijgt iedereen in het team goed zicht op de concrete problemen die waardevol zijn om op te lossen. Ook krijgen we er een gevoel bij of en hoe die zijn op te lossen. Aan het eind van de discovery maken we, samen met de probleemeigenaar, een keuze over met welke concrete problemen we in de ideation fase doorgaan en waarvoor we oplossingen gaan verzinnen.
 
 ### week 3 en 4: ideation
 
-Met kennis en ervaringen uit de discovery gaan we aan de slag met het verzinnen van concepten en oplossingen. Dat doen we iteratief, in een aantal rondes, en in co-creatie met de mensen waar we eerder mee hebben meegelopen. We selecteren telkens de beste ideeën om mee verder te gaan, zodat er aan het eind vaak 10 tot 20 concepten zijn, <em>minimum viable solutions</em>. Hiervan kiezen we er één om te gaan maken in de eerste development week.
+Met kennis en ervaringen uit de discovery gaan we aan de slag met het verzinnen van concepten en oplossingen. Dat doen we iteratief, in een aantal rondes, en in co-creatie met de mensen waar we eerder mee hebben meegelopen. We selecteren telkens de beste ideeën om mee verder te gaan, zodat er aan het eind van de periode wel tien tot twintig concepten zijn, <em>minimum viable solutions</em>. Ook hier maken we met de probleemeigenaar een keuze welke we gaan maken in de eerste week van de realisatie.
 
 <div class="article-image" style="background-image: url(/assets/img/foto/FixxxMethode-makkelijkemarkt.jpg)">
     <div class="slope"></div>
     <div class="slope slope--flip"></div>
 </div>
 
-### week 5 t/m 8: development
+### week 5 t/m 8: push (realisatie)
 
-Door in week één een bruikbare, zij het zeer minimale, versie te maken van het concept, en dit direct in de praktijk te brengen door weer mee te lopen, krijgen we meteen de echte gebruikerswensen in beeld. Op basis daarvan maken we in week twee een verbeterde versie, en zo maken we de oplossing we week in, week uit telkens beter geschikt voor de mensen die er mee moeten werken.
+Het in de ideation gekozen concept werken we binnen een week uit tot een bruikbare, zij het zeer minimale, versie. Deze versie wordt meteen gebruikt in het dagelijks werk van de betrokken medewerkers. We kijken intensief mee hoe ze het gebruiken en verzamelen hun gebruikerswensen. Op basis daarvan maken we in de tweede week een verbeterde versie en zo maken we, week in, week uit, de oplossing telkens beter geschikt voor de mensen die er mee gaan werken. 
 
-### week 9 t/m 12: implementatie
+### week 9 t/m 12: push (realisatie en uitrol)
 
-Vaak kunnen we na een paar weken de dan ontstane oplossing overhevelen naar een "live" omgeving en breder introduceren. Daardoor wordt het een vast onderdeel van het werkproces, en zo ook een haakje om dat proces te gaan meeveranderen. Ook krijgen we breder feedback, waardoor we de app meer op maat kunnen gaan maken voor vaak verschillende typen gebruikers.
+Na een paar weken kunnen we de in de voorgaande weken ontstane oplossing overhevelen naar een "live" omgeving en breder introduceren bij de medewerkers. Daardoor wordt de versie een vast onderdeel van het werkproces, en zo ook een haakje om dat proces te gaan meeveranderen. Doordat we nu van een grotere groep gebruikers hun feedback krijgen kunnen we de applicatie nog meer op maat gaan maken voor de vaak verschillende typen gebruikers.
 
-### week 13 en 14: delivery
+### week 13: delivery
 
-In week 13 en 14 ronden we het project af met een eindpresentatie aan alle stakeholders, en brengen we mogelijke toekomstige doorontwikkelingen in kaart.
+In week 13 en 14 ronden we het project af met een eindpresentatie aan alle stakeholders en betrokkenen. Vaak is dan al duidelijk of en zoja welke doorontwikkeling gewenst is. Dat kan aansluitend door een extra push, of later in een nieuw project of Agile doorontwikkeling.
