@@ -5,7 +5,7 @@ variant: blue
 title: Fixxx
 subtitle: Snelle innovatie die werkt
 
-description: "Samen met de gemeente Amsterdam ontwikkelde Tiltshift de Fixxx methode voor snelle innovatie. Deze aanpak is kort, praktisch en gebaseerd op software design thinking. Het is opgebouwd uit een aantal vaste onderdelen: discovery, ideation, development, implementatie en delivery."
+description: "Samen met de gemeente Amsterdam ontwikkelde Tiltshift de Fixxx methode voor snelle innovatie. Deze aanpak is kort, praktisch en gebaseerd op software design thinking. Het is opgebouwd uit een aantal vaste onderdelen: launch, discovery, ideation, development, implementatie en delivery."
 labels: [innovatie, software design thinking, verandermanagement]
 
 image: /assets/img/foto/IMG_1001_scaled.JPG
@@ -16,11 +16,15 @@ back: ..
 ---
 {{ page.description }}
 
+
 Een innovatieteam van Tiltshift ondersteunt de probleemeigenaar uit de business. In 14 weken maken ze samen met alle stakeholders stapsgewijs een oplossing. Daarbij worden organisatie, proces en techniek bij elkaar gebracht, en stapsgewijs verbeterd.
 
 ### launch
 
 Voorafgaand aan het Fixxx traject organiseren we een launch dag waarop we met elkaar kennismaken, de doelen, de organisatie en stakeholders samen in kaart brengen, de teamruimte inrichten, en een plan maken voor de discovery.
+
+<div class="article-image" style="background-image: url(/assets/img/foto/FixxxMethode-canvas.jpg)">
+</div>
 
 ### week 1 en 2: discovery
 
