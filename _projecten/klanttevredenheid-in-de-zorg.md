@@ -4,7 +4,7 @@ layout: default
 title: "Klanttevredenheid in de zorg"
 description: Hoe meet je als zorginstelling de klantervaringen? En hoe doe je dat in de intramurale zorg? Toen we met Zorgcirkel op zoek gingen naar het antwoord kwamen de deelnemers aan de designsprint met een tijdbesparende oplossing.
 
-quote: "Hier wordt ik dus echt blij van, kan dit blijven?"
+quote: "Hier word ik dus echt blij van, kan dit blijven?"
 type: Design Sprint
 keywords:
 labels: [datagedreven werken, samenwerken, privacy]
