@@ -39,6 +39,7 @@ In de eerste twee weken doorgronden we de situatie. We brengen het proces in kaa
 Met kennis en ervaringen uit de discovery gaan we aan de slag met het verzinnen van concepten en oplossingen. Dat doen we iteratief, in een aantal rondes, en in co-creatie met de mensen waar we eerder mee hebben meegelopen. We selecteren telkens de beste ideeën om mee verder te gaan, zodat er aan het eind van de periode wel tien tot twintig concepten zijn, <em>minimum viable solutions</em>. Ook hier maken we met de probleemeigenaar een keuze welke we gaan maken in de eerste week van de realisatie.
 
 <div class="article-image" style="background-image: url(/assets/img/foto/FixxxMethode-makkelijkemarkt.jpg)">
+    caption: 'programmeren op locatie, in een marktkraam'
     <div class="slope"></div>
     <div class="slope slope--flip"></div>
 </div>
