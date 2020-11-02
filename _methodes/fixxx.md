@@ -18,9 +18,9 @@ back: ..
 
 Fixxx is een snel verandertraject waarbij organisatie, processen en techniek gesmeed worden tot een soepel lopend geheel. Het maakt daarbij gebruik van alle mogelijkheden die software design thinking biedt om proces en gedrag te veranderen. Het uitgangspunt is een probleem dat in het begin wordt gevalideerd, verfijnd en aansluitend opgelost. Het is een human centered design methode die organisaties een pragmatische aanpak biedt om slim, snel en effectief innovatie toe te passen.
 
-Veranderen doe je niet achter de tekentafel te bedenken, maar door in een multi-disciplinair team te doen. Fixxx start met onderzoek naar het werkelijke probleem, en met het bedenken van oplossingen voor de gevonden uitdagingen. Maar al na een paar weken gaat het team oplossingen in het echt maken zodat deze door de medewerkers van de organisatie in het dagelijks werk gebruikt en getest worden. Implementatie en realisatie gaan dus gelijk op. Dit zorgt voor draagvlak bij de gebruikers en software die naadloos aansluit op de werkzaamheden. Los van kennisdeling en een positieve sfeer tussen de medewerkers onderling.
+Veranderen doe je niet door achter een tekentafel te bedenken, maar door in een multi-disciplinair team te doen. Fixxx start met onderzoek naar het werkelijke probleem om daarna oplossingen voor de gevonden uitdagingen te bedenken. Al na een paar weken gaat het team oplossingen in het echt maken zodat deze door de medewerkers van de organisatie in het dagelijks werk gebruikt en getest worden. Implementatie en realisatie gaan dus gelijk op. Dit zorgt voor draagvlak bij de gebruikers en software die naadloos aansluit op de werkzaamheden. Los van kennisdeling en een positieve sfeer bij de medewerkers ten aanzien van de verandering.
 
-De Fixxx methode is door ons al in enkele tientallen projecten toegepast. In alle gevallen was het een succesvol begin van verandering of digitale transitie. Dit leidde soms tot een product dat niet meer weg te denken is bij de gebruikers, soms tot een programma voor digitale transitie waar iedereen weer vertrouwen in heeft. Het is altijd een positief startpunt dat naar meer smaakt.
+De Fixxx methode is door ons al in enkele tientallen projecten toegepast. In alle gevallen was het een succesvol begin van verandering of digitale transitie. Dit leidde soms tot een product (dat niet meer weg te denken is bij de gebruikers), soms tot een programma voor digitale transitie waar iedereen weer vertrouwen in heeft. Het is altijd een positief startpunt dat naar meer smaakt.
 
 <img style="margin: 40px 0;" src="/assets/img/foto/fixxx-methode-canvas.svg">
 
@@ -28,7 +28,7 @@ Download hier het [Fixxx-canvas op A0](/assets/pdf/TiltShiftFixxxCanvasA0.pdf).
 
 ### week 0: launch days
 
-Voorafgaand aan ieder Fixxx traject organiseren we een twee 'launch'-dagen waarop we met elkaar kennismaken, de doelen, de organisatie en stakeholders samen in kaart brengen, de (virtuele) teamruimte inrichten en een plan maken voor de discovery.
+Voorafgaand aan ieder Fixxx traject organiseren we twee 'launch'-dagen waarop we met elkaar kennismaken, de doelen, de organisatie en stakeholders samen in kaart brengen, de (virtuele) teamruimte inrichten en een plan maken voor de discovery.
 
 ### week 1 en 2: discovery
 
@@ -53,4 +53,4 @@ Na een paar weken kunnen we de in de voorgaande weken ontstane oplossing overhev
 
 ### week 13: delivery
 
-In week 13 en 14 ronden we het project af met een eindpresentatie aan alle stakeholders en betrokkenen. Vaak is dan al duidelijk of en zoja welke doorontwikkeling gewenst is. Dat kan aansluitend door een extra push, of later in een nieuw project of Agile doorontwikkeling.
+In de laatste week ronden we het project af. We zorgen voor de juiste documentatie, eventuele overdracht aan een beheerafdeling en natuurlijk een grote eindpresentatie aan alle stakeholders en betrokkenen. Meestal is dan ook duidelijk of er behoefte is om de oplossing nog verder door te ontwikkelen. Dat kan aansluitend door een extra push, of later in een nieuw project of met Agile doorontwikkeling.
