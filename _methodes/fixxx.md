@@ -41,9 +41,8 @@ Met kennis en ervaringen uit de discovery gaan we aan de slag met het verzinnen 
 <div class="article-image" style="background-image: url(/assets/img/foto/FixxxMethode-makkelijkemarkt.jpg)">
     <div class="slope"></div>
     <div class="slope slope--flip"></div>
-    caption: 'programmeren op locatie, in een marktkraam'
 </div>
-
+ 
 ### week 5 t/m 8: push (realisatie)
 
 Het in de ideation gekozen concept werken we binnen een week uit tot een bruikbare, zij het zeer minimale, versie. Deze versie wordt meteen gebruikt in het dagelijks werk van de betrokken medewerkers. We kijken intensief mee hoe ze het gebruiken en verzamelen hun gebruikerswensen. Op basis daarvan maken we in de tweede week een verbeterde versie en zo maken we, week in, week uit, de oplossing telkens beter geschikt voor de mensen die er mee gaan werken. 
