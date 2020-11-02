@@ -23,6 +23,7 @@ Een innovatieteam van Tiltshift ondersteunt de probleemeigenaar uit de business.
     <div class="slope"></div>
     <div class="slope slope--flip"></div>
 </div>
+Download hier het [Fixxx-canvas op A0](/assets/pdf/TiltShiftFixxxCanvasA0.pdf).
 
 ### launch
 
