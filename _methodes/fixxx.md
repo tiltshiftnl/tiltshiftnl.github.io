@@ -19,7 +19,7 @@ back: ..
 
 Een innovatieteam van Tiltshift ondersteunt de probleemeigenaar uit de business. In 14 weken maken ze samen met alle stakeholders stapsgewijs een oplossing. Daarbij worden organisatie, proces en techniek bij elkaar gebracht, en stapsgewijs verbeterd.
 
-<div class="article-image" style="background-image: url(/assets/img/foto/FixxxMethode-canvas.jpg)">
+<div class="article-image" style="background-image: url(/assets/img/foto/fixxx-methode-canvas.svg)">
 </div>
 Download hier het [Fixxx-canvas op A0](/assets/pdf/TiltShiftFixxxCanvasA0.pdf).
 
