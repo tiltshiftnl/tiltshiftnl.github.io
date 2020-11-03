@@ -19,7 +19,7 @@ back: ..
 Al sinds 2015 werken we bij Tiltshift aan ‘human centered’ innovatie. Daarbij kijken we, mét de mensen die het gaan gebruiken, naar het geheel van de organisatie, de processen en de software. Dat begint allemaal met de Explore, een kort onderzoek waarin we een onderwerp verkennen en de ideeën en problemen die leven in de organisatie snel en goed in kaart brengen. Om vervolgens focus te leggen op wat haalbaar is zodat afgewogen keuzes te maken zijn. 
 De uitkomst van een Explore geeft de de startpunten van waaruit concrete innovatie kan beginnen. Of waar de blokkade zit die innovatie in de weg zit.
 
-<img style="margin: 40px 0;" src="/assets/img/foto/ExploreMethode-canvas.jpg">
+<img style="margin: 40px 0; max-width: 100%" src="/assets/img/foto/ExploreMethode-canvas.jpg">
 
 Een Explore start met het bepalen wat we gaan onderzoeken en wie we allemaal daarvoor gaan spreken. Aansluitend volgen drie stappen:
 
