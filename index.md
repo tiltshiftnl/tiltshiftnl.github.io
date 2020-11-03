@@ -15,7 +15,7 @@ Techniek dient de mens. Maar verouderde software, processen en structuren zitten
 
 Tiltshift vertrekt vanuit deze problemen. We gebruiken software design thinking om samen met de uitvoerenden op een overzichtelijke en snelle manier passende software te maken. Stapje voor stapje vervangen we zo de starre, verouderde systemen door moderne tools voor op de werkvloer, op straat en aan het bed — snelle innovatie die werkt!
 
-We werken onder andere voor: de gemeente Amsterdam, Amersfoort, Rotterdam en Stigtse Vegt. Provincie Flevoland. Vereniging Nederlandse Gemeenten. Het Wereld Natuur Fonds. Woningcorporatie Ymere en AFWC. Stichting Aanpak Overlast Amsterdam. Ouderenzorg De Zorgcirkel. HVO Querido. VU Amsterdam. 
+We werken onder andere voor: de gemeente Amsterdam, Amersfoort, Rotterdam en Stichtse Vegt. Provincie Flevoland. Vereniging Nederlandse Gemeenten. Het Wereld Natuur Fonds. Woningcorporatie Ymere en AFWC. Stichting Aanpak Overlast Amsterdam. Ouderenzorg De Zorgcirkel. HVO Querido. VU Amsterdam. 
 
 <!-- tools voor op straat -->
 <!-- tools op maat -->
