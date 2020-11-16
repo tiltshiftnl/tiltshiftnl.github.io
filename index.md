@@ -21,3 +21,8 @@ Altijd up-to-date. Software is geen kant en klaar product. Het is een organisme 
 
 Voor gemeenten en publieke sector. We werken onder meer voor: de gemeente Amsterdam, Amersfoort, Rotterdam, Stichtse Vecht en Zaandam. Provincie Flevoland. Ministerie van Algemene Zaken. Vereniging Nederlandse Gemeenten. Het Wereld Natuur Fonds. Woningcorporatie Ymere en AFWC. Stichting Aanpak Overlast Amsterdam. Ouderenzorg De Zorgcirkel. HVO Querido. VU Amsterdam. 
 
+<div class="article-image" style="background-image: url(/assets/img/foto/Schulddossier2.jpg)">
+    <div class="slope"></div>
+    <div class="slope slope--flip"></div>
+</div>
+
