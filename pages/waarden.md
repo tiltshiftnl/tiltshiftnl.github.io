@@ -3,7 +3,7 @@ layout: default
 permalink: /good-public-tech/
 
 title: Manifest voor<br>Good Public Tech
-subtitle: Overheid en technologie is een krachtige combinatie, dat kan zowel positief als negatief zijn.
+subtitle: Overheid en technologie is een krachtige combinatie, zowel positief als negatief
 
 description: 
 keywords:
