@@ -3,7 +3,7 @@ layout: default
 hideform: true
 
 title: Innovatie die werkt.<br>Good Public Tech
-subtitle: Design software voor de mensen op de werkvloer, op straat en aan het bed.
+subtitle: Maatwerk software voor mensen op de werkvloer, op straat en aan het bed.
 
 description: Tiltshift is een design- en innovatiebedrijf voor good public tech. Met behulp van software design thinking ontwerpen we innovatieve publieke digitale diensten, geven we inzicht in processen en maken we handige digitale tools.
 keywords: digitale transformatie, probleemgedreven innovatie, kwartiermaker, human centered design, software design thinking, service design, lean startup, lean ux, agile development, xp, scrum, labs, apps, projecten, advies, consultancy, publieke sector, mens centraal, common ground, open source
