@@ -2,7 +2,7 @@
 layout: default
 hideform: true
 
-title: Innovatie die werkt.<br>Good Public Tech
+title: Innovatie die werkt<br>
 subtitle: Maatwerk software voor mensen op de werkvloer, op straat en aan het bed.
 
 description: Tiltshift is een design- en innovatiebedrijf voor good public tech. Met behulp van software design thinking ontwerpen we innovatieve publieke digitale diensten, geven we inzicht in processen en maken we handige digitale tools.
@@ -11,7 +11,7 @@ keywords: digitale transformatie, probleemgedreven innovatie, kwartiermaker, hum
 image: /assets/img/foto/IMG_1919.jpg
 caption: 'Fixxx discovery "Overlast Rembrandtplein", Gemeente&nbsp;Amsterdam'
 ---
-Bij Tiltshift ontwerpen we software voor de publieke sector. Onze klanten klanten zijn gemeenten en overige instanties in de publieke sector met een wens voor technische innovatie en software-optimalisatie.
+Bij Tiltshift ontwerpen we software voor de publieke sector. Onze klanten klanten zijn gemeenten en andere organisaties in de publieke sector met een wens voor technische innovatie en software-optimalisatie.
 
 Techniek dient de mens. Maar verouderde software, processen en structuren zitten vaak behoorlijk in de weg. Zo ontstaat een breed scala aan problemen. Tiltshift vertrekt vanuit deze problemen. We gebruiken software design thinking om samen met de uitvoerenden op een overzichtelijke en snelle manier passende software te maken. Stapje voor stapje vervangen we zo de starre, verouderde systemen door moderne tools voor op de werkvloer, op straat en aan het bed — snelle innovatie die werkt!
 
