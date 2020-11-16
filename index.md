@@ -20,7 +20,7 @@ Gedreven door innovatie.
 Tiltshift begeleidt organisaties bij het uitvoeren van innovatietrajecten. We hebben heldere methodes ontwikkeld voor het opzetten van innovatielabs en innovatieprogramma’s.
 
 Altijd up-to-date. 
-Software is geen kant en klaar product. Het is een organisme dat voortdurent gevoed, aangestuurd en geoptimaliseerd moet worden. Aan de hand van feedback en data driven research zorgen wij continue voor de optimalisatie van ons product. Zo blijft ons product up-to- date en zitten onze klanten nooit meer met verouderde software.
+Software is geen kant en klaar product. Het is een organisme dat voortdurend gevoed en geoptimaliseerd moet worden. Aan de hand van feedback en data driven research zorgen wij continue voor de optimalisatie. Zo blijft ons product up-to- date en zitten onze klanten nooit meer met verouderde software.
 
 Voor gemeenten en publieke sector. 
 We werken onder meer voor: de gemeente Amsterdam, Amersfoort, Rotterdam, Stichtse Vecht en Zaandam. Provincie Flevoland. Ministerie van Algemene Zaken. Vereniging Nederlandse Gemeenten. Het Wereld Natuur Fonds. Woningcorporatie Ymere en AFWC. Stichting Aanpak Overlast Amsterdam. Ouderenzorg De Zorgcirkel. HVO Querido. VU Amsterdam. 
