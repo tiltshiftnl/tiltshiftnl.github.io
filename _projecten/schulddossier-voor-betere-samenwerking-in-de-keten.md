@@ -38,4 +38,4 @@ Opdrachtgevers: Nathalie van Berkel (gemeente Amsterdam), Will van Schendel (Sti
 Tiltshift team (in de verschillende projecten): Rutger Dik, Maarten Geraets, Maarten de Keizer, Rik Vegt, Johan Groenen.
 </p>
 
-Lees meer over hoe wij een [Fixxx-traject](/methodes/fixxx/) aanpakken. Of neem met het formulier hieronder contact met ons op. 
+Lees meer over hoe wij een [Fixxx-traject](/methodes/fixxx/) aanpakken. Of neem voor een nadere toelichting contact met ons op via het formulier onderaan deze pagina. 
