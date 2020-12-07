@@ -2,9 +2,9 @@
 layout: default
 
 title: "Schulddossier voor betere samenwerking in de keten. "
-description: Schuldsanering is een heftig, maar ook een administratief veeleisend proces. Je bent zomaar een paar jaar bezig. Op aangeven van de ombudsman van de metropoolregio Amsterdam doken we in de problematiek want dat moet toch sneller kunnen. 
+description: Schuldsanering is een heftig, maar ook een administratief veeleisend proces. Je bent zomaar een paar jaar bezig. Op aangeven van de ombudsman van de metropoolregio Amsterdam dook Tiltshift in de problematiek want dat moet toch sneller kunnen. 
 
-quote: "Ik scan de dossiers om ze aan de andere kant te kunnen printen, kan dat niet anders?"
+quote: "Ik scan de dossiers zodat ze het aan de andere kant kunnen printen, kan dat niet anders?"
 type: Fixxx
 keywords:
 labels: [datagedreven werken, samenwerken, ketenpartners, digitale transitie]
