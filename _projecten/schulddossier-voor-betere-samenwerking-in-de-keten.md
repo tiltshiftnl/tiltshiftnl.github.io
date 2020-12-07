@@ -6,7 +6,7 @@ description: Schuldsanering is een heftig, maar ook een administratief veeleisen
 
 quote: "Ik scan de dossiers zodat ze het aan de andere kant kunnen printen, kan dat niet anders?"
 type: Fixxx
-keywords:[softwaredesignthinking, fixxx]
+keywords:
 labels: [datagedreven werken, samenwerken, ketenpartners, digitale transitie]
 
 image: /assets/img/foto/Schulddossier1.jpg
