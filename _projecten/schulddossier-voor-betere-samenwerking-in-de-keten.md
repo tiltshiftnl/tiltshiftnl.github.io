@@ -1,7 +1,7 @@
 ---
 layout: default
 
-title: "Schulddossier voor betere samenwerking in de keten. "
+title: "Schulddossier voor betere samenwerking in de keten"
 description: Schuldsanering is een heftig, maar ook een administratief veeleisend proces. Je bent zomaar een paar jaar bezig. Op aangeven van de ombudsman van de metropoolregio Amsterdam dook Tiltshift in de problematiek want dat moet toch sneller kunnen. 
 
 quote: "Ik scan de dossiers zodat ze het aan de andere kant kunnen printen, kan dat niet anders?"
