@@ -11,7 +11,7 @@ keywords: digitale transformatie, probleemgedreven innovatie, kwartiermaker, hum
 image: /assets/img/foto/IMG_1919.jpg
 caption: 'Fixxx discovery "Overlast Rembrandtplein", Gemeente&nbsp;Amsterdam'
 ---
-Bij Tiltshift ontwerpen we software voor de publieke sector. Onze klanten klanten zijn gemeenten en andere organisaties in de publieke sector met een wens voor technische innovatie en software-optimalisatie.
+Bij Tiltshift ontwerpen we software voor de publieke sector. Onze klanten zijn gemeenten en andere organisaties in de publieke sector met een wens voor technische innovatie en software-optimalisatie.
 
 Techniek dient de mens. 
 Verouderde software, processen en structuren zitten vaak behoorlijk in de weg. Zo ontstaat een breed scala aan problemen. Tiltshift vertrekt vanuit deze problemen. We gebruiken software design thinking om samen met de uitvoerenden op een overzichtelijke en snelle manier passende software te maken. Stapje voor stapje vervangen we zo de starre, verouderde systemen door moderne tools voor op de werkvloer, op straat en aan het bed — snelle innovatie die werkt!
