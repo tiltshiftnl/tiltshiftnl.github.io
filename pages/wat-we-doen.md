@@ -15,7 +15,7 @@ caption: 'Fixxx discovery "Overlast Rembrandtplein", Gemeente&nbsp;Amsterdam'
 {{ page.description }}
 
 ### Software design thinking
-Techniek dient de mens. Verouderde software, processen en structuren zitten vaak behoorlijk in de weg. Zo ontstaat een breed scala aan problemen. Tiltshift vertrekt vanuit deze problemen. We gebruiken **software design thinking** om samen met de uitvoerenden op een overzichtelijke en snelle manier passende software te maken. Stapje voor stapje vervangen we zo de starre, verouderde systemen door moderne tools voor op de werkvloer, op straat en aan het bed — snelle innovatie die werkt!
+Techniek dient de mens. Verouderde software, processen en structuren zitten vaak behoorlijk in de weg. Zo ontstaat een breed scala aan problemen. Tiltshift vertrekt vanuit deze problemen. We gebruiken *software design thinking* om samen met de uitvoerenden op een overzichtelijke en snelle manier passende software te maken. Stapje voor stapje vervangen we zo de starre, verouderde systemen door moderne tools voor op de werkvloer, op straat en aan het bed — snelle innovatie die werkt!
 
 ### Gedreven door innovatie
 Tiltshift begeleidt organisaties bij het uitvoeren van innovatietrajecten. We hebben heldere methodes voor het opzetten van innovatielabs en innovatieprogramma’s.
