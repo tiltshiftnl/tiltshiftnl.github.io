@@ -2,7 +2,7 @@
 layout: default
 hideform: true
 
-title: Innovatie die werkt<br>
+title: Innovatie die werkt
 subtitle: Maatwerk software voor mensen op de werkvloer, op straat en aan het bed.
 
 description: Tiltshift is een design- en innovatiebedrijf voor good public tech. Met behulp van software design thinking ontwerpen we innovatieve publieke digitale diensten, geven we inzicht in processen en maken we handige digitale tools.
