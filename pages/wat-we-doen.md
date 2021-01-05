@@ -1,6 +1,7 @@
 ---
 layout: default
 hideform: true
+permalink: /wat-we-doen/
 
 title: Wat we doen
 subtitle: Maatwerk software voor mensen op de werkvloer, op straat en aan het bed
