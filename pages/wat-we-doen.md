@@ -6,7 +6,7 @@ permalink: /wat-we-doen/
 title: Wat we doen
 subtitle: Maatwerk software voor mensen op de werkvloer, op straat en aan het bed
 
-description: Bij Tiltshift ontwerpen en onderhouden we software voor overheid en publieke sector.
+description: Bij Tiltshift ontwerpen en onderhouden we maatwerk software voor de overheid en de publieke sector.
 keywords: digitale transformatie, probleemgedreven innovatie, kwartiermaker, human centered design, software design thinking, service design, lean startup, lean ux, agile development, xp, scrum, labs, apps, projecten, advies, consultancy, publieke sector, mens centraal, common ground, open source
 
 image: /assets/img/foto/IMG_1919.jpg
