@@ -8,6 +8,12 @@ collections:
   projecten:
     output: true
     permalink: /:collection/:name/
+  klanten:
+    output: true
+    permalink: /:collection/:name/
+  testimonials:
+    output: true
+    permalink: /:collection/:name/
   peeps:
     output: true
     permalink: /:collection/:name/
