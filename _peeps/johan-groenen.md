@@ -16,4 +16,4 @@ back: ..
 ---
 {{ page.description }}
 
-Als partner bij Tiltshift adviseert hij op het gebied van innovatiemanagement en -strategie, en coacht hij teams op het gebied van methoden en technieken voor design en development.
+Als partner bij Tiltshift adviseert hij op het gebied van innovatiemanagement en strategie, en coacht hij teams op het gebied van methoden en technieken voor snelle innovatie die werkt.
