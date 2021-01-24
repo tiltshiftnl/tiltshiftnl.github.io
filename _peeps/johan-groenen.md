@@ -3,11 +3,11 @@ layout: default
 variant: white
 
 title: "Johan Groenen"
-description: Met een achtergrond in informatica en ruime ervaring in de wereld van startups en digital product development en strategie, is Johan onze solution architect en (product)strateeg.
+description: Johan studeerde informatica en specialiseerde zich in het modelleren van natuurlijke systemen. Als tech lead was hij betrokken bij een aantal succesvolle startups, en in 2015 maakte hij de overstap naar publieke digitale transformatie. Hij is een bekend gezicht in "public tech" Nederland, en voorvechter van open samenwerking en open source in de publieke sector.
 quote: The Proof of the Pudding is in the Eating
-type: Managing Partner
+type: Partner
 keywords:
-labels: [open innovatie, lean startup, strategie, informatica]
+labels: [open samenwerking, public tech, open innovatie, lean startup, strategie, informatica]
 
 image: /assets/img/foto/peeps/johan-groenen.png
 
@@ -16,6 +16,4 @@ back: ..
 ---
 {{ page.description }}
 
-Daarnaast is Johan oprichter en bestuurslid van Stichting Code for NL en volgt hij de ontwikkelingen op het gebied van open digitale overheid en (inter)nationale civic tech nauwgezet.
-
-Samen met [Maarten](/peeps/maarten-geraets) maakte hij onze bekende [Fixxx methode](/methodes/fixxx) voor snelle innovatie die werkt.
+Als partner bij Tiltshift adviseert hij op het gebied van innovatiemanagement en -strategie, en coacht hij teams op het gebied van methoden en technieken voor design en development.
