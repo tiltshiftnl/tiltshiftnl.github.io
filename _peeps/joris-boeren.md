@@ -4,6 +4,7 @@ variant: white
 
 title: "Joris Boeren"
 description: Joris heeft een achtergrond in digitalisering in het boekenvak en digitale uitgeverij. Hij heeft zich hierna gespecialiseerd in begeleiding van Agile projecten en programmamanagement bij grootschalige IT projecten en de digitale transitie van complexe organisaties als Schiphol, Vodafone en de gemeente Amsterdam.
+quote: 
 type: Partner
 keywords:
 labels: [programma management, agile, team coaching, mediation]
