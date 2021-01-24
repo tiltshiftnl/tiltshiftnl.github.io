@@ -3,8 +3,7 @@ layout: default
 variant: white
 
 title: "Joris Boeren"
-description: Op de Amsterdamse straatmarkten worden de plaatsen verdeeld op basis van heel veel regels. Maar gaat dit wel eerlijk en transparant? En kost het niet teveel tijd? Tiltshift organiseerde digitale innovatie op de straatmarkten van Amsterdam.
-quote: Ik ga pas naar de veiling als ik zeker weet dat ik een kraam krijg.
+description: Joris heeft een achtergrond in digitalisering in het boekenvak en digitale uitgeverij. Hij heeft zich hierna gespecialiseerd in begeleiding van Agile projecten en programmamanagement bij grootschalige IT projecten en de digitale transitie van complexe organisaties als Schiphol, Vodafone en de gemeente Amsterdam.
 type: Managing Partner
 keywords:
 labels: [programma management, agile, team coaching, mediation]
@@ -14,6 +13,6 @@ image: /assets/img/foto/peeps/joris-boeren.png
 order: 3
 back: ..
 ---
-Op de ruim vijfentwintig Amsterdamse markten krijgen de kooplieden een kraam op basis van anciënniteit en heel veel aanvullende regels. Die aanvullende regels zijn zo complex dat het voor de marktmeesters van de gemeente knap ingewikkeld is om de kramen ’s-ochtens eerlijk te verdelen. Al helemaal in een omgeving waar niemand op zijn mondje gevallen is.
+{{ page.description }}
 
-Het marktbureau van Amsterdam maakte zich zorgen over de eerlijkheid en de transparantie van de indeling van de markt. En over de daaraan gepaarde tekorten aan marktmeesters in de middag. Want veel aandacht van de marktmeesters gaat uit naar de indeling waardoor er in de middag regelmatig niemand beschikbaar was toezicht te houden op de markt.
+Als partner bij Tiltshift richt hij zich op begeleiding en advies van directies bij het opzetten van nieuwe innovatieprogramma's en interventies op plaatsen waar digitaliseringsprojecten zijn vastgelopen.
