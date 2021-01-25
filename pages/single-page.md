@@ -34,12 +34,13 @@ Ontmoet: Maarten, Johan, Eva, Joris, en de ‘vastere’ freelancers. foto’s m
 
 <a name="projecten"/>
 ### Projecten
-
+asdf
 
 
 <a name="Nieuws"/>
 ### bla bla
 
-
+asdf
 <a name="contact"/>
 ### Contact
+asdf
