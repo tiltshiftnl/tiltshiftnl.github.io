@@ -3,8 +3,8 @@ layout: default
 hideform: true
 permalink: /single-page/
 
-title: Software op maat voor overheid en publieke sector
-subtitle:
+title: 
+subtitle:Wij maken software voor de publieke sector. Dat doen we samen met de mensen die onze software gebruiken.
 description: Wij maken software voor de publieke sector. Dat doen we samen met de mensen die onze software gebruiken.
 
 keywords: digitale transformatie, probleemgedreven innovatie, kwartiermaker, human centered design, software design thinking, service design, lean startup, lean ux, agile development, xp, scrum, labs, apps, projecten, advies, consultancy, overheid, overheden, publieke sector, mens centraal, common ground, open source, creative commons, creative thinking, open collaboration, Fixxx, Push
@@ -28,19 +28,19 @@ Mensen maken het verschil. We werken met een hecht en ervaren team van vaste kra
 
 Ontmoet: Maarten, Johan, Eva, Joris, en de ‘vastere’ freelancers. foto’s met stukje tekst of pagina oid. 
 
-### Onze methoden
+### Onze aanpak
+De afgelopen jaren hebben we drie eigen methoden ontwikkeld die we in vrijwel alle projecten inzetten. Ze zijn gebaseerd op bestaande technieken als Design Thinking, Lean Startup en Agile. Maar dan volledig afgestemd op wat nodig is in onze projecten. We zijn van mening dat de inzet van een methode in een project zorgt voor structuur. Dat alleen zo iedereen weet waar we staan en wat er moet gebeuren. Dat er meer focus ligt op het probleem dat we gaan oplossen en niet verstrikt raakt in proces of omgevingsfactoren. Dit zijn onze methoden:
+<ul>discovery - voor het ophalen van de echte problemen en de beste ideeën uit de organisatie;</ul>
+<ul>fixxx - voor snelle verandering waarbij organisatie, processen en techniek gesmeed worden tot een soepel lopend geheel;</ul>
+<ul>push - voor als de oplossingsrichting helder is, maar de oplossing zelf nog gemaakt moet worden.</ul>
 
+### Recente projecten
+Straatnotes … verhaaltje en link
+Kwetsbare groepen … verhaaltje en link
+Andere projecten… link naar projectenpagina
 
+### Nieuws
+artikel Eva
+artikel Kwetsbare groepen
+Oud nieuws … link naar pagina met nieuwsberichten (gepagineerd). In principe hele berichten. 
 
-<a name="projecten"/>
-### Projecten
-asdf
-
-
-<a name="Nieuws"/>
-### bla bla
-
-asdf
-<a name="contact"/>
-### Contact
-asdf
