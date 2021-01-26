@@ -3,7 +3,7 @@ layout: default
 hideform: true
 permalink: /single-page/
 
-title: 
+title:title
 subtitle:Wij maken software voor de publieke sector. Dat doen we samen met de mensen die onze software gebruiken.
 description: Wij maken software voor de publieke sector. Dat doen we samen met de mensen die onze software gebruiken.
 
