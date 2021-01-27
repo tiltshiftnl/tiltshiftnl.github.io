@@ -4,7 +4,7 @@ hideform: true
 permalink: /single-page/
 
 title: 
-subtitle: Wij maken maatwerksoftware voor de publieke sector, samen met de mensen die het gaan gebruiken.
+subtitle: Bij Tiltshift maken wij maatwerksoftware voor de publieke sector, samen met de mensen die het gaan gebruiken.
 description: Wij maken maatwerksoftware voor de publieke sector, samen met de mensen die het gaan gebruiken.
 
 keywords: digitale transformatie, probleemgedreven innovatie, kwartiermaker, human centered design, software design thinking, service design, lean startup, lean ux, agile development, xp, scrum, labs, apps, projecten, advies, consultancy, overheid, overheden, publieke sector, mens centraal, common ground, open source, creative commons, creative thinking, open collaboration, Fixxx, Push
@@ -13,8 +13,8 @@ image: /assets/img/foto/IMG_1919.jpg
 caption: 'Fixxx discovery "Overlast Rembrandtplein", Gemeente&nbsp;Amsterdam'
 ---
 <a name="Wat we doen"/>
-## Tiltshift
-Techniek dient de mens. Verouderde software en processen zitten vaak in de weg en kunnen voor problemen zorgen. Tiltshift vertrekt vanuit die problemen en gebruikt <i>software design thinking</i> om snel passende software te maken. Met de mensen die er gebruik van maken. Stap voor stap vervangen we zo verouderde systemen door moderne tools voor op de werkvloer, op straat en/of aan het bed. Snelle innovatie die werkt!
+## Techniek dient de mens
+Verouderde software en processen zitten vaak in de weg en kunnen voor problemen zorgen. Tiltshift vertrekt vanuit die problemen en gebruikt <i>software design thinking</i> om snel passende software te maken. Met de mensen die er gebruik van maken. Stap voor stap vervangen we zo verouderde systemen door moderne tools voor op de werkvloer, op straat en/of aan het bed. Snelle innovatie die werkt!
 
 ## Levende software
 Software, en zeker bedrijfskritische, hoort mee te bewegen met veranderende bedrijfsprocessen. Daarom blijven wij actief betrokken bij de gebruiker en maken waar nodig snel aanpassingen. Ook kleine. Geen verouderde software of achterstallige updates meer. Want software is pas relevant als het leeft en je blijft passen als een jas.
