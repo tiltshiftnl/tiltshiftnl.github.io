@@ -44,11 +44,10 @@ Dit zijn onze methoden:
 </ul><br>
 
 ## Recente projecten
-<ul>
-<li>Straatnotes, verhaal en linkje</li>
-<li>Kwetsbare groepen, verhaal en link;</li>
-<li>[Andere projecten op onze projectenpagina](/pages/projecten/)</li>
-</ul><br>
+
+Straatnotes, verhaal en linkje
+Kwetsbare groepen, verhaal en link;
+Andere projecten op onze projectenpagina](/pages/projecten/)
 
 ## Nieuws
 <ul>
