@@ -30,17 +30,17 @@ https://www.tiltshift.nl/mensen/johan-groenen/
 https://www.tiltshift.nl/mensen/maarten-geraets/
 https://www.tiltshift.nl/mensen/joris-boeren/
 https://www.tiltshift.nl/mensen/eva-leffef/
-
+ 
 ## Onze aanpak
 De afgelopen jaren hebben we eigen methoden ontwikkeld die we in onze projecten inzetten. Ze zijn gebaseerd op bestaande technieken als Design Thinking, Lean Startup en Agile. Maar nu volledig afgestemd op wat nodig is in onze projecten. 
 We zijn van mening dat de inzet van een methode zorgt voor structuur in een project. Dat alleen zo iedereen weet waar we staan en wat er moet gebeuren. Dat er daarmee meer focus ligt op het probleem dat we gaan oplossen en het team niet verstrikt raakt in proces of omgevingsfactoren. 
 
-Dit zijn onze methoden:
-<ul>
+Dit zijn onze methoden:<ul>
 <li>discovery - voor het ophalen van de echte problemen en de beste ideeën uit de organisatie;</li>
 <li>fixxx - voor snelle verandering waarbij organisatie, processen en techniek gesmeed worden tot een soepel lopend geheel;</li>
 <li>push - voor als de oplossingsrichting helder is, maar de oplossing zelf nog gemaakt moet worden.</li>
 </ul>
+ 
 
 ## Recente projecten
 <ul>
@@ -48,6 +48,7 @@ Dit zijn onze methoden:
 <li>Kwetsbare groepen, verhaal en link;</li>
 <li>Andere projecten op onze projectenpagina</li>
 </ul>
+ 
 
 ## Nieuws
 <ul>
