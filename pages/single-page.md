@@ -41,7 +41,7 @@ Onze eigen methoden zijn gebaseerd op bestaande technieken als Design Thinking, 
 
 ## Recente projecten
 
-Op weg naar zelfstandigheid kunnen mensen uit zogenaamde kwetsbare groepen een tijdje op proef wonen. Dit is een complex proces waarin door veel verschillende partijen - zorgverleners, woningcorporaties, gemeente - intensief wordt samengewerkt. De directie Wonen van de gemeente Amsterdam constateerde dat de samenwerking met de ketenpartners niet altijd soepel verliep. Wij verzonnen en bouwden een omgeving waarin nu veilig en gemakkelijker wordt samengewerkt. [Woonvergunning voor kwetsbare groepen](/projecten/woonvergunning-voor-kwetsbare-groepen/)
+Op weg naar zelfstandigheid kunnen mensen uit zogenaamde kwetsbare groepen een tijdje op proef wonen. Dit is een complex proces waarin door veel verschillende partijen - zorgverleners, woningcorporaties, gemeente - intensief wordt samengewerkt. De directie Wonen van de gemeente Amsterdam constateerde dat de samenwerking met de ketenpartners niet altijd soepel verliep. Wij verzonnen en bouwden een omgeving waarin nu veilig en gemakkelijker wordt samengewerkt. [Bekijk hier het hele artikel](/projecten/woonvergunning-voor-kwetsbare-groepen/)
 <br>
 Hier komt de straatnotes vermelding
 <br>
