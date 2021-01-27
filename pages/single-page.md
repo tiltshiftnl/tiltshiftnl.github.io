@@ -27,21 +27,18 @@ We werken voor gemeenten (onder andere Amsterdam, Amersfoort, Rotterdam, Stichts
 ## Onze mensen
 Mensen maken het team. We werken in een hechte club van vaste krachten en freelancers, een tikkeltje nerdy en gedreven mensen. We vinden het belangrijk dat iedereen zichzelf kan zijn en we waarderen elkaars eigenaardigheden. Het is vanzelfsprekend dat we elkaar helpen, met intervisie of een handje erbij in een project. Als klant zie je misschien maar een paar gezichten, je werkt indirect met alle teamleden van Tiltshift.
 
-[Ontmoet Johan Groenen](/mensen/johan-groenen/)
-[Ontmoet Maarten Geraets](/mensen/maarten-geraets/)
-[Ontmoet Joris Boeren](/mensen/joris-boeren/)
-[Ontmoet Eva Leffef](/mensen/eva-leffef/)
+[Ontmoet Johan Groenen](/mensen/johan-groenen/)<br>
+[Ontmoet Maarten Geraets](/mensen/maarten-geraets/)<br>
+[Ontmoet Joris Boeren](/mensen/joris-boeren/)<br>
+[Ontmoet Eva Leffef](/mensen/eva-leffef/)<br>
  
 ## Onze aanpak
 De afgelopen jaren hebben we eigen methoden ontwikkeld die we in onze projecten inzetten. Ze zijn gebaseerd op bestaande technieken als Design Thinking, Lean Startup en Agile. Maar nu volledig afgestemd op wat nodig is in onze projecten. 
 We zijn van mening dat de inzet van een methode zorgt voor structuur in een project. Dat alleen zo iedereen weet waar we staan en wat er moet gebeuren. Dat er daarmee meer focus ligt op het probleem dat we gaan oplossen en het team niet verstrikt raakt in proces of omgevingsfactoren. 
 
-Dit zijn onze methoden:
-<ul>
-<li>discovery - voor het ophalen van de echte problemen en de beste ideeën uit de organisatie;</li>
-<li>fixxx - voor snelle verandering waarbij organisatie, processen en techniek gesmeed worden tot een soepel lopend geheel;</li>
-<li>push - voor als de oplossingsrichting helder is, maar de oplossing zelf nog gemaakt moet worden.</li>
-</ul><br>
+[Explore methode](/methodes/explore/) - voor het ophalen van de echte problemen en de beste ideeën uit de organisatie;<br>
+[Fixxx methode](/methodes/fixxx/)- voor snelle verandering waarbij organisatie, processen en techniek gesmeed worden tot een soepel lopend geheel;<br>
+[Push methode](/methodes/push/) - voor als de oplossingsrichting helder is, maar de oplossing zelf nog gemaakt moet worden.<br>
 
 ## Recente projecten
 
