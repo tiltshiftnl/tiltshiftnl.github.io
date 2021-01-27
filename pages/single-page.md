@@ -47,7 +47,7 @@ Dit zijn onze methoden:
 <ul>
 <li>Straatnotes, verhaal en linkje</li>
 <li>Kwetsbare groepen, verhaal en link;</li>
-<li>Andere projecten op onze projectenpagina</li>
+<li>[Andere projecten op onze projectenpagina](/pages/projecten/)</li>
 </ul><br>
 
 ## Nieuws
