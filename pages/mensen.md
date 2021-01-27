@@ -1,7 +1,7 @@
 ---
 layout: default
 variant: white
-permalink: /peeps/
+permalink: /mensen/
 
 subject: good public tech
 title: "Onze mensen"
