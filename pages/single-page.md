@@ -24,6 +24,13 @@ Tiltshift is gedreven door innovatie. Met onze inhuis ontwikkelde heldere method
 
 We werken voor gemeenten (onder andere Amsterdam, Amersfoort, Rotterdam, Stichtse Vecht), provincies (Flevoland, Zuid-Holland), Vereniging Nederlandse Gemeenten VNG, het ministerie van Algemene Zaken en voor woningcorporaties, ouderenzorg en universiteiten. 
 
+## Onze aanpak
+Onze eigen methoden zijn gebaseerd op bestaande technieken als Design Thinking, Lean Startup en Agile. Doordat ze volledig zijn afgestemd op wat nodig is in een project zorgt dit voor structuur. Daardoor weet iedereen waar we staan en wat er moet gebeuren. Ligt er meer focus op het probleem dat we gaan oplossen en raakt het team niet verstrikt in proces of omgevingsfactoren.
+
+[Explore methode](/methodes/explore/) - voor het ophalen van de echte problemen en de beste ideeën uit de organisatie;<br>
+[Fixxx methode](/methodes/fixxx/)- voor snelle verandering waarbij organisatie, processen en techniek gesmeed worden tot een soepel lopend geheel;<br>
+[Push methode](/methodes/push/) - voor als de oplossingsrichting helder is, maar de oplossing zelf nog gemaakt moet worden.<br>
+
 ## Onze mensen
 Mensen maken het team. We werken in een hechte club van vaste krachten en freelancers, een tikkeltje nerdy en gedreven mensen. We vinden het belangrijk dat iedereen zichzelf kan zijn en we waarderen elkaars eigenaardigheden. Het is vanzelfsprekend dat we elkaar helpen, met intervisie of een handje erbij in een project. Als opdrachtgever zie je misschien maar een paar gezichten, indirect werk je met alle teamleden van Tiltshift.
 
@@ -32,22 +39,15 @@ Mensen maken het team. We werken in een hechte club van vaste krachten en freela
 [Ontmoet Joris Boeren](/mensen/joris-boeren/)<br>
 [Ontmoet Eva Leffef](/mensen/eva-leffef/)<br>
  
-## Onze aanpak
-Onze eigen methoden zijn gebaseerd op bestaande technieken als Design Thinking, Lean Startup en Agile. Doordat ze volledig zijn afgestemd op wat nodig is in een project zorgt dit voor structuur. Daardoor weet iedereen waar we staan en wat er moet gebeuren. Ligt er meer focus op het probleem dat we gaan oplossen en raakt het team niet verstrikt in proces of omgevingsfactoren.
-
-[Explore methode](/methodes/explore/) - voor het ophalen van de echte problemen en de beste ideeën uit de organisatie;<br>
-[Fixxx methode](/methodes/fixxx/)- voor snelle verandering waarbij organisatie, processen en techniek gesmeed worden tot een soepel lopend geheel;<br>
-[Push methode](/methodes/push/) - voor als de oplossingsrichting helder is, maar de oplossing zelf nog gemaakt moet worden.<br>
 
 ## Recente projecten
-
-Op weg naar zelfstandigheid kunnen mensen uit zogenaamde kwetsbare groepen een tijdje op proef wonen. Dit is een complex proces waarin door veel verschillende partijen - zorgverleners, woningcorporaties, gemeente - intensief wordt samengewerkt. De directie Wonen van de gemeente Amsterdam constateerde dat de samenwerking met de ketenpartners niet altijd soepel verliep. Wij verzonnen en bouwden een omgeving waarin nu veilig en gemakkelijker wordt samengewerkt. [Bekijk hier het hele artikel](/projecten/woonvergunning-voor-kwetsbare-groepen/)
-<br>
-Hier komt de straatnotes vermelding
-<br>
-We hebben natuurlijk meer projecten uitgevoerd de afgelopen jaren. Een  aantal daarvan vind je op onze [projectenpagina](/pages/projecten/).
+[Tijdelijke woonvergunning voor kwetsbare groepen](/projecten/woonvergunning-voor-kwetsbare-groepen/)- Op weg naar zelfstandigheid kunnen mensen uit kwetsbare groepen een tijdje op proef wonen. Dit is een complex proces waarin veel verschillende partijen - zorgverleners, woningcorporaties, gemeente - samenwerken. Dat ging niet altijd soepel. Daarom verzonnen en bouwden wij een omgeving waarin nu veilig en gemakkelijker wordt samengewerkt. 
+<br><br>
+[Van aantekening op straat tot bruikbare informatie](/projecten/ondersteuning-straatcoaches/) - Straatnotes helpt de observaties van straatcoaches te verzamelen en  om te zetten naar bruikbare informatie en waardevolle inzichten. Veilig, en met waarborg voor de privacy van de betrokkenen. 
+<br><br>
+[Meer projecten van Tiltshift](/pages/projecten/) - We hebben natuurlijk meer projecten uitgevoerd de afgelopen jaren. Een aantal daarvan vind je op onze projectpagina.
 
 ## Nieuws
-Hoe we een arbeidsovereenkomst tekenen in tijden van social distancing? Gewoon, op gepaste afstand, op kantoor. Alleen kunnen we het nu niet zo uitbundig vieren als we zouden willen. Want we zijn heel blij met de keuze van Eva Leffef voor Tiltshift. Vanaf nu, officieel Associate en onderdeel van het management, met deze selfie als publiek bewijs. Die borrel, die volgt als het weer kan. [Bekijk het hele artikel op linked-in](https://www.linkedin.com/feed/update/urn:li:activity:6759385123508117504)
-<br>
-Hier nog een, en dan een link. 
+[Eva Leffef wordt Associate bij Tiltshift](https://www.linkedin.com/feed/update/urn:li:activity:6759385123508117504) - Eva Leffef blijft gewoon bij Tiltshift, maar vanaf nu als onderdeel van de wat zij noemt 'haar leukste zakelijke familie'. Daar zijn we blij mee. 
+<br><br>
+[Tiltshift verhuist naar de Vechtclub XL in Utrecht](https://www.linkedin.com/feed/update/urn:li:activity:6746708254681890816) - Groei en verhuizingen zorgen ervoor dat we verhuizen van The Hague Tech naar een centraler plaats in Utrecht. 
