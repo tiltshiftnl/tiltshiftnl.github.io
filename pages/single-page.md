@@ -3,8 +3,8 @@ layout: default
 hideform: true
 permalink: /single-page/
 
-title:titel
-subtitle:Wij maken software voor de publieke sector. Dat doen we samen met de mensen die onze software gebruiken.
+title: titel
+subtitle: Wij maken software voor de publieke sector. Dat doen we samen met de mensen die onze software gebruiken.
 description: Wij maken software voor de publieke sector. Dat doen we samen met de mensen die onze software gebruiken.
 
 keywords: digitale transformatie, probleemgedreven innovatie, kwartiermaker, human centered design, software design thinking, service design, lean startup, lean ux, agile development, xp, scrum, labs, apps, projecten, advies, consultancy, overheid, overheden, publieke sector, mens centraal, common ground, open source, creative commons, creative thinking, open collaboration, Fixxx, Push
