@@ -41,14 +41,13 @@ Onze eigen methoden zijn gebaseerd op bestaande technieken als Design Thinking, 
 
 ## Recente projecten
 
-Straatnotes, verhaal en linkje
-Kwetsbare groepen, verhaal en link;
-Andere projecten op onze projectenpagina](/pages/projecten/)
+Op weg naar zelfstandigheid kunnen mensen uit zogenaamde kwetsbare groepen een tijdje op proef wonen. Dit is een complex proces waarin door veel verschillende partijen - zorgverleners, woningcorporaties, gemeente - intensief wordt samengewerkt. De directie Wonen van de gemeente Amsterdam constateerde dat de samenwerking met de ketenpartners niet altijd soepel verliep. Wij verzonnen en bouwden een omgeving waarin nu veilig en gemakkelijker wordt samengewerkt. [Woonvergunning voor kwetsbare groepen](/projecten/woonvergunning-voor-kwetsbare-groepen/)
+<br>
+Hier komt de straatnotes vermelding
+<br>
+We hebben natuurlijk meer projecten uitgevoerd de afgelopen jaren. Een  aantal daarvan vind je op onze [projectenpagina](/pages/projecten/).
 
 ## Nieuws
-<ul>
-<li>welkom eva</li>
-<li>Kwetsbare groepen</li>
-<li>oud nieuws</li>
-</ul>
-
+Hoe we een arbeidsovereenkomst tekenen in tijden van social distancing? Gewoon, op gepaste afstand, op kantoor. Alleen kunnen we het nu niet zo uitbundig vieren als we zouden willen. Want we zijn heel blij met de keuze van Eva Leffef voor Tiltshift. Vanaf nu, officieel Associate en onderdeel van het management, met deze selfie als publiek bewijs. Die borrel, die volgt als het weer kan. [Bekijk het hele artikel op linked-in](https://www.linkedin.com/feed/update/urn:li:activity:6759385123508117504)
+<br>
+Hier nog een, en dan een link. 
