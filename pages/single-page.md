@@ -13,6 +13,7 @@ image: /assets/img/foto/IMG_1919.jpg
 caption: 'Fixxx discovery "Overlast Rembrandtplein", Gemeente&nbsp;Amsterdam'
 ---
 <a name="Wat we doen"/>
+## Tiltshift
 Techniek dient de mens. Maar verouderde software en processen zitten vaak in de weg en zorgen voor problemen. Tiltshift vertrekt vanuit deze problemen en gebruikt <i>software design thinking</i> om snel passende software te maken. Met de mensen die het gebruiken. Stapje voor stapje vervangen we zo de starre, verouderde systemen door moderne tools voor op de werkvloer, op straat en aan het bed. Snelle innovatie die werkt!
 
 ## Levende software
