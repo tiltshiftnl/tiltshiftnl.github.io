@@ -4,8 +4,8 @@ hideform: true
 permalink: /single-page/
 
 title: 
-subtitle: Wij maken maatwerksoftware voor de publieke sector. Samen met de mensen die onze software gebruiken.
-description: Wij maken maatwerksoftware voor de publieke sector. Samen met de mensen die onze software gebruiken.
+subtitle: Wij maken maatwerksoftware voor de publieke sector. Samen met de mensen die het gaan gebruiken.
+description: Wij maken maatwerksoftware voor de publieke sector. Samen met de mensen die het gaan gebruiken.
 
 keywords: digitale transformatie, probleemgedreven innovatie, kwartiermaker, human centered design, software design thinking, service design, lean startup, lean ux, agile development, xp, scrum, labs, apps, projecten, advies, consultancy, overheid, overheden, publieke sector, mens centraal, common ground, open source, creative commons, creative thinking, open collaboration, Fixxx, Push
 
