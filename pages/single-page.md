@@ -3,7 +3,7 @@ layout: default
 hideform: true
 permalink: /single-page/
 
-title:title
+title:titel
 subtitle:Wij maken software voor de publieke sector. Dat doen we samen met de mensen die onze software gebruiken.
 description: Wij maken software voor de publieke sector. Dat doen we samen met de mensen die onze software gebruiken.
 
@@ -44,3 +44,4 @@ artikel Eva
 artikel Kwetsbare groepen
 Oud nieuws … link naar pagina met nieuwsberichten (gepagineerd). In principe hele berichten. 
 
+<a name="projecten"/>
