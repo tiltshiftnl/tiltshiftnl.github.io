@@ -50,4 +50,3 @@ artikel Eva
 artikel Kwetsbare groepen
 Oud nieuws … link naar pagina met nieuwsberichten (gepagineerd). In principe hele berichten. 
 
-<a name="projecten"/>
