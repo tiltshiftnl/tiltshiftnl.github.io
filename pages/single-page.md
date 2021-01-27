@@ -41,13 +41,13 @@ Mensen maken het team. We werken in een hechte club van vaste krachten en freela
  
 
 ## Recente projecten
-[Tijdelijke woonvergunning voor kwetsbare groepen](/projecten/woonvergunning-voor-kwetsbare-groepen/)- Op weg naar zelfstandigheid kunnen mensen uit kwetsbare groepen een tijdje op proef wonen. Dit is een complex proces waarin veel verschillende partijen - zorgverleners, woningcorporaties, gemeente - samenwerken. Dat ging niet altijd soepel. Daarom verzonnen en bouwden wij een omgeving waarin nu veilig en gemakkelijker wordt samengewerkt. 
+[Tijdelijke woonvergunning voor kwetsbare groepen](/projecten/woonvergunning-voor-kwetsbare-groepen/)- Soms mogen mensen in Amsterdam een tijdje op proef wonen. Het regelen daarvan is complex en in overleg met veel verschillende (keten)partijen. Dat ging niet altijd soepel. Daarom verzonnen en bouwden wij een omgeving waarin nu veilig en gemakkelijker wordt samengewerkt. 
 <br><br>
 [Van aantekening op straat tot bruikbare informatie](/projecten/ondersteuning-straatcoaches/) - Straatnotes helpt de observaties van straatcoaches te verzamelen en  om te zetten naar bruikbare informatie en waardevolle inzichten. Veilig, en met waarborg voor de privacy van de betrokkenen. 
 <br><br>
-[Meer projecten van Tiltshift](/pages/projecten/) - We hebben natuurlijk meer projecten uitgevoerd de afgelopen jaren. Een aantal daarvan vind je op onze projectpagina.
+Een greep uit onze projecten van de afgelopen jaren trejf je op onze [projectpagina](/pages/projecten/)
 
 ## Nieuws
-[Eva Leffef wordt Associate bij Tiltshift](https://www.linkedin.com/feed/update/urn:li:activity:6759385123508117504) - Eva Leffef blijft gewoon bij Tiltshift, maar vanaf nu als onderdeel van de wat zij noemt 'haar leukste zakelijke familie'. Daar zijn we blij mee. 
+[Eva Leffef wordt Associate bij Tiltshift](https://www.linkedin.com/feed/update/urn:li:activity:6759385123508117504) - Eva Leffef blijft gewoon bij Tiltshift, maar vanaf nu als onderdeel van de wat zij noemt 'haar leukste zakelijke familie'. En daar zijn we blij mee. 
 <br><br>
 [Tiltshift verhuist naar de Vechtclub XL in Utrecht](https://www.linkedin.com/feed/update/urn:li:activity:6746708254681890816) - Groei en verhuizingen zorgen ervoor dat we verhuizen van The Hague Tech naar een centraler plaats in Utrecht. 
