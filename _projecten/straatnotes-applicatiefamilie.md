@@ -1,7 +1,7 @@
 ---
 layout: default
 
-title: "Straatnotes "
+title: "Straatnotes geeft inzicht in de stad"
 description: Straatnotes helpt de observaties van straatcoaches te verzamelen en om te zetten naar bruikbare informatie en waardevolle inzichten. Veilig, en met waarborg voor de privacy van de betrokkenen. 
 
 quote: "Nu zien we wat er echt aan de hand is in de stad"
