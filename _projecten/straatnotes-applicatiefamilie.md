@@ -31,7 +31,10 @@ De informatiestroom uit Straatnotes nam enorm toe, kwalitatief én kwantitatief.
 
 Omdat Straatnotes z’n architectuur ontgroeide is het in 2020 volledig nieuw gestructureerd, met de Common Ground principes als basis. Het is nu een moderne applicatiefamilie bestaande uit diverse losse en herbruikbare applicaties. Met in het midden een centrale database waarin informatie én toegangsrechten (volgens de afgesloten convenanten en gegevensregeling) worden geregistreerd. Hiermee is de privacy van de betrokkenen geborgd en voldoet het systeem aan de vereisten van veiligheid. Dankzij de koppeling van toegangsrechten aan het verwerkingsdoel is het nu mogelijk de informatie conform de privacy vereisten te verspreiden onder de aangesloten partijen. 
 
-<< plaat architectuur>>
+<div class="article-image" style="background-image: url(/assets/img/foto/202101-straatnotesinformatiestromen.jpg)">
+    <div class="slope"></div>
+    <div class="slope slope--flip"></div>
+</div>
 
 De Straatnotes applicatiefamilie is, samen met de gebruikers, de afgelopen jaren stapsgewijs door Tiltshift bedacht en gebouwd. Dat deden we aan de hand van onze eigen methoden én door mee te werken waar het speelt: op straat. Dat levert niet alleen een goed systeem op, onze mensen deden er ook veel domeinkennis op. Met die kennis in het achterhoofd werken we doorlopend aan de verbetering van het systeem en uitrol in andere gemeenten.
 
