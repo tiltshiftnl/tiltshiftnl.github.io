@@ -11,7 +11,7 @@ labels: [open samenwerking, public tech, open innovatie, lean startup, strategie
 
 image: /assets/img/foto/peeps/johan-groenen.png
 
-order: 1
+order: 2
 back: ..
 ---
 {{ page.description }}
