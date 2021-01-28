@@ -7,7 +7,7 @@ description: Straatnotes helpt de observaties van straatcoaches te verzamelen en
 quote: "Nu zien we wat er echt aan de hand is in de stad"
 type: Fixxx
 keywords: Fixxx, software design thinking
-labels: [datagedreven werken, samenwerken, ketenpartners, digitale transitie]
+labels: [datagedreven werken, samenwerken, ketenpartners, privacy]
 
 image: /assets/img/foto/Schulddossier1.jpg
 caption: 'stapels dossiers tijdens de discovery van Schulddossier'
