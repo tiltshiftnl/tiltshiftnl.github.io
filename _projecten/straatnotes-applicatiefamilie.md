@@ -2,11 +2,11 @@
 layout: default
 
 title: "Straatnotes "
-description: Schuldsanering is een heftig, maar ook een administratief veeleisend proces. Je bent zomaar een paar jaar bezig. Op aangeven van de ombudsman van de metropoolregio Amsterdam dook Tiltshift in de problematiek want dat moet toch sneller kunnen. 
+description: Straatnotes helpt de observaties van straatcoaches te verzamelen en om te zetten naar bruikbare informatie en waardevolle inzichten. Veilig, en met waarborg voor de privacy van de betrokkenen. 
 
 quote: "Nu zien we wat er echt aan de hand is in de stad"
 type: Fixxx
-keywords:
+keywords: Fixxx, software design thinking
 labels: [datagedreven werken, samenwerken, ketenpartners, digitale transitie]
 
 image: /assets/img/foto/Schulddossier1.jpg
@@ -14,7 +14,7 @@ caption: 'stapels dossiers tijdens de discovery van Schulddossier'
 
 back: ..
 ---
-<i>Straatnotes helpt de observaties van straatcoaches te verzamelen en vervolgens om te zetten naar bruikbare informatie en waardevolle inzichten. Veilig, en met waarborg voor de privacy van de betrokkenen.</i>
+<i>Straatnotes helpt de observaties van straatcoaches te verzamelen en om te zetten naar bruikbare informatie en waardevolle inzichten. Veilig, en met waarborg voor de privacy van de betrokkenen.</i>
 
 In een gemeente zijn straatcoaches vaak de ogen en oren op straat. Ze spreken jongeren aan op hun gedrag en leggen hun oor te luisteren. Met de informatie die ze zo krijgen kunnen beleidsmakers anticiperen op wat er nodig is en wordt de operationele inzet van hulpverleners en handhavers veel efficiënter. Dankzij de software van Straatnotes is het opslaan en distribueren van de informatie gemakkelijker, beter en veiliger geworden.  
 
