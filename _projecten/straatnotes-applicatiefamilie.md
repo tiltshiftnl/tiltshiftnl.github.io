@@ -20,7 +20,10 @@ In een gemeente zijn straatcoaches vaak de ogen en oren op straat. Ze spreken jo
 
 In 2016 vroeg de gemeente Amsterdam aan Tiltshift om de terugkoppeling van de straatcoaches aan de gemeente te verbeteren. D informatie was tot dan toe gefragmenteerd en incompleet. Dat kwam vooral omdat de computersystemen helemaal niet aansloten op wat er op straat gebeurde. Tijdens een Fixxx-project losten we dit issue in één keer op, samen met de straatcoaches. We maakten een slim systeem dat fijn werkte op de telefoons van de straatcoaches en de data veilig en centraal opsloeg. Ook introduceerden we een handmatige redactieslag op de informatie waarmee de data consistent werd en kwalitatief flink verbeterde. De oplossing was een instant succes.  
 
-<<foto mensen coaches op straat>>
+<div class="article-image" style="background-image: url(/assets/img/foto/IMG_0003)">
+    <div class="slope"></div>
+    <div class="slope slope--flip"></div>
+</div>
 
 De informatiestroom uit Straatnotes nam enorm toe, kwalitatief én kwantitatief. Het systeem werd daarmee een belangrijke informatiebron voor de stad. De gemeente, maar ook andere relevante partijen vroegen om steeds meer informatie. Om dat te realiseren is Straatnotes in meerdere Pushes verder uitgebreid. De coaches, de ogen en oren van de stad, werden opeens echt gehoord. Tegenwoordig weet de stad snel wat er speelt, kan beleid adequaat en tijdig worden aangepast en is de operationele inzet veel efficiënter. 
  
