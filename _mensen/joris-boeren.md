@@ -17,3 +17,5 @@ back: ..
 {{ page.description }}
 
 Als partner bij Tiltshift richt hij zich op begeleiding en advies van directies bij het opzetten van nieuwe innovatieprogramma's en interventies op plaatsen waar digitaliseringsprojecten zijn of dreigen vast te lopen. 
+
+[Linked-in pagina van Joris](https://nl.linkedin.com/in/jorisboeren)
