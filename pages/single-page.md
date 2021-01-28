@@ -4,7 +4,7 @@ hideform: true
 permalink: /single-page/
 
 title: 
-subtitle: Bij Tiltshift maken wij maatwerksoftware voor de publieke sector, samen met de mensen die het gaan gebruiken.
+subtitle: Bij Tiltshift maken we maatwerksoftware voor de publieke sector, samen met de mensen die het gaan gebruiken.
 description: Wij maken maatwerksoftware voor de publieke sector, samen met de mensen die het gaan gebruiken.
 
 keywords: digitale transformatie, probleemgedreven innovatie, kwartiermaker, human centered design, software design thinking, service design, lean startup, lean ux, agile development, xp, scrum, labs, apps, projecten, advies, consultancy, overheid, overheden, publieke sector, mens centraal, common ground, open source, creative commons, creative thinking, open collaboration, Fixxx, Push
