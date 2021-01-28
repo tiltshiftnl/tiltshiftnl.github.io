@@ -9,7 +9,7 @@ type: Fixxx
 keywords: Fixxx, software design thinking
 labels: [datagedreven werken, samenwerken, ketenpartners, privacy]
 
-image: /assets/img/foto/IMG_0003.JPG
+image: /assets/img/foto/2016-straatcoaches02.jpg
 caption: 'Fixxx "StraatNotes", Gemeente Amsterdam'
 
 back: ..
