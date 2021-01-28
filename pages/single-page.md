@@ -14,40 +14,40 @@ caption: 'Fixxx discovery "Overlast Rembrandtplein", Gemeente&nbsp;Amsterdam'
 ---
 <a name="Wat we doen"/>
 ## Techniek dient de mens
-Verouderde software en processen zitten vaak in de weg en kunnen voor problemen zorgen. Tiltshift vertrekt vanuit die problemen en gebruikt <i>software design thinking</i> om snel passende software te maken. Met de mensen die er gebruik van maken. Stap voor stap vervangen we zo verouderde systemen door moderne tools voor op de werkvloer, op straat en/of aan het bed. Snelle innovatie die werkt!
+Verouderde software en processen zitten vaak in de weg en zorgen voor problemen. Tiltshift werkt vanuit die problemen en maakt met <i>software design thinking</i> snel passende software. Samen met de mensen die er gebruik van maken. Zo vervangen we verouderde systemen, stap voor stap, door moderne tools voor op de werkvloer, op straat en/of aan het bed. Snelle innovatie die werkt!
 
 ## Levende software
-Software, en zeker bedrijfskritische, hoort mee te bewegen met veranderende bedrijfsprocessen. Daarom blijven wij actief betrokken bij de gebruiker en maken waar nodig snel aanpassingen. Ook kleine. Geen verouderde software of achterstallige updates meer. Want software is pas relevant als het leeft en je blijft passen als een jas.
+Goede bedrijfskritische software beweegt mee met veranderende bedrijfsprocessen. Daarom blijven wij ook na een project actief betrokken bij de gebruikers. Waar nodig maken we snel aanpassingen, ook kleine. Zo blijft de software actueel en verschoond van achterstallig onderhoud. Want software is pas relevant als het leeft en je past als een warme jas.
 
 ## Diensten
-Tiltshift is gedreven door innovatie. Met onze inhuis ontwikkelde heldere methodes begeleiden we organisaties bij het opstarten van innovatielaboratoria en -programma’s. Leveren of coachen we teams bij de uitvoering. Verzorgt ons zusterbedrijf Tiltshift Apps beheer, hosting en doorontwikkeling van de applicaties die we (helpen) maken. We denken en doen Open Source, Common Ground en geloven in de meerwaarde van design en techniek. 
+Bij Tiltshift worden we gedreven door innovatie. Met onze zelf ontwikkelde aanpak begeleiden we organisaties bij het maken en implementeren van de software die ze nodig hebben. Maar ook helpen we bij het opstarten van innovatielaboratoria en -programma’s. En leveren of coachen we teams voor de uitvoering. Ons zusterbedrijf Tiltshift Apps verzorgt beheer, hosting en doorontwikkeling van de applicaties die we maken.
+In alles denken en doen we Open Source, Common Ground en geloven we in de meerwaarde van design en techniek. 
 
-We werken voor gemeenten (onder andere Amsterdam, Amersfoort, Rotterdam, Stichtse Vecht), provincies (Flevoland, Zuid-Holland), Vereniging Nederlandse Gemeenten VNG, het ministerie van Algemene Zaken en voor woningcorporaties, ouderenzorg en universiteiten. 
+We werken voor <u>gemeenten</u> zoals Amsterdam, Amersfoort, Rotterdam, Stichtse Vecht, <u>provincies</u> Flevoland en Zuid-Holland maar ook voor VNG Vereniging Nederlandse Gemeenten, het ministerie van Algemene Zaken en voor woningcorporaties, ouderenzorg en universiteiten. 
 
 ## Onze aanpak
-Onze eigen methoden zijn gebaseerd op bestaande technieken als Design Thinking, Lean Startup en Agile. Doordat ze volledig zijn afgestemd op wat nodig is in een project zorgt dit voor structuur. Daardoor weet iedereen waar we staan en wat er moet gebeuren. Ligt er meer focus op het probleem dat we gaan oplossen en raakt het team niet verstrikt in proces of omgevingsfactoren.
+Onze aanpak is gebaseerd op een combinatie van bestaande technieken als Design Thinking, Lean Startup en Agile. We hebben daar eigen methodes van gemaakt en ze volledig afgestemd op wat nodig is in een project. Dit zorgt voor structuur en zo weet iedereen waar we staan en wat er moet gebeuren. Het legt extra focus op het probleem dat we oplossen en voorkomt dat het team verstrikt raakt in omgevingsfactoren.
 
-[Explore methode](/methodes/explore/) - voor het ophalen van de echte problemen en de beste ideeën uit de organisatie;<br>
+[Explore methode](/methodes/explore/) - voor het ophalen van de problemen en ideeën uit de eigen organisatie;<br>
 [Fixxx methode](/methodes/fixxx/)- voor snelle verandering waarbij organisatie, processen en techniek gesmeed worden tot een soepel lopend geheel;<br>
-[Push methode](/methodes/push/) - voor als de oplossingsrichting helder is, maar de oplossing zelf nog gemaakt moet worden.<br>
+[Push methode](/methodes/push/) - voor als de oplossingsrichting helder is, maar nog gemaakt moet worden.<br>
 
 ## Onze mensen
-Mensen maken het team. We werken in een hechte club van vaste krachten en freelancers, een tikkeltje nerdy en gedreven mensen. We vinden het belangrijk dat iedereen zichzelf kan zijn en we waarderen elkaars eigenaardigheden. Het is vanzelfsprekend dat we elkaar helpen, met intervisie of een handje erbij in een project. Als opdrachtgever zie je misschien maar een paar gezichten, indirect werk je met alle teamleden van Tiltshift.
+Mensen maken het team. We werken in een hechte club van vaste krachten en freelancers. Iedereen is gedreven, 'eigen' en misschien een tikkeltje nerd. Iedereen kan zichzelf zijn bij ons en we waarderen elkaars eigenaardigheden. Vanzelfsprekend helpen we elkaar, met intervisie of een handje erbij in een project. Als opdrachtgever zie je misschien maar een paar gezichten, indirect werk je met alle teamleden van Tiltshift.
 
-[Ontmoet Johan Groenen](/mensen/johan-groenen/)<br>
-[Ontmoet Maarten Geraets](/mensen/maarten-geraets/)<br>
-[Ontmoet Joris Boeren](/mensen/joris-boeren/)<br>
-[Ontmoet Eva Leffef](/mensen/eva-leffef/)<br>
+Ontmoet de oprichters en partners van Tiltshift:
+[Ontmoet Johan Groenen](/mensen/johan-groenen/) - “The Proof of the Pudding is in the Eating”<br>
+[Ontmoet Maarten Geraets](/mensen/maarten-geraets/) - “Het is altijd makkelijk om oplossingen groter te maken; de kunst is om ze klein te houden”<br>
+[Ontmoet Joris Boeren](/mensen/joris-boeren/) - "Als het op papier is bedacht, is het meestal niet waar"<br>
+[Ontmoet Eva Leffef](/mensen/eva-leffef/) - <br>
  
-
 ## Recente projecten
 [Tijdelijke woonvergunning voor kwetsbare groepen](/projecten/woonvergunning-voor-kwetsbare-groepen/)- Soms mogen mensen in Amsterdam een tijdje op proef wonen. Het regelen daarvan is complex en in overleg met veel verschillende (keten)partijen. Dat ging niet altijd soepel. Daarom verzonnen en bouwden wij een omgeving waarin nu veilig en gemakkelijker wordt samengewerkt. 
-<br><br>
 [Van aantekening op straat tot bruikbare informatie](/projecten/ondersteuning-straatcoaches/) - Straatnotes helpt de observaties van straatcoaches te verzamelen en  om te zetten naar bruikbare informatie en waardevolle inzichten. Veilig, en met waarborg voor de privacy van de betrokkenen. 
-<br><br>
-Een greep uit onze projecten van de afgelopen jaren trejf je op onze [projectpagina](/pages/projecten/)
+
+Dit zijn twee recente projecten. Een greep uit onze projecten van de afgelopen jaren tref je op onze [projectpagina](/pages/projecten/)
 
 ## Nieuws
-[Eva Leffef wordt Associate bij Tiltshift](https://www.linkedin.com/feed/update/urn:li:activity:6759385123508117504) - Eva Leffef blijft gewoon bij Tiltshift, maar vanaf nu als onderdeel van de wat zij noemt 'haar leukste zakelijke familie'. En daar zijn we blij mee. 
+[Eva Leffef wordt Associate bij Tiltshift](https://www.linkedin.com/feed/update/urn:li:activity:6759385123508117504) - Eva Leffef blijft gewoon bij Tiltshift, maar vanaf nu als onderdeel van de wat zij noemt 'haar leukste zakelijke familie'. En daar zijn we blij mee. (januari 2021)
 <br><br>
-[Tiltshift verhuist naar de Vechtclub XL in Utrecht](https://www.linkedin.com/feed/update/urn:li:activity:6746708254681890816) - Groei en verhuizingen zorgen ervoor dat we verhuizen van The Hague Tech naar een centraler plaats in Utrecht. 
+[Tiltshift verhuist naar de Vechtclub XL in Utrecht](https://www.linkedin.com/feed/update/urn:li:activity:6746708254681890816) - Groei en verhuizingen zorgen ervoor dat we verhuizen van The Hague Tech naar een centraler plaats in Utrecht. (december 2020)
