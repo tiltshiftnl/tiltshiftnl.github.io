@@ -20,7 +20,7 @@ In een gemeente zijn straatcoaches vaak de ogen en oren op straat. Ze spreken jo
 
 In 2016 vroeg de gemeente Amsterdam aan Tiltshift om de terugkoppeling van de straatcoaches aan de gemeente te verbeteren. D informatie was tot dan toe gefragmenteerd en incompleet. Dat kwam vooral omdat de computersystemen helemaal niet aansloten op wat er op straat gebeurde. Tijdens een Fixxx-project losten we dit issue in één keer op, samen met de straatcoaches. We maakten een slim systeem dat fijn werkte op de telefoons van de straatcoaches en de data veilig en centraal opsloeg. Ook introduceerden we een handmatige redactieslag op de informatie waarmee de data consistent werd en kwalitatief flink verbeterde. De oplossing was een instant succes.  
 
-<div class="article-image" style="background-image: url(/assets/img/foto/IMG_0001.jpg)">
+<div class="article-image" style="background-image: url(/assets/img/foto/2016-straatcoaches01.jpg)">
     <div class="slope"></div>
     <div class="slope slope--flip"></div>
 </div>
