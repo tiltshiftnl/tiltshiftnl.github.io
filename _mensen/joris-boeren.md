@@ -3,8 +3,8 @@ layout: default
 variant: white
 
 title: "Joris Boeren"
-description: Joris heeft is ooit begonnen in digitalisering van het boekenvak en digitale uitgeverij. Net ja de eeuwwisseling is hij overgestapt naar de digitale wereld bij bureau's als Explainer DC, Clockwork en Lost Boys waar hij zich specialiseerde in begeleiding van de grotere Agile project en -programma management. Later werkte hij aan grotere digitale transities bij onder andere Schiphol, Vodafone en de gemeente Amsterdam op het snijvlak van concept en uitvoering.
-quote: Als de oplossing al op papier staat, is er meestal geen probleem
+description: Joris is na zijn studie aan de Frederik Muller Akademie begonnen in digitalisering van het boekenvak. Maar de opkomst van Internet was verleidelijk en leidde tot een carriere bij achtereenvolgens bureau's als Explainer DC, Clockwork en Lost Boys. Als specialist en pionier in Agile project en -programma management werkte hij aan digitale transities bij onder andere PWN, Schiphol, Vodafone en de gemeente Amsterdam.
+quote: Als de oplossing al op papier staat, was het geen echt probleem
 type: Partner
 keywords: 
 labels: [programma- en product management, agile, team coaching, mediation]
