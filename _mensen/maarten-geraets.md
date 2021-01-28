@@ -3,7 +3,7 @@ layout: default
 variant: white
 
 title: "Maarten Geraets"
-description: Maarten is van origine acteur, maar na een aantal jaar op de planken te hebben gestaan heeft hij zich omgeschoold tot bestuurskundige. Als procesdesigner en kwartiermaker innovatie stond hij aan de wieg van succesvolle in-house startups als virtuele SIM-only provider Hollands Nieuwe, en Datalab Amsterdam, de data-innovatiewerkplaats van de gemeente Amsterdam.
+description: Van origine acteur, maar na een aantal jaar op de planken toch gekozen voor bestuurskunde. Als procesdesigner en kwartiermaker innovatie stond Maarten aan de wieg van succesvolle in-house startups als virtuele SIM-only provider Hollands Nieuwe en Datalab Amsterdam, de data-innovatiewerkplaats van de gemeente Amsterdam.
 quote: Het is altijd makkelijk om oplossingen groter te maken; de kunst is om ze klein te houden
 type: Partner
 keywords:
