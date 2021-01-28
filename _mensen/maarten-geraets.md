@@ -11,7 +11,7 @@ labels: [trouble shooting, kwartiermaken, innovatie, public speaking]
 
 image: /assets/img/foto/peeps/maarten-geraets.png
 
-order: 2
+order: 4
 back: ..
 ---
 {{ page.description }}
