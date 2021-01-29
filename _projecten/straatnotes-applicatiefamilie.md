@@ -27,7 +27,7 @@ In 2016 vroeg de gemeente Amsterdam aan Tiltshift om de terugkoppeling van de st
 
 De informatiestroom uit Straatnotes nam enorm toe, kwalitatief én kwantitatief. Het systeem werd daarmee een belangrijke informatiebron voor de stad. De gemeente, maar ook andere relevante partijen vroegen om steeds meer informatie. Om dat te realiseren is Straatnotes in meerdere Pushes verder uitgebreid. De coaches, de ogen en oren van de stad, werden opeens echt gehoord. Tegenwoordig weet de stad snel wat er speelt, kan beleid adequaat en tijdig worden aangepast en is de operationele inzet veel efficiënter. 
  
-<i>Manager van de gemeente Amsterdam: Straatnotes geeft een gedetailleerd en gericht beeld van de jeugdproblematiek, met veel nuance. Het biedt een goede, integrale informatiepositie voor alle betrokkenen.</i>
+<i>Paul van Eeten, gemeente Amsterdam: Straatnotes geeft een gedetailleerd en gericht beeld van de jeugdproblematiek, met veel nuance. Het biedt een goede, integrale informatiepositie voor alle betrokkenen.</i>
 
 Omdat Straatnotes z’n architectuur ontgroeide is het in 2020 volledig nieuw gestructureerd, met de Common Ground principes als basis. Het is nu een moderne applicatiefamilie bestaande uit diverse losse en herbruikbare applicaties. Met in het midden een centrale database waarin informatie én toegangsrechten (volgens de afgesloten convenanten en gegevensregeling) worden geregistreerd. Hiermee is de privacy van de betrokkenen geborgd en voldoet het systeem aan de vereisten van veiligheid. Dankzij de koppeling van toegangsrechten aan het verwerkingsdoel is het nu mogelijk de informatie conform de privacy vereisten te verspreiden onder de aangesloten partijen. 
 
