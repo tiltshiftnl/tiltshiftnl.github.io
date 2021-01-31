@@ -1,7 +1,6 @@
 ---
 layout: default
 hideform: true
-permalink: /index.md
 
 title: Tiltshift Good Public Tech
 subtitle: Bij Tiltshift maken we maatwerksoftware voor de publieke sector, samen met de mensen die het gebruiken.
