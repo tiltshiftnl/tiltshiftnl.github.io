@@ -17,7 +17,7 @@ menu: show
 ---
 {{ page.description }}
 
-In 2015 stonden we aan de wieg van Datalab Amsterdam, onder gemeenten hét voorbeeld op het gebied van innovatie in datagedreven werken. Met een team ruim 40 experts op het gebied van design, development, en veranderkunde werken we probleemgedreven aan oplossingen voor betere publieke diensten. Dat doen we door handige software te maken, samen met de mensen waar het om draait: op de werkvloer, aan het bed, en op straat.
+In 2015 stonden we aan de wieg van Datalab Amsterdam, onder gemeenten hét voorbeeld op het gebied van innovatie in datagedreven werken. Met een team ruim 25 experts op het gebied van design, development, en veranderkunde werken we probleemgedreven aan oplossingen voor betere publieke diensten. Dat doen we door handige software te maken, samen met de mensen waar het om draait: op de werkvloer, aan het bed, en op straat.
 
 Onze methodieken benaderen innovatie (en digitale transformatie) op een holistische, en toch praktische manier: door stapsgewijs kleine aanpassingen te maken in organisatie, processen en software zoeken we continu de grens op van haalbare verandering.
 
