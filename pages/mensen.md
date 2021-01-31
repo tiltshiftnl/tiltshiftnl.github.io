@@ -23,6 +23,6 @@ Onze focus is gericht op het verbeteren van publieke diensten. Dat kan zijn voor
 
 Onze methodieken benaderen innovatie (en digitale transformatie) op een holistische en toch praktische manier. Door stapsgewijs kleine aanpassingen te maken in het geheel van organisatie, processen en software zoeken we continu de grens op van haalbare verandering. Het is intensief voor alle betrokkenen, maar levert snel resultaat. Doordat we meteen implementeren gaat de vernieuwing in kleine stapjes en is de acceptatie groot. 
 
-Hieronder een beeld van een aantal vaste gezichten van Tiltshift:
+Hieronder stellen een aantal vaste gezichten van Tiltshift zich voor:
 
 {% include collection.md collection=site.mensen %}
