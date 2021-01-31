@@ -38,7 +38,7 @@ Mensen maken het team. We werken in een hechte club van vaste krachten en freela
 Ontmoet de oprichters van Tiltshift: [Johan Groenen](/mensen/johan-groenen/), [Maarten Geraets](/mensen/maarten-geraets/) en [Joris Boeren](/mensen/joris-boeren/).
  
 ## Recente projecten
-[Tijdelijke woonvergunning voor kwetsbare groepen](/projecten/woonvergunning-voor-kwetsbare-groepen/)- Soms mogen mensen in Amsterdam een tijdje op proef wonen. Het regelen daarvan is complex en in overleg met veel verschillende (keten)partijen. Dat ging niet altijd soepel. Daarom verzonnen en bouwden wij een omgeving waarin nu veilig en gemakkelijker wordt samengewerkt. 
+[Tijdelijke woonvergunning voor kwetsbare groepen](/projecten/woonvergunning-voor-kwetsbare-groepen/)- Soms mogen mensen in Amsterdam een tijdje op proef wonen. Het regelen daarvan is complex en in overleg met veel verschillende (keten)partijen. Dat ging niet altijd soepel. Daarom verzonnen en bouwden wij een omgeving waarin nu veilig en gemakkelijker wordt samengewerkt. <br><br>
 [Van aantekening op straat tot bruikbare informatie](/projecten/ondersteuning-straatcoaches/) - Straatnotes helpt de observaties van straatcoaches te verzamelen en  om te zetten naar bruikbare informatie en waardevolle inzichten. Veilig, en met waarborg voor de privacy van de betrokkenen. 
 Dit zijn twee recente projecten. Een greep uit onze projecten van de afgelopen jaren tref je op onze [projectpagina](/pages/projecten/)
 
