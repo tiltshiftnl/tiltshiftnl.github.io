@@ -1,6 +1,6 @@
 ---
 layout: default
-permalink: /diensten/
+permalink: /blog/
 
 title: Tiltshift diensten
 subtitle: Innovatie begint bij de mensen. Focus op hun probleem en laat de techniek volgen. Dan ontstaat de oplossing.
@@ -12,4 +12,4 @@ image: "assets/img/foto/IMG_8562.jpg"
 caption: 'Fixxx Ideation "Schulddossier", Gemeente&nbsp;Amsterdam'
 ---
 {{ page.description }}
-{% include collection.md collection=site.diensten %}
+{% include collection.md collection=site.blog %}
