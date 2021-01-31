@@ -39,7 +39,7 @@ Ontmoet de oprichters van Tiltshift: [Johan Groenen](/mensen/johan-groenen/), [M
 ## Recente projecten
 [Tijdelijke woonvergunning voor kwetsbare groepen](/projecten/woonvergunning-voor-kwetsbare-groepen/)- Soms mogen mensen in Amsterdam een tijdje op proef wonen. Het regelen daarvan is complex en in overleg met veel verschillende (keten)partijen. Dat ging niet altijd soepel. Daarom verzonnen en bouwden wij een omgeving waarin nu veilig en gemakkelijker wordt samengewerkt. <br><br>
 [Van aantekening op straat tot bruikbare informatie](/projecten/straatnotes-applicatiefamilie/) - Straatnotes helpt de observaties van straatcoaches te verzamelen en  om te zetten naar bruikbare informatie en waardevolle inzichten. Veilig, en met waarborg voor de privacy van de betrokkenen. 
-Dit zijn twee recente projecten. Een greep uit onze projecten van de afgelopen jaren tref je op onze [projectpagina](/pages/projecten/)
+Dit zijn twee recente projecten. Een greep uit onze projecten van de afgelopen jaren tref je op onze [projectpagina](/projecten/)
 
 ## Nieuws
 [Eva Leffef wordt Associate bij Tiltshift](https://www.linkedin.com/feed/update/urn:li:activity:6759385123508117504) - Eva Leffef blijft gewoon bij Tiltshift, maar vanaf nu als onderdeel van de wat zij noemt 'haar leukste zakelijke familie'. En daar zijn we blij mee. (januari 2021)
