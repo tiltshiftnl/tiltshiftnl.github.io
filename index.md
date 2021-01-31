@@ -13,7 +13,7 @@ caption: 'Fixxx discovery "Overlast Rembrandtplein", Gemeente&nbsp;Amsterdam'
 ---
 <a name="Wat we doen"/>
 ## Techniek dient de mens
-Verouderde software en processen zitten vaak in de weg en zorgen voor problemen. Tiltshift werkt vanuit die problemen en maakt met <i>software design thinking</i> snel passende software. Samen met de mensen die er gebruik van maken. Zo vervangen we verouderde systemen, stap voor stap, door moderne tools voor op de werkvloer, op straat en/of aan het bed. Snelle innovatie die werkt!
+Verouderde software en processen zitten vaak in de weg en zorgen voor problemen. Tiltshift werkt vanuit die problemen en maakt met <i>software design thinking</i> snel passende software. Samen met de mensen die er gebruik van maken. Zo vervangen we verouderde systemen door moderne tools voor op de werkvloer, op straat en/of aan het bed. Snelle innovatie die werkt!
 
 ## Levende software
 Goede bedrijfskritische software beweegt mee met veranderende bedrijfsprocessen. Daarom blijven wij ook na een project actief betrokken bij de gebruikers. Waar nodig maken we snel aanpassingen, ook kleine. Zo blijft de software actueel en verschoond van achterstallig onderhoud. Want software is pas relevant als het leeft en je past als een warme jas.
