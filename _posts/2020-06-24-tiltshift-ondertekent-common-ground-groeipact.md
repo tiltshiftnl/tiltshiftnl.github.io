@@ -15,7 +15,7 @@ Met dit partnerschap hopen we onze applicaties beschikbaar te kunnen maken voor 
 
 Als design en innovatiebureau voor *good public tech* doen we niets liever dan samen software maken. Software die échte problemen oplost. Software die écht werkt voor mensen. Software die niet los staat van de organisatie, maar daar onderdeel van uitmaakt. Software die leeft.
 
-In onze <a href="/fixxx">Fixxx trajecten</a> combineren we de architectuur van common ground daarom met design thinking aanpak. Op een probleemgedreven manier maken we innovatieve toepassingen die echt iets oplossen, zoals effectieve, gebruiksvriendelijke procestools voor ambtenaren op straat, en duidelijke, toegankelijke digitale diensten voor burgers en bedrijven.
+In onze Fixxx trajecten combineren we de architectuur van common ground daarom met design thinking aanpak. Op een probleemgedreven manier maken we innovatieve toepassingen die echt iets oplossen, zoals effectieve, gebruiksvriendelijke procestools voor ambtenaren op straat, en duidelijke, toegankelijke digitale diensten voor burgers en bedrijven.
 
 Sinds 2015 werken we bij Tiltshift eigenlijk al op basis van Common Ground: data zo veel mogelijk bij de bron laten en deze daaruit realtime opvragen via *Application Programming Interfaces* (API's); een Agile manier van software ontwikkelen, waarbij iedere week een verbeterde versie van de software wordt opgeleverd aan de gebruikers; componentgebaseerde, open source applicaties maken. Met die werkwijze zijn we er onder andere in geslaagd zijn om Datalab Amsterdam op te zetten en tot een voorbeeld te maken van hoe je als gemeente innovatieve datagedreven toepassingen kan ontwikkelen.
 
