@@ -16,6 +16,8 @@ back: ..
 ---
 {{ page.description }}
 
+Zo werd Eva een allrounder die de afgelopen jaren vooral excelleert in mensen fijn laten samenwerken. Ze is een kei in het coachen, organiseren en coördineren van (liefst) complexe projecten en teamsamenstellingen.
+
 Als associate bij Tiltshift is Eva verantwoordelijk voor een aantal projeten en klanten. Zo heeft ze bijvoorbeeld de applicaties die helpen de dag- en weekmarkten in te delen voor Amsterdam onder haar hoede. Ook de Straatnotes applicatiefamilie heeft haar speciale aandacht.
 
 [Linked-in pagina van Eva](https://www.linkedin.com/in/evaleffef/)
