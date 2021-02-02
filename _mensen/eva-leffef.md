@@ -9,7 +9,7 @@ type: Associate
 keywords:
 labels: [coördinatie, coaching, organiseren, projectmanagement, professioneel bemoeial]
 
-image: /assets/img/foto/peeps/eva-leffef.jpg
+image: /assets/img/foto/peeps/eva-leffef.png
 
 order: 1
 back: ..
