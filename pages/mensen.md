@@ -4,7 +4,7 @@ variant: white
 permalink: /mensen/
 
 subject: good public tech
-title: "Over Tiltshift"
+title: "Onze mensen"
 subtitle: Ontworpen met uitvoerenden. Gemaakt door specialisten.
 
 description: "Mensen maken het team. We werken in een hechte club van vaste krachten en freelancers. Onze vaste krachten stellen we hier graag aan je voor."
