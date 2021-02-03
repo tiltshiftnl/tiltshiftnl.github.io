@@ -15,5 +15,4 @@ Eva werkte tot voor kort als freelance coördinator en coach in een aantal van o
 
 Met Tiltshift zitten we flink in de groei. Meer dan ooit is er behoefte aan goede publieke maatwerksoftware, die samen met de eindgebruikers wordt gemaakt. Die een fijne verandering brengt in hun werk en beperkt blijft tot wat echt nodig is. De komst van Eva is de eerste stap van een duurzame groei van het bedrijf. Met vaste gezichten, interne opleidingen en nog meer blije klanten.
 
-image: "assets/img/foto/20210125-EvaLeffefBijTiltshift.jpg"
-caption: 'De anderhalve-meter ondertekening op ons kantoor in Utrecht'
+<img style="margin: 40px 0;" src="/assets/img/foto/20210125-EvaLeffefBijTiltshift.jpg">
