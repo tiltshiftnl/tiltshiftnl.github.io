@@ -4,8 +4,8 @@ subject: mensen
 title: Eva Leffef onderdeel van Tiltshift
 description: "Hoe we een arbeidsovereenkomst tekenen in tijden van social distancing? Gewoon, op gepaste afstand, op kantoor."
 keywords: ""
-image: "assets/img/foto/20210125-EvaLeffefBijTiltshift.jpg"
-caption: 'De anderhalve-meter ondertekening op ons kantoor in Utrecht'
+image: "assets/img/foto/IMG_9253_scaled.jpg"
+caption: 'Explore "App Interne Dienstverlening", Gemeente&nbsp;Amsterdam'
 menu: show
 author: Joris Boeren
 ---
@@ -14,3 +14,6 @@ author: Joris Boeren
 Eva werkte tot voor kort als freelance coördinator en coach in een aantal van onze projecten. Bijvoorbeeld voor onze applicaties die helpen de dag- en weekmarkten in te delen voor Amsterdam. Ook de Straatnotes applicatiefamilie heeft ze onder haar hoede. Het was tijd voor een volgende stap. Voor haar (onderdeel worden van het management van Tiltshift) én voor ons (werknemer 001). 
 
 Met Tiltshift zitten we flink in de groei. Meer dan ooit is er behoefte aan goede publieke maatwerksoftware, die samen met de eindgebruikers wordt gemaakt. Die een fijne verandering brengt in hun werk en beperkt blijft tot wat echt nodig is. De komst van Eva is de eerste stap van een duurzame groei van het bedrijf. Met vaste gezichten, interne opleidingen en nog meer blije klanten.
+
+image: "assets/img/foto/20210125-EvaLeffefBijTiltshift.jpg"
+caption: 'De anderhalve-meter ondertekening op ons kantoor in Utrecht'
