@@ -34,7 +34,7 @@ Onze aanpak is gebaseerd op een combinatie van bestaande technieken als Design T
 ## Onze mensen
 Mensen maken het team. We werken in een hechte club van vaste krachten en freelancers. Iedereen is gedreven, 'eigen' en misschien een tikkeltje nerd. Iedereen kan zichzelf zijn bij ons en we waarderen elkaars eigenaardigheden. Vanzelfsprekend helpen we elkaar, met intervisie of een handje erbij in een project. Als opdrachtgever zie je misschien maar een paar gezichten, indirect werk je met alle teamleden van Tiltshift.
 
-Ontmoet de oprichters van Tiltshift: [Johan Groenen](/mensen/johan-groenen/), [Maarten Geraets](/mensen/maarten-geraets/) en [Joris Boeren](/mensen/joris-boeren/).
+Ontmoet de kern van Tiltshift: [Johan Groenen](/mensen/johan-groenen/), [Maarten Geraets](/mensen/maarten-geraets/), [Joris Boeren](/mensen/joris-boeren/) en [Eva Leffef](/mensen/eva-leffef/).
  
 ## Recente projecten
 [Tijdelijke woonvergunning voor kwetsbare groepen](/projecten/woonvergunning-voor-kwetsbare-groepen/)- Soms mogen mensen in Amsterdam een tijdje op proef wonen. Het regelen daarvan is complex en in overleg met veel verschillende (keten)partijen. Dat ging niet altijd soepel. Daarom verzonnen en bouwden wij een omgeving waarin nu veilig en gemakkelijker wordt samengewerkt. <br><br>
