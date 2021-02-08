@@ -13,7 +13,7 @@ author: Joris Boeren en Johan Groenen
 
 De woorden 'open source' mogen ingeburgerd zijn, de betekenis ervan wisselt nogal,  van amateurisme tot en met een 'gratis workforce van nerds'. Dat is natuurlijk onzin, open source is niet één ding maar heel breed. De code die je maakt heet open source, de licenties heten open source en het gedachtengoed heet eveneens open source. En zo kunnen we nog wel even doorgaan. Als je door de negatieve framing op internet heenkijkt kan je niet om de kansen heen die open source werken biedt. In dit artikel, in het kort, vijf redenen waarom de publieke sector eigenlijk niet anders meer zou moeten willen en doen. 
 
-## 1.: Open source is transparant
+## 1. Open source is transparant
 Door  je broncode en ontwerpdocumenten publiek toegankelijk te maken stel je jezelf kwetsbaar op maar geef je tegelijkertijd ruimte aan anderen om mee te denken. Doordat de code en rekenregels (algoritmes) vrij beschikbaar zijn worden ze controleerbaar en inzichtelijk voor iedereen die daar behoefte aan heeft. 
 
 ## 2. De kwaliteit van de code gaat omhoog
