@@ -4,7 +4,7 @@ subject: common ground
 title: Vijf redenen voor de overheid om te kiezen voor open source
 description: "De de overheid zegt primair open source te gaan werken. Maar in de praktijk is dat nog nauwelijks zo, op een enkele vooruitstrevende gemeente na. De vorig jaar ingezette beleidslijn 'open tenzij' blijkt in de praktijk nog flinterdun."
 keywords: ""
-image: "assets/img/foto/IMG_9253_scaled.jpg"
+image: "assets/img/foto/202101-opensourceopentenzij.jpg"
 caption: 'Explore "App Interne Dienstverlening", Gemeente&nbsp;Amsterdam'
 menu: show
 author: Joris Boeren en Johan Groenen
