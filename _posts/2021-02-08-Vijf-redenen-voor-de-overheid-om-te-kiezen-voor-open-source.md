@@ -3,14 +3,13 @@ layout: default
 subject: common ground
 title: Vijf redenen voor de overheid om te kiezen voor open source
 description: "De de overheid zegt primair open source te gaan werken. Maar in de praktijk is dat nog nauwelijks zo, op een enkele vooruitstrevende gemeente na. De vorig jaar ingezette beleidslijn 'open tenzij' blijkt in de praktijk nog flinterdun."
-keywords: ""
+keywords: "open source, overheid, good public tech"
 image: "assets/img/foto/202101-opensourceopentenzij.jpg"
-caption: 'Explore "App Interne Dienstverlening", Gemeente&nbsp;Amsterdam'
+caption: 'eigen beeld'
 menu: show
 author: Joris Boeren en Johan Groenen
 ---
 *{{ page.description }}*
-Wij vinden dat 'open tenzij' meer aandacht en prioriteit verdient. Want het past goed bij de overheid en de transparante samenwerking ervan leidt tot verhoging van kwaliteit, innovatie, regie en een eerlijker verdeling van kosten. Dat zetten we in bijgaand artikel weer eens op een rij. 
 
 De woorden 'open source' mogen ingeburgerd zijn, de betekenis ervan wisselt nogal,  van amateurisme tot en met een 'gratis workforce van nerds'. Dat is natuurlijk onzin, open source is niet één ding maar heel breed. De code die je maakt heet open source, de licenties heten open source en het gedachtengoed heet eveneens open source. En zo kunnen we nog wel even doorgaan. Als je door de negatieve framing op internet heenkijkt kan je niet om de kansen heen die open source werken biedt. In dit artikel, in het kort, vijf redenen waarom de publieke sector eigenlijk niet anders meer zou moeten willen en doen. 
 
