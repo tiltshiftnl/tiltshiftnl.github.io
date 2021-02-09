@@ -42,7 +42,7 @@ Ontmoet de kern van Tiltshift: [Johan Groenen](/mensen/johan-groenen/), [Maarten
 Dit zijn twee recente projecten. Een greep uit onze projecten van de afgelopen jaren tref je op onze [projectpagina](/projecten/)
 
 ## Nieuws
-[Opinie: vijf redenen voor de overheid om te kiezen voor open source](/posts/2021-02-08-Vijf-redenen-voor-de-overheid-om-te-kiezen-voor-open-source/) - De de overheid zegt primair open source te gaan werken. Maar in de praktijk is de vorig jaar ingezette beleidslijn ‘open tenzij’ nog flinterdun. (februari 2021)
+[Opinie: vijf redenen voor de overheid om te kiezen voor open source](https://www.tiltshift.nl/2021/02/08/Vijf-redenen-voor-de-overheid-om-te-kiezen-voor-open-source.html) - De de overheid zegt primair open source te gaan werken. Maar in de praktijk is de vorig jaar ingezette beleidslijn ‘open tenzij’ nog flinterdun. (februari 2021)
 <br><br>
 [Eva Leffef wordt Associate bij Tiltshift](https://www.linkedin.com/feed/update/urn:li:activity:6759385123508117504) - Eva Leffef blijft gewoon bij Tiltshift, maar vanaf nu als onderdeel van de wat zij noemt 'haar leukste zakelijke familie'. En daar zijn we blij mee. (januari 2021)
 <br><br>
