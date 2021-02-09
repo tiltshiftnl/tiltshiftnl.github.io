@@ -71,16 +71,17 @@
       <img class="menu" src="/assets/img/hamburger-menu.svg">
     </a>
 
-    <div class="header-with-image__caption">
-      {% if page.quote %}
-        <div class="header-with-image__caption__background">“{{ (page.quote }}”</div>
-        <div class="header-with-image__caption__content">“{{ (page.quote }}”</div>
-      {% else %}
-        <div class="header-with-image__caption__background">{{ (page.subtitle }}</div>
-        <div class="header-with-image__caption__content">{{ (page.subtitle }}</div>
-      {% endif %}
+    {% if page.quote %}
+    <div class="header-with-image__caption header-with-image__caption__quote">
+      <div class="header-with-image__caption__background">“{{ (page.quote }}”</div>
+      <div class="header-with-image__caption__content">“{{ (page.quote }}”</div>
     </div>
-
+    {% elsif page.subtitle %}
+    <div class="header-with-image__caption header-with-image__caption__subtitle">
+      <div class="header-with-image__caption__background">{{ page.subtitle }}</div>
+      <div class="header-with-image__caption__content">{{ page.subtitle }}</div>
+    </div>
+    {% endif %}
     
     <div class="slope slope--flip">
       <style>
