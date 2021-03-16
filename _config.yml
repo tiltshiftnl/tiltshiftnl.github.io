@@ -23,3 +23,6 @@ collections:
   materialen:
     output: true
     permalink: /:collection/:name/
+  landings:
+    output: true
+    permalink: /:collection/:name/
