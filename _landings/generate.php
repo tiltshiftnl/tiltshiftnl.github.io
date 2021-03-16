@@ -49,7 +49,8 @@ foreach ($products as $p) {
         $title = "{$p} voor {$t}";
         $keywords = str_replace(" ", ",", strtolower("{$p} {$t}"));
         $filename = str_replace(" ", "-", strtolower($title)) . ".md";
-        $template = str_replace(["__title__", "__keywords__"], [$title, $keywords], $template);
-        file_put_contents($filename, $template);
+        echo "$title\n";
+        $content = str_replace(["__title__", "__keywords__"], [$title, $keywords], $template);
+        file_put_contents($filename, $content);
     }
 }

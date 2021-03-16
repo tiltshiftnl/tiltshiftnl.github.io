@@ -2,12 +2,12 @@
 layout: default
 variant: red
 
-title: Innovatie voor uw Gemeente
+title: Innovatie voor de Publieke Sector
 description: Wij maken software voor de publieke sector. Dat doen we samen met de mensen die onze software gebruiken. Onze aanpak is gebaseerd op een combinatie van bestaande technieken als Design Thinking, Service Design, Lean Startup en Agile. [Lees meer over ons.](/)
 quote: Veranderen begint met iets anders doen
 
-keywords: innovatie,uw,gemeente
-labels: [innovatie,uw,gemeente]
+keywords: innovatie,de,publieke,sector
+labels: [innovatie,de,publieke,sector]
 
 image: /assets/img/foto/ZC-choose.jpg
 caption: 'Design Sprint "Meten klanttevredenheid in de zorg", De Zorgcirkel'
