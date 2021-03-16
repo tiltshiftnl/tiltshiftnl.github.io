@@ -10,9 +10,13 @@ $products = [
     "Software Design",
     "Innovatiepartner",
     "De Innovatiepartner",
+    "Realisatiepartner",
     "Labs",
     "Advies",
-    "Open Source"
+    "Open Source",
+    "Datagedreven Werken",
+    "Design Sprints",
+    
 ];
 $targets = [
     "uw Gemeente",
@@ -23,6 +27,7 @@ $targets = [
     "Overheden",
     "de Publieke Sector",
     "de Zorg",
+    "de Thuiszorg",
     "Common Ground"
 ];
 
