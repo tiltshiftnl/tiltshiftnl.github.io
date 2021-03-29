@@ -9,7 +9,7 @@ description: Wij maken software voor de publieke sector. Dat doen we samen met d
 
 keywords: digitale transformatie, probleemgedreven innovatie, kwartiermaker, human centered design, software design thinking, service design, lean startup, lean ux, agile development, xp, scrum, labs, apps, projecten, advies, consultancy, overheid, overheden, publieke sector, mens centraal, common ground, open source, creative commons, creative thinking, open collaboration, Fixxx, Push
 
-image: /assets/img/foto/IMG_1919.jpg
+image: assets/img/foto/banner_1.jpg
 caption: 'Fixxx discovery "Overlast Rembrandtplein", Gemeente&nbsp;Amsterdam'
 ---
 <a name="Wat we doen"/>
