@@ -19,11 +19,11 @@ body, main {
 }
 .label {
     background: #f4b4b4;
-    color: #1C1C1B;
+    color: #1D1621;
 }
 button {
   background: #f4b4b4;
-  color: #1C1C1B;
+  color: #1D1621;
 }
 /* BLUE */
 .body--variant-blue,
@@ -47,17 +47,17 @@ button {
 }
 .body--variant-blue .label {
     background: #b4b4f4;
-    color: #1C1C1B;
+    color: #1D1621;
 }
 .body--variant-blue button {
   background: #b4b4f4 !important;
-  color: #1C1C1B !important;
+  color: #1D1621 !important;
 }
 /* WHITE */
 .body--variant-white,
 .body--variant-white main {
     background: #fff;
-    color: #1C1C1B;
+    color: #1D1621;
 }
 .body--variant-white .slope {
     background: url(/assets/img/angled_slope_white.svg) top left no-repeat;
@@ -74,10 +74,10 @@ button {
   background-color: #454545;
 }
 .body--variant-white .label {
-    background: #1C1C1B;
+    background: #1D1621;
     color: #fff;
 }
 .body--variant-white button {
-  background: #1C1C1B !important;
+  background: #1D1621 !important;
   color: #fff !important;
 }
