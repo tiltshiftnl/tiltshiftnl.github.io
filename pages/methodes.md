@@ -1,6 +1,6 @@
 ---
 layout: default
-variant: blue
+variant: white
 permalink: /methodes/
 
 title: Methodes
