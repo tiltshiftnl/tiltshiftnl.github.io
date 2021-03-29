@@ -1,0 +1,22 @@
+.footer{
+    background-color: $lila;
+    padding: 2rem 0;
+    &__inner{
+        max-width: 26rem;
+        margin: 0 auto;
+        &__columns{
+            display: grid;
+             /* define the number of grid columns */
+            grid-template-columns: repeat(3, 1fr);
+
+            @media screen and (min-width: $breakpoint-md) {
+                height: 220px;
+            }
+
+            &__column{
+                display: flex;
+                flex-direction: column;
+            }
+        }
+    }
+}

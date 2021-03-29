@@ -1,3 +1,16 @@
+---
+---
+
+// Variables
+@import "colors";
+@import "variants";
+@import "breakpoints";
+
+// "Components"
+@import "header";
+@import "footer";
+
+
 html, body {
     margin: 0;
     padding: 0;

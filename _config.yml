@@ -26,3 +26,6 @@ collections:
   landings:
     output: true
     permalink: /:collection/:name/
+
+sass:
+  sass_dir: /css/_sass
