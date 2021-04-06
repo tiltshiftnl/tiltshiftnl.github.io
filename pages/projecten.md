@@ -1,6 +1,7 @@
 ---
 layout: default
 permalink: /projecten/
+variant: white
 
 subject: Tiltshift projecten
 title: Tiltshift projecten

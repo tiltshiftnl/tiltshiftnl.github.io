@@ -1,5 +1,6 @@
 ---
 layout: default
+variant: white
 
 title: "Klanttevredenheid in de zorg"
 description: Hoe meet je als zorginstelling de klantervaringen? En hoe doe je dat in de intramurale zorg? Toen we met Zorgcirkel op zoek gingen naar het antwoord kwamen de deelnemers aan de designsprint met een tijdbesparende oplossing.
@@ -41,5 +42,3 @@ Lotte van der Steeg (opdrachtgever), Eef Pothast (projectmanager).
 <p style="font-size: 0.75em">
 Tiltshift team: Yolijn van der Kolk, Eva Leffef, Maarten Geraets en Adriaan Zwiers.
 </p>
-
-Lees meer over hoe wij een [Design Sprint](/methodes/design-sprint/) aanpakken.

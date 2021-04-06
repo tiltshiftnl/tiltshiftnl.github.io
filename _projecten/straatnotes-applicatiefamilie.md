@@ -1,5 +1,6 @@
 ---
 layout: default
+variant: white
 
 title: "Straatnotes geeft inzicht in de stad"
 description: Straatnotes helpt de observaties van straatcoaches te verzamelen en om te zetten naar bruikbare informatie en waardevolle inzichten. Veilig, en met waarborg voor de privacy van de betrokkenen. 
