@@ -1,5 +1,6 @@
 ---
 layout: default
+variant: white
 
 title: "Digitaal Indelen Straatmarkten"
 description: Op de Amsterdamse straatmarkten worden de plaatsen verdeeld op basis van heel veel regels. Maar gaat dit wel eerlijk en transparant? En kost het niet teveel tijd? Tiltshift organiseerde digitale innovatie op de straatmarkten van Amsterdam.
