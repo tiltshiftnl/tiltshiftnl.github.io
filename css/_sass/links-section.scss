@@ -1,0 +1,22 @@
+.links-section{
+    display: flex;
+    flex-direction: column;
+    margin-bottom: $gutter-sm;
+
+    .heading-neue{
+        font-size: $font-size-sm;
+    }
+
+    a {
+        color: $primair-blauw;
+        margin-right: $gutter-xs;
+        text-decoration: none;
+        line-height: 1.4;
+    }
+
+    @media screen and (min-width: $breakpoint-md) {
+        flex-direction: row;
+    }
+
+
+}

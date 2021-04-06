@@ -1,0 +1,13 @@
+.image_caption {
+    color: white;
+    font-family: 'mr-eaves-modern';
+    font-size: 0.5em;
+    position: absolute;
+    right: 40px;
+    bottom: 50px;
+    text-align: right;
+    transform: rotate(6deg);
+    @media screen and (max-width: $breakpoint-md) {
+        display: none;
+    }
+  }

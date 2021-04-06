@@ -1,22 +1,99 @@
 .footer{
-    background-color: $lila;
-    padding: 2rem 0;
+    background-color: $secundair-blauw;
+    position: relative;
+    overflow: hidden;
+
     &__inner{
-        max-width: 26rem;
         margin: 0 auto;
+        padding: 4rem 0;
+        display: flex;
+        flex-direction: column;
+        justify-content: flex-start;
+
+        @media screen and (min-width: $breakpoint-md) {
+            flex-direction: row;
+            padding: 5rem 0;
+            // min-height: 6rem;
+            justify-content: flex-start;
+        }
+
+        @media screen and (min-width: $breakpoint-lg) {
+            padding: 5rem 0;
+            // min-height: 7rem;
+        }
+
+        @media screen and (min-width: $breakpoint-xl) {
+            padding: 9rem 0;
+            // min-height: 5rem;
+        }
+
         &__columns{
-            display: grid;
-             /* define the number of grid columns */
-            grid-template-columns: repeat(3, 1fr);
+            display: flex;
+            flex-direction: column;
+            color: $off-white;
 
             @media screen and (min-width: $breakpoint-md) {
-                height: 220px;
+                flex-direction: row;
+                justify-content: space-between;
+            }
+
+            &__logo{
+                margin-right: 50px;
+                // margin-bottom: $gutter-md;
+                @media screen and (min-width: $breakpoint-md) {
+                    margin-bottom: 0;
+                }
             }
 
             &__column{
                 display: flex;
                 flex-direction: column;
+                margin-right: 50px;
+                line-height: 1.2;
+                .heading-neue{
+                    margin: 0 0 5px;
+                    font-size: $font-size-sm;
+                    margin-top: $gutter-md;
+                    @media screen and (min-width: $breakpoint-md) {
+                        margin-top: 0;
+                    }
+                }
+                a {
+                    font-size: $font-size-sm;
+                    color: white;
+                }
+                p{
+                    margin: 0;
+                    font-size: $font-size-xs;
+                }
             }
+        }
+
+        &__socials{
+            display: flex;
+            flex-direction: row;
+            margin-top: $gutter-md;
+
+            a {
+                display: flex;
+                margin-right: 20px;
+                margin-left: 0;
+                align-items: center;
+                justify-content: center;
+            }
+
+            @media screen and (min-width: $breakpoint-md) {
+                align-items: flex-start;
+                justify-content: flex-start;
+                margin-top: 0;
+
+                a {
+                    display: flex;
+                    margin-left: 20px;
+                    margin-right: 0;
+                }
+            }
+
         }
     }
 }

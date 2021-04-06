@@ -1,0 +1,9 @@
+.container-md{
+    width: calc(100% - (2 * #{$gutter-md}) );
+    margin: 0 auto;
+
+    @media screen and (min-width: $breakpoint-lg) {
+        width: $container-width-md;
+    }
+
+}
