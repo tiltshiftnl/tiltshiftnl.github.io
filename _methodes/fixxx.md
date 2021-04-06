@@ -1,6 +1,6 @@
 ---
 layout: default
-variant: blue
+variant: white
 
 title: Fixxx
 subtitle: Begin meteen met de implementatie zodat iedereen ook echt betrokken is en kan meedenken
