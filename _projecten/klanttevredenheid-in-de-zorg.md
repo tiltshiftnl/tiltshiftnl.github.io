@@ -1,5 +1,6 @@
 ---
 layout: default
+variant: white
 
 title: "Klanttevredenheid in de zorg"
 description: Hoe meet je als zorginstelling de klantervaringen? En hoe doe je dat in de intramurale zorg? Toen we met Zorgcirkel op zoek gingen naar het antwoord kwamen de deelnemers aan de designsprint met een tijdbesparende oplossing.
