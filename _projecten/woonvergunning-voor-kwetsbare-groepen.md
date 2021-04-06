@@ -1,5 +1,6 @@
 ---
 layout: default
+variant: white
 
 title: Woonvergunning voor Kwetsbare Groepen
 description: In Amsterdam kunnen mensen uit kwetsbare groepen onder begeleiding een periode proef-wonen. Om dat te organiseren werken hulpverleners en gemeente nauw samen in een complex proces. En dat verliep niet altijd even soepel. Samen met de betrokkenen zorgde Tiltshift voor een oplossing.
