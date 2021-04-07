@@ -1,8 +1,9 @@
 ---
 layout: default
+variant: white
 subject: common ground
 title: Vijf redenen voor de overheid om te kiezen voor open source
-description: "De de overheid zegt primair open source te gaan werken. Maar in de praktijk is dat nog nauwelijks zo, op een enkele vooruitstrevende gemeente na. De vorig jaar ingezette beleidslijn 'open tenzij' blijkt in de praktijk nog flinterdun."
+description: "De overheid zegt primair open source te gaan werken. Maar in de praktijk is dat nog nauwelijks zo, op een enkele vooruitstrevende gemeente na. De vorig jaar ingezette beleidslijn 'open tenzij' blijkt in de praktijk nog flinterdun."
 keywords: "open source, overheid, good public tech"
 image: /assets/img/foto/202101-opensourceopentenzij.jpg
 caption: 'eigen beeld'
