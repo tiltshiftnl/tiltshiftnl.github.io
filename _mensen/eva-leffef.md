@@ -16,6 +16,6 @@ back: ..
 ---
 {{ page.description }}
 
-Als associate bij Tiltshift is Eva verantwoordelijk voor een aantal projecten en opdrachtgevers. Zo heeft ze bijvoorbeeld de applicaties die helpen de dag- en weekmarkten in te delen voor Amsterdam onder haar hoede. Ook de Straatnotes applicatiefamilie heeft haar speciale aandacht.
+Als associate bij Tiltshift is Eva verantwoordelijk voor een aantal projecten en opdrachtgevers. De Straatnotes applicatiefamilie en de applicaties die helpen de Amsterdamse dag- en weekmarkten in te delen hebben haar speciale aandacht.
 
 [Linked-in pagina van Eva](https://www.linkedin.com/in/evaleffef/)
