@@ -15,9 +15,14 @@
         top: $header-gutter;
         height: 75px;
         display: flex;
+        justify-content: flex-start;
+        align-items: flex-start;
         z-index: 9;
         @media screen and (min-width: $breakpoint-md) {
             height: 160px;
+        }
+        img {
+            height: 100%;
         }
     }
 
@@ -134,7 +139,8 @@
                 margin-top: 75px;
                 a {
                     color: white;
-                    line-height: 1.7;
+                    line-height: 1.9;
+                    margin: 0;
                 }
             }
         }
