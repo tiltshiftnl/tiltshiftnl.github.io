@@ -5,4 +5,12 @@
     &--h2{
         font-size: $font-size-md;
     }
+    &--small{
+        font-size: $font-size-sm;
+    }
+    &--link{
+        margin-right: $gutter-xs;
+        text-decoration: none;
+        line-height: 1.4;
+    }
 }

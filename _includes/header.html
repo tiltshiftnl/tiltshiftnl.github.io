@@ -1,3 +1,28 @@
+<div class="navigation" href="/menu">
+  <a class="navigation__logo" href="/"><img src="/assets/img/logo_cropped.svg"></a>
+  <div class="navigation__background">
+    {% include slope-blue-flipped.html %}
+  </div>
+  <div class="navigation__links">
+    {% include main-links.html %}
+  </div>
+
+  <div class="navigation__hamburger" onclick="showNav()">
+    <img class="navigation__hamburger__icon" src="/assets/img/hamburger-menu.svg">
+  </div>
+  <div class="navigation__mobile-menu" id="mobile-navigation">
+    <div class="navigation__mobile-menu__backdrop" onclick="hideNav()">
+    </div>
+    <div class="navigation__mobile-menu__panel">
+        <div class="navigation__mobile-menu__panel__close" onclick="hideNav()">
+          <img class="navigation__mobile-menu__panel__close__icon" src="/assets/img/close.svg">
+        </div>
+        <div class="navigation__mobile-menu__panel__links">
+          {% include main-links.html %}
+        </div>
+    </div>
+  </div>
+</div>
 <div class="header-with-image">
   <style>
     .header-with-image {
@@ -13,17 +38,15 @@
     }
   </style>
 
-  <div class="header-with-image-overlay-black"></div>
-
+  <!-- <div class="header-with-image-overlay-black"></div> -->
   <!-- <div class="header-with-image-overlay"></div> -->
 
-  <div style="position: absolute; width: 100%; height: 100%;">
 
-    <a href="/"><img class="logo" src="/assets/img/logo.svg"></a>
 
-    <a href="/menu">
-      <img class="menu" src="/assets/img/hamburger-menu.svg">
-    </a>
+  <div class="header-with-image__content">
+
+    <div class="header-with-image__content__top">
+    </div>
 
     {% if page.quote %}
     <div class="header-with-image__caption header-with-image__caption__quote">
@@ -31,10 +54,10 @@
       <div class="header-with-image__caption__content">“{{ (page.quote }}”</div>
     </div>
     {% elsif page.subtitle %}
-    <div class="header-with-image__caption header-with-image__caption__subtitle">
+    <!-- <div class="header-with-image__caption header-with-image__caption__subtitle">
       <div class="header-with-image__caption__background">{{ page.subtitle }}</div>
       <div class="header-with-image__caption__content">{{ page.subtitle }}</div>
-    </div>
+    </div> -->
     {% endif %}
 
     <div class="slope slope--flip">
@@ -42,3 +65,21 @@
     </div>
   </div>
 </div>
+
+<script>
+  function showNav() {
+    var mobileNavigation = document.getElementById("mobile-navigation");
+    if (mobileNavigation.classList.contains('active')) {
+      mobileNavigation.classList.remove('active')
+    } else {
+      mobileNavigation.classList.add('active')
+    }
+  }
+  function hideNav(){
+    var mobileNavigation = document.getElementById("mobile-navigation");
+    if (mobileNavigation.classList.contains('active')) {
+      mobileNavigation.classList.remove('active')
+    }
+  }
+
+</script>

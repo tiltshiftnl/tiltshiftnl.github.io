@@ -1,0 +1,144 @@
+.navigation{
+    position: fixed;
+    top: 0;
+    right: 0;
+    width: 100%;
+    height: 4rem;
+    z-index: 10;
+    @media screen and (min-width: $breakpoint-md) {
+        position: absolute;
+        height: auto;
+    }
+    &__logo{
+        position: absolute;
+        left: $header-gutter;
+        top: $header-gutter;
+        height: 75px;
+        display: flex;
+        z-index: 9;
+        @media screen and (min-width: $breakpoint-md) {
+            height: 160px;
+        }
+    }
+
+    &__background{
+        position: absolute;
+        width: 100%;
+        height: 100%;
+        top: 0;
+        right: 0;
+        svg {
+            position: absolute;
+            right: 0;
+            height: 4rem;
+        }
+        @media screen and (min-width: $breakpoint-md) {
+            height: inherit;
+            position: absolute;
+            height: auto;
+            svg {
+                height: inherit;
+            }
+        }
+        @media screen and (min-width: $breakpoint-xl) {
+            width: 1600px;
+        }
+        @media screen and (min-width: $breakpoint-xxl) {
+            width: 1800px;
+        }
+
+    }
+
+    &__links{
+        display: none;
+        z-index: 999;
+        position: absolute;
+        right: $header-gutter;
+        top: $header-gutter;
+        @media screen and (min-width: $breakpoint-md) {
+            display: flex;
+        }
+        a {
+            // color: $primair-blauw;
+            color: white;
+            margin-left: $gutter-xs;
+            text-decoration: none;
+            @media screen and (min-width: $breakpoint-xl) {
+                font-size: $font-size-md;
+            }
+            @media screen and (min-width: $breakpoint-xxl) {
+                font-size: $font-size-md;
+            }
+        }
+
+    }
+
+    &__hamburger{
+        display: block;
+        width: 28px;
+        height: 28px;
+        position: fixed;
+        top: $header-gutter;
+        right: $header-gutter;
+        z-index: 10;
+        cursor: pointer;
+        @media screen and (min-width: $breakpoint-md) {
+            display: none;
+        }
+        &__icon{
+            height: 100%;
+        }
+    }
+    &__mobile-menu{
+        position: fixed;
+        left: 0;
+        top: 0;
+        display: none;
+        height: 100%;
+        width: 100%;
+        z-index: 100;
+        justify-content: space-between;
+
+        &.active{
+            display: flex;
+        }
+
+        &__backdrop{
+            background-color: rgba(0, 0, 0, 0.5);
+            width: 30%;
+            height: 100%;
+        }
+        &__panel{
+            width: 70%;
+            height: 100%;
+            background-color: $secundair-blauw;
+            display: flex;
+            justify-content: center;
+            align-items: flex-start;
+            &__close{
+                position: absolute;
+                right: $header-gutter;
+                top: $header-gutter;
+                width: 28px;
+                height: 28px;
+                display: flex;
+                justify-content: flex-end;
+                cursor: pointer;
+                img{
+                    height: 100%;
+                }
+            }
+            &__links{
+                display: flex;
+                flex-direction: column;
+                margin-top: 75px;
+                a {
+                    color: white;
+                    line-height: 1.7;
+                }
+            }
+        }
+
+    }
+
+}

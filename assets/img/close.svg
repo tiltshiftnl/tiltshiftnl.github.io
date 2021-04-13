@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="64px" height="74px" viewBox="0 0 64 74" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 64 (93537) - https://sketch.com -->
+    <title>hamburger-menu</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="hamburger-menu" transform="translate(-2.000000, -2.000000)" fill="#FFFFFF" fill-rule="nonzero">
+            <g id="g832" transform="translate(33.000000, 39.000000) rotate(-51.000000) translate(-33.000000, -39.000000) translate(-12.000000, 34.000000)">
+                <rect id="rect826" x="5" y="0" width="80" height="10"></rect>
+                <circle id="circle828" cx="5" cy="5" r="5"></circle>
+                <circle id="circle830" cx="85" cy="5" r="5"></circle>
+            </g>
+            <g id="g832" transform="translate(35.000000, 39.000000) rotate(-129.000000) translate(-35.000000, -39.000000) translate(-10.000000, 34.000000)">
+                <rect id="rect826" x="5" y="0" width="80" height="10"></rect>
+                <circle id="circle828" cx="5" cy="5" r="5"></circle>
+                <circle id="circle830" cx="85" cy="5" r="5"></circle>
+            </g>
+        </g>
+    </g>
+</svg>

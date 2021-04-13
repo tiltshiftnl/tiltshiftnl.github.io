@@ -10,6 +10,7 @@
 
 // "Components"
 @import "header";
+@import "navigation";
 @import "footer";
 @import "container";
 @import "slope";
@@ -69,6 +70,12 @@ main p { margin-bottom: 2em }
 main li { margin-left: 40px }
 main a { color: inherit }
 main form { margin-bottom: 1em }
+
+main {
+    h2{
+        margin-bottom: 5px;
+    }
+}
 
 .label {
     display: inline-block;

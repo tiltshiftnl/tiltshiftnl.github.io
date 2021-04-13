@@ -3,13 +3,25 @@
     height: 380px;
     min-height: 30vw;
     position: relative;
+    &__content{
+      z-index: 999;
+      &__top{
+        display: flex;
+        justify-content: space-between;
+        padding: $gutter-sm;
+      }
+    }
   }
   .header-with-image__caption {
+    display: none;
     position: absolute;
     top: 140px;
     right: 40px;
     width: 60%;
     font-family: HelveticaNeueLTPro-Bd, sans-serif;
+    @media screen and (min-width: $breakpoint-md) {
+      display: block;
+  }
   }
   .header-with-image__caption__background {
     background: #ffffff;
@@ -23,20 +35,6 @@
     color: #ffffff;
     position: absolute;
     text-shadow: 0 0 20px #1C1C1B;
-  }
-  .logo {
-    height: 120px;
-    @media screen and (min-width: $breakpoint-md) {
-        height: 220px;
-    }
-  }
-  .menu {
-    width: 28px;
-    height: 28px;
-    position: fixed;
-    top: 40px;
-    right: 40px;
-    z-index: 10;
   }
   .header-with-image-overlay {
     background-size: cover;

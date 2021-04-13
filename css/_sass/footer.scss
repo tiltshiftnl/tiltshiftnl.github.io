@@ -11,11 +11,9 @@
         flex-direction: column;
         justify-content: flex-start;
 
-
         @media screen and (min-width: $breakpoint-md) {
             flex-direction: row;
             padding: 4rem 0;
-
             justify-content: flex-start;
         }
 
