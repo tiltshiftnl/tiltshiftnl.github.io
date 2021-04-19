@@ -44,6 +44,8 @@ Toen de indeling betrouwbaar genoeg was zijn de kooplieden van de markt op plein
 
 Het resultaat is een (web-)applicatie kiesjekraam.amsterdam.nl waarin ondernemers hun voorkeuren voor een plek op de markt ingeven, het marktbureau transparant de ondernemers over de kramen indeelt en de marktmeesters beschikken over een dashboard met relevante rapportages voor hun werk.
 
+> Ik ga pas naar de veiling als ik zeker weet dat ik een kraam krijg.
+
 Maar deze digitale transitie maakt meer mogelijk. Zo zien kooplieden eerder of er plek voor ze is, en welke kraam precies. Marktmeesters kunnen hun werk beter over de dag spreiden zodat ze ook aan het eind van de markt aanwezig kunnen zijn. En tenslotte is er één geharmoniseerde werkwijze voor alle markten van Amsterdam, conform de verordening.
 
 <p style="font-size: 0.75em">
