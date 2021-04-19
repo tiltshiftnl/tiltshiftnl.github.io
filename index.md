@@ -39,10 +39,13 @@ Mensen maken het team. We werken in een hechte club van vaste krachten en freela
 
 Ontmoet de kern van Tiltshift: [Johan Groenen](/mensen/johan-groenen/), [Maarten Geraets](/mensen/maarten-geraets/), [Joris Boeren](/mensen/joris-boeren/) en [Eva Leffef](/mensen/eva-leffef/).
 
-## Recente projecten
-[Tijdelijke woonvergunning voor kwetsbare groepen](/projecten/woonvergunning-voor-kwetsbare-groepen/)- Soms mogen mensen in Amsterdam een tijdje op proef wonen. Het regelen daarvan is complex en in overleg met veel verschillende (keten)partijen. Dat ging niet altijd soepel. Daarom verzonnen en bouwden wij een omgeving waarin nu veilig en gemakkelijker wordt samengewerkt. <br><br>
+
+{% include projects-homepage.html title="Uitgelichte projecten" intro="Om succesvol software te ontwikkelen is het belangrijk om goed te bedenken welk probleem je eigenlijk aan het oplossen bent en voor wie." projects=site.projects %}
+
+
+<!-- [Tijdelijke woonvergunning voor kwetsbare groepen](/projecten/woonvergunning-voor-kwetsbare-groepen/)- Soms mogen mensen in Amsterdam een tijdje op proef wonen. Het regelen daarvan is complex en in overleg met veel verschillende (keten)partijen. Dat ging niet altijd soepel. Daarom verzonnen en bouwden wij een omgeving waarin nu veilig en gemakkelijker wordt samengewerkt. <br><br>
 [Van aantekening op straat tot bruikbare informatie](/projecten/straatnotes-applicatiefamilie/) - Straatnotes helpt de observaties van straatcoaches te verzamelen en  om te zetten naar bruikbare informatie en waardevolle inzichten. Veilig, en met waarborg voor de privacy van de betrokkenen.
-Dit zijn twee recente projecten. Een greep uit onze projecten van de afgelopen jaren tref je op onze [projectpagina](/projecten/)
+Dit zijn twee recente projecten. Een greep uit onze projecten van de afgelopen jaren tref je op onze [projectpagina](/projecten/) -->
 
 ## Nieuws
 [Opinie: vijf redenen voor de overheid om te kiezen voor open source](https://www.tiltshift.nl/2021/02/08/Vijf-redenen-voor-de-overheid-om-te-kiezen-voor-open-source.html) - De de overheid zegt primair open source te gaan werken. Maar in de praktijk is de vorig jaar ingezette beleidslijn ‘open tenzij’ nog flinterdun. (februari 2021)

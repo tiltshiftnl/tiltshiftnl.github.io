@@ -11,6 +11,7 @@ labels: [datagedreven werken, overlast, informatiebeveiliging, privacy]
 
 image: /assets/img/foto/IMG_0003.JPG
 caption: 'Fixxx "StraatNotes", Gemeente&nbsp;Amsterdam'
+featured: false
 
 order: 3
 back: ..

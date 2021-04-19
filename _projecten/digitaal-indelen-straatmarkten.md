@@ -10,12 +10,20 @@ keywords:
 labels: [datagedreven werken, digitale transformatie, eerlijke algoritmes, public code]
 
 image: /assets/img/foto/IMG_9715.JPG
+image_alt_text: 'Alt_text'
+featured_image: /assets/img/foto/1.JPG
+featured_image_alt_text: 'Alt_text'
+
+excerpt: "De marktverordening digitaal toegepast zodat ondernemers transparant hun plaats op de Amsterdamse markt krijgen."
+
 caption: 'Discovery "Digitaal Indelen Straatmarkten", Gemeente&nbsp;Amsterdam'
 
+featured_order: 1
+featured: true
 order: 2
 back: ..
 ---
-Op de ruim vijfentwintig Amsterdamse straatmarkten krijgen de kooplieden een kraam op volgorde van anciënniteit en heel veel aanvullende regels. Die regels zijn zo complex dat het voor de marktmeesters knap lastig is om de kramen ’s-ochtens eerlijk in te delen. Al helemaal in een omgeving waar niemand op zijn mondje gevallen is. 
+Op de ruim vijfentwintig Amsterdamse straatmarkten krijgen de kooplieden een kraam op volgorde van anciënniteit en heel veel aanvullende regels. Die regels zijn zo complex dat het voor de marktmeesters knap lastig is om de kramen ’s-ochtens eerlijk in te delen. Al helemaal in een omgeving waar niemand op zijn mondje gevallen is.
 
 Het marktbureau van de gemeente Amsterdam maakte zich zorgen over de eerlijkheid en transparantie van de indeling van de markten. De complexe indeling vereist veel inzet van de marktmeesters in de ochtend, waardoor er in de middag regelmatig niemand meer beschikbaar om toezicht te houden op de markt.
 
@@ -36,7 +44,7 @@ Toen de indeling betrouwbaar genoeg was zijn de kooplieden van de markt op plein
 
 Het resultaat is een (web-)applicatie kiesjekraam.amsterdam.nl waarin ondernemers hun voorkeuren voor een plek op de markt ingeven, het marktbureau transparant de ondernemers over de kramen indeelt en de marktmeesters beschikken over een dashboard met relevante rapportages voor hun werk.
 
-Maar deze digitale transitie maakt meer mogelijk. Zo zien kooplieden eerder of er plek voor ze is, en welke kraam precies. Marktmeesters kunnen hun werk beter over de dag spreiden zodat ze ook aan het eind van de markt aanwezig kunnen zijn. En tenslotte is er één geharmoniseerde werkwijze voor alle markten van Amsterdam, conform de verordening. 
+Maar deze digitale transitie maakt meer mogelijk. Zo zien kooplieden eerder of er plek voor ze is, en welke kraam precies. Marktmeesters kunnen hun werk beter over de dag spreiden zodat ze ook aan het eind van de markt aanwezig kunnen zijn. En tenslotte is er één geharmoniseerde werkwijze voor alle markten van Amsterdam, conform de verordening.
 
 <p style="font-size: 0.75em">
     Marjolein van der Vlugt -Smit (opdrachtgever en product owner), Laura Buonomo en Floor Vos (marktbureau), Jacqueline van Norden (implementatie) en de marktmeesters, marktbeheerders en kooplieden van de Albert Cuypmarkt, de Dappermarkt en Plein 40-45.

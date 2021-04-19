@@ -16,7 +16,9 @@
 @import "slope";
 @import "links-section";
 @import "image-caption";
+@import "image-link-block";
 @import "blockquote";
+@import "plane";
 
 
 html, body {
@@ -39,14 +41,14 @@ h1 {
     padding-top: 0.2em;
 }
 h2 {
-    font-family: Helvetica, Arial, sans-serif;
+    font-family: HelveticaNeueRegular, Arial, sans-serif;
     font-weight: 500;
     font-style: normal;
     font-size: $font-size-lg;
     line-height: 1em;
 }
 h3 {
-    font-family: HelveticaNeueLTPro-Bd, sans-serif;
+    font-family: HelveticaNeueRegular, Arial, sans-serif;
 }
 
 nav {
@@ -63,17 +65,23 @@ nav a {
 main {
     background: #E54545;
     color: #FFFFFF;
-    padding: 5px 0;
-    margin: 0 auto; padding: 0 20px; max-width: 960px;
 }
 main > h1,
 main > h2,
-main h3,
+main > h3,
 main > p,
 main > ul,
-main > form {  }
+main > form,
 main > p {
     margin-top: 0;
+    padding: 0 20px;
+    margin-left: auto;
+    margin-right: auto;
+    @media screen and (min-width: $breakpoint-md) {
+        width: $container-width-md;
+    }
+}
+main > p {
     margin-bottom: 2em;
 }
 main li { margin-left: 40px }

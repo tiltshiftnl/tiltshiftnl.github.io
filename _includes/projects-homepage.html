@@ -1,0 +1,17 @@
+{% assign title = include.title %}
+{% assign intro = include.intro %}
+
+{% assign projecten = site.projecten | where: "featured", "true" | sort: "featured_order" %}
+
+
+<div class="plane">
+    <div class="container-md">
+        <h2>{{title}}</h2>
+        <p class="plane__introduction">{{intro}}</p>
+        <div>
+        {% for project in projecten  %}
+            {% include image-link-block.html image=project.image title=project.title excerpt=project.excerpt url=project.url %}
+        {% endfor %}
+        </div>
+    </div>
+</div>

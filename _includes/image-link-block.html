@@ -1,0 +1,15 @@
+{% assign title = include.title %}
+{% assign url = include.url %}
+{% assign excerpt = include.excerpt %}
+{% assign image = include.image %}
+
+<a href="{{ url }}" class="image-link-block">
+    <div class="image-link-block__image">
+        <img src="{{ image }}" alt="" />
+    </div>
+    <div class="image-link-block__text">
+        <h3 class="image-link-block__text__title">{{title}}</h3>
+        <p class="image-link-block__text__excerpt">{{excerpt}}</p>
+    </div>
+</a>
+

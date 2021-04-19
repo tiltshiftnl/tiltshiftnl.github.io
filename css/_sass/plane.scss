@@ -1,0 +1,12 @@
+.plane{
+    background: #efefef;
+    padding: $gutter-md;
+    margin-bottom: $gutter-md;
+    width: 100%;
+    @media screen and (min-width: $breakpoint-sm) {
+        padding: $gutter-md 0;
+    }
+    &__introduction{
+        margin: 0 auto $gutter-md;
+    }
+}
