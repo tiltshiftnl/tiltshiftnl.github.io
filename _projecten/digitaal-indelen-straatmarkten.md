@@ -42,9 +42,9 @@ Het team loste dit op door middel van een een vast en herhalend proces. Elke wee
 
 Toen de indeling betrouwbaar genoeg was zijn de kooplieden van de markt op plein 40-45 erbij betrokken. Die hadden er in het begin maar bar weinig vertrouwen in. Waar ze normaal de markt opreden, de situatie opnamen en wisten waar ze aan toe waren moesten ze nu vertrouwen op dat ene mailtje van de avond ervoor. We wonnen hun vertrouwen door de marktmeesters een dashboard te geven. Daarmee konden ze goed en eenvoudig uitleggen waarom de indeling was zoals ’ie was. En toen zagen de kooplieden vooral de voordelen van het systeem: je bent zeker van je plek en de markt wordt sneller opgebouwd.
 
-Het resultaat is een (web-)applicatie kiesjekraam.amsterdam.nl waarin ondernemers hun voorkeuren voor een plek op de markt ingeven, het marktbureau transparant de ondernemers over de kramen indeelt en de marktmeesters beschikken over een dashboard met relevante rapportages voor hun werk.
-
 > Ik ga pas naar de veiling als ik zeker weet dat ik een kraam krijg.
+
+Het resultaat is een (web-)applicatie kiesjekraam.amsterdam.nl waarin ondernemers hun voorkeuren voor een plek op de markt ingeven, het marktbureau transparant de ondernemers over de kramen indeelt en de marktmeesters beschikken over een dashboard met relevante rapportages voor hun werk.
 
 Maar deze digitale transitie maakt meer mogelijk. Zo zien kooplieden eerder of er plek voor ze is, en welke kraam precies. Marktmeesters kunnen hun werk beter over de dag spreiden zodat ze ook aan het eind van de markt aanwezig kunnen zijn. En tenslotte is er één geharmoniseerde werkwijze voor alle markten van Amsterdam, conform de verordening.
 
