@@ -25,6 +25,8 @@ In alles denken en doen we Open Source, Common Ground en geloven we in de meerwa
 
 We werken voor **gemeenten** zoals Amsterdam, Amersfoort, Rotterdam, Stichtse Vecht, **provincies** Flevoland en Zuid-Holland maar ook voor VNG Vereniging Nederlandse Gemeenten, het ministerie van Algemene Zaken en voor woningcorporaties, ouderenzorg en universiteiten.
 
+> Als je mensen niet over het hoofd wil zien, moet je ze betrekken in alle fases van het project.
+
 ## Onze aanpak
 Onze aanpak is gebaseerd op een combinatie van bestaande technieken als Design Thinking, Lean Startup en Agile. We hebben daar eigen methodes van gemaakt en ze volledig afgestemd op wat nodig is in een project. Dit zorgt voor structuur en zo weet iedereen waar we staan en wat er moet gebeuren. Het legt extra focus op het probleem dat we oplossen en voorkomt dat het team verstrikt raakt in omgevingsfactoren.
 
