@@ -1,0 +1,20 @@
+blockquote{
+    width: $container-sm;
+    max-width: 100%;
+    margin: 0 auto $margin-bottom-block;
+    border-left: 4px solid $red;
+    > p {
+        display: block;
+        padding: .60rem $gutter-sm;
+        font-style: italic;
+        color: $red;
+        word-wrap: break-word;
+        font-size: $font-size-md;
+        &:before{
+            content:"“";
+        }
+        &:after{
+            content:"”";
+        }
+    }
+}

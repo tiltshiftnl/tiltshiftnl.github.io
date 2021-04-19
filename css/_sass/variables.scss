@@ -11,9 +11,12 @@ $header-gutter: $gutter-sm;
 
 // Container dimensions
 $container-width-md: 1024px;
+$container-sm: 960px;
 
 $font-size-xs: .675rem;
 $font-size-sm: .8rem;
 $font-size-md: 1rem;
 $font-size-lg: 1.2rem;
 $font-size-xl: 1.5rem;
+
+$margin-bottom-block: $gutter-md;

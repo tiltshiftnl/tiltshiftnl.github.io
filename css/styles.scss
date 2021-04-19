@@ -16,6 +16,7 @@
 @import "slope";
 @import "links-section";
 @import "image-caption";
+@import "blockquote";
 
 
 html, body {
@@ -38,10 +39,10 @@ h1 {
     padding-top: 0.2em;
 }
 h2 {
-    font-family: 'Caveat', cursive;
+    font-family: Helvetica, Arial, sans-serif;
     font-weight: 500;
     font-style: normal;
-    font-size: 1.4em;
+    font-size: $font-size-lg;
     line-height: 1em;
 }
 h3 {
@@ -59,21 +60,29 @@ nav a {
     font-size: 0.8em;
     margin: 10px;
 }
-main { background: #E54545; color: #FFFFFF; padding: 5px 0 }
-main h1,
-main h2,
+main {
+    background: #E54545;
+    color: #FFFFFF;
+    padding: 5px 0;
+    margin: 0 auto; padding: 0 20px; max-width: 960px;
+}
+main > h1,
+main > h2,
 main h3,
-main p,
-main ul,
-main form { margin: 0 auto; padding: 0 20px; max-width: 960px }
-main p { margin-bottom: 2em }
+main > p,
+main > ul,
+main > form {  }
+main > p {
+    margin-top: 0;
+    margin-bottom: 2em;
+}
 main li { margin-left: 40px }
 main a { color: inherit }
 main form { margin-bottom: 1em }
 
 main {
     h2{
-        margin-bottom: 5px;
+        margin-bottom: 7px;
     }
 }
 
