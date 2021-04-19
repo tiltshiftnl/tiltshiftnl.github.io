@@ -11,12 +11,12 @@ keywords: Fixxx, software design thinking
 labels: [datagedreven werken, samenwerken, ketenpartners, privacy]
 
 image: /assets/img/foto/2016-straatcoaches02.jpg
-featured_image: /assets/img/foto/2016-straatcoaches02.jpg
+featured_image: /assets/img/foto/2.jpeg
 featured_image_alt_text: 'Alt_text'
 caption: 'Fixxx "StraatNotes", Gemeente Amsterdam'
 excerpt: "Straatnotes helpt de observaties van straatcoaches te verzamelen en om te zetten naar bruikbare informatie en waardevolle inzichten."
 
-featured_order: 2
+featured_order: 1
 featured: true
 
 back: ..

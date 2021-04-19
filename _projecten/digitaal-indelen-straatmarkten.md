@@ -11,14 +11,14 @@ labels: [datagedreven werken, digitale transformatie, eerlijke algoritmes, publi
 
 image: /assets/img/foto/IMG_9715.JPG
 image_alt_text: 'Alt_text'
-featured_image: /assets/img/foto/1.JPG
+featured_image: /assets/img/foto/1.jpeg
 featured_image_alt_text: 'Alt_text'
 
 excerpt: "De marktverordening digitaal toegepast zodat ondernemers transparant hun plaats op de Amsterdamse markt krijgen."
 
 caption: 'Discovery "Digitaal Indelen Straatmarkten", Gemeente&nbsp;Amsterdam'
 
-featured_order: 1
+featured_order: 3
 featured: true
 order: 2
 back: ..

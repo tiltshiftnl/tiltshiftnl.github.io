@@ -10,13 +10,16 @@ type: Fixxx
 keywords:
 labels: [datagedreven werken, samenwerken, ketenpartners, digitale transitie]
 
-image: /assets/img/foto/Schulddossier1.jpg
+
 caption: 'stapels dossiers tijdens de discovery van Schulddossier'
 excerpt: "Eén centraal systeem om schuldsanering van burgers veilig en sneller te laten verlopen."
-featured_image: /assets/img/foto/3.jpg
+
+image: /assets/img/foto/Schulddossier1.jpg
+image_alt_text: ""
+featured_image: /assets/img/foto/3.jpeg
 
 featured: true
-featured_order: 3
+featured_order: 2
 
 back: ..
 ---
