@@ -47,17 +47,17 @@ button {
 }
 .body--variant-blue .label {
     background: #b4b4f4;
-    color: #1D1621;
+    color: $black;
 }
 .body--variant-blue button {
   background: #b4b4f4 !important;
-  color: #1D1621 !important;
+  color: $black !important;
 }
 /* WHITE */
 .body--variant-white,
 .body--variant-white main {
-    background: #fff;
-    color: #1D1621;
+    background: $off-white;
+    color: $black;
 }
 .body--variant-white .slope {
     background: url(/assets/img/angled_slope_white.svg) top left no-repeat;
