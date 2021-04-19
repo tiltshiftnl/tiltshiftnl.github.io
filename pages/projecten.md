@@ -15,6 +15,8 @@ caption: 'Fixxx Ideation "Schulddossier", Gemeente&nbsp;Amsterdam'
 ---
 Om succesvol software te ontwikkelen is het belangrijk om goed te bedenken welk probleem je eigenlijk aan het oplossen bent en voor wie.
 
+> Innovatie begint bij de mensen. Focus op hun probleem en laat de techniek volgen. Dan ontstaat de oplossing.
+
 {{ page.description }}
 
 Hoe dat er in de praktijk uit ziet hebben we in onderstaande cases beschreven.
