@@ -37,6 +37,18 @@
             right: 0;
             height: 4rem;
         }
+        .slope-white-flipped{
+            display: none;
+            @media screen and (min-width: $breakpoint-md) {
+                display: block;
+            }
+        }
+        .slope-blue-flipped{
+            display: block;
+            @media screen and (min-width: $breakpoint-md) {
+                display: none;
+            }
+        }
         @media screen and (min-width: $breakpoint-md) {
             height: inherit;
             position: absolute;
@@ -64,9 +76,10 @@
             display: flex;
         }
         a {
-            // color: $primair-blauw;
-            color: white;
-            margin-left: $gutter-xs;
+            color: $primair-blauw;
+            // color: white;
+            margin-left: $gutter-sm;
+            margin-right: 0;
             text-decoration: none;
             @media screen and (min-width: $breakpoint-xl) {
                 font-size: $font-size-md;
