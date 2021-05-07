@@ -3,14 +3,27 @@
 
   {% include head.html %}
 
-  <body style="margin: 0">
-    {% include menu-page.html %}
-    <script>
-      $(".menu-close-link").click(function (e) {
-        e.preventDefault();
-        window.history.go(-1);
-      });
-    </script>
+  <body style="background: #6089BE">
+
+    <a class="navigation__logo" href="/"><img src="/assets/img/logo_cropped.svg"></a>
+
+    <div class="navigation__mobile-menu__panel" style="width: 100%">
+      <a href="/">
+        <div class="navigation__mobile-menu__panel__close">
+          <img class="navigation__mobile-menu__panel__close__icon" src="/assets/img/close.svg">
+        </div>
+      </a>
+      <div class="navigation__mobile-menu__panel__links">
+        {% include main-links.html %}
+      </div>
+    </div>
+
+    <style>
+      .slope-inline,
+      .links-section,
+      .footer__inner__columns__logo { display: none; }
+    </style>
+    <footer>{% include footer-new.html %}</footer>
 
   </body>
 </html>
