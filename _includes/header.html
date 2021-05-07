@@ -8,21 +8,23 @@
     {% include main-links.html %}
   </div>
 
-  <div class="navigation__hamburger" onclick="showNav()">
-    <img class="navigation__hamburger__icon" src="/assets/img/hamburger-menu.svg">
-  </div>
-  <div class="navigation__mobile-menu" id="mobile-navigation">
-    <div class="navigation__mobile-menu__backdrop" onclick="hideNav()">
+  <a href="/menu" onclick="return false">
+    <div class="navigation__hamburger" onclick="toggleNav()">
+      <img class="navigation__hamburger__icon" src="/assets/img/hamburger-menu.svg">
     </div>
-    <div class="navigation__mobile-menu__panel">
-        <div class="navigation__mobile-menu__panel__close" onclick="hideNav()">
-          <img class="navigation__mobile-menu__panel__close__icon" src="/assets/img/close.svg">
-        </div>
-        <div class="navigation__mobile-menu__panel__links">
-          {% include main-links.html %}
-        </div>
+    <div class="navigation__mobile-menu" id="mobile-navigation">
+      <div class="navigation__mobile-menu__backdrop" onclick="toggleNav()">
+      </div>
+      <div class="navigation__mobile-menu__panel">
+          <div class="navigation__mobile-menu__panel__close" onclick="toggleNav()">
+            <img class="navigation__mobile-menu__panel__close__icon" src="/assets/img/close.svg">
+          </div>
+          <div class="navigation__mobile-menu__panel__links">
+            {% include main-links.html %}
+          </div>
+      </div>
     </div>
-  </div>
+  </a>
 </div>
 <div class="header-with-image">
   <style>
@@ -68,19 +70,7 @@
 </div>
 
 <script>
-  function showNav() {
-    var mobileNavigation = document.getElementById("mobile-navigation");
-    if (mobileNavigation.classList.contains('active')) {
-      mobileNavigation.classList.remove('active')
-    } else {
-      mobileNavigation.classList.add('active')
-    }
+  function toggleNav() {
+    document.getElementById("mobile-navigation").classList.toggle('active');
   }
-  function hideNav(){
-    var mobileNavigation = document.getElementById("mobile-navigation");
-    if (mobileNavigation.classList.contains('active')) {
-      mobileNavigation.classList.remove('active')
-    }
-  }
-
 </script>
