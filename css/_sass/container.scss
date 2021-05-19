@@ -6,4 +6,10 @@
         width: $container-width-md;
     }
 
+    &--margin-top{
+        @media screen and (min-width: $breakpoint-lg) {
+            margin-top: 8rem;
+        }
+    }
+
 }

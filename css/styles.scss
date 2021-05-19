@@ -69,6 +69,12 @@ nav a {
 main {
     background: #E54545;
     color: #FFFFFF;
+    &.margin-top{
+        margin-top: 5rem;
+        @media screen and (min-width: $breakpoint-md) {
+            margin-top: 8rem;
+        }
+    }
 }
 main > h1,
 main > h2,

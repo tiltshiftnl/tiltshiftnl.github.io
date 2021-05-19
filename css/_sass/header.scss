@@ -4,9 +4,7 @@
     min-height: 23vw;
     position: relative;
     &.hidden{
-      @media screen and (max-width: $breakpoint-md) {
-        display: none;
-      }
+      display: none;
     }
     &__content{
       z-index: 999;
