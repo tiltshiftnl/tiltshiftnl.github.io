@@ -20,11 +20,11 @@ We geloven in de kracht van mensen en weten dat digitalisering alleen werkt als 
 
 Je belt ons op 020-722 02 07 als:
 
-- Je organisatie wil digitaliseren, wij helpen je met een concreet plan en begeleiden de opstart en uitvoering;
+- **Je organisatie wil digitaliseren**, wij helpen je met een concreet plan en begeleiden de opstart en uitvoering;
 
-- Je digitaliseringsproject niet vooruit komt, wij scheiden het kaf van het koren en zorgen voor motivatie en voortgang;
+- **Je digitaliseringsproject niet vooruit komt**, wij scheiden het kaf van het koren en zorgen voor motivatie en voortgang;
 
-- Je digitalisering programma niet van de grond komt of dreigt vast te lopen, wij lichten het door en helpen je draagvlak creëren.
+- **Je digitalisering programma niet van de grond komt of dreigt vast te lopen**, wij lichten het door en helpen je draagvlak creëren.
 
 Onze aanpak is helder en controversieel. We maken het kleiner en praktisch en laten ons niet stoppen. We werken volgens onze eigen aanpak: Fixxx, waardoor iedereen precies weet wat, waarom en wanneer. Fixxx is gebaseerd op best practices uit Design Thinking, Service Design, Agile en Lean Startup.
 
