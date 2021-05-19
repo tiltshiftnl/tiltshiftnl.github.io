@@ -1,6 +1,14 @@
 .intro {
     display: none;
     flex-direction: column;
+    h1{
+        padding-top: 0;
+        margin-top: 0;
+        margin-bottom: .4em;
+    }
+    p {
+        margin-top: 0;
+    }
     @media screen and (min-width: $breakpoint-md) {
         display: flex;
     }
