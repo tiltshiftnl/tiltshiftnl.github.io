@@ -41,6 +41,7 @@ $image-link-block-gutter: $gutter-xs;
     &__image{
         display: none;
         justify-content: flex-start;
+        align-items: flex-start;
         width: 100%;
 
         @media screen and (min-width: $breakpoint-md) {
