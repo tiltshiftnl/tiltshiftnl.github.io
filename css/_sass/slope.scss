@@ -9,14 +9,17 @@
     &--up {
         position: absolute;
         top: -1px;
-        right: -1px;
+        left: 0;
+        width: calc(100% + 10px);
     }
 
     &--down {
         position: absolute;
-        bottom: 0;
         display: flex;
         flex-direction: column;
         justify-content: end;
+        width: calc(100% + 10px);
+        bottom: -1px;
+        left: 0;
     }
 }
