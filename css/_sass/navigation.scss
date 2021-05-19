@@ -81,6 +81,12 @@
             margin-left: $gutter-sm;
             margin-right: 0;
             text-decoration: none;
+            &:hover{
+                text-decoration: underline;
+            }
+            &.active{
+                text-decoration: underline;
+            }
             @media screen and (min-width: $breakpoint-xl) {
                 font-size: $font-size-md;
             }
