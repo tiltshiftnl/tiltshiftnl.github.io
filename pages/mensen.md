@@ -7,7 +7,7 @@ subject: good public tech
 title: "Onze mensen"
 subtitle: Ontworpen met uitvoerenden. Gemaakt door specialisten.
 
-description: "Mensen maken het team. We werken in een hechte club van vaste krachten en freelancers. Onze vaste krachten stellen we hier graag aan je voor."
+description: "Tiltshifters zorgen voor beweging als het stil staat. Door mensen te motiveren, dingen klein te maken en - als het nodig is - te confronteren. Altijd duurzaam en gericht op voortgang zijn we duidelijk, communicatief en vriendelijk. Elke Tiltshifter heeft een specifieke kunde én mening. Die zetten we in om jouw doel te bereiken, tenminste, als we in dat doel geloven."
 keywords: ""
 
 image: "assets/img/foto/IMG_9253_scaled.jpg"
@@ -17,5 +17,4 @@ menu: show
 ---
 {{ page.description }}
 
-
-{% include collection.md collection=site.mensen %}
+{% include people.html %}

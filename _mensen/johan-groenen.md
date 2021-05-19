@@ -1,21 +1,24 @@
 ---
-layout: default
+layout: person
 variant: white
 
 title: "Johan Groenen"
-description: Johan studeerde informatica en specialiseerde zich het modelleren van complexe natuurlijk systemen. Na 10 als software designer te hebben gewerkt aan een groot aantal commerciële projecten en startups, maakte hij in 2015 de overstap naar publieke digitale transformatie. Sindsdien is hij onder andere bestuurslid van Code for NL en Open Nederland, en een bekend gezicht in "public tech" Nederland, en voorvechter van open samenwerking en open innovatie in de publieke sector.
+description: Johan doorziet alles zolang het maar complex is. Als informaticus luistert hij, doorgrond hij en geeft zijn inzicht terug in begrijpelijke taal. Dat doet hij gevraagd en ongevraagd en zowel op het niveau van de uitvoerders als op directieniveau. Actief als bestuurslid bij onder andere Code for NL en Open Nederland, en als bekend gezicht in "Public Tech" Nederland is hij een felle voorvechter van open samenwerking en open innovatie in de publieke sector. Hij is dol op discussie en bedekt niets met de mantel der liefde, ook niet als dat iets een beetje pijnlijk is. Hij is tevreden over zijn werk als iedereen weer hetzelfde inzicht heeft, welk dat ook is.
 quote: The Proof of the Pudding is in the Eating
 type: Partner
 keywords:
 labels: [open samenwerking, public tech, open innovatie, lean startup, strategie, informatica]
 
-image: /assets/img/foto/peeps/johan-groenen.png
+hideBanner: true
+image: /assets/img/foto/Johan-Groenen.jpg
+personImage: /assets/img/foto/Johan-Groenen.jpg
+email: johan@tiltshift.nl
+linkedInUrl: https://www.linkedin.com/in/jgroenen/
+telephone: T +31 (0)20 722 02 07
 
 order: 2
 back: ..
 ---
 {{ page.description }}
 
-Als partner bij Tiltshift adviseert hij over software design en innovatiemanagement, en coacht hij teams op het gebied van methoden en technieken voor snelle innovatie die werkt.
 
-[Linked-in pagina van Johan](https://www.linkedin.com/in/jgroenen/)

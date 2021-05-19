@@ -1,0 +1,13 @@
+{% assign title = include.title %}
+{% assign url = include.url %}
+{% assign type = include.type %}
+{% assign image = include.image %}
+
+<a href="{{ url }}" class="person-block">
+    <div class="person-block__image">
+        <img src="{{ image }}" alt="" />
+    </div>
+    <h3 class="person-block__name">{{title}}</h3>
+    <p class="person-block__type">{{type}}</p>
+</a>
+

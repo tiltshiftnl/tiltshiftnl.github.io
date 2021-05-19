@@ -1,0 +1,25 @@
+.person-block{
+    display: flex;
+    flex-direction: column;
+    text-decoration: none;
+    margin-bottom: 1rem;
+    @media screen and (min-width: $breakpoint-md) {
+        margin-bottom: 0;
+    }
+    &__image{
+        display: flex;
+        img{
+            width: 100%;
+        }
+    }
+    &__name{
+        font-size: $font-size-md;
+        margin: .5rem 0 0;
+    }
+    &__type{
+        font-size: 1rem;
+        margin: 0;
+        font-weight: bold;
+        color: $primair-blauw;
+    }
+}

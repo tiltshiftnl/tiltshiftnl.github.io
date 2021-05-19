@@ -26,14 +26,13 @@
     </div>
   </a>
 </div>
-<div class="header-with-image">
+<div class="header-with-image {% if page.hideBanner %}hidden{% endif %}">
   <style>
     .header-with-image {
       background: url({{ site.url }}/{{ page.image }});
       background-repeat: no-repeat;
       background-size: cover;
     }
-
     .header-with-image-overlay {
       background: url({{ site.url }}/{{ page.image }});
       background-repeat: no-repeat;
@@ -43,8 +42,6 @@
 
   <!-- <div class="header-with-image-overlay-black"></div> -->
   <!-- <div class="header-with-image-overlay"></div> -->
-
-
 
   <div class="header-with-image__content">
 

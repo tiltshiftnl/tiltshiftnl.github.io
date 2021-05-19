@@ -1,0 +1,16 @@
+
+{% assign people = site.mensen | sort: "order"  %}
+
+<div class="container-md">
+    {% if include.excludeCurrent %}
+    <h3>En de rest...</h3>
+    {% endif %}
+    <div class="grid {% if include.excludeCurrent %}grid--three{% endif %}">
+    {% for person in people  %}
+        {% if person.title == page.title && include.excludeCurrent %}
+        {% else %}
+            {% include person-block.html image=person.personImage title=person.title type=person.type url=person.url %}
+        {% endif %}
+    {% endfor %}
+    </div>
+</div>

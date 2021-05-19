@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html>
+
+{% include head.html %}
+
+<body class="{% if page.variant %}body--variant-{{ page.variant }}{% endif %}">
+  <header>{% include header.html %}</header>
+  <main>
+    <!-- {% if page.back %}
+    <p><a href="{{ page.back }}">« overzicht van {{ page.collection }}</a></p>
+    {% endif %} -->
+
+    <div class="container-md">
+      <div class="intro">
+        <h1>Onze mensen</h1>
+        <p>"Tiltshifters zorgen voor beweging als het stil staat. Door mensen te motiveren, dingen klein te maken en - als het nodig is - te confronteren. Altijd duurzaam en gericht op voortgang zijn we duidelijk, communicatief en vriendelijk. Elke Tiltshifter heeft een specifieke kunde én mening. Die zetten we in om jouw doel te bereiken, tenminste, als we in dat doel geloven."</p>
+      </div>
+      <div class="person-page">
+        <div class="person-page__left">
+          <img src="{{ page.personImage }}" alt="" />
+          {% if page.telephone %}<p>{{page.telephone}}</p>{% endif %}
+          {% if page.email %} <a href="mailto:{{page.email}}">{{page.email}}</a>{% endif %}
+          {% if page.linkedInUrl %} <a href="{{page.linkedInUrl}}">LinkedIn</a>{% endif %}
+        </div>
+        <div class="person-page__content">
+          <h3 class="person-page__content__name">{{ page.title }}</h3>
+          <h3 class="person-page__content__type">{{ page.type }}</h3>
+          {{ content }}
+        </div>
+      </div>
+    </div>
+
+    <blockquote>
+      <p>{{page.quote}}</p>
+    </blockquote>
+
+    {% include people.html excludeCurrent=true %}
+
+    {% if page.back %}
+    <p><a href="{{ page.back }}">« overzicht van {{ page.collection }}</a></p>
+    {% endif %}
+
+    {% unless page.hideform %}
+    <!-- {% include contact.html %} -->
+    {% endunless %}
+  </main>
+  <footer>{% include footer-new.html %}</footer>
+</body>
+</html>
