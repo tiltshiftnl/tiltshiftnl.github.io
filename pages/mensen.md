@@ -3,11 +3,11 @@ layout: default
 variant: white
 permalink: /mensen/
 
-subject: good public tech
+subject: Digitalisering in beweging
 title: "Onze mensen"
-subtitle: Ontworpen met uitvoerenden. Gemaakt door specialisten.
+subtitle: Tiltshifters zorgen voor beweging om jouw doel te bereiken, als we er in geloven tenminste.
 
-description: "Tiltshifters zorgen voor beweging als het stil staat. Door mensen te motiveren, dingen klein te maken en - als het nodig is - te confronteren. Altijd duurzaam en gericht op voortgang zijn we duidelijk, communicatief en vriendelijk. Elke Tiltshifter heeft een specifieke kunde én mening. Die zetten we in om jouw doel te bereiken, tenminste, als we in dat doel geloven."
+description: "Tiltshifters zorgen voor beweging als het stil staat. Door mensen te motiveren, dingen klein te maken en - als het nodig is - te confronteren. Altijd duurzaam en gericht op voortgang zijn we communicatief, vriendelijk én duidelijk. Elke Tiltshifter heeft een specifieke kunde maar evengoed een duidelijke mening. Die zetten we in om jouw doel te bereiken, tenminste, als we in dat doel geloven."
 keywords: ""
 
 hideBanner: true
