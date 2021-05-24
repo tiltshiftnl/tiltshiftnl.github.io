@@ -33,7 +33,6 @@ Vaak werken we voor gemeenten, provincies of zorg. Maar we staan net zo goed kla
 
 ## Onze mensen
 Een Tiltshifter is specialist op zijn of haar vakgebied en heeft een sterke eigen mening. Die zetten we in om jouw doel te bereiken, tenminste, als we in dat doel geloven. De kern van de organisatie bestaat uit vier personen met om ons heen een groep van ongeveer twintig ‘vaste’ freelancers. 
-
 Ontmoet de kern van Tiltshift: [Johan Groenen](/mensen/johan-groenen/), [Maarten Geraets](/mensen/maarten-geraets/), [Joris Boeren](/mensen/joris-boeren/) en [Eva Leffef](/mensen/eva-leffef/).
 
 
