@@ -13,6 +13,8 @@ caption: 'Fixxx discovery “Wonen Toezicht op Pad”, Gemeente Amsterdam'
 ---
 <a name="Wat we doen"/>
 
+Digitaliseren, digitale transitie of innovatie zijn doe-woorden. Ga met een klein team aan de slag om verandering te krijgen. Want voor wat je nog niet weet, kun je geen plan maken. Wél kun je er een team op zetten dat dit voor je gaat uitvinden.
+
 Wij helpen je digitalisering te starten of weer in beweging te krijgen in je organisatie. Dat doen we door de strategie en uitvoering ervan tastbaar, behapbaar en aantrekkelijk te maken. Door vanuit de positie van de gebruiker te glimlachen naar de ivoren torens. En door te zorgen dat iedere betrokkene ook echt een bijdrage levert, in plaats van ruis. Dat is Tiltshift, dat zijn wij. 
 
 Digitalisering ontwerpen we ter plaatse en door te doen, samen met de gebruikers zelf. Onze aanpak is helder en controversieel: we delen op in kleine, praktische en niet te stoppen onderdelen. Zo begeleiden we organisaties stap voor stap naar oplossingen die wél werken.
