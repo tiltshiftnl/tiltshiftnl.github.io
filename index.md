@@ -3,7 +3,7 @@ layout: default
 hideform: true
 variant: white
 
-title: Digitalisering weer in beweging
+title: Digitalisering in beweging
 subtitle: Als digitalisering, digitale transitie of innovatie stagneert, dan haal je ons erbij!
 description: Wij zorgen voor beweging als het stil valt. Door digitalisering tastbaar, behapbaar en (weer) aantrekkelijk te maken vanuit de positie van de gebruiker. We glimlachen naar ivoren torens en zorgen dat iedereen die in verandering betrokken wil zijn een echte bijdrage levert. Dat is Tiltshift, dat zijn wij.
 
@@ -14,9 +14,9 @@ caption: 'Fixxx discovery “Wonen Toezicht op Pad”, Gemeente Amsterdam'
 ---
 <a name="Wat we doen"/>
 
-Wij zorgen voor beweging als het stil valt. Door digitalisering tastbaar, behapbaar en (weer) aantrekkelijk te maken vanuit de positie van de gebruiker. We glimlachen naar ivoren torens en zorgen dat iedereen die in verandering betrokken wil zijn een echte bijdrage levert. Dat is Tiltshift, dat zijn wij.
+Wij helpen je digitalisering te starten of weer in beweging te krijgen in je organisatie. Dat doen we door de strategie en uitvoering ervan tastbaar, behapbaar en aantrekkelijk te maken. Door vanuit de positie van de gebruiker te glimlachen naar de ivoren torens. En door te zorgen dat iedere betrokkene ook echt een bijdrage levert, in plaats van ruis. Dat is Tiltshift, dat zijn wij. 
 
-We geloven in de kracht van mensen en weten dat digitalisering alleen werkt als je de verandering in situ en met de gebruikers zelf maakt. Zo brengen we je stap voor stap naar de oplossing die wél werkt.
+Digitalisering ontwerpen we ter plaatse en door te doen, samen met de gebruikers zelf. Onze aanpak is helder en controversieel: we delen op in kleine, praktische en niet te stoppen onderdelen. Zo begeleiden we organisaties stap voor stap naar oplossingen die wél werken.
 
 Je belt ons op 020-722 02 07 als:
 
@@ -24,16 +24,16 @@ Je belt ons op 020-722 02 07 als:
 
 - **Je digitaliseringsproject niet vooruit komt**, wij scheiden het kaf van het koren en zorgen voor motivatie en voortgang;
 
-- **Je digitalisering programma niet van de grond komt of dreigt vast te lopen**, wij lichten het door en helpen je draagvlak creëren.
+- **Je digitalisering programma niet van de grond komt of dreigt vast te lopen**, wij lichten het door en helpen je met draagvlak creëren.
 
-Onze aanpak is helder en controversieel. We maken het kleiner en praktisch en laten ons niet stoppen. We werken volgens onze eigen aanpak: Fixxx, waardoor iedereen precies weet wat, waarom en wanneer. Fixxx is gebaseerd op best practices uit Design Thinking, Service Design, Agile en Lean Startup.
+We verzorgen leiderschap, inhoudelijke kennis en indien nodig ook de uitvoering. Tiltshifters werken op basis van onze Fixxx aanpak, gebaseerd op best practices uit Design Thinking, Service Design, Agile en Lean Startup. We nemen jullie daar ook in mee zodat je het later zelf kan. 
 
-We werken voor **gemeenten** zoals Amsterdam, Amersfoort, Rotterdam, Stichtse Vecht, **provincies** Flevoland en Zuid-Holland maar ook voor VNG Vereniging Nederlandse Gemeenten, het ministerie van Algemene Zaken en voor woningcorporaties, ouderenzorg en universiteiten.
+Vaak werken we voor gemeenten, provincies of zorg. Maar we staan net zo goed klaar voor andere organisaties of bedrijven. Een greep uit onze opdrachtgevers: **Gemeenten** zoals Amsterdam, Amersfoort, Rotterdam. **Provincies** Flevoland en Zuid-Holland. VNG Vereniging Nederlandse Gemeenten, het ministerie van Algemene Zaken en voor woningcorporaties, ouderenzorg en universiteiten.
 
 > Als je mensen niet over het hoofd wil zien, moet je ze betrekken in alle fases van het project.
 
 ## Onze mensen
-Elke Tiltshifter heeft een specifieke kunde én mening. Die zetten we in om jouw doel te bereiken, tenminste, als we in dat doel geloven.
+Een Tiltshifter is specialist op zijn of haar vakgebied en heeft een sterke eigen mening. Die zetten we in om jouw doel te bereiken, tenminste, als we in dat doel geloven. De kern van de organisatie bestaat uit vier personen met om ons heen een groep van ongeveer twintig ‘vaste’ freelancers. 
 
 Ontmoet de kern van Tiltshift: [Johan Groenen](/mensen/johan-groenen/), [Maarten Geraets](/mensen/maarten-geraets/), [Joris Boeren](/mensen/joris-boeren/) en [Eva Leffef](/mensen/eva-leffef/).
 
