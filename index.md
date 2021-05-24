@@ -5,8 +5,7 @@ variant: white
 
 title: Digitalisering in beweging
 subtitle: Als digitalisering, digitale transitie of innovatie stagneert, dan haal je ons erbij!
-description: Wij zorgen voor beweging als het stil valt. Door digitalisering tastbaar, behapbaar en (weer) aantrekkelijk te maken vanuit de positie van de gebruiker. We glimlachen naar ivoren torens en zorgen dat iedereen die in verandering betrokken wil zijn een echte bijdrage levert. Dat is Tiltshift, dat zijn wij.
-
+description: Wij helpen je digitalisering te starten of weer in beweging te krijgen in je organisatie.
 keywords: digitale transformatie, probleemgedreven innovatie, kwartiermaker, human centered design, software design thinking, service design, lean startup, lean ux, agile development, xp, scrum, labs, apps, projecten, advies, consultancy, overheid, overheden, publieke sector, mens centraal, common ground, open source, creative commons, creative thinking, open collaboration, Fixxx, Push
 
 image: assets/img/foto/banner_1.jpg
