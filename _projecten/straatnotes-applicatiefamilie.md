@@ -50,4 +50,5 @@ Omdat Straatnotes z’n architectuur ontgroeide is het in 2020 volledig nieuw ge
 
 De Straatnotes applicatiefamilie is, samen met de gebruikers, de afgelopen jaren stapsgewijs door Tiltshift bedacht en gebouwd. Dat deden we aan de hand van onze eigen methoden én door mee te werken waar het speelt: op straat. Dat levert niet alleen een goed systeem op, onze mensen deden er ook veel domeinkennis op. Met die kennis in het achterhoofd werken we doorlopend aan de verbetering van het systeem en uitrol in andere gemeenten.
 
-Wil je meer weten over wat Straatnotes voor jouw gemeente kan betekenen, sparren over de aanpak van jeugdoverlast of gewoon kennis maken met onze domein expert? Neem dan contact op met Eva via eva.leffef@tiltshift.nl.
+### Wil je meer weten over wat Straatnotes voor jouw gemeente kan betekenen of sparren over de aanpak van jeugdoverlast?
+Maak kennis met onze domein expert Eva via eva.leffef@tiltshift.nl
