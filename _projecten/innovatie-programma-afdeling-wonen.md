@@ -25,12 +25,12 @@ Bij de afdeling Wonen kwam het ICT innovatie en vernieuwingsprogramma maar niet 
 
 We begonnen met een onderzoek waarin we in twee weken het bestaande programma hebben doorgelicht. Dat bleek erg breed en miste een centrale focus. Het was blijven hangen in overlegstructuren en een onhandige mix van *Design Thinking* en traditioneel projectmanagement. Je kent het wel: maanden van achter een bureau iets voorbereiden en dan denken dat na een big bang de wereld veranderd is. 
 
-Met het mandaat om dit op te lossen op zak vervingen we vrijwel het hele team. Ook betrokken we de medewerkers uit de praktijk door met hen het grootste knelpunt van de afdeling te bepalen. Om dat vervolgens in drie maanden op te lossen. Al snel werden de wekelijkse demo’s van het project bezocht door tientallen medewerkers van de uitvoering. Hun input was van onschatbare waarde. Doordat we hun input meteen verwerkten kwam er een wisselwerking van vertrouwen en voortgang. Zo losten we niet alleen de problemen op, ook de afdeling veranderde van ‘we zien wel’ naar ‘wanneer mogen wij’.
-
 <div class="article-image" style="background-image: url(/assets/img/foto/Interventie-met-Software-Design-Thinking-bij-Gemeente.jpg)">
     <div class="slope"></div>
     <div class="slope slope--flip"></div>
 </div>
+
+Met het mandaat om dit op te lossen op zak vervingen we vrijwel het hele team. Ook betrokken we de medewerkers uit de praktijk door met hen het grootste knelpunt van de afdeling te bepalen. Om dat vervolgens in drie maanden op te lossen. Al snel werden de wekelijkse demo’s van het project bezocht door tientallen medewerkers van de uitvoering. Hun input was van onschatbare waarde. Doordat we hun input meteen verwerkten kwam er een wisselwerking van vertrouwen en voortgang. Zo losten we niet alleen de problemen op, ook de afdeling veranderde van ‘we zien wel’ naar ‘wanneer mogen wij’.
 
 > Waar ik 2,5 jaar om gevraagd heb, hebben jullie binnen twee maanden geregeld.
 
