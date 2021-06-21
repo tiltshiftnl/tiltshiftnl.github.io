@@ -5,8 +5,8 @@ variant: white
 title: "Straatnotes geeft inzicht in de stad"
 description: Straatnotes helpt de observaties van straatcoaches te verzamelen en om te zetten naar bruikbare informatie en waardevolle inzichten. Veilig, en met waarborg voor de privacy van de betrokkenen.
 
-quote: "Van achter mijn bureau heb ik goed zicht op hoe de problematiek zich ontwikkelt op straat"
-type: Fixxx
+quote:
+type:
 keywords: Fixxx, software design thinking
 labels: [datagedreven werken, samenwerken, ketenpartners, privacy]
 
@@ -26,6 +26,8 @@ back: ..
 In een gemeente zijn straatcoaches vaak de ogen en oren op straat. Ze spreken jongeren aan op hun gedrag en leggen hun oor te luisteren. Met de informatie die ze zo krijgen kunnen beleidsmakers anticiperen op wat er nodig is en wordt de operationele inzet van hulpverleners en handhavers veel efficiënter. Dankzij de software van Straatnotes is het opslaan en distribueren van de informatie gemakkelijker, beter en veiliger geworden.
 
 In 2016 vroeg de gemeente Amsterdam aan Tiltshift om de terugkoppeling van de straatcoaches aan de gemeente te verbeteren. De informatie was tot dan toe gefragmenteerd en incompleet. Dat kwam vooral omdat de computersystemen niet aansloten op wat er op straat gebeurde. Tijdens een Fixxx-project losten we dit issue op, samen mét de straatcoaches. We maakten een slim systeem dat fijn en veilig werkt op de telefoons van de straatcoaches en de data centraal opslaat. Ook introduceerden we een handmatige redactieslag op de informatie waarmee de data consistent werd en kwalitatief flink verbeterde. De oplossing was een instant succes.
+
+> Van achter mijn bureau heb ik goed zicht op hoe de problematiek zich ontwikkelt op straat.
 
 <div class="article-image" style="background-image: url(/assets/img/foto/2016-straatcoaches01.jpg)">
     <div class="slope"></div>
