@@ -13,6 +13,9 @@ labels: [datagedreven werken, samenwerken, privacy]
 image: /assets/img/foto/ZC-choose.jpg
 caption: 'Design Sprint "Meten klanttevredenheid in de zorg", De Zorgcirkel'
 
+featured_order: 100
+featured: false
+
 back: ..
 ---
 Zorginstellingen zoals De Zorgcirkel meten regelmatig de ervaring van hun cliënten. Dat is niet alleen wettelijk verplicht, het is ook wenselijk zodat je als organisatie je cliënten goed kunt bedienen. Dat meten gaat doorgaans via interviews of vragenlijsten. Maar hoe moet dat dan in de intramurale zorg, bij cliënten die misschien zelf niet meer in staat zijn hier aan mee te werken? En wat meet je dan? In plaats van de traditionele aanpak wilde De Zorgcirkel onderzoeken of het ook anders kon, veel vaker en misschien ook een beetje beter. En vroeg Tiltshift om hulp. 
