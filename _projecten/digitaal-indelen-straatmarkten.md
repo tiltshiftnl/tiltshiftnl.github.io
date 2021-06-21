@@ -4,8 +4,8 @@ variant: white
 
 title: "Digitaal Indelen Straatmarkten"
 description: Op de Amsterdamse straatmarkten worden de plaatsen verdeeld op basis van heel veel regels. Maar gaat dit wel eerlijk en transparant? En kost het niet teveel tijd? Tiltshift organiseerde digitale innovatie op de straatmarkten van Amsterdam.
-quote: Ik ga pas naar de veiling als ik zeker weet dat ik een kraam krijg.
-type: Fixxx
+quote:
+type:
 keywords:
 labels: [datagedreven werken, digitale transformatie, eerlijke algoritmes, public code]
 
@@ -48,9 +48,5 @@ Het resultaat is een (web-)applicatie kiesjekraam.amsterdam.nl waarin ondernemer
 
 Maar deze digitale transitie maakt meer mogelijk. Zo zien kooplieden eerder of er plek voor ze is, en welke kraam precies. Marktmeesters kunnen hun werk beter over de dag spreiden zodat ze ook aan het eind van de markt aanwezig kunnen zijn. En tenslotte is er één geharmoniseerde werkwijze voor alle markten van Amsterdam, conform de verordening.
 
-<p style="font-size: 0.75em">
-    Marjolein van der Vlugt -Smit (opdrachtgever en product owner), Laura Buonomo en Floor Vos (marktbureau), Jacqueline van Norden (implementatie) en de marktmeesters, marktbeheerders en kooplieden van de Albert Cuypmarkt, de Dappermarkt en Plein 40-45.
-</p>
-<p style="font-size: 0.75em">
-    Tiltshift-team: Robbert Broersma, Rutger Dik, Maurice Guikema, Eva Leffef, Yvonne de Meij van Streefkerk, Daan Mortier, Tom Ootes en Joris Boeren.
-</p>
+### Wil je meer weten over Digitaal Indelen of kennis maken met onze domein expert?
+Neem dan contact op met Eva via eva.leffef@tiltshift.nl
