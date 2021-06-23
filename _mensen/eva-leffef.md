@@ -15,7 +15,7 @@ image: "assets/img/foto/IMG_9253_scaled.jpg"
 personImage: /assets/img/foto/Eva-Leffef.jpg
 email: eva.leffef@tiltshift.nl
 linkedInUrl: https://www.linkedin.com/in/evaleffef/
-telephone: T 030 721 0863
+telephone: [+31 (0)30 721 08 63](tel:+31307210863)
 
 order: 1
 back: ..
