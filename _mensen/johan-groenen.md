@@ -3,7 +3,7 @@ layout: person
 variant: white
 
 title: "Johan Groenen"
-description: Na een aantal hypercommerciële platforms te hebben opgezet is Johan zich gaan bezinnen. Nu is hij fel voorvechter van open samenwerking en open innovatie in de publieke sector. Actief als bestuurslid van onder andere Code for NL en Open Nederland is hij een bekend gezicht in Public Tech. Vanuit zijn startup achtergrond is hij nog altijd "brutally honest" en uber-pragmatisch als het gaat om design van MVP software tools. Advies geeft hij gevraagd en ongevraagd, zowel op het niveau van de uitvoerders als op directieniveau. Als informaticus luistert hij, structureert hij en geeft zijn inzicht terug in begrijpelijke taal en overzichtelijke tekeningen. Hij is tevreden over zijn werk als iedereen weer op een lijn zit en het doel helder en concreet is.
+description: Na twee hypercommerciele platforms te hebben opgezet heeft Johan zich bekeerd. Ondertussen is hij een bekend gezicht in public tech Nederland en fel voorvechter van open samenwerking in de publieke sector. Vanuit zijn startup achtergrond is hij nog altijd "brutally honest" en uber-pragmatisch. Advies geeft hij gevraagd en ongevraagd, zowel op het niveau van de uitvoerders als op directieniveau — in begrijpelijke taal en overzichtelijke tekeningetjes. Hij is tevreden over zijn werk als iedereen weer hetzelfde doel voor ogen heeft.
 quote: The Proof of the Pudding is in the Eating
 type: Partner
 keywords:
