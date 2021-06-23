@@ -14,7 +14,7 @@ image: "assets/img/foto/IMG_9253_scaled.jpg"
 personImage: /assets/img/foto/Joris-Boeren.jpg
 email: joris.boeren@tiltshift.nl
 linkedInUrl: https://www.linkedin.com/in/jorisboeren/
-telephone: T +31 (0)20 722 02 07
+telephone: T +31 (0)30 721 08 68
 
 order: 3
 back: ..
