@@ -14,5 +14,3 @@ caption: 'Explore "Digitalisering Interne Dienstverlening", Gemeente&nbsp;Amster
 {{ page.description }}
 
 Afhankelijk van de scope van het probleem, het doel van het project, en een aantal andere criteria, hebben we daarvoor verschillende concrete methodes.
-
-{% include collection.md collection=site.methodes %}
