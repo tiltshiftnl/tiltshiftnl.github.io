@@ -49,4 +49,4 @@ Het resultaat is een (web-)applicatie kiesjekraam.amsterdam.nl waarin ondernemer
 Maar deze digitale transitie maakt meer mogelijk. Zo zien kooplieden eerder of er plek voor ze is, en welke kraam precies. Marktmeesters kunnen hun werk beter over de dag spreiden zodat ze ook aan het eind van de markt aanwezig kunnen zijn. En tenslotte is er één geharmoniseerde werkwijze voor alle markten van Amsterdam, conform de verordening.
 
 ### Wil je meer weten over Digitaal Indelen?
-Maak kennis met onze domein expert [Eva](/mensen/eva-leffef/) via 030-7210863.
+Maak kennis met onze domein expert [Eva](/mensen/eva-leffef/) via [+31 (0)30 721 08 63](tel:+31307210863).
