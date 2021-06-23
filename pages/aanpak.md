@@ -1,7 +1,7 @@
 ---
 layout: default
 variant: white
-permalink: /methodes/
+permalink: /aanpak/
 
 title: Aanpak
 quote: Als je mensen niet over het hoofd wil zien, moet je ze betrekken in alle fases van het project.
