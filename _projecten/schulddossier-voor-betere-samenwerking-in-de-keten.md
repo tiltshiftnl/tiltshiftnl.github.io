@@ -40,11 +40,5 @@ Na twee maanden was het systeem al uit de pilot-fase en actief in gebruik bij GK
 
 Het resultaat is een omgeving (schulddossier.amsterdam.nl) waarin MaDi’s, GKA en straks ook bewindvoerders actief samenwerken aan minnelijke schuldhulpverlening. Partijen werken datagestuurd, veiliger, prettiger en volledig digitaal samen in een belangrijk en complex ketenproces. Dat in doorlooptijd nu met weken is bekort zodat de burger-schuldenaar sneller en beter is geholpen.
 
-<p style="font-size: 0.75em">
-Opdrachtgevers: Nathalie van Berkel (gemeente Amsterdam), Will van Schendel (Stichting De Sociale Maatschap, voorheen Doras).
-</p>
-<p style="font-size: 0.75em">
-Tiltshift team (in de verschillende projecten): Rutger Dik, Maarten Geraets, Maarten de Keizer, Rik Vegt, Johan Groenen.
-</p>
-
-Lees meer over hoe wij een [Fixxx-traject](/methodes/fixxx/) aanpakken. Of neem voor een nadere toelichting contact met ons op via het formulier onderaan deze pagina.
+### Wil je meer weten over innovatieprogramma's?
+Neem dan contact op [Maarten](/mensen/maarten-geraets/) via +31 (0)30 721 08 34.
