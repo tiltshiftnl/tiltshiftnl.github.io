@@ -47,7 +47,5 @@ Het hele proces nam enkele maanden in beslag. We overlegden, bouwden en werkten 
 <!-- uiteindelijke oplossing -->
 Het resultaat is <a href="https://omslagroute.amsterdam.nl" target="_blank">omslagroute.amsterdam.nl</a>. Een helder proces dat de samenwerking tussen partners versneld en verbeterd. Achter de inlog van het systeem wordt samengewerkt in een eenvoudiger proces waarin dubbel werk wordt voorkomen. De veiligheid en privacy zijn nu gegarandeerd, de lijnen tussen betrokkenen zijn korter en het proces neemt veel minder tijd in beslag. Tenslotte ervaren de gebruikers het een heel prettige en overzichtelijke omgeving om in te werken.
 
-<!-- team -->
-<p style="font-size: 0.75em">Probleemeigenaar: Joost van Ravesteyn. Product Owner: Martin Louwe. Programmamanager: Cor van Bavel. Tiltshift team: Rutger Dik, Maurice Guikema, Anne-Roos Hassing, Remco Hoff, Yvonne de Meij van Streefkerk, Anneke Sinnema en Rik Vegt. </p>
-
-Lees meer over onze [Fixxx-methode](/methodes/fixxx).
+### Wil je meer weten over samenwerking tussen partners?
+Neem dan contact op [Maarten](/mensen/maarten-geraets/) via +31 (0)30 721 08 34.
