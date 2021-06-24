@@ -14,3 +14,5 @@ caption: 'Explore "Digitalisering Interne Dienstverlening", Gemeente&nbsp;Amster
 {{ page.description }}
 
 Afhankelijk van de scope van het probleem, het doel van het project, en een aantal andere criteria, hebben we daarvoor verschillende concrete methodes.
+
+> De snelheid waarmee jullie dingen oppakken, je vergeet bijna dat je bij de gemeente werkt!
