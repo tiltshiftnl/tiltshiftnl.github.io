@@ -8,7 +8,7 @@ quote:
 description: "Neem gerust contact op door een e-mail te sturen naar info@tiltshift.nl of te bellen met +31 (0)20 722 02 07."
 keywords: 
 
-image: /assets/img/foto/banner_1.jpg
+image: /assets/img/foto/Studio-Tiltshift-Innovatie-in-Utrecht.jpg
 caption: ''
 ---
 
