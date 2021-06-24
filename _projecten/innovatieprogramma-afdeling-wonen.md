@@ -39,4 +39,4 @@ Met het mandaat om dit op te lossen vervingen we vrijwel het hele externe team. 
 Door onze interventie kwam niet alleen de tooling beschikbaar voor de medewerkers op straat, ook de mindset op de afdeling ten aanzien van automatisering werd positief. Een paar van deze projecten verder kwam het oorspronkelijke doel van het programma weer in beeld: het vervangen van de centrale legacy software uit de jaren negentig door open source en VNG Common Ground applicaties. Maar nu kwam deze wens vanuit de vloer, vanuit de mensen die ermee werken, in plaats van dat deze bedacht is door het management.
 
 ### Wil je meer weten over innovatieprogramma's?
-Neem dan contact op met onze domein expert [Joris](/mensen/joris-boeren/) via +31(0)30 721 08 68.
+Neem dan contact op [Joris](/mensen/joris-boeren/) via +31(0)30 721 08 68.
