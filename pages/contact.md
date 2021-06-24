@@ -16,18 +16,18 @@ Neem gerust contact op door een e-mail te sturen naar [info@tiltshift.nl](mailto
 
 Of rechtstreeks met een van onze mensen: [Johan Groenen](/mensen/johan-groenen/), [Maarten Geraets](/mensen/maarten-geraets/), [Joris Boeren](/mensen/joris-boeren/) en [Eva Leffef](/mensen/eva-leffef/) 
 
-## Bedrijfsgegevens
+### Bedrijfsgegevens
 
 KvK 68994222<br>
 BTW-ID NL857680237B01
 
-## Bezoekadres
+### Bezoekadres
 
 Vechtclub XL<br>
 Europalaan 2B<br>
 3526 KS Utrecht
 
-## Bezoekadres
+### Postadres
 
 Tiltshift B.V.<br>
 Strawinskylaan 11<br>
