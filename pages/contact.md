@@ -20,3 +20,15 @@ Of rechtstreeks met een van onze mensen: [Johan Groenen](/mensen/johan-groenen/)
 
 KvK 68994222<br>
 BTW-ID NL857680237B01
+
+## Bezoekadres
+
+Vechtclub XL<br>
+Europalaan 2B<br>
+3526 KS Utrecht
+
+## Bezoekadres
+
+Tiltshift B.V.<br>
+Strawinskylaan 11<br>
+2102 CM Heemstede
