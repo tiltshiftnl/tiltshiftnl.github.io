@@ -16,6 +16,5 @@ Neem gerust contact op door een e-mail te sturen naar [info@tiltshift.nl](mailto
 
 ## Bedrijfsgegevens
 
-KvK 68994222
-
+KvK 68994222<br>
 BTW-ID NL857680237B01
