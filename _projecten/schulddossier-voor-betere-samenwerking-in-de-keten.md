@@ -40,5 +40,5 @@ Na twee maanden was het systeem al uit de pilot-fase en actief in gebruik bij GK
 
 Het resultaat is een omgeving (schulddossier.amsterdam.nl) waarin MaDi’s, GKA en straks ook bewindvoerders actief samenwerken aan minnelijke schuldhulpverlening. Partijen werken datagestuurd, veiliger, prettiger en volledig digitaal samen in een belangrijk en complex ketenproces. Dat in doorlooptijd nu met weken is bekort zodat de burger-schuldenaar sneller en beter is geholpen.
 
-### Wil je meer weten over innovatieprogramma's?
+### Wil je meer weten over samenwerken in de keten?
 Neem dan contact op [Maarten](/mensen/maarten-geraets/) via +31 (0)30 721 08 34.
