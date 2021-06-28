@@ -9,6 +9,9 @@ description: "Deze visuele brainstorm techniek is bedoel om razendsnel een grote
 labels: [ideation, convergeren, co-creatie, tekenen]
 download: /assets/pdf/crazy-8.pdf
 
+image: "assets/img/foto/IMG_8562.jpg"
+caption: 'Fixxx Ideation "Schulddossier", Gemeente&nbsp;Amsterdam'
+
 back: ..
 ---
 {{ page.description }}
