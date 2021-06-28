@@ -4,7 +4,6 @@ variant: white
 
 title: "Empathy map"
 description: "Voor het gezamenlijk samenvatten van een interview op basis van empathie gebruiken wij vaak Empathy Maps."
-type: Materialen
 
 labels: [Interview, Explore, Design Sprint, Fixxx, Push]
 download: /assets/pdf/empathymap.pdf
