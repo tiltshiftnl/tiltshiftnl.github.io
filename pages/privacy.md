@@ -12,7 +12,7 @@ image: /assets/img/foto/Studio-Tiltshift-Innovatie-in-Utrecht.jpg
 caption: ''
 ---
 
-Tiltshift B.V., gevestigd aan Strawinskylaan 11, 2102 CM Heemstede is verantwoordelijk voor de verwerking van persoonsgegevens zoals weergegeven in deze privacyverklaring. Wij zijn te bereiken via info@tilthift.nl.
+Tiltshift B.V., gevestigd aan Strawinskylaan 11, 2102 CM Heemstede is verantwoordelijk voor de verwerking van persoonsgegevens zoals weergegeven in deze privacyverklaring. Wij zijn te bereiken via [info@tiltshift.nl](mailto:info@tiltshift.nl).
 
 ## Persoonsgegevens die wij verwerken
 
@@ -50,12 +50,14 @@ Tiltshift B.V. verwerkt jouw persoonsgegevens voor de volgende doelen:
 
 Tiltshift B.V. deelt jouw persoonsgegevens met derden als dit noodzakelijk is voor het uitvoeren van de overeenkomst en om te voldoen aan een eventuele wettelijke verplichting. Met bedrijven die je gegevens verwerken in onze opdracht, sluiten wij een bewerkersovereenkomst om te zorgen voor eenzelfde niveau van beveiliging en vertrouwelijkheid van jouw gegevens. Tiltshift B.V. blijft verantwoordelijk voor deze verwerkingen.
 
-## Gegevens inzien, aanpassen of verwijderenJe hebt het recht om je persoonsgegevens in te zien, te corrigeren of te verwijderen. Daarnaast heb je het recht om je eventuele toestemming voor de gegevensverwerking in te trekken of bezwaar te maken tegen de verwerking van jouw persoonsgegevens door Tiltshift B.V. en heb je het recht op gegevensoverdraagbaarheid. Dat betekent dat je bij ons een verzoek kan indienen om de persoonsgegevens die wij van jou beschikken in een computerbestand naar jou of een ander, door jou genoemde organisatie, te sturen.
+## Gegevens inzien, aanpassen of verwijderen
 
-Je kunt een verzoek tot inzage, correctie, verwijdering, gegevensoverdraging van je persoonsgegevens of verzoek tot intrekking van je toestemming of bezwaar op de verwerking van jouw persoonsgegevens sturen naar info@tiltshift.nl.
+Je hebt het recht om je persoonsgegevens in te zien, te corrigeren of te verwijderen. Daarnaast heb je het recht om je eventuele toestemming voor de gegevensverwerking in te trekken of bezwaar te maken tegen de verwerking van jouw persoonsgegevens door Tiltshift B.V. en heb je het recht op gegevensoverdraagbaarheid. Dat betekent dat je bij ons een verzoek kan indienen om de persoonsgegevens die wij van jou beschikken in een computerbestand naar jou of een ander, door jou genoemde organisatie, te sturen.
+
+Je kunt een verzoek tot inzage, correctie, verwijdering, gegevensoverdraging van je persoonsgegevens of verzoek tot intrekking van je toestemming of bezwaar op de verwerking van jouw persoonsgegevens sturen naar [info@tiltshift.nl](mailto:info@tiltshift.nl).
 
 ## Hoe wij persoonsgegevens beveiligen
 
 Tiltshift B.V. neemt de bescherming van jouw gegevens serieus en neemt passende maatregelen om misbruik, verlies, onbevoegde toegang, ongewenste openbaarmaking en ongeoorloofde wijziging tegen te gaan.
 
-Als jij het idee hebt dat jouw gegevens toch niet goed beveiligd zijn of er aanwijzingen zijn van misbruik, neem dan contact op via info@totenmet.net.
+Als jij het idee hebt dat jouw gegevens toch niet goed beveiligd zijn of er aanwijzingen zijn van misbruik, neem dan contact op via [info@tiltshift.nl](mailto:info@tiltshift.nl).
