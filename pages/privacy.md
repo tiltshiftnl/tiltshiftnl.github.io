@@ -12,7 +12,7 @@ image: /assets/img/foto/Studio-Tiltshift-Innovatie-in-Utrecht.jpg
 caption: ''
 ---
 
-Tiltshift B.V., gevestigd aan Strawinskylaan 11, 2102 CM Heemstede is verantwoordelijk voor de verwerking van persoonsgegevens zoals weergegeven in deze privacyverklaring. Wij zijn te bereiken via [info@tiltshift.nl](mailto:info@tiltshift.nl).
+Tiltshift B.V., gevestigd te Heemstede is verantwoordelijk voor de verwerking van persoonsgegevens zoals weergegeven in deze privacyverklaring. Wij zijn te bereiken via [info@tiltshift.nl](mailto:info@tiltshift.nl).
 
 ## Persoonsgegevens die wij verwerken
 
