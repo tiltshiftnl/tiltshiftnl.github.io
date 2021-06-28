@@ -31,8 +31,8 @@ Hieronder vind je een overzicht van de persoonsgegevens die wij verwerken:
 
 Tiltshift B.V. verwerkt jouw persoonsgegevens voor de volgende doelen:
 
-Het afhandelen van jouw contactverzoek;
-Het afhandelen van jouw betaling.
+- Het afhandelen van jouw contactverzoek;
+- Het afhandelen van jouw betaling.
 
 ## Hoe lang we persoonsgegevens bewaren
 
