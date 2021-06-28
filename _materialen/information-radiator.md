@@ -4,8 +4,8 @@ variant: white
 
 subject: Information Radiator
 title: "Information Radiator"
-description: Van de nieuwe concepten die ik de laatste jaren heb leren kennen is één van mijn favorieten de \"information radiator\".
-keywords: ""
+description: "Van de nieuwe concepten die ik de laatste jaren heb leren kennen is één van mijn favorieten de \"information radiator\"."
+keywords: "War Room, Fixxx, Design Thinking"
 image: "assets/img/foto/IMG_9253_scaled.jpg"
 caption: 'Explore "App Interne Dienstverlening", Gemeente&nbsp;Amsterdam'
 menu: show
