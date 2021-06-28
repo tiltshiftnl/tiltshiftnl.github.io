@@ -9,6 +9,6 @@ download: /assets/pdf/empathymap.pdf
 
 back: ..
 ---
-Voor het gezamenlijk samenvatten van een interview op basis van empathie gebruiken wij vaak Empathy Maps (origineel: <a target=\"_blank\" href=\"https://medium.com/the-xplane-collection/updated-empathy-map-canvas-46df22df3c8a\">xplane</a>)."
+Voor het gezamenlijk samenvatten van een interview op basis van empathie gebruiken wij vaak Empathy Maps (origineel: [xplane](https://medium.com/the-xplane-collection/updated-empathy-map-canvas-46df22df3c8a)."
 
 [Download het canvas]({{ page.download }})
