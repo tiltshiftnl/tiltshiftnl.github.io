@@ -1,6 +1,6 @@
 ---
 layout: default
-variant: blue
+variant: white
 permalink: /materialen/
 
 subject: Materialen
