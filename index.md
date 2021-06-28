@@ -19,7 +19,7 @@ Wij helpen je digitalisering te starten of weer in beweging te krijgen in je org
 
 Digitalisering ontwerpen we ter plaatse en door te doen, samen met de gebruikers zelf. Onze aanpak is helder en eenvoudig: we delen alles op in kleine, praktische en snel uitvoerbare onderdelen. Zo begeleiden we organisaties stap voor stap naar oplossingen die wél werken.
 
-Je belt ons op 020-722 02 07 als:
+Je belt ons op <a href="tel:+31207220207">020-722 02 07</a> als:
 
 - **Je organisatie wil digitaliseren**, wij helpen je met een concreet plan en begeleiden de opstart en uitvoering;
 
