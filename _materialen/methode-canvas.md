@@ -1,13 +1,17 @@
 ---
 layout: default
-variant: blue
+variant: white
 
 title: "Methode canvas"
-description: "Structurele en effectieve innovatie begint met een heldere methode. Hiervoor ontwikkelden wij een methode canvas. Duidelijk in kaart brengen van gefaseerde methode volgens design thinking framework."
-type: Materialen
+subtitle: "Snel creatieve, concrete ideeën verzinnen, en verder itereren."
 
-labels: [Labs]
-url: /assets/pdf/methodecanvas.pdf
+description: "Structurele en effectieve innovatie begint met een heldere methode. Hiervoor ontwikkelden wij een methode canvas. Duidelijk in kaart brengen van gefaseerde methode volgens design thinking framework."
+
+labels: [innovatie, methode, design thinking]
+download: /assets/pdf/methodecanvas.pdf
 
 back: ..
 ---
+{{ page.description }}
+
+[Download het canvas]({{ page.download }})
