@@ -8,6 +8,9 @@ description: "Structurele en effectieve innovatie begint met een heldere methode
 labels: [innovatie, Design Thinking, methode]
 download: /assets/pdf/methodecanvas.pdf
 
+image: "assets/img/foto/IMG_8562.jpg"
+caption: 'Fixxx Ideation "Schulddossier", Gemeente&nbsp;Amsterdam'
+
 back: ..
 ---
 {{ page.description }}
