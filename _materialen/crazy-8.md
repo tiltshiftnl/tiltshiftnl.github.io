@@ -1,6 +1,6 @@
 ---
 layout: default
-variant: blue
+variant: white
 
 title: "Crazy-8"
 subtitle: "Snel creatieve, concrete ideeën verzinnen, en verder itereren."
