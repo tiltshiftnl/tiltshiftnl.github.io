@@ -27,4 +27,5 @@ In onze media kit vindt je informatie over Tiltshift en een aantal afbeeldingen.
 
 - [Over Tiltshift B.V.](/)
 - [Foto's van het kernteam](/)
+- [In actie foto's](/)
 - [Workshop foto's](/)
