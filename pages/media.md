@@ -2,7 +2,7 @@
 ---
 layout: default
 variant: white
-permalink: /mediakit/
+permalink: /media/
 
 subject: Mediakit
 backlink: /
