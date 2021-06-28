@@ -5,7 +5,7 @@ variant: white
 title: "Crazy-8"
 subtitle: "Snel creatieve, concrete ideeën verzinnen, en verder itereren."
 
-description: Deze visuele brainstorm techniek is bedoel om razendsnel een grote hoeveelheid ideeën op te halen.
+description: "Deze visuele brainstorm techniek is bedoel om razendsnel een grote hoeveelheid ideeën op te halen."
 labels: [ideation, convergeren, co-creatie, tekenen]
 download: /assets/pdf/crazy-8.pdf
 
