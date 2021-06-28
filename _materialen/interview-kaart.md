@@ -4,9 +4,8 @@ variant: white
 
 title: "Interview kaart"
 description: "Interview kaart op basis van Empathy Map."
-type: Materialen
 
-labels: [Explore]
+labels: [Interview, Design Thinking, Explore]
 download: /assets/pdf/interviewkaart.pdf
 
 back: ..
