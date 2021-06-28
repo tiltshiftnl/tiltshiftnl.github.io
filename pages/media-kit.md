@@ -1,7 +1,7 @@
 ---
 layout: default
 variant: white
-permalink: /media/
+permalink: /media-kit/
 
 title: Media
 description: "Materialen en informatie voor media. Alle materialen zijn vrij te gebruiken onder Creative Commons licentie CC BY-SA Tiltshift (www.tiltshift.nl)."
