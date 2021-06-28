@@ -1,6 +1,6 @@
 ---
 layout: default
-variant: blue
+variant: white
 
 subject: Information Radiator
 title: "Information Radiator"
