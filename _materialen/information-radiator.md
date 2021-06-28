@@ -10,6 +10,7 @@ image: "assets/img/foto/IMG_9253_scaled.jpg"
 caption: 'Explore "App Interne Dienstverlening", Gemeente&nbsp;Amsterdam'
 menu: show
 author: Johan Groenen
+back: ..
 ---
 *{{ page.description }}*
 
