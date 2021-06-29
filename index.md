@@ -3,9 +3,9 @@ layout: default
 hideform: true
 variant: white
 
-title: Succesvolle digitalisering
-subtitle: Als digitalisering, digitale transitie of innovatie stagneert, dan haal je ons erbij!
-description: Wij helpen je digitalisering te starten of weer in beweging te krijgen in je organisatie.
+title: Digitalisering die wél werkt
+subtitle: Een project wat vast zit of helemaal niet van de grond komt? Klaar met oude ICT? Wij lossen het op!Organisaties lopen vast door oude ICT. Wij helpen de business hier uit te komen. We lopen mee met de uitvoerenden en ontwerpen samen de benodigde vernieuwing. Zo zorgen we voor concrete resultaten én voor pragmatische innovatie.
+description: Organisaties lopen vast door oude ICT. Wij helpen de business hier uit te komen. We lopen mee met de uitvoerenden en ontwerpen samen de benodigde vernieuwing. Zo zorgen we voor concrete resultaten én voor pragmatische innovatie.
 keywords: digitale transformatie, probleemgedreven innovatie, kwartiermaker, human centered design, software design thinking, service design, lean startup, lean ux, agile development, xp, scrum, labs, apps, projecten, advies, consultancy, overheid, overheden, publieke sector, mens centraal, common ground, open source, creative commons, creative thinking, open collaboration, Fixxx, Push
 
 image: assets/img/foto/banner_1.jpg
@@ -13,21 +13,21 @@ caption: 'Fixxx discovery “Wonen Toezicht op Pad”, Gemeente Amsterdam'
 ---
 <a name="Wat we doen"/>
 
-Digitaliseren, digitale transitie of innovatie zijn doe-woorden. Ga met een klein team aan de slag om verandering te krijgen. Want voor wat je nog niet weet, kun je geen plan maken. Wél kun je er een team op zetten om dit voor je uit te vinden.
+Organisaties lopen vast door oude ICT. Wij helpen de business hier uit te komen. We lopen mee met de uitvoerenden en ontwerpen samen de benodigde vernieuwing. Zo zorgen we voor concrete resultaten én voor pragmatische innovatie.
 
-Wij helpen je digitalisering te starten of weer in beweging te krijgen in je organisatie. Dat doen we door de strategie en uitvoering ervan tastbaar, behapbaar en aantrekkelijk te maken. Door vanuit de positie van de gebruiker te glimlachen naar de ivoren torens. En door te zorgen dat iedere betrokkene ook echt een bijdrage levert, in plaats van ruis. Dat is Tiltshift. 
+Wij helpen je digitalisering te starten of weer in beweging te krijgen. Dat doen we door de strategie en uitvoering ervan tastbaar en aantrekkelijk te maken. Door vanuit de positie van de gebruiker te glimlachen naar de ivoren torens. En door te zorgen dat iedere betrokkene ook echt een bijdrage levert. Dat is Tiltshift.
 
-Digitalisering ontwerpen we ter plaatse en door te doen, samen met de gebruikers zelf. Onze aanpak is helder en eenvoudig: we delen alles op in kleine, praktische en snel uitvoerbare onderdelen. Zo begeleiden we organisaties stap voor stap naar oplossingen die wél werken.
+Digitalisering ontwerpen we ter plaatse en door te doen, samen met de gebruikers. Onze aanpak is helder en eenvoudig: we delen alles op in praktische en snel uitvoerbare onderdelen. Zo begeleiden we organisaties stap voor stap naar oplossingen die wél werken.
 
-Je belt ons op <a href="tel:+31207220207">020-722 02 07</a> als:
+Bel ons op <a href="tel:+31207220207">020-722 02 07</a> als:
 
-- **Je organisatie wil digitaliseren**, wij helpen je met een concreet plan en begeleiden de opstart en uitvoering;
+- **Je start met digitaliseren**, wij helpen je met een concreet plan en begeleiden de opstart en uitvoering;
 
-- **Je digitalisering niet vooruit komt**, wij scheiden het kaf van het koren en zorgen voor motivatie en voortgang;
+- **Je digitalisering vast loopt**, wij scheiden het kaf van het koren en zorgen voor motivatie en voortgang;
 
-- **Je digitalisering niet van de grond komt of dreigt vast te lopen**, wij lichten het door en helpen je met draagvlak creëren.
+- **Je digitalisering niet van de grond komt**, wij lichten het door en helpen je met draagvlak creëren.
 
-We verzorgen leiderschap, inhoudelijke kennis en indien nodig ook de uitvoering. Tiltshifters werken op basis van onze Fixxx aanpak, gebaseerd op best practices uit Design Thinking, Service Design, Agile en Lean Startup. We nemen jullie daar ook in mee zodat je het later zelf kan. 
+We verzorgen leiderschap, inhoudelijke kennis en indien nodig ook de uitvoering. Tiltshifters werken op basis van onze Fixxx aanpak, gebaseerd op best practices uit Design Thinking, Service Design, Agile en Lean Startup. En als we klaar zijn, kun je het zelf.
 
 Vaak werken we voor gemeenten, provincies of zorg. Maar we staan net zo goed klaar voor andere organisaties of bedrijven. Een greep uit onze opdrachtgevers: **Gemeenten** zoals Amsterdam, Amersfoort, Rotterdam. **Provincies** Flevoland en Zuid-Holland. VNG Vereniging Nederlandse Gemeenten, het ministerie van Algemene Zaken en voor woningcorporaties, ouderenzorg en universiteiten.
 
