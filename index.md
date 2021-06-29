@@ -29,9 +29,9 @@ Bel ons op <a href="tel:+31207220207">020-722 02 07</a> als:
 
 We verzorgen leiderschap, inhoudelijke kennis en indien nodig ook de uitvoering. Tiltshifters werken op basis van onze Fixxx aanpak, gebaseerd op best practices uit Design Thinking, Service Design, Agile en Lean Startup. En als we klaar zijn, kun je het zelf.
 
-Vaak werken we voor gemeenten, provincies of zorg. Maar we staan net zo goed klaar voor andere organisaties of bedrijven. Een greep uit onze opdrachtgevers: **Gemeenten** zoals Amsterdam, Amersfoort, Rotterdam. **Provincies** Flevoland en Zuid-Holland. VNG Vereniging Nederlandse Gemeenten, het ministerie van Algemene Zaken en voor woningcorporaties, ouderenzorg en universiteiten.
-
 > Als je mensen niet over het hoofd wil zien, moet je ze betrekken in alle fases van het project.
+
+Vaak werken we voor gemeenten, provincies of zorg. Maar we staan net zo goed klaar voor andere organisaties of bedrijven. Een greep uit onze opdrachtgevers: **Gemeenten** zoals Amsterdam, Amersfoort, Rotterdam. **Provincies** Flevoland en Zuid-Holland. VNG Vereniging Nederlandse Gemeenten, het ministerie van Algemene Zaken en voor woningcorporaties, ouderenzorg en universiteiten.
 
 ## Onze mensen
 Een Tiltshifter is specialist op zijn of haar vakgebied en heeft een sterke eigen mening. Die zetten we in om jouw doel te bereiken, tenminste, als we in dat doel geloven. De kern van de organisatie bestaat uit vier personen met om ons heen een groep van ongeveer twintig ‘vaste’ freelancers. 
