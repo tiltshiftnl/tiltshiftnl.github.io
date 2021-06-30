@@ -8,7 +8,6 @@ keywords: "open source, overheid, good public tech"
 image: /assets/img/foto/202101-opensourceopentenzij.jpg
 caption: ''
 author: Joris Boeren en Johan Groenen
-back: ..
 ---
 *{{ page.description }}*
 
@@ -31,3 +30,6 @@ Een hardnekkig misverstand is dat open source 'gratis' is. De ontwikkeling ervan
 
 ## Samenvattend
 Samenvattend kan je zeggen dat open source goed past bij de publieke sector, en de overheid in het bijzonder. De transparante samenwerking van 'open' leidt tot betere kwaliteit, innovatie, meer regie en eerlijke verdeling van kosten. Dat het een behoorlijke transitie is mag ook duidelijk zijn. Maar specialisten zoals Tiltshift hebben er inmiddels ruime ervaring mee. Als geen ander kunnen we de vaak toch wat abstracte doelen tastbaar en praktisch maken. Om aansluitend de moeilijkheden te helpen overwinnen die in de weg staan; het inrichten van een helder project, zorgdragen voor hoge kwaliteit code, het samenwerken met andere organisaties, project management, code (review) en zorgen voor onderhoud zodat de software actueel blijft.
+
+[« overzicht van posts](/posts/)
+
