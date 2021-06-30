@@ -19,3 +19,12 @@ menu: show
 {{ page.description }}
 
 {% include people.html %}
+
+## Vacature
+
+Tiltshift bestaat uit een kernteam van vaste krachten aangevuld met een flexibele schil van 'vaste' Freelancers. We werken nauw met elkaar samen en trekken samen op om de doelen van onze opdrachtgevers te halen. Tenminste, als we zelf in die doelen geloven. 
+
+Het komende jaar willen vooral het kernteam uitbreiden. We zijn op zoek naar leuke mensen die als onderdeel van Tiltshift die groei willen meemaken. Doe je mee?
+
+- [Strategisch Coördinator](/2021/06/30/Vacature-Strategisch-Coordinator.html)
+-
