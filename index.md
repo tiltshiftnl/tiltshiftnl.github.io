@@ -4,7 +4,7 @@ hideform: true
 variant: white
 
 title: Digitalisering die wél werkt
-subtitle: Een project wat vast zit of helemaal niet van de grond komt? Klaar met oude ICT? Wij lossen het op!Organisaties lopen vast door oude ICT. Wij helpen de business hier uit te komen. We lopen mee met de uitvoerenden en ontwerpen samen de benodigde vernieuwing. Zo zorgen we voor concrete resultaten én voor pragmatische innovatie.
+subtitle: Een project wat vast zit of helemaal niet van de grond komt? Klaar met oude ICT? Wij lossen het op!
 description: Organisaties lopen vast door oude ICT. Wij helpen de business hier uit te komen. We lopen mee met de uitvoerenden en ontwerpen samen de benodigde vernieuwing. Zo zorgen we voor concrete resultaten én voor pragmatische innovatie.
 keywords: kwartiermaker, digitalisering, oude ICT, digitale transformatie, probleemgedreven innovatie, software design thinking, human centered design, service design, lean startup, lean ux, agile development, xp, scrum, labs, apps, projecten, advies, consultancy, overheid, overheden, publieke sector, mens centraal, common ground, open source, creative commons, creative thinking, open collaboration, Fixxx, Push
 
