@@ -41,7 +41,9 @@ Ontmoet de kern van Tiltshift: [Johan Groenen](/mensen/johan-groenen/), [Maarten
 {% include projects-homepage.html title="Uitgelichte projecten" intro="Om succesvol software te ontwikkelen is het belangrijk om goed te bedenken welk probleem je eigenlijk aan het oplossen bent en voor wie." projects=site.projects %}
 
 ## Nieuws
-[Opinie: vijf redenen voor de overheid om te kiezen voor open source](https://www.tiltshift.nl/2021/02/08/Vijf-redenen-voor-de-overheid-om-te-kiezen-voor-open-source.html) - De de overheid zegt primair open source te gaan werken. Maar in de praktijk is de vorig jaar ingezette beleidslijn ‘open tenzij’ nog flinterdun. (februari 2021)
+[Vacature - Strategisch Coördinator](/2021/06/30/Vacature-Strategisch-Coordinator.html) - We zijn op zoek naar leuke mensen die met Tiltshift willen groeien. Doe je mee? (juni 2021)
+<br><br>
+[Opinie: vijf redenen voor de overheid om te kiezen voor open source](https://www.tiltshift.nl/2021/02/08/Vijf-redenen-voor-de-overheid-om-te-kiezen-voor-open-source.html) - De overheid zegt primair open source te gaan werken. Maar in de praktijk is de vorig jaar ingezette beleidslijn ‘open tenzij’ nog flinterdun. (februari 2021)
 <br><br>
 [Eva Leffef wordt Associate bij Tiltshift](https://www.linkedin.com/feed/update/urn:li:activity:6759385123508117504) - Eva Leffef blijft gewoon bij Tiltshift, maar vanaf nu als onderdeel van de wat zij noemt 'haar leukste zakelijke familie'. En daar zijn we blij mee. (januari 2021)
 <br><br>
