@@ -6,10 +6,18 @@ subtitle: "Digitale innovatie op de straatmarkten van Amsterdam."
 description: "Samen met het centrale marktbureau en de markttoezichthouders ontwikkelden wij Makkelijke Markt, een digitaal bonnenboekje voor de straatmarkten van Amsterdam. Toezichthouders kunnen hiermee aanwezigheid scannen, vergunningen uitgeven en controleren en direct afrekenen met pin."
 keywords: 'Digitale innovatie, interventie, dienstverlening, marktbureau, Amsterdam, digitaal bonnenboekje'
 
-image: /assets/img/foto/IMG_5331_scaled.jpg
-caption: 'Fixxx "Makkelijke Markt", Gemeente&nbsp;Amsterdam'
-featured: false
 order: 10
+
+image: /assets/img/foto/IMG_5331_scaled.jpg
+image_alt_text: 'Marktmeesters tijdens een (handmatige) indeling van een straatmarkt in Amsterdam'
+caption: 'Fixxx "Makkelijke Markt", Gemeente&nbsp;Amsterdam'
+
+featured: false
+featured_order: 3
+featured_image: /assets/img/foto/1.jpeg
+featured_image_alt_text: 'Marktmeesters tijdens een (handmatige) indeling van een straatmarkt in Amsterdam'
+excerpt: "De marktverordening digitaal toegepast zodat ondernemers transparant hun plaats op de Amsterdamse markt krijgen."
+
 
 back: ..
 ---
@@ -26,5 +34,5 @@ Nadat de basis van Makkelijke Markt op alle markten in Amsterdam in gebruik was 
 De samenwerking tussen het Marktbureau en Tiltshift smaakte duidelijk naar meer en in de afgelopen jaren hebben we ook het indelingsprobleem voor de markten van Amsterdam aangepakt. 
 Daarover meer in de [case Digitaal Indelen Straatmarkten](https://www.tiltshift.nl/projecten/digitaal-indelen-straatmarkten/).
 
-### Wil je meer weten over digitale innovatie?
+### Verder praten over digitale innovatie?
 Neem contact met ons op via +31 (0)20 722 02 07.
