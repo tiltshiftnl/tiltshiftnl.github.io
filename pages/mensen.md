@@ -27,4 +27,3 @@ Tiltshift bestaat uit een kernteam van vaste krachten aangevuld met een flexibel
 Het komende jaar willen vooral het kernteam uitbreiden. We zijn op zoek naar leuke mensen die als onderdeel van Tiltshift die groei willen meemaken. Doe je mee?
 
 - [Strategisch Coördinator](/2021/06/30/Vacature-Strategisch-Coordinator.html)
--
