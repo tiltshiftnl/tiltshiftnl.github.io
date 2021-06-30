@@ -10,11 +10,11 @@ caption: ''
 ---
 Tiltshift levert leiderschap in projecten, zowel inhoudelijk als voor proces en strategie. Daarvoor zoeken we talent: slimme en enthousiaste mensen die onderdeel willen zijn van onze hechte zakelijke familie. 
 
-In alles wat je doet zet je de mens centraal. Dus de eindgebruiker zelf. Maar ook je teamleden. Je leiderschap is faciliterend maar zonder om de hete brij heen te draaien. Je houdt ervan om dingen te benoemen, waar nodig op het spits te drijven, tot heldere afspraken te komen en mensen daar aan te houden. Bovenaan staat dat je altijd jezelf bent en dat als vanzelfsprekend ervaart.
+In alles wat je doet zet je de mens centraal. Dus de eindgebruiker zelf, maar ook je teamleden. Je leiderschap is faciliterend maar je draait niet om de hete brij heen. Je houdt ervan om dingen te benoemen, waar nodig op het spits te drijven, tot heldere afspraken te komen en mensen daar aan te houden. Je bent altijd jezelf bent en ervaart dat als vanzelfsprekend.
 
-Je werk bij Tiltshift is een mix van Product Owner, UX researcher, product strateeg én relatie manager tegelijk. In een van deze rollen blink je uit, waarschijnlijk is dat wat je nu al doet. Maar van die andere rollen weet je ook het een en ander, en wil je graag wat bijleren. Je hebt dus een brede kijk op het gehele vakgebied, met een duidelijke focus op één van de rollen.
+Je werk bij Tiltshift is een mix van Product Owner, UX Researcher, product strateeg én relatie manager tegelijk. In een van deze rollen blink je echt uit, waarschijnlijk is dat wat je nu doet. Van de andere rollen weet je ook het een en ander en wil je graag wat bijleren. Je hebt dus een brede kijk op het gehele vakgebied, met een duidelijke focus op één van de rollen.
 
-Tiltshifters werken op WO niveau. Maar opleiding zegt niets over wat je écht kan. Natuurlijk heb je je bekwaamd, cursussen gedaan en een opleiding, welke dan ook. Maar de reis die je aflegde, en je ervaring vinden we bijna nog interessanter dan of je dat diploma echt hebt gehaald. 
+Tiltshifters werken op WO niveau. Maar opleiding zegt niets over wat je écht kan. Natuurlijk heb je je bekwaamd, cursussen en een opleiding gedaan, welke dan ook. De reis die je aflegde en je ervaring vinden we vaak interessanter, dan of je dat diploma hebt gehaald. 
 
 Wij bieden een warme zakelijke familie, groei, een eerlijk salaris en na verloop van tijd de mogelijkheid om deel te nemen in het bedrijf. We werken op ons kantoor in Utrecht, op locatie bij de opdrachtgever of deels vanuit huis. 
 
