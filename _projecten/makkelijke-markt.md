@@ -9,6 +9,7 @@ keywords: 'Digitale innovatie, interventie, dienstverlening, marktbureau, Amster
 image: /assets/img/foto/IMG_5331_scaled.jpg
 caption: 'Fixxx "Makkelijke Markt", Gemeente&nbsp;Amsterdam'
 featured: false
+order: 10
 
 back: ..
 ---
