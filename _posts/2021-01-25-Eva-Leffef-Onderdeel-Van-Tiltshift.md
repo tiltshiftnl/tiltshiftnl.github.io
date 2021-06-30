@@ -7,8 +7,8 @@ description: "Hoe we een arbeidsovereenkomst tekenen in tijden van social distan
 keywords: ""
 image: "assets/img/foto/IMG_9253_scaled.jpg"
 caption: ''
-menu: show
 author: Joris Boeren
+back: ..
 ---
 *{{ page.description }}* Alleen kunnen we het nu niet zo uitbundig vieren als we zouden willen. Want we zijn heel blij met de keuze van Eva Leffef voor Tiltshift. Vanaf nu, officieel Associate en onderdeel van het management, met deze selfie als publiek bewijs. Die borrel, die volgt als het weer kan. 
 
