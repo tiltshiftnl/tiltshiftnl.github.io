@@ -8,17 +8,18 @@ quote:
 type:
 keywords:
 labels: [datagedreven werken, digitale transformatie, eerlijke algoritmes, public code]
-excerpt: "De marktverordening digitaal toegepast zodat ondernemers transparant hun plaats op de Amsterdamse markt krijgen."
-caption: 'Discovery "Digitaal Indelen Straatmarkten", Gemeente&nbsp;Amsterdam'
 
-featured_image: /assets/img/foto/1.jpeg
-featured_image_alt_text: 'Digitaal Indelen Straatmarkten Amsterdam'
-featured_order: 3
-featured: true
+order: 2
 
 image: /assets/img/foto/IMG_9715.JPG
-image_alt_text: 'Digitaal Indelen Straatmarkten Amsterdam'
-order: 2
+image_alt_text: 'Marktmeesters tijdens een (handmatige) indeling van een straatmarkt in Amsterdam'
+caption: 'Discovery "Digitaal Indelen Straatmarkten", Gemeente&nbsp;Amsterdam'
+
+featured: true
+featured_order: 3
+featured_image: /assets/img/foto/1.jpeg
+featured_image_alt_text: 'Marktmeesters tijdens een (handmatige) indeling van een straatmarkt in Amsterdam'
+excerpt: "De marktverordening digitaal toegepast zodat ondernemers transparant hun plaats op de Amsterdamse markt krijgen."
 
 back: ..
 ---
