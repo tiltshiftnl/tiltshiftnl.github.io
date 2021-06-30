@@ -18,8 +18,6 @@ Tiltshifters werken op WO niveau. Maar opleiding zegt niets over wat je écht ka
 
 Wij bieden een warme zakelijke familie, groei, een eerlijk salaris en na verloop van tijd de mogelijkheid om deel te nemen in het bedrijf. We werken op ons kantoor in Utrecht, op locatie bij de opdrachtgever of deels vanuit huis. 
 
----
-
 ## Reageren
 
 Ben je een snelle denker, toe aan een volgende stap en weet precies te vertellen waarom je bij ons past? Dan horen we graag van je, bel daarvoor met Joris op 030 - 721 08 68. Mag ook in de vroege avond of in het weekeinde als je dat beter uitkomt.
