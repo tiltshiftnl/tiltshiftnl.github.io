@@ -7,7 +7,6 @@ description: "Ben je een snelle denker, toe aan een volgende stap en weet precie
 keywords: "Vacature, Strategisch Coordinator, Product Owner, Service Designer, UX Researcher, Product Strateeg, Relatie Manager"
 image: "assets/img/foto/IMG_9253_scaled.jpg"
 caption: ''
-back: ..
 ---
 Tiltshift levert leiderschap in projecten, zowel inhoudelijk als voor proces en strategie. Daarvoor zoeken we talent: slimme en enthousiaste mensen die onderdeel willen zijn van onze hechte zakelijke familie. 
 
@@ -22,3 +21,5 @@ Wij bieden een warme zakelijke familie, groei, een eerlijk salaris en na verloop
 ## Reageren
 
 Ben je een snelle denker, toe aan een volgende stap en weet precies te vertellen waarom je bij ons past? Dan horen we graag van je, bel daarvoor met Joris op 030 - 721 08 68. Mag ook in de vroege avond of in het weekeinde als je dat beter uitkomt.
+
+[« overzicht van posts](/posts/)
