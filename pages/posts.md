@@ -1,8 +1,9 @@
 ---
 layout: default
-permalink: /blog/
+variant: white
+permalink: /posts/
 
-title: Blog
+title: Posts
 subtitle: 
 
 description: ""
