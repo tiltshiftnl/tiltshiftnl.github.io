@@ -9,7 +9,6 @@ image: "assets/img/foto/IMG_9253_scaled.jpg"
 caption: 'Explore "App Interne Dienstverlening", Gemeente&nbsp;Amsterdam'
 menu: show
 author: Johan Groenen
-back: ..
 ---
 *{{ page.description }}*
 
@@ -22,3 +21,6 @@ In onze Fixxx trajecten combineren we de architectuur van common ground daarom m
 Sinds 2015 werken we bij Tiltshift eigenlijk al op basis van Common Ground: data zo veel mogelijk bij de bron laten en deze daaruit realtime opvragen via *Application Programming Interfaces* (API's); een Agile manier van software ontwikkelen, waarbij iedere week een verbeterde versie van de software wordt opgeleverd aan de gebruikers; componentgebaseerde, open source applicaties maken. Met die werkwijze zijn we er onder andere in geslaagd zijn om Datalab Amsterdam op te zetten en tot een voorbeeld te maken van hoe je als gemeente innovatieve datagedreven toepassingen kan ontwikkelen.
 
 Gedurende de afgelopen jaren hebben we veel en vaak met VNG (*Vereniging van Nederlandse Gemeenten*) gesproken over onze manier van werken, de oplossingen die we hebben gerealiseerd, en hoe we deze naar meer gemeenten kunnen opschalen. Toen we gevraagd werden om het Groeipact Common Ground te tekenen, was dat voor ons dan ook een no-brainer. We blijven ons ook de komende jaren richten op probleemgedreven innovatie: samen het probleem in kaart brengen, samen zoveel mogelijk oplossingen bedenken, en van daaruit samen software maken die écht werkt!
+
+[« overzicht van posts](/posts/)
+
