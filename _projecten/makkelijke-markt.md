@@ -16,8 +16,7 @@ featured: false
 featured_order: 3
 featured_image: /assets/img/foto/1.jpeg
 featured_image_alt_text: 'Marktmeesters tijdens een (handmatige) indeling van een straatmarkt in Amsterdam'
-excerpt: "De marktverordening digitaal toegepast zodat ondernemers transparant hun plaats op de Amsterdamse markt krijgen."
-
+excerpt: "Makkelijke Markt hebben we gemaakt met de mensen van de markt. Dagelijks liepen we mee met de marktmeesters en we programmeerden zelfs enkele dagen van achter een echte marktkraam. Zo ontdekten we wat werkt in de dagelijkse praktijk. Dat hadden we van achter een bureau nooit kunnen bedenken."
 
 back: ..
 ---
