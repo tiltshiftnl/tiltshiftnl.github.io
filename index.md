@@ -6,7 +6,7 @@ variant: white
 title: Digitalisering die wél werkt
 subtitle: Een project wat vast zit of helemaal niet van de grond komt? Klaar met oude ICT? Wij lossen het op!Organisaties lopen vast door oude ICT. Wij helpen de business hier uit te komen. We lopen mee met de uitvoerenden en ontwerpen samen de benodigde vernieuwing. Zo zorgen we voor concrete resultaten én voor pragmatische innovatie.
 description: Organisaties lopen vast door oude ICT. Wij helpen de business hier uit te komen. We lopen mee met de uitvoerenden en ontwerpen samen de benodigde vernieuwing. Zo zorgen we voor concrete resultaten én voor pragmatische innovatie.
-keywords: digitale transformatie, probleemgedreven innovatie, kwartiermaker, human centered design, software design thinking, service design, lean startup, lean ux, agile development, xp, scrum, labs, apps, projecten, advies, consultancy, overheid, overheden, publieke sector, mens centraal, common ground, open source, creative commons, creative thinking, open collaboration, Fixxx, Push
+keywords: kwartiermaker, digitalisering, oude ICT, digitale transformatie, probleemgedreven innovatie, software design thinking, human centered design, service design, lean startup, lean ux, agile development, xp, scrum, labs, apps, projecten, advies, consultancy, overheid, overheden, publieke sector, mens centraal, common ground, open source, creative commons, creative thinking, open collaboration, Fixxx, Push
 
 image: assets/img/foto/banner_1.jpg
 caption: 'Fixxx discovery “Wonen Toezicht op Pad”, Gemeente Amsterdam'
@@ -16,8 +16,6 @@ caption: 'Fixxx discovery “Wonen Toezicht op Pad”, Gemeente Amsterdam'
 Organisaties lopen vast door oude ICT. Wij helpen de business hier uit te komen. We lopen mee met de uitvoerenden en ontwerpen samen de benodigde vernieuwing. Zo zorgen we voor concrete resultaten én voor pragmatische innovatie.
 
 Wij helpen je digitalisering te starten of weer in beweging te krijgen. Dat doen we door de strategie en uitvoering ervan tastbaar en aantrekkelijk te maken. Door vanuit de positie van de gebruiker te glimlachen naar de ivoren torens. En door te zorgen dat iedere betrokkene ook echt een bijdrage levert. Dat is Tiltshift.
-
-Digitalisering ontwerpen we ter plaatse en door te doen, samen met de gebruikers. Onze aanpak is helder en eenvoudig: we delen alles op in praktische en snel uitvoerbare onderdelen. Zo begeleiden we organisaties stap voor stap naar oplossingen die wél werken.
 
 Bel ons op <a href="tel:+31207220207">020-722 02 07</a> als:
 
