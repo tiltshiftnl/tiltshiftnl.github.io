@@ -6,7 +6,7 @@ title: Eva Leffef onderdeel van Tiltshift
 description: "Hoe we een arbeidsovereenkomst tekenen in tijden van social distancing? Gewoon, op gepaste afstand, op kantoor."
 keywords: ""
 image: "assets/img/foto/IMG_9253_scaled.jpg"
-caption: 'Explore "App Interne Dienstverlening", Gemeente&nbsp;Amsterdam'
+caption: 'Eva Leffef onderdeel van Tiltshift'
 menu: show
 author: Joris Boeren
 ---
