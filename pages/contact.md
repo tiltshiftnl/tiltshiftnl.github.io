@@ -6,7 +6,7 @@ permalink: /contact/
 title: Contact
 quote: 
 description: "Neem gerust contact op door een e-mail te sturen naar info@tiltshift.nl of te bellen met +31 (0)20 722 02 07."
-keywords: 
+keywords: 'innovatie, interventie, contact opnemen, contactgegevens, utrecht, tiltshift, good public tech'
 
 image: /assets/img/foto/Studio-Tiltshift-Innovatie-in-Utrecht.jpg
 caption: ''
