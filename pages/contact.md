@@ -12,9 +12,10 @@ image: /assets/img/foto/Studio-Tiltshift-Innovatie-in-Utrecht.jpg
 caption: ''
 ---
 
-Neem gerust contact op door een e-mail te sturen naar [info@tiltshift.nl](mailto:info@tiltshift.nl) of te bellen met +31 (0)20 722 02 07.
+[info@tiltshift.nl](mailto:info@tiltshift.nl)<br>
++31 (0)20 722 02 07
 
-Of benader rechtstreeks een van onze mensen: [Johan Groenen](/mensen/johan-groenen/), [Maarten Geraets](/mensen/maarten-geraets/), [Joris Boeren](/mensen/joris-boeren/) en [Eva Leffef](/mensen/eva-leffef/) 
+[Onze mensen](/mensen/)
 
 ### Bedrijfsgegevens
 
