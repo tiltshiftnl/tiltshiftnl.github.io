@@ -5,8 +5,8 @@ permalink: /privacy/
 
 title: Privacy
 quote: 
-description: "Neem gerust contact op door een e-mail te sturen naar info@tiltshift.nl of te bellen met +31 (0)20 722 02 07."
-keywords: 
+description: "Tiltshift B.V., gevestigd te Heemstede is verantwoordelijk voor de verwerking van persoonsgegevens zoals weergegeven in deze privacyverklaring."
+keywords: 'privacy, AVG, privacyverklaring, persoonsgegevens, verwerking, verwerkingsovereenkomst.'
 
 image: /assets/img/foto/Studio-Tiltshift-Innovatie-in-Utrecht.jpg
 caption: ''
