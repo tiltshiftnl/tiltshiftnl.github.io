@@ -48,7 +48,7 @@ Tiltshift B.V. verwerkt jouw persoonsgegevens voor de volgende doelen:
 
 ## Delen van persoonsgegevens met derden
 
-Tiltshift B.V. deelt jouw persoonsgegevens met derden als dit noodzakelijk is voor het uitvoeren van de overeenkomst en om te voldoen aan een eventuele wettelijke verplichting. Met bedrijven die je gegevens verwerken in onze opdracht, sluiten wij een bewerkersovereenkomst om te zorgen voor eenzelfde niveau van beveiliging en vertrouwelijkheid van jouw gegevens. Tiltshift B.V. blijft verantwoordelijk voor deze verwerkingen.
+Tiltshift B.V. deelt jouw persoonsgegevens met derden als dit noodzakelijk is voor het uitvoeren van de overeenkomst en om te voldoen aan een eventuele wettelijke verplichting. Met bedrijven die je gegevens verwerken in onze opdracht, sluiten wij een verwerkersovereenkomst om te zorgen voor eenzelfde niveau van beveiliging en vertrouwelijkheid van jouw gegevens. Tiltshift B.V. blijft verantwoordelijk voor deze verwerkingen.
 
 ## Gegevens inzien, aanpassen of verwijderen
 
