@@ -8,7 +8,7 @@ keywords: 'Digitale innovatie, interventie, dienstverlening, marktbureau, Amster
 
 order: 10
 
-image: /assets/img/foto/IMG_5331_scaled.jpg
+image: /assets/img/foto/Makkelijke-Markt-Administratie-Markt-Ondernemers.jpg
 image_alt_text: 'Marktmeesters tijdens een (handmatige) indeling van een straatmarkt in Amsterdam'
 caption: 'Fixxx "Makkelijke Markt", Gemeente&nbsp;Amsterdam'
 
