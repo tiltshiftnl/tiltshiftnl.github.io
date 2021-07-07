@@ -35,6 +35,11 @@ Makkelijke Markt hebben we gemaakt met de mensen van de markt. Dagelijks liepen 
 
 Nadat de basis van Makkelijke Markt op alle markten in Amsterdam in gebruik was hebben we het  verder verrijkt. Onder andere met functionaliteit rondom betalen. Zo werd de indeling controleerbaar, hielpen we de marktmeesters en was iedereen weer positief gestemd. Sterker nog, toen ICT een jaar later opperde om Makkelijke Markt te vervangen door een ander systeem is dat na een vriendelijke opstand van het personeel verijdeld. Want, zo vond men, het werkt en we willen niks anders. Terecht want tot op heden wordt de applicatie dagelijks gebruikt voor alle straatmarkten van Amsterdam. 
 
+<div class="article-image" style="background-image: url(/assets/img/foto/Makkelijke-Markt-Software-Design-Thinking.jpg)">
+    <div class="slope"></div>
+    <div class="slope slope--flip"></div>
+</div>
+
 De samenwerking tussen het Marktbureau en Tiltshift smaakte duidelijk naar meer en in de afgelopen jaren hebben we ook het indelingsprobleem voor de markten van Amsterdam aangepakt. 
 Daarover meer in de [case Digitaal Indelen Straatmarkten](https://www.tiltshift.nl/projecten/digitaal-indelen-straatmarkten/).
 
