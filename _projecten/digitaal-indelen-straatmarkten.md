@@ -17,7 +17,7 @@ caption: 'Discovery "Digitaal Indelen Straatmarkten", Gemeente&nbsp;Amsterdam'
 
 featured: true
 featured_order: 3
-featured_image: /assets/img/foto/1.jpeg
+featured_image: /assets/img/foto/IMG_9715.JPG
 featured_image_alt_text: 'Marktmeesters tijdens een (handmatige) indeling van een straatmarkt in Amsterdam'
 excerpt: "De marktverordening digitaal toegepast zodat ondernemers transparant hun plaats op de Amsterdamse markt krijgen."
 
