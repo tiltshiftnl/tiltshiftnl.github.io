@@ -5,7 +5,7 @@ variant: white
 title: "Schulddossier voor betere samenwerking in de keten"
 description: Onze interventie begon door beide partijen met elkaar in één ruimte te zetten. Daardoor werd duidelijk dat er grotere problemen waren dan alleen de incasso’s. Met de gebruikers maakten we een eenvoudige omgeving waarin werd samengewerkt in één digitaal dossier, waardoor de doorlooptijd met wel 100 dagen is afgenomen.
 
-quote: ""
+quote:
 type: 
 keywords: interventie, digitalisering, samenwerking in de keten, met gebruikers, maak het echt, datagedreevn werken, digitale transitie
 labels: [datagedreven werken, samenwerken, ketenpartners, digitale transitie]
