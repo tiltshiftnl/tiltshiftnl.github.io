@@ -23,7 +23,7 @@ featured_order: 2
 
 back: ..
 ---
-Mensen met schulden kunnen hulp krijgen vanuit hun gemeente. Er wordt dan gekeken naar het onderliggende probleem en meestal ook een sanering gestart. Zodat er snel rust en overzicht gecreëerd kan worden voor de schuldenaar én voor de schuldeisers.  In de praktijk gaat dat vaak niet zoals bedoeld. Zo sprak Arre Zuurman, toen gemeentelijk ombudsman, de gemeente Amsterdam aan op onwenselijke incasso’s bij deze minnelijke schuldsanering. Want die zorgden voor stress en problemen.
+Mensen met schulden kunnen hulp krijgen vanuit hun gemeente. Om snel rust en overzicht te creëeren voor de schuldenaar én voor de schuldeisers wordt er dan gekeken naar het onderliggende probleem en meestal ook een sanering gestart. In de praktijk gaat dat vaak niet zoals bedoeld. Zo sprak Arre Zuurman, toen gemeentelijk ombudsman, de gemeente Amsterdam aan op onwenselijke incasso’s bij deze minnelijke schuldsanering. Want die zorgden voor stress en problemen.
 
 De gemeente Amsterdam vroeg aan Tiltshift om uit te vinden waar het probleem van de incasso’s lag en om te adviseren welke interventie te plegen. Na een kort onderzoek werd duidelijk dat er een soort van muur bestond tussen de twee partners die het proces uitvoerden. Het proces was opgeknipt in een sociale kant (wijkteams ter ondersteuning van de schuldenaar) en sanering kant (gemeentelijke kredietbank voor de schuldeisers). Die partijen spraken nauwelijks met elkaar en stuurden elkaar vooral brieven met termen als ‘vervaltermijnen’ en ‘vereisten’.
 
