@@ -11,7 +11,7 @@ keywords: interventie, digitalisering, samenwerking in de keten, met gebruikers,
 labels: [datagedreven werken, samenwerken, ketenpartners, digitale transitie]
 
 
-caption: 'Stapels dossiers tijdens het onderzoek voor Schulddossier'
+caption: 
 excerpt: "Eén centraal digitaal dossier om schuldsanering van burgers veilig en sneller te laten verlopen. Waardoor de doorlooptijd met wel 100 dagen is afgenomen."
 
 image: /assets/img/foto/Schulddossier1.jpg
