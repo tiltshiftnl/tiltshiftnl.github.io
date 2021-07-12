@@ -1,5 +1,6 @@
 ---
 layout: default
+variant: white
 back: /
 
 title: Advies en begeleiding
