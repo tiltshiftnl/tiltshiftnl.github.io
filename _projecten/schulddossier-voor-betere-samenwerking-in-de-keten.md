@@ -23,18 +23,18 @@ featured_order: 2
 
 back: ..
 ---
-Mensen met schulden kunnen hulp krijgen vanuit hun gemeente. Om snel rust en overzicht te creëeren voor de schuldenaar én voor de schuldeisers wordt er dan gekeken naar het onderliggende probleem en meestal ook een sanering gestart. In de praktijk gaat dat vaak niet zoals bedoeld. Zo sprak Arre Zuurman, toen gemeentelijk ombudsman, de gemeente Amsterdam aan op onwenselijke incasso’s bij deze minnelijke schuldsanering. Want die zorgden voor stress en problemen.
+Mensen met schulden kunnen hulp krijgen vanuit hun gemeente. Om snel rust en overzicht te creëeren voor de schuldenaar én voor de schuldeisers wordt er dan gekeken naar het onderliggende probleem en meestal ook een sanering gestart. In de praktijk gaat dat vaak niet zoals bedoeld. Zo sprak Arre Zuurman, als gemeentelijk ombudsman, de gemeente Amsterdam aan op onwenselijke incasso’s bij deze minnelijke schuldsanering. Want die zorgden voor stress en problemen.
 
-De gemeente Amsterdam vroeg aan Tiltshift om uit te vinden waar het probleem van de incasso’s lag en om te adviseren welke interventie te plegen. Na een kort onderzoek werd duidelijk dat er een soort van muur bestond tussen de twee partners die het proces uitvoerden. Het proces was opgeknipt in een sociale kant (wijkteams ter ondersteuning van de schuldenaar) en sanering kant (gemeentelijke kredietbank voor de schuldeisers). Die partijen spraken nauwelijks met elkaar en stuurden elkaar vooral brieven met termen als ‘vervaltermijnen’ en ‘vereisten’.
+De gemeente Amsterdam vroeg aan Tiltshift om uit te vinden waar het probleem van de incasso’s lag en om te adviseren welke interventie te plegen. Na een kort onderzoek werd duidelijk dat het proces bestond uit een sociale kant (wijkteams ter ondersteuning van de schuldenaar) en sanering kant (gemeentelijke kredietbank voor de schuldeisers). Er bestond een soort muur tussen de partners aan die beide kanten. Ze spraken nauwelijks met elkaar en stuurden elkaar vooral brieven met termen als ‘vervaltermijnen’ en ‘vereisten’.
 
-Onze interventie begon door beide partijen met elkaar in één ruimte te zetten. Daardoor werd duidelijk dat er grotere problemen waren dan alleen die incasso’s. Zo waren er andere verwachtingen van elkaar en bleek er geen overeenstemming over de te gebruiken documentatie. In de praktijk moesten schuldenaren meerdere keren hetzelfde document aanleveren. Ook werden de papieren dossiers bij beide partijen bewaard en ‘actueel’ gehouden. Geen wonder dat het allemaal zo lang duurde.
+Onze interventie begon door beide partijen in één ruimte te zetten. Daardoor werd duidelijk dat er grotere problemen waren dan alleen die incasso’s. Zo waren er andere verwachtingen van elkaar en bleek er geen overeenstemming over de te gebruiken documentatie. Waardoor schuldenaren in de praktijk meerdere keren hetzelfde document moesten aanleveren. Ook werden de papieren dossiers bij beide partijen bewaard en ‘actueel’ gehouden. Geen wonder dat het allemaal zo lang duurde.
 
 <div class="article-image" style="background-image: url(/assets/img/foto/Schulddossier2.jpg)">
     <div class="slope"></div>
     <div class="slope slope--flip"></div>
 </div>
 
-Gezamenlijk besloten we de dossiers als uitgangspunt te nemen. Met de gebruikers maakten we een eenvoudige omgeving waarin werd samengewerkt in één digitaal dossier. Maar ook hielpen we de interne processen beter op elkaar af te stemmen en beëindigden de tot dan toe gangbare fax, e-mail en FTP-uitwisseling. Het werkte meteen en al na twee maanden volgden de overige wijkteams. 
+Gezamenlijk besloten we de dossiers als uitgangspunt te nemen. Samen met de gebruikers zelf maakten we een eenvoudige omgeving waarin werd samengewerkt in één digitaal dossier. Ook hielpen we de interne processen beter op elkaar af te stemmen en beëindigden de tot dan toe gangbare fax, e-mail en FTP-uitwisseling. Het werkte meteen écht en al na twee maanden volgden de overige wijkteams. 
 
 Zo was het grootste knelpunt binnen een kwartaal opgelost: de dossiers zijn volledig digitaal en door de betere samenwerking is de doorlooptijd met wel 100 dagen is afgenomen. De tijd die daardoor binnen de organisatie vrij kwam kon worden besteed aan het oplossen van de klacht van de ombudsman.
 
