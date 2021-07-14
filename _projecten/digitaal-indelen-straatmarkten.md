@@ -11,7 +11,7 @@ labels: [datagedreven werken, digitale transformatie, eerlijke algoritmes, publi
 
 order: 2
 
-image: /assets/img/foto/IMG_9715.JPG
+image: /assets/img/foto/Digitaal-Indelen-Markt-Amsterdam-Marktmeesters.jpg
 image_alt_text: 'Marktmeesters tijdens een (handmatige) indeling van een straatmarkt in Amsterdam'
 caption: 'Discovery "Digitaal Indelen Straatmarkten", Gemeente&nbsp;Amsterdam'
 
