@@ -3,52 +3,55 @@ layout: default
 variant: white
 
 title: "Straatnotes geeft inzicht in de stad"
-description: Straatnotes helpt de observaties van straatcoaches te verzamelen en om te zetten naar bruikbare informatie en waardevolle inzichten. Veilig, en met waarborg voor de privacy van de betrokkenen.
+description: Straatnotes helpt de bevindingen van straatcoaches veilig te verzamelen en om te zetten naar bruikbare informatie en waardevolle inzichten. Waarbij de privacy van de betrokkenen gewaarborgd is.
 
 quote:
 type:
-keywords: Fixxx, software design thinking
+keywords: Software design thinking, Design Thinking, echte oplossing voor de mensen die het werk doen, privacy, AVG, jeugdoverlast.
 labels: [datagedreven werken, samenwerken, ketenpartners, privacy]
 
 image: /assets/img/foto/2016-straatcoaches02.jpg
 featured_image: /assets/img/foto/2.jpeg
-featured_image_alt_text: 'Alt_text'
-caption: 'Fixxx "StraatNotes", Gemeente Amsterdam'
-excerpt: "Straatnotes helpt de observaties van straatcoaches te verzamelen en om te zetten naar bruikbare informatie en waardevolle inzichten."
+featured_image_alt_text: 'Veilig en volgends de AVG bevindingen straatcoaches noteren en delen.'
+caption:
+excerpt: "De straatcoaches in Amsterdam kregen een echt hulpmiddel in hun werk en de kwaliteit van de data nam fors toe door metadatering en controle."
 
 featured_order: 1
 featured: true
 
 back: ..
 ---
-<i>Straatnotes helpt de observaties van straatcoaches te verzamelen en om te zetten naar bruikbare informatie en waardevolle inzichten. Veilig, en met waarborg voor de privacy van de betrokkenen.</i>
+In Amsterdam zijn straatcoaches de ogen en oren op straat, waardoor tijdig interventies ingezet kunnen worden. De informatie die zij verzamelen werd ongestructureerd op de eigen telefoon bijgehouden, geappt en overgetypt in de gemeentesystemen. Van waaruit het als e-mail en Excel werd verspreid onder de gebruikers. Het was niet dat het niet veilig kon, de te gebruiken systemen waren onhandig. 
 
-In een gemeente zijn straatcoaches vaak de ogen en oren op straat. Ze spreken jongeren aan op hun gedrag en leggen hun oor te luisteren. Met de informatie die ze zo krijgen kunnen beleidsmakers anticiperen op wat er nodig is en wordt de operationele inzet van hulpverleners en handhavers veel efficiënter. Dankzij de software van Straatnotes is het opslaan en distribueren van de informatie gemakkelijker, beter en veiliger geworden.
-
-In 2016 vroeg de gemeente Amsterdam aan Tiltshift om de terugkoppeling van de straatcoaches aan de gemeente te verbeteren. De informatie was tot dan toe gefragmenteerd en incompleet. Dat kwam vooral omdat de computersystemen niet aansloten op wat er op straat gebeurde. Tijdens een Fixxx-project losten we dit issue op, samen mét de straatcoaches. We maakten een slim systeem dat fijn en veilig werkt op de telefoons van de straatcoaches en de data centraal opslaat. Ook introduceerden we een handmatige redactieslag op de informatie waarmee de data consistent werd en kwalitatief flink verbeterde. De oplossing was een instant succes.
+De stadsdeel secretaris van Stadsdeel Oost, Sjoukje Alta, wilde dit veranderen maar werd intern niet gehoord. Toen huurde ze Tiltshift in. 
 
 > Van achter mijn bureau heb ik goed zicht op hoe de problematiek zich ontwikkelt op straat.
+
+Quote van Projectleider Jeugd & Veiligheid
 
 <div class="article-image" style="background-image: url(/assets/img/foto/2016-straatcoaches01.jpg)">
     <div class="slope"></div>
     <div class="slope slope--flip"></div>
 </div>
 
-De informatiestroom uit Straatnotes nam enorm toe, kwalitatief én kwantitatief. Het systeem werd daarmee een belangrijke informatiebron voor de stad. De gemeente, maar ook andere relevante partijen vroegen om steeds meer informatie. Om dat te realiseren is Straatnotes in meerdere Pushes verder uitgebreid. De coaches, de ogen en oren van de stad, werden opeens echt gehoord. Tegenwoordig weet de stad snel wat er speelt, kan beleid adequaat en tijdig worden aangepast en is de operationele inzet veel efficiënter.
+Wij liepen met de coaches mee. Zo zagen met eigen ogen hoe ze in gesprek gingen met de jongeren op straat en waarom ze daarna om de hoek pas hun bevindingen noteerden. Ook zagen we hoe omslachtig het was (en dus hoeveel tijd het koste) om die aantekeningen ‘netjes’ in te voeren in de gemeentelijke systemen. Daarom maakten we een veilige en handige aantekeningen applicatie, helemaal afgestemd op wat er op straat gebeurt.
 
+In de applicatie kan op straat al meta data vastgelegd worden. Tenslotte veranderden we de processen zodanig dat informatie pas wordt gedeeld nadat er een controleslag heeft plaatsgevonden, volgens de AVG. Doordat dit makkelijk is, in één eenvoudige omgeving, doet iedereen ook gewoon wat de bedoeling is.
 
-> Straatnotes geeft een gedetailleerd en gericht beeld van de jeugdproblematiek, met veel nuance. Het biedt een goede, integrale informatiepositie voor alle betrokkenen.
+> Scherp in intake, consciëntieus in uitvoering, verbetering van de praktijk en bovendien prettig om mee samen te werken
 
-<i>Paul van Eeten, gemeente Amsterdam</i>
-
-Omdat Straatnotes z’n architectuur ontgroeide is het in 2020 volledig nieuw gestructureerd, met de Common Ground principes als basis. Het is nu een moderne applicatiefamilie bestaande uit diverse losse en herbruikbare applicaties. Met in het midden een centrale database waarin informatie én toegangsrechten (volgens de afgesloten convenanten en gegevensregeling) worden geregistreerd. Hiermee is de privacy van de betrokkenen geborgd en voldoet het systeem aan de vereisten van veiligheid. Dankzij de koppeling van toegangsrechten aan het verwerkingsdoel is het nu mogelijk de informatie conform de privacy vereisten te verspreiden onder de aangesloten partijen.
+Sjoukje Alta, stadsdeelsecretaris stadsdeel Oost
 
 <div class="article-image" style="background-image: url(/assets/img/foto/202101-straatnotesinformatiestromen.jpg)">
     <div class="slope"></div>
     <div class="slope slope--flip"></div>
 </div>
 
-De Straatnotes applicatiefamilie is, samen met de gebruikers, de afgelopen jaren stapsgewijs door Tiltshift bedacht en gebouwd. Dat deden we aan de hand van onze eigen methoden én door mee te werken waar het speelt: op straat. Dat levert niet alleen een goed systeem op, onze mensen deden er ook veel domeinkennis op. Met die kennis in het achterhoofd werken we doorlopend aan de verbetering van het systeem en uitrol in andere gemeenten.
+In drie maanden losten we dus de grootste problemen rondom privacy en veiligheid van data op. De straatcoaches kregen een echt hulpmiddel in hun werk en de kwaliteit van de data nam fors toe door metadatering en controle. Juist die toegenomen kwaliteit zorgt ook voor een forse uitbreiding van de gebruikers van de data.
+
+> Behalve dat de oplossing heel goed is heb ik ook met andere ogen naar ons proces kunnen kijken. Daar is het echt beter van geworden.
+
+Janneke Uitterhoeve, teamlead Jeugd en Veiligheid
 
 ### Wil je meer weten over wat Straatnotes voor jouw gemeente kan betekenen of sparren over de aanpak van jeugdoverlast?
 Neem contact met ons op via +31 (0)20 722 02 07.
