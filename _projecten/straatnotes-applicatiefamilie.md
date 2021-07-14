@@ -38,11 +38,6 @@ In de applicatie kan op straat al meta data vastgelegd worden. Tenslotte verande
 
 Sjoukje Alta, stadsdeelsecretaris stadsdeel Oost
 
-<div class="article-image" style="background-image: url(/assets/img/foto/202101-straatnotesinformatiestromen.jpg)">
-    <div class="slope"></div>
-    <div class="slope slope--flip"></div>
-</div>
-
 In drie maanden losten we dus de grootste problemen rondom privacy en veiligheid van data op. De straatcoaches kregen een echt hulpmiddel in hun werk en de kwaliteit van de data nam fors toe door metadatering en controle. Juist die toegenomen kwaliteit zorgt ook voor een forse uitbreiding van de gebruikers van de data.
 
 > Behalve dat de oplossing heel goed is heb ik ook met andere ogen naar ons proces kunnen kijken. Daar is het echt beter van geworden.
