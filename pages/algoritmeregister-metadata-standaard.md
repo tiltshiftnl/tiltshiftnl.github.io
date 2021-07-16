@@ -30,6 +30,6 @@ Deze link is verplaatst. Een moment geduld, u wordt doorgeleid naar [{{ page.for
         if (count > 1)
             document.getElementById("count").innerHTML = --count;
         else
-            document.getElementById("count").innerHTML = "&nbsp;";
+            document.getElementById("count").innerHTML = "🚀";
     }, 1000);
 </script>
