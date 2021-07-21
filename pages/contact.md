@@ -22,6 +22,8 @@ caption: ''
 KvK 68994222<br>
 BTW-ID NL857680237B01
 
+{% include google-map.html %}
+ 
 ### Bezoekadres
 
 Vechtclub XL<br>
