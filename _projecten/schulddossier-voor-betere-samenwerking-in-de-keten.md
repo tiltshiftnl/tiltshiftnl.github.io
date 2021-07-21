@@ -14,8 +14,8 @@ labels: [datagedreven werken, samenwerken, ketenpartners, digitale transitie]
 caption: 
 excerpt: "Eén centraal digitaal dossier om schuldsanering van burgers veilig en sneller te laten verlopen. Waardoor de doorlooptijd met wel 100 dagen is afgenomen."
 
-image: /assets/img/foto/Schulddossier1.jpg
-image_alt_text: ""
+image: /assets/img/foto/Schulddossier-Betere-samenwerking-in-de-schuld-keten.jpg
+image_alt_text: "Digitale dossiers als oplossing tot betere samenwerking in de schuldhulpverlening keten"
 featured_image: /assets/img/foto/3.jpeg
 
 featured: true
