@@ -3,7 +3,7 @@ layout: default
 variant: white
 
 title: Woonvergunning voor Kwetsbare Groepen
-description: Kwetsbare groepen kunnen in Amsterdam onder begeleiding een periode proef-wonen. Het complexe proces waarin hulpverleners en gemeente nauw samenwerken verliep niet soepel. Toen kwam Tiltshift.
+description: Kwetsbare groepen kunnen in Amsterdam onder begeleiding een periode proef-wonen. Het complexe proces waarin hulpverleners en gemeente nauw samenwerken verliep niet soepel.
 quote:
 type:
 keywords: 'innovatie, design thinking, software design thinking, samenwerking, ketenpartners'
@@ -15,7 +15,7 @@ featured_order: 1
 featured: false
 featured_image: /assets/img/foto/omslagroute_brownpaper.jpg
 featured_image_alt_text: 'Woonvergunning voor Kwetsbare Groepen.'
-excerpt: "Kwetsbare groepen kunnen in Amsterdam onder begeleiding een periode proef-wonen. Het complexe proces waarin hulpverleners en gemeente nauw samenwerken verliep niet soepel. Toen kwam Tiltshift."
+excerpt: "Kwetsbare groepen kunnen in Amsterdam onder begeleiding een periode proef-wonen. Het complexe proces waarin hulpverleners en gemeente nauw samenwerken verliep niet soepel."
 
 order: 1
 back: ..
