@@ -3,17 +3,20 @@ layout: default
 variant: white
 
 title: Woonvergunning voor Kwetsbare Groepen
-description: In Amsterdam kunnen mensen uit kwetsbare groepen onder begeleiding een periode proef-wonen. Om dat te organiseren werken hulpverleners en gemeente nauw samen in een complex proces. En dat verliep niet altijd even soepel. Samen met de betrokkenen zorgde Tiltshift voor een oplossing.
-quote: Ik heb op mijn desktop een mapje met ‘handige documenten’, dat gebruik ik altijd
-type: Fixxx
-keywords:
+description: Kwetsbare groepen kunnen in Amsterdam onder begeleiding een periode proef-wonen. Het complexe proces waarin hulpverleners en gemeente nauw samenwerken verliep niet soepel. Toen kwam Tiltshift.
+quote:
+type:
+keywords: 'innovatie, design thinking, software design thinking, samenwerking, ketenpartners'
 labels: [ketensamenwerking, huisvesting kwetsbare groepen, omslagroute]
 
 image: /assets/img/foto/omslagroute_brownpaper.jpg
-featured_image: /assets/img/foto/omslagroute_brownpaper.jpg
-caption: 'Fixxx "Omslagroute", Gemeente&nbsp;Amsterdam en partners'
-
+caption:
+featured_order: 1
 featured: false
+featured_image: /assets/img/foto/omslagroute_brownpaper.jpg
+featured_image_alt_text: 'Woonvergunning voor Kwetsbare Groepen.'
+excerpt: "Kwetsbare groepen kunnen in Amsterdam onder begeleiding een periode proef-wonen. Het complexe proces waarin hulpverleners en gemeente nauw samenwerken verliep niet soepel. Toen kwam Tiltshift."
+
 order: 1
 back: ..
 ---
