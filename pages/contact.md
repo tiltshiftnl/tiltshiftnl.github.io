@@ -22,7 +22,7 @@ caption: ''
 KvK 68994222<br>
 BTW-ID NL857680237B01
 
-{% include google-map.html %}
+<p>{% include google-map.html %}</p>
  
 ### Bezoekadres
 
