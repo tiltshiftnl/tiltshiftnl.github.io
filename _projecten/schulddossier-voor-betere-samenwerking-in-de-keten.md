@@ -26,7 +26,7 @@ De gemeente Amsterdam vroeg aan Tiltshift om uit te vinden waar het probleem van
 
 Onze interventie begon door beide partijen in één ruimte te zetten. Daardoor werd duidelijk dat er grotere problemen waren dan alleen die incasso’s. Zo waren er andere verwachtingen van elkaar en bleek er geen overeenstemming over de te gebruiken documentatie. Waardoor schuldenaren in de praktijk meerdere keren hetzelfde document moesten aanleveren. Ook werden de papieren dossiers bij beide partijen bewaard en ‘actueel’ gehouden. Geen wonder dat het allemaal zo lang duurde.
 
-<div class="article-image" style="background-image: url(/assets/img/foto/Schulddossier2.jpg)">
+<div class="article-image" style="background-image: url(/assets/img/foto/Schulddossier-Design-Thinking-Schulddienstverlening.jpg)">
     <div class="slope"></div>
     <div class="slope slope--flip"></div>
 </div>
