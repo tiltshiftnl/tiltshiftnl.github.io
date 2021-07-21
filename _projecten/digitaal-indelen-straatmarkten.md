@@ -42,7 +42,7 @@ Samen pasten we het proces en de software aan. Zo ontstond een algoritme dat de 
 
 Na vrij lang schaduw draaien tot het algoritme compleet was, begeleidde we ook de implementatie op de markt. We coachten de marktmeesters zodat zij alles goed konden uitleggen, maakten de materialen en fungeerden als achtervang. 
 
-Alle verandering is moeilijk. Zeker op een Amsterdamse markt waar alles al jaren ging zoals het ging. Toch geven de ondernemers binnen korte tijd in de applicatie op wanneer ze willen komen en wat hun voorkeuren zijn. Daarmee is de indeling geautomatiseerd. Het systeem werkt optimaal samen met de andere oplossing Makkelijke Markt.
+Alle verandering is moeilijk. Zeker op een Amsterdamse markt waar alles al jaren ging zoals het ging. Toch geven de ondernemers binnen korte tijd in de applicatie op wanneer ze willen komen en wat hun voorkeuren zijn. Daarmee is de indeling geautomatiseerd. Het systeem werkt optimaal samen met de andere oplossing [Makkelijke Markt](/projecten/makkelijke-markt/).
 
 > Ik ga pas naar de veiling als ik zeker weet dat ik een kraam op de markt heb.
 
