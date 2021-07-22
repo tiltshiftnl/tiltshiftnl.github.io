@@ -27,7 +27,7 @@ De stadsdeel secretaris van Stadsdeel Oost, Sjoukje Alta, wilde dit veranderen m
 
 Wij liepen met de coaches mee. Zo zagen met eigen ogen hoe ze in gesprek gingen met de jongeren op straat en waarom ze daarna om de hoek pas hun bevindingen noteerden. Ook zagen we hoe omslachtig het was (en dus hoeveel tijd het koste) om die aantekeningen ‘netjes’ in te voeren in de gemeentelijke systemen. Daarom maakten we een veilige en handige aantekeningen applicatie, helemaal afgestemd op wat er op straat gebeurt.
 
-<div class="article-image" style="background-image: url(/assets/img/foto/2016-straatcoaches01.jpg)">
+<div class="article-image" style="background-image: url(/assets/img/foto/Straatnotes-meekijken-met-gebruiker-software-design-thinking.jpg)">
     <div class="slope"></div>
     <div class="slope slope--flip"></div>
 </div>
