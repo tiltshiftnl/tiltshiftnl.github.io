@@ -10,7 +10,7 @@ type:
 keywords: Software design thinking, Design Thinking, echte oplossing voor de mensen die het werk doen, privacy, AVG, jeugdoverlast.
 labels: [datagedreven werken, samenwerken, ketenpartners, privacy]
 
-image: /assets/img/foto/2016-straatcoaches02.jpg
+image: /assets/img/foto/Straatnotes-Veilig-Notities-maken-op-straat-jeugdoverlast.jpg
 featured_image: /assets/img/foto/2.jpeg
 featured_image_alt_text: 'Veilig en volgends de AVG bevindingen straatcoaches noteren en delen.'
 caption:
