@@ -10,13 +10,13 @@ type:
 keywords: Interventie, innovatieprogramma, software design thinking, Fixxx
 labels: [interventie, datagedreven werken, samenwerken, privacy]
 
-image: /assets/img/foto/Innovatie-Wonen-TOP-applicatie.jpg
+image: /assets/img/foto/Wonen-Innovatie-Programma-Interventie.jpg
 
 featured: true
 featured_order: 1
-featured_image: /assets/img/foto/Innovatie-Wonen-TOP-applicatie.jpg
+featured_image: /assets/img/foto/Wonen-Innovatie-Interventie-Software-Ontwikkeling-werkvloer.jpg
 featured_image_alt_text: 'Alt_text'
-caption: 'Innovatie programma afdeling Wonen'
+caption: ''
 excerpt: "Weer beweging in vastgelopen innovatie programma en betrokken medewerkers."
 
 back: ..
@@ -25,7 +25,7 @@ Bij de afdeling Wonen van de Gemeente Amsterdam kwam het ICT innovatie en vernie
 
 We begonnen met een onderzoek waarin we in twee weken het bestaande programma hebben doorgelicht. Dat bleek erg breed en miste een centrale focus. Het was blijven hangen in overlegstructuren en een onhandige mix van *Design Thinking* en traditioneel projectmanagement. Je kent het wel: maanden van achter een bureau iets voorbereiden en dan denken dat na een big bang de wereld veranderd is. 
 
-<div class="article-image" style="background-image: url(/assets/img/foto/Interventie-met-Software-Design-Thinking-bij-Gemeente.jpg)">
+<div class="article-image" style="background-image: url(/assets/img/foto/Wonen-Innovatie-met-Design-Sessies-Afdeling-betrekken.jpg)">
     <div class="slope"></div>
     <div class="slope slope--flip"></div>
 </div>
