@@ -11,7 +11,7 @@ keywords: Software design thinking, Design Thinking, echte oplossing voor de men
 labels: [datagedreven werken, samenwerken, ketenpartners, privacy]
 
 image: /assets/img/foto/Straatnotes-Veilig-Notities-maken-op-straat-jeugdoverlast.jpg
-featured_image: /assets/img/foto/2.jpeg
+featured_image: /assets/img/foto/Straatnotes-Straatcoaches-op-Straat-software-jeugdoverlast-terugdringen.jpg
 featured_image_alt_text: 'Veilig en volgends de AVG bevindingen straatcoaches noteren en delen.'
 caption:
 excerpt: "De straatcoaches in Amsterdam kregen een echt hulpmiddel in hun werk en de kwaliteit van de data nam fors toe door metadatering en controle."
