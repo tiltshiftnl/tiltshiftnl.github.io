@@ -9,11 +9,11 @@ type:
 keywords: 'innovatie, design thinking, software design thinking, samenwerking, ketenpartners'
 labels: [ketensamenwerking, huisvesting kwetsbare groepen, omslagroute]
 
-image: /assets/img/foto/omslagroute_brownpaper.jpg
+image: /assets/img/foto/Woonvergunning-kwetsbare-groepen-samenwerking-keten.jpg
 caption:
 featured_order: 1
 featured: false
-featured_image: /assets/img/foto/omslagroute_brownpaper.jpg
+featured_image: /assets/img/foto/Woonvergunning-kwetsbare-groepen-design-thinking-voor-beter-resultaat.jpg
 featured_image_alt_text: 'Woonvergunning voor Kwetsbare Groepen.'
 excerpt: "Kwetsbare groepen kunnen in Amsterdam onder begeleiding een periode proef-wonen. Het complexe proces waarin hulpverleners en gemeente nauw samenwerken verliep niet soepel."
 
@@ -36,7 +36,7 @@ In de ideation bedenken de gebruikers en het team een zo breed mogelijk scala aa
 In de daarop volgende weken volgden diverse uitbreidingen, op basis van feedback van de gebruikers. Zo hebben we de formulieren grotendeels gedigitaliseerd. Dit zorgde voor hergebruik van informatie waardoor er veel minder ‘dubbele’ informatie wordt uitgevraagd. Toen de formulieren gedigitaliseerd waren voegden we voor elke gebruiker een dashboard toe met daarin status van aanvragen en documenten. Tenslotte werd door het toevoegen van een uploadfunctie een einde gemaakt aan de onveilige uitwisseling van informatie per e-mail.
 
 
-<div class="article-image" style="background-image: url(/assets/img/foto/omslagroute_screenshot.png)">
+<div class="article-image" style="background-image: url(/assets/img/foto/Woonvergunning-kwetsbare-groepen-verbeteren-samenwerking-in-keten.jpg)">
     <div class="slope"></div>
     <div class="slope slope--flip"></div>
 </div>
