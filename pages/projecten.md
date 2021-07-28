@@ -9,8 +9,8 @@ subtitle: Innovatie begint bij de mensen. Focus op hun probleem en laat de techn
 description: "In ieder Tiltshift gaan we, of het nu een interventie of een volledig nieuw project is, altijd als eerste terug naar aanleiding."
 keywords: ""
 
-image: "assets/img/foto/IMG_8562.jpg"
-caption: 'Fixxx Ideation "Schulddossier", Gemeente&nbsp;Amsterdam'
+image: "assets/img/foto/Probleem-gedreven-innovatie-Digitaliserings-Projecten.jpg"
+caption:
 ---
 Achter elk project schuilt een aanleiding, een serieus probleem. Omdat het zo ingewikkeld is projecten van de grond te krijgen, wordt dat probleem vaak vergeten en ligt de focus al gauw op een oplossing. Meestal niet de beste, zo is onze ervaring. Of een utopische. Daarom gaan wij in al onze projecten, of het nu een interventie of een volledig nieuw project is, altijd als eerste terug naar aanleiding. 
 
