@@ -10,7 +10,7 @@ type:
 keywords: Software design thinking, Design Thinking, echte oplossing voor de mensen die het werk doen, privacy, AVG, jeugdoverlast.
 labels: [datagedreven werken, samenwerken, ketenpartners, privacy]
 
-image: /assets/img/foto/Straatnotes-Veilig-Notities-maken-op-straat-jeugdoverlast.jpg
+image: /assets/img/foto/Straatnotes-meekijken-met-gebruiker-software-design-thinking.jpg
 featured_image: /assets/img/foto/Straatnotes-Straatcoaches-op-Straat-software-jeugdoverlast-terugdringen.jpg
 featured_image_alt_text: 'Veilig en volgends de AVG bevindingen straatcoaches noteren en delen.'
 caption:
@@ -27,7 +27,7 @@ De stadsdeel secretaris van Stadsdeel Oost, Sjoukje Alta, wilde dit veranderen m
 
 Wij liepen met de coaches mee. Zo zagen met eigen ogen hoe ze in gesprek gingen met de jongeren op straat en waarom ze daarna om de hoek pas hun bevindingen noteerden. Ook zagen we hoe omslachtig het was (en dus hoeveel tijd het koste) om die aantekeningen ‘netjes’ in te voeren in de gemeentelijke systemen. Daarom maakten we een veilige en handige aantekeningen applicatie, helemaal afgestemd op wat er op straat gebeurt.
 
-<div class="article-image" style="background-image: url(/assets/img/foto/Straatnotes-meekijken-met-gebruiker-software-design-thinking.jpg)">
+<div class="article-image" style="background-image: url(/assets/img/foto/Straatnotes-Veilig-Notities-maken-op-straat-jeugdoverlast.jpg)">
     <div class="slope"></div>
     <div class="slope slope--flip"></div>
 </div>
