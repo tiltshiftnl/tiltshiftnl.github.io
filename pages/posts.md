@@ -7,10 +7,10 @@ title: Posts
 subtitle: 
 
 description: ""
-keywords: ""
+keywords: "probleemgedreven, innovatie, digitalisering, leiderschap, product owner, interventie"
 
-image: "assets/img/foto/IMG_8562.jpg"
-caption: 'Fixxx Ideation "Schulddossier", Gemeente&nbsp;Amsterdam'
+image: "assets/img/foto/Innovatie-Digitaliserings-Nieuws-Posts-en-Vacatures.jpg"
+caption: 
 ---
 {{ page.description }}
 
