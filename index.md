@@ -3,9 +3,9 @@ layout: default
 hideform: true
 variant: white
 
-title: Digitalisering die wél werkt
-subtitle: Een project wat vast zit of helemaal niet van de grond komt? Klaar met oude ICT? Wij lossen het op!
-description: Organisaties lopen vast door oude ICT. Wij helpen de business hier uit te komen. We lopen mee met de uitvoerenden en ontwerpen samen de benodigde vernieuwing. Zo zorgen we voor concrete resultaten én voor pragmatische innovatie.
+title: Digitalisering weer op de rails
+subtitle: Last van projecten die vast zitten of helemaal niet van de grond komen? Klaar met oude ICT? Wij lossen het op!
+description: Organisaties lopen vast in oude ICT. Wij helpen de business hier uit te komen. We lopen mee met de uitvoerenden en ontwerpen samen met hen de benodigde vernieuwing. Zo zorgen we snel voor concreet resultaat én pragmatische innovatie.
 keywords: kwartiermaker, digitalisering, oude ICT, digitale transformatie, probleemgedreven innovatie, software design thinking, human centered design, service design, lean startup, lean ux, agile development, xp, scrum, labs, apps, projecten, advies, consultancy, overheid, overheden, publieke sector, mens centraal, common ground, open source, creative commons, creative thinking, open collaboration, Fixxx, Push
 
 image: assets/img/foto/banner_1.jpg
@@ -13,23 +13,21 @@ caption:
 ---
 <a name="Wat we doen"/>
 
-Organisaties lopen vast door oude ICT. Wij helpen de business hier uit te komen. We lopen mee met de uitvoerenden en ontwerpen samen de benodigde vernieuwing. Zo zorgen we voor concrete resultaten én voor pragmatische innovatie.
+{{ page.description }}
 
-Wij helpen je digitalisering te starten of weer in beweging te krijgen. Dat doen we door de strategie en uitvoering ervan tastbaar en aantrekkelijk te maken. Door vanuit de positie van de gebruiker te glimlachen naar de ivoren torens. En door te zorgen dat iedere betrokkene ook echt een bijdrage levert. Dat is Tiltshift.
+Wij helpen digitalisering te starten of weer in beweging te krijgen. Bel ons op <a href="tel:+31207220207">020-722 02 07</a> als:
 
-Bel ons op <a href="tel:+31207220207">020-722 02 07</a> als:
+- **je wil starten met digitaliseren**, wij helpen je met een concreet plan en leiden de opstart en uitvoering;
 
-- **Je start met digitaliseren**, wij helpen je met een concreet plan en begeleiden de opstart en uitvoering;
+- **digitalisering niet van de grond komt**, wij brengen de problemen in kaart en lossen ze op;
 
-- **Je digitalisering vast loopt**, wij scheiden het kaf van het koren en zorgen voor motivatie en voortgang;
+- **digitalisering vast loopt**, wij scheiden het kaf van het koren en zorgen voor hernieuwde motivatie en beweging;
 
-- **Je digitalisering niet van de grond komt**, wij lichten het door en helpen je met draagvlak creëren.
-
-We verzorgen leiderschap, inhoudelijke kennis en indien nodig ook de uitvoering. Tiltshifters werken op basis van onze Fixxx aanpak, gebaseerd op best practices uit Design Thinking, Service Design, Agile en Lean Startup. En als we klaar zijn, kun je het zelf.
+We verzorgen leiderschap, inhoudelijke kennis en waar nodig uitvoering. Onze mensen werken op basis van onze Fixxx aanpak, gebaseerd op best practices uit Design Thinking, Service Design, Agile en Lean Startup.
 
 > Als je mensen niet over het hoofd wil zien, moet je ze betrekken in alle fases van het project.
 
-Vaak werken we voor gemeenten, provincies of zorg. Maar we staan net zo goed klaar voor andere organisaties of bedrijven. Een greep uit onze opdrachtgevers: **Gemeenten** zoals Amsterdam, Amersfoort, Rotterdam. **Provincies** Flevoland en Zuid-Holland. VNG Vereniging Nederlandse Gemeenten, het ministerie van Algemene Zaken en voor woningcorporaties, ouderenzorg en universiteiten.
+We werken veel voor gemeenten, provincies en zorg. Maar we staan net zo goed klaar voor andere organisaties. Een greep uit onze opdrachtgevers: **Gemeente** Amsterdam, Amersfoort, Rotterdam, **Provincie** Flevoland, Zuid-Holland, Vereniging Nederlandse Gemeenten (VNG), **Ministerie** van Algemene Zaken, en ook **woningcorporaties, ouderenzorg en universiteiten**.
 
 ## Onze mensen
 Een Tiltshifter is specialist op zijn of haar vakgebied en heeft een sterke eigen mening. Die zetten we in om jouw doel te bereiken, tenminste, als we in dat doel geloven. De kern van de organisatie bestaat uit vier personen met om ons heen een groep van ongeveer twintig ‘vaste’ freelancers. 
