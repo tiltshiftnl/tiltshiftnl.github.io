@@ -8,7 +8,7 @@ quote:
 description: "Tiltshift B.V., gevestigd te Heemstede is verantwoordelijk voor de verwerking van persoonsgegevens zoals weergegeven in deze privacyverklaring."
 keywords: 'privacy, AVG, privacyverklaring, persoonsgegevens, verwerking, verwerkingsovereenkomst.'
 
-image: /assets/img/foto/Studio-Tiltshift-Innovatie-in-Utrecht.jpg
+image: /assets/img/foto/Tiltshift-Privacy-Policy.jpg
 caption: ''
 ---
 
