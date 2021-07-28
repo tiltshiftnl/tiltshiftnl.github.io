@@ -11,8 +11,8 @@ subtitle: Ontwerp innovatie
 description: "Materialen ter ondersteuning de verschillende Tiltshift diensten. Alle materialen zijn vrij te gebruiken onder Creative Commons licentie CC BY-SA Tiltshift (www.tiltshift.nl)."
 keywords: ""
 
-image: "assets/img/foto/Home.png"
-caption: 'Fixxx Ideation "Schulddossier", Gemeente&nbsp;Amsterdam'
+image: "assets/img/foto/Matrialen-Software-Design-Thinking-Sessie-Workshop.jpg"
+caption: 
 ---
 {{ page.description }}
 
