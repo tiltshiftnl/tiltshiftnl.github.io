@@ -8,7 +8,7 @@ subtitle: Last van projecten die vast zitten of helemaal niet van de grond komen
 description: Organisaties lopen vast in oude ICT. Wij helpen de business hier uit te komen. We lopen mee met de uitvoerenden en ontwerpen samen met hen de benodigde vernieuwing. Zo zorgen we snel voor concreet resultaat én pragmatische innovatie.
 keywords: kwartiermaker, digitalisering, oude ICT, digitale transformatie, probleemgedreven innovatie, software design thinking, human centered design, service design, lean startup, lean ux, agile development, xp, scrum, labs, apps, projecten, advies, consultancy, overheid, overheden, publieke sector, mens centraal, common ground, open source, creative commons, creative thinking, open collaboration, Fixxx, Push
 
-image: assets/img/foto/banner_1.jpg
+image: assets/img/foto/Tiltshift-kwartiermaker-digitalisering-digitale-transformatie-probleemgedreven-innovatie.jpg
 caption: 
 ---
 <a name="Wat we doen"/>
