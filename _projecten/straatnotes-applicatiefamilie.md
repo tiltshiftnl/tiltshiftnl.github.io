@@ -42,7 +42,7 @@ In drie maanden losten we dus de grootste problemen rondom privacy en veiligheid
 
 > Scherp in intake, consciëntieus in uitvoering, verbetering van de praktijk en bovendien prettig om mee samen te werken
 
-Sjoukje Alta, stadsdeelsecretaris stadsdeel Oost
+<small class="author">Sjoukje&nbsp;Alta, stadsdeelsecretaris stadsdeel&nbsp;Oost</small>
 
 ### Wil je meer weten over wat Straatnotes voor jouw gemeente kan betekenen of sparren over de aanpak van jeugdoverlast?
 Neem contact met ons op via +31 (0)20 722 02 07.

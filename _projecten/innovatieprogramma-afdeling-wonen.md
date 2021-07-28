@@ -34,7 +34,7 @@ Met het mandaat om dit op te lossen vervingen we vrijwel het hele externe team. 
 
 > Waar ik 2,5 jaar om gevraagd heb, hebben jullie binnen twee maanden geregeld.
 
-<i>Marnix Bolkestein, Hoofd Handhaving at Dienst Wonen Zorg en Samenleven, Gemeente Amsterdam</i>
+<small class="author">Marnix Bolkestein, Hoofd&nbsp;Handhaving bij Dienst&nbsp;Wonen&nbsp;Zorg&nbsp;en&nbsp;Samenleven, Gemeente&nbsp;Amsterdam</small>
 
 Door onze interventie kwam niet alleen de tooling beschikbaar voor de medewerkers op straat, ook de mindset op de afdeling ten aanzien van automatisering werd positief. Een paar van deze projecten verder kwam het oorspronkelijke doel van het programma weer in beeld: het vervangen van de centrale legacy software uit de jaren negentig door open source en VNG Common Ground applicaties. Maar nu kwam deze wens vanuit de vloer, vanuit de mensen die ermee werken, in plaats van dat deze bedacht is door het management.
 

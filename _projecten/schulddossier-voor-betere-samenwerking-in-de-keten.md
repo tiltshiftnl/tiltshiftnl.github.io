@@ -37,7 +37,7 @@ Zo was het grootste knelpunt binnen een kwartaal opgelost: de dossiers zijn voll
 
 > Ik ben erg blij met en onder de indruk van het werk dat jullie verricht hebben!
 
-Arre Zuurmond
+<small class="author">Arre Zuurmond</small>
 
 Nadien is het systeem, inmiddels Schulddossier genaamd, meerdere keren uitgebreid. Want doordat de basis van de samenwerking in de keten gelegd was konden er meer problemen opgelost worden. Zoals bijvoorbeeld met: veilig berichtenverkeer, data gestuurd werken, maar ook thuiswerken.
 
