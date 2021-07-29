@@ -36,7 +36,7 @@ body {
         font-size: $font-size-md;
     }
     &--small{
-        font-size: $font-size-heading-md
+        font-size: $font-size-heading-xs;
     }
     &--link{
         margin-right: $gutter-xs;
@@ -52,5 +52,30 @@ body {
     html, body { font-size: 24px }
 }
 @media screen and (min-width: 1280px) {
-    html, body { font-size: 24px }
+    // html, body { font-size: 22px }
+}
+
+h1 {
+    font-family: HelveticaNeueLTPro-Bd, sans-serif;
+    font-weight: 700;
+    font-style: normal;
+    font-size: $font-size-heading-lg;
+    line-height: 1em;
+    // letter-spacing: -2px;
+    margin-bottom: 0.4em;
+    padding-top: 0.2em;
+}
+h2 {
+    font-family: HelveticaNeueLTPro-Bd, sans-serif;
+    font-weight: bold;
+    font-style: normal;
+    font-size: $font-size-heading-md;
+    line-height: 1em;
+}
+h3 {
+    font-family: HelveticaNeueLTPro-Bd, sans-serif;
+    font-weight: bold;
+    // letter-spacing: .3px;
+    font-size: $font-size-heading-sm;
+    font-family: HelveticaNeueRegular, Arial, sans-serif;
 }

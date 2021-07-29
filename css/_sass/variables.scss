@@ -10,7 +10,9 @@ $gutter-xl: 4rem;
 $header-gutter: $gutter-sm;
 
 // Container dimensions
+$container-width-sm: 720px;
 $container-width-md: 1024px;
+$container-width-lg: 1024px;
 $container-sm: 960px;
 
 $font-size-xs: .7rem;
@@ -19,8 +21,11 @@ $font-size-md: 1rem;
 $font-size-lg: 1.2rem;
 $font-size-xl: 1.5rem;
 
-$font-size-heading-sm: .8rem;
-$font-size-heading-md: 1rem;
-$font-size-heading-lg: 1.4rem;
+$font-size-heading-xs: 1rem;
+$font-size-heading-sm: 1rem;
+$font-size-heading-md: 1.2rem;
+$font-size-heading-lg: 2rem;
 
 $margin-bottom-block: $gutter-md;
+
+$line-height-paragraph-lg: 1.5;
