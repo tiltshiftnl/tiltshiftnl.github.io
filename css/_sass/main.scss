@@ -1,6 +1,7 @@
 main {
     background: #E54545;
     color: #FFFFFF;
+    margin-bottom: $gutter-md;
 
     @media screen and (min-width: $breakpoint-md) {
         margin-bottom: $gutter-xl;
