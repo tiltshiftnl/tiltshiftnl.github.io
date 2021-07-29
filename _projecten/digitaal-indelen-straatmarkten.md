@@ -23,7 +23,7 @@ excerpt: "De marktverordening digitaal toegepast zodat ondernemers transparant h
 
 back: ..
 ---
-Als jaren wilde het marktbureau van de gemeente Amsterdam de indeling van de straatmarkten automatiseren. Maar omdat iedere poging daartoe mislukte bleef de indeling een handmatig proces. De complexe indeling vereiste veel inzet van de marktmeesters in de ochtend, waardoor er in de middag regelmatig niemand meer beschikbaar om toezicht te houden op de markt.
+Al jaren wilde het marktbureau van de gemeente Amsterdam de indeling van de straatmarkten automatiseren. Maar omdat iedere poging daartoe mislukte bleef de indeling een handmatig proces. De complexe indeling vereiste veel inzet van de marktmeesters in de ochtend, waardoor er in de middag regelmatig niemand meer beschikbaar om toezicht te houden op de markt.
 
 De marktverordening (de wet op de markt) is zo uitgebreid en complex dat het door elke marktmeester net anders wordt geïnterpreteerd en uitgevoerd. Wat leidt tot discussie en onbegrip bij de ondernemers, al helemaal in een omgeving waar niemand op zijn mondje gevallen is.
 
