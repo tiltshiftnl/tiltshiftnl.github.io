@@ -27,12 +27,7 @@ Op de eerste dag gingen we op onderzoek uit, als discovery. We liepen mee in het
 In de ideation op dag twee brachten we wat we hadden gezien samen in empathy maps. Met dat als uitgangspunt bedachten we met behulp van ‘crazy-8’ een tiental concepten. De medewerkers van Zorgcirkel kozen die middag voor het concept waarbij we een ander probleem op de werkvloer verbeterden dat als ‘bijvangst’ dagelijkse metingen over de klanttevredenheid zou opleveren. Zo verbetert het werkproces van de medewerkers en stromen de metingen als vanzelf binnen.
 
 <div class="article-image">
-    <div class="slope-inline slope-inline--up">
-        {% include slope-white-flipped.html %}</div>
     <img src="/assets/img/foto/IMG_0037.JPG">
-    <div class="slope-inline slope-inline--down">
-        {% include slope-white.html %}
-    </div>
 </div>
 
 Dag drie en vier van onze designsprints is gereserveerd voor development. We geloven niet in paper-prototyping omdat je het ook in het echt kunt maken. En zo maakten we in nauwe afstemming met de medewerkers het ontwerp voor een prototype, programmeerden het en vulden het met echte en relevante data om te testen. Een prototype als dit is gericht op het testen van een vraagstelling.

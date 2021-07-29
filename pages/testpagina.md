@@ -21,14 +21,7 @@ Binnen Amsterdam is het proces van de schuldsanering in twee delen geknipt. De s
 Een Fixxx-team van Tiltshift ging aan de slag om te kijken of we de doorlooptijd van dat voortraject niet flink konden verkorten. En of er nog andere oorzaken aan te wijzen waren voor dit probleem. Met behulp van technieken uit Design Thinking, Service Design en Lean Startup gingen we er op uit (discovery). Al gauw kwam naar voren dat er op de scheidslijn van het overgaan van dossiers van de ene partij  naar de andere partij veel onduidelijkheid was en stappen dubbel werden genomen. Het maakte de doorlooptijd onnodig lang en stond de samenwerking behoorlijk in de weg. Aansluitend verzonnen we, met de betrokkenen, diverse oplossingen (ideation). In een paar weken gingen we zo van onderzoek naar een concreet nieuw werkproces dat efficiënter en overzichtelijker is. En een veel kortere doorlooptijd heeft.
 
 <div class="article-image">
- <div class="slope-inline slope-inline--up">
-        {% include slope-white-flipped.html %}
-    </div>
-    <div class="slope"></div>
-        <img src="/assets/img/foto/Schulddossier2.jpg">
-     <div class="slope-inline slope-inline--down">
-        {% include slope-white.html %}
-    </div>
+    <img src="/assets/img/foto/Schulddossier2.jpg">
 </div>
 
 Het concept werkten we, in nauwe samenwerking met maatschappelijk dienstverlener Doras (Amsterdam Noord) en de GKA, in twee maanden uit tot een volledig digitaal schulddossier. De MaDi en de GKA werken hierin actief samen aan de dossiers, waardoor dubbele processtappen zijn vervallen. Ook zijn partijen in een keer van een papieren proces overgestapt op een digitaal waardoor weer aan alle vereisten rondom privacy, security en archivering wordt voldaan.

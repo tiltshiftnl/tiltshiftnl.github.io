@@ -34,13 +34,7 @@ We keken mee met de dagelijkse indeling op de markt en liepen controle-rondes me
 Vanuit onze werkplek op het marktkantoor van de Albert Cuyp markt doken we diep in de marktverordening. Eén voor één interpreteerden we de regels, programmeerden we ze en vergeleken het resultaat met de indeling op de markt van die dag. Zo leerden we niet alleen dat de regels soms niet goed werden opgevolgd, maar ook dat sommige regels niet goed werkten in de praktijk.
 
 <div class="article-image">
-    <div class="slope-inline slope-inline--up">
-        {% include slope-white-flipped.html %}
-    </div>
     <img src="/assets/img/foto/Digitaal-Indelen-Handmatige-Marktindeling-gedigitaliseerd.jpg">
-    <div class="slope-inline slope-inline--down">
-        {% include slope-white.html %}
-    </div>
 </div>
 
 Samen pasten we het proces en de software aan. Zo ontstond een algoritme dat de indeling snel en betrouwbaar uitvoert en bovendien ook inzicht geeft in de gemaakte keuzes. Einde oeverloze discussies.

@@ -2,7 +2,9 @@
     width: calc(100% - (2 * #{$gutter-sm}) );
     margin-left: auto;
     margin-right: auto;
+    padding: 0 20px;
     @media screen and (min-width: $breakpoint-md) {
+        padding: 0;
         width: $container-width-md;
     }
     @media screen and (min-width: $breakpoint-lg) {

@@ -1,5 +1,5 @@
 blockquote{
-    @include container-md();
+    @include container-sm();
     margin: 0 auto $margin-bottom-block;
     border-left: 4px solid $red;
     > p {

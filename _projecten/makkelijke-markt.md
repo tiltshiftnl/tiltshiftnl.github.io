@@ -27,13 +27,7 @@ Toen wij halverwege 2016 werden betrokken ging het eigenlijk om de indeling. Hoe
 In drie maanden tijd implementeerden we, samen met de toezichthouders en marktmeesters, een simpele applicatie zodat het wél zin had om pasjes te scannen. We maakten ook een dashboard waarmee de administratie van de markt de gescande gegevens kon inzien en verwerken.
 
 <div class="article-image">
-    <div class="slope-inline slope-inline--up">
-        {% include slope-white-flipped.html %}
-    </div>
-        <img src="/assets/img/foto/Makkelijke-Markt-Software-Implementatie.jpg">
-    <div class="slope-inline slope-inline--down">
-        {% include slope-white.html %}
-    </div>
+    <img src="/assets/img/foto/Makkelijke-Markt-Software-Implementatie.jpg">
 </div>
 
 Makkelijke Markt hebben we gemaakt met de mensen van de markt. Dagelijks liepen we mee met de marktmeesters en we programmeerden zelfs enkele dagen van achter een echte marktkraam. Om maar zoveel mogelijk feedback te krijgen, juist ook van de kooplieden. We leerden niet alleen inhoudelijk hoe een markt werkt, we ontdekten ook wat ‘fijn werkt’ in de dagelijkse praktijk. Dat hadden we van achter een bureau nooit kunnen bedenken.
@@ -41,13 +35,7 @@ Makkelijke Markt hebben we gemaakt met de mensen van de markt. Dagelijks liepen 
 Nadat de basis van Makkelijke Markt op alle markten in Amsterdam in gebruik was hebben we het  verder verrijkt. Onder andere met functionaliteit rondom betalen. Zo werd de indeling controleerbaar, hielpen we de marktmeesters en was iedereen weer positief gestemd. Sterker nog, toen ICT een jaar later opperde om Makkelijke Markt te vervangen door een ander systeem is dat na een vriendelijke opstand van het personeel verijdeld. Want, zo vond men, het werkt en we willen niks anders. Terecht want tot op heden wordt de applicatie dagelijks gebruikt voor alle straatmarkten van Amsterdam.
 
 <div class="article-image">
-   <div class="slope-inline slope-inline--up">
-        {% include slope-white-flipped.html %}
-    </div>
     <img src="/assets/img/foto/Makkelijke-Markt-Software-Design-Thinking.jpg">
-    <div class="slope-inline slope-inline--down">
-        {% include slope-white.html %}
-    </div>
 </div>
 
 De samenwerking tussen het Marktbureau en Tiltshift smaakte duidelijk naar meer en in de afgelopen jaren hebben we ook het indelingsprobleem voor de markten van Amsterdam aangepakt.

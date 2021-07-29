@@ -26,13 +26,7 @@ Bij de afdeling Wonen van de Gemeente Amsterdam kwam het ICT innovatie en vernie
 We begonnen met een onderzoek waarin we in twee weken het bestaande programma hebben doorgelicht. Dat bleek erg breed en miste een centrale focus. Het was blijven hangen in overlegstructuren en een onhandige mix van *Design Thinking* en traditioneel projectmanagement. Je kent het wel: maanden van achter een bureau iets voorbereiden en dan denken dat na een big bang de wereld veranderd is.
 
 <div class="article-image">
-    <div class="slope-inline slope-inline--up">
-        {% include slope-white-flipped.html %}
-    </div>
-        <img src="/assets/img/foto/Wonen-Innovatie-met-Design-Sessies-Afdeling-betrekken.jpg">
-    <div class="slope-inline slope-inline--down">
-        {% include slope-white.html %}
-    </div>
+    <img src="/assets/img/foto/Wonen-Innovatie-met-Design-Sessies-Afdeling-betrekken.jpg">
 </div>
 
 Met het mandaat om dit op te lossen vervingen we vrijwel het hele externe team. Ook betrokken we de medewerkers uit de praktijk door met hen het grootste knelpunt te bepalen. Om dat vervolgens in drie maanden op te lossen. Al snel werden de wekelijkse demo’s van het project bezocht door tientallen medewerkers van de uitvoering. Hun input was van onschatbare waarde en doordat we die meteen verwerkten kwam er een wisselwerking van vertrouwen en voortgang. Zo losten we niet alleen de problemen op, ook de afdeling veranderde van ‘we zien wel’ naar ‘wanneer mogen wij’.
