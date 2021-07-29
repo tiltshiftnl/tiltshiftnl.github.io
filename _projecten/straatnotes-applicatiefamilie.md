@@ -25,7 +25,7 @@ In Amsterdam zijn straatcoaches de ogen en oren op straat, waardoor tijdig inter
 
 De stadsdeel secretaris van Stadsdeel Oost, Sjoukje Alta, wilde dit veranderen maar werd intern niet gehoord. Dus huurde ze Tiltshift in.
 
-Wij liepen met de coaches mee. Zo zagen met eigen ogen hoe ze in gesprek gingen met de jongeren op straat en waarom ze daarna om de hoek pas hun bevindingen noteerden. Ook zagen we hoe omslachtig het was (en dus hoeveel tijd het koste) om die aantekeningen ‘netjes’ in te voeren in de gemeentelijke systemen. Daarom maakten we een veilige en handige aantekeningen applicatie, helemaal afgestemd op wat er op straat gebeurt.
+Wij liepen met de coaches mee. Zo zagen met eigen ogen hoe ze in gesprek gingen met de jongeren op straat en waarom ze daarna om de hoek pas hun bevindingen noteerden. Ook zagen we hoe omslachtig het was (en dus hoeveel tijd het kostte) om die aantekeningen ‘netjes’ in te voeren in de gemeentelijke systemen. Daarom maakten we een veilige en handige aantekeningen applicatie, helemaal afgestemd op wat er op straat gebeurt.
 
 <div class="article-image">
  <div class="slope-inline slope-inline--up">
