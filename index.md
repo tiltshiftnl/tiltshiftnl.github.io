@@ -9,9 +9,8 @@ description: Organisaties lopen vast in oude ICT. Wij helpen de business hier ui
 keywords: kwartiermaker, digitalisering, oude ICT, digitale transformatie, probleemgedreven innovatie, software design thinking, human centered design, service design, lean startup, lean ux, agile development, xp, scrum, labs, apps, projecten, advies, consultancy, overheid, overheden, publieke sector, mens centraal, common ground, open source, creative commons, creative thinking, open collaboration, Fixxx, Push
 
 image: assets/img/foto/Tiltshift-kwartiermaker-digitalisering-digitale-transformatie-probleemgedreven-innovatie.jpg
-caption: 
+caption:
 ---
-<a name="Wat we doen"/>
 
 {{ page.description }}
 
@@ -30,7 +29,7 @@ We verzorgen leiderschap, inhoudelijke kennis en waar nodig uitvoering. Onze men
 We werken veel voor gemeenten, provincies en zorg. Maar we staan net zo goed klaar voor andere organisaties. Een greep uit onze opdrachtgevers: **Gemeente** Amsterdam, Amersfoort, Rotterdam, **Provincie** Flevoland, Zuid-Holland, Vereniging Nederlandse Gemeenten (VNG), **Ministerie** van Algemene Zaken, en ook **woningcorporaties, ouderenzorg en universiteiten**.
 
 ## Onze mensen
-Een Tiltshifter is specialist op zijn of haar vakgebied en heeft een sterke eigen mening. Die zetten we in om jouw doel te bereiken, tenminste, als we in dat doel geloven. De kern van de organisatie bestaat uit vier personen met om ons heen een groep van ongeveer twintig ‘vaste’ freelancers. 
+Een Tiltshifter is specialist op zijn of haar vakgebied en heeft een sterke eigen mening. Die zetten we in om jouw doel te bereiken, tenminste, als we in dat doel geloven. De kern van de organisatie bestaat uit vier personen met om ons heen een groep van ongeveer twintig ‘vaste’ freelancers.
 Ontmoet de kern van Tiltshift: [Johan Groenen](/mensen/johan-groenen/), [Maarten Geraets](/mensen/maarten-geraets/), [Joris Boeren](/mensen/joris-boeren/) en [Eva Leffef](/mensen/eva-leffef/).
 
 

@@ -1,6 +1,7 @@
 @mixin container-md {
     width: calc(100% - (2 * #{$gutter-sm}) );
-    margin: 0 auto;
+    margin-left: auto;
+    margin-right: auto;
     @media screen and (min-width: $breakpoint-md) {
         width: $container-width-md;
     }
@@ -11,7 +12,9 @@
 
 @mixin container-sm {
     width: calc(100% - (2 * #{$gutter-sm}) );
-    margin: 0 auto;
+    margin-left: auto;
+    margin-right: auto;
+
     @media screen and (min-width: $breakpoint-md) {
         width: $container-width-sm;
     }

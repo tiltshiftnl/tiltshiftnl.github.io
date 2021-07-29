@@ -6,13 +6,13 @@ title: "Schulddossier voor betere samenwerking in de keten"
 description: Onze interventie begon door beide partijen met elkaar in één ruimte te zetten. Daardoor werd duidelijk dat er grotere problemen waren dan alleen de incasso’s. Met de gebruikers maakten we een eenvoudige omgeving waarin werd samengewerkt in één digitaal dossier, waardoor de doorlooptijd met wel 100 dagen is afgenomen.
 
 quote:
-type: 
+type:
 keywords: interventie, digitalisering, samenwerking in de keten, met gebruikers, maak het echt, datagedreevn werken, digitale transitie
 labels: [datagedreven werken, samenwerken, ketenpartners, digitale transitie]
 
 image: /assets/img/foto/Schulddossier-Betere-samenwerking-in-de-schuld-keten.jpg
 image_alt_text: "Digitale dossiers als oplossing tot betere samenwerking in de schuldhulpverlening keten"
-caption: 
+caption:
 featured_image: /assets/img/foto/Schulddossier-Veilig-berichtenverkeer-in-schuld-keten.jpg
 featured: true
 featured_order: 2
@@ -26,12 +26,17 @@ De gemeente Amsterdam vroeg aan Tiltshift om uit te vinden waar het probleem van
 
 Onze interventie begon door beide partijen in één ruimte te zetten. Daardoor werd duidelijk dat er grotere problemen waren dan alleen die incasso’s. Zo waren er andere verwachtingen van elkaar en bleek er geen overeenstemming over de te gebruiken documentatie. Waardoor schuldenaren in de praktijk meerdere keren hetzelfde document moesten aanleveren. Ook werden de papieren dossiers bij beide partijen bewaard en ‘actueel’ gehouden. Geen wonder dat het allemaal zo lang duurde.
 
-<div class="article-image" style="background-image: url(/assets/img/foto/Schulddossier-Design-Thinking-Schulddienstverlening.jpg)">
-    <div class="slope"></div>
-    <div class="slope slope--flip"></div>
+<div class="article-image">
+     <div class="slope-inline slope-inline--up">
+        {% include slope-white-flipped.html %}
+    </div>
+    <img src="/assets/img/foto/Schulddossier-Design-Thinking-Schulddienstverlening.jpg">
+     <div class="slope-inline slope-inline--down">
+        {% include slope-white.html %}
+    </div>
 </div>
 
-Gezamenlijk besloten we de dossiers als uitgangspunt te nemen. Samen met de gebruikers zelf maakten we een eenvoudige omgeving waarin werd samengewerkt in één digitaal dossier. Ook hielpen we de interne processen beter op elkaar af te stemmen en beëindigden de tot dan toe gangbare fax, e-mail en FTP-uitwisseling. Het werkte meteen écht en al na twee maanden volgden de overige wijkteams. 
+Gezamenlijk besloten we de dossiers als uitgangspunt te nemen. Samen met de gebruikers zelf maakten we een eenvoudige omgeving waarin werd samengewerkt in één digitaal dossier. Ook hielpen we de interne processen beter op elkaar af te stemmen en beëindigden de tot dan toe gangbare fax, e-mail en FTP-uitwisseling. Het werkte meteen écht en al na twee maanden volgden de overige wijkteams.
 
 Zo was het grootste knelpunt binnen een kwartaal opgelost: de dossiers zijn volledig digitaal en door de betere samenwerking is de doorlooptijd met wel 100 dagen is afgenomen. De tijd die daardoor binnen de organisatie vrij kwam kon worden besteed aan het oplossen van de klacht van de ombudsman.
 

@@ -53,25 +53,34 @@
                 line-height: 1.2;
                 .heading-neue{
                     margin: 0 0 5px;
-                    font-size: $font-size-sm;
+                    font-size: $font-size-heading-sm;
                     margin-top: $gutter-md;
                     @media screen and (min-width: $breakpoint-md) {
                         margin-top: 0;
+                        font-size: $font-size-heading-xs;
                     }
                 }
                 a {
-                    font-size: $font-size-xs;
+                    font-size: $font-size-md;
+                    @media screen and (min-width: $breakpoint-md) {
+                        font-size: $font-size-xs;
+                    }
                     color: white;
                     z-index: 99;
                 }
                 p{
-                    font-size: $font-size-xs;
+                    font-size: $font-size-md;
                     margin: 0;
+                    @media screen and (min-width: $breakpoint-md) {
+                        font-size: $font-size-xs;
+                    }
                 }
                 &__inner{
                     display: flex;
                     flex-direction: column;
-                    margin-top: 24px;
+                    @media screen and (min-width: $breakpoint-md) {
+                        margin-top: 24px;
+                    }
                 }
             }
         }

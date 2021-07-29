@@ -29,18 +29,23 @@ De marktverordening (de wet op de markt) is zo uitgebreid en complex dat het doo
 
 Omdat wij tijdens het project Makkelijke Markt hebben laten zien wat we kunnen, vroegen de medewerkers van het Marktbureau zelf aan hun directie om ons in te schakelen.
 
-We keken mee met de dagelijkse indeling op de markt en liepen controle-rondes met de marktmeesters. Tijdens een Design Sprint onderzochten we wat acceptabel was voor marktondernemers, kramenzetters, marktmeesters en de mensen op het kantoor van het marktbureau. Daaruit kwam een helder concept waar iedereen zich in kon vinden. 
+We keken mee met de dagelijkse indeling op de markt en liepen controle-rondes met de marktmeesters. Tijdens een Design Sprint onderzochten we wat acceptabel was voor marktondernemers, kramenzetters, marktmeesters en de mensen op het kantoor van het marktbureau. Daaruit kwam een helder concept waar iedereen zich in kon vinden.
 
 Vanuit onze werkplek op het marktkantoor van de Albert Cuyp markt doken we diep in de marktverordening. Eén voor één interpreteerden we de regels, programmeerden we ze en vergeleken het resultaat met de indeling op de markt van die dag. Zo leerden we niet alleen dat de regels soms niet goed werden opgevolgd, maar ook dat sommige regels niet goed werkten in de praktijk.
 
-<div class="article-image" style="background-image: url(/assets/img/foto/Digitaal-Indelen-Handmatige-Marktindeling-gedigitaliseerd.jpg)">
-    <div class="slope"></div>
-    <div class="slope slope--flip"></div>
+<div class="article-image">
+    <div class="slope-inline slope-inline--up">
+        {% include slope-white-flipped.html %}
+    </div>
+    <img src="/assets/img/foto/Digitaal-Indelen-Handmatige-Marktindeling-gedigitaliseerd.jpg">
+    <div class="slope-inline slope-inline--down">
+        {% include slope-white.html %}
+    </div>
 </div>
 
 Samen pasten we het proces en de software aan. Zo ontstond een algoritme dat de indeling snel en betrouwbaar uitvoert en bovendien ook inzicht geeft in de gemaakte keuzes. Einde oeverloze discussies.
 
-Na vrij lang schaduw draaien tot het algoritme compleet was, begeleidde we ook de implementatie op de markt. We coachten de marktmeesters zodat zij alles goed konden uitleggen, maakten de materialen en fungeerden als achtervang. 
+Na vrij lang schaduw draaien tot het algoritme compleet was, begeleidde we ook de implementatie op de markt. We coachten de marktmeesters zodat zij alles goed konden uitleggen, maakten de materialen en fungeerden als achtervang.
 
 Alle verandering is moeilijk. Zeker op een Amsterdamse markt waar alles al jaren ging zoals het ging. Toch geven de ondernemers binnen korte tijd in de applicatie op wanneer ze willen komen en wat hun voorkeuren zijn. Daarmee is de indeling geautomatiseerd. Het systeem werkt optimaal samen met de andere oplossing [Makkelijke Markt](/projecten/makkelijke-markt/).
 

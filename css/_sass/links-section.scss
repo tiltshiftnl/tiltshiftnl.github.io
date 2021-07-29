@@ -4,11 +4,14 @@
     margin-bottom: $gutter-sm;
 
     .heading-neue{
-        font-size: $font-size-sm;
+        font-size: $font-size-heading-sm;
+        @media screen and (min-width: $breakpoint-md) {
+            font-size: $font-size-heading-xs;
+        }
     }
 
     a {
-        color: $primair-blauw;
+        color: $black;
         margin-right: $gutter-xs;
         text-decoration: none;
         line-height: 1.4;
@@ -17,6 +20,5 @@
     @media screen and (min-width: $breakpoint-md) {
         flex-direction: row;
     }
-
 
 }

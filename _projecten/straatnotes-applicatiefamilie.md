@@ -21,15 +21,20 @@ featured: true
 
 back: ..
 ---
-In Amsterdam zijn straatcoaches de ogen en oren op straat, waardoor tijdig interventies ingezet kunnen worden. De informatie die zij verzamelen werd ongestructureerd op de eigen telefoon bijgehouden, geappt en overgetypt in de gemeentesystemen. Van waaruit het als e-mail en Excel werd verspreid onder de gebruikers. Het was niet dat het niet veilig kon, de te gebruiken systemen waren onhandig. 
+In Amsterdam zijn straatcoaches de ogen en oren op straat, waardoor tijdig interventies ingezet kunnen worden. De informatie die zij verzamelen werd ongestructureerd op de eigen telefoon bijgehouden, geappt en overgetypt in de gemeentesystemen. Van waaruit het als e-mail en Excel werd verspreid onder de gebruikers. Het was niet dat het niet veilig kon, de te gebruiken systemen waren onhandig.
 
-De stadsdeel secretaris van Stadsdeel Oost, Sjoukje Alta, wilde dit veranderen maar werd intern niet gehoord. Dus huurde ze Tiltshift in. 
+De stadsdeel secretaris van Stadsdeel Oost, Sjoukje Alta, wilde dit veranderen maar werd intern niet gehoord. Dus huurde ze Tiltshift in.
 
 Wij liepen met de coaches mee. Zo zagen met eigen ogen hoe ze in gesprek gingen met de jongeren op straat en waarom ze daarna om de hoek pas hun bevindingen noteerden. Ook zagen we hoe omslachtig het was (en dus hoeveel tijd het koste) om die aantekeningen ‘netjes’ in te voeren in de gemeentelijke systemen. Daarom maakten we een veilige en handige aantekeningen applicatie, helemaal afgestemd op wat er op straat gebeurt.
 
-<div class="article-image" style="background-image: url(/assets/img/foto/Straatnotes-Veilig-Notities-maken-op-straat-jeugdoverlast.jpg)">
-    <div class="slope"></div>
-    <div class="slope slope--flip"></div>
+<div class="article-image">
+ <div class="slope-inline slope-inline--up">
+        {% include slope-white-flipped.html %}
+    </div>
+        <img src="/assets/img/foto/Straatnotes-Veilig-Notities-maken-op-straat-jeugdoverlast.jpg">
+     <div class="slope-inline slope-inline--down">
+        {% include slope-white.html %}
+    </div>
 </div>
 
 In de applicatie kan op straat al meta data vastgelegd worden. Tenslotte veranderden we de processen zodanig dat informatie pas wordt gedeeld nadat er een controleslag heeft plaatsgevonden, volgens de AVG. Doordat dit makkelijk is, in één eenvoudige omgeving, doet iedereen ook gewoon wat de bedoeling is.

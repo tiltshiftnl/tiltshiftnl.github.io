@@ -1,7 +1,19 @@
 .article-image {
-    background: url() center center no-repeat;
-    background-size: cover;
-    height: 40vw;
     position: relative;
-    margin: $gutter-md 0;
+    margin-top: $gutter-md;
+    margin-bottom: $gutter-md;
+    display: flex;
+    flex-direction: column;
+    @include container-md();
+    img {
+        width: 100%;
+    }
+    .slope{
+        width: calc(100% + 1px);
+        right: -1px;
+    }
+    .slope--flip{
+        right: 0;
+        left: -1px;
+    }
 }

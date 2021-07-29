@@ -8,7 +8,7 @@
 
     &--up {
         position: absolute;
-        top: -1px;
+        top: 0px;
         left: 0;
         width: calc(100% + 10px);
     }
@@ -19,7 +19,22 @@
         flex-direction: column;
         justify-content: end;
         width: calc(100% + 10px);
-        bottom: -1px;
+        bottom: 0px;
         left: 0;
     }
+}
+
+.slope {
+    background: url(/assets/img/angled_slope_red.svg) top left no-repeat;
+    background-size: cover;
+    width: 100%;
+    position: absolute;
+    top: -1px;
+    height: 11vw
+}
+.slope--flip {
+    background: url(/assets/img/angled_slope_red--flip.svg) top left no-repeat;
+    background-size: cover;
+    top: auto;
+    bottom: -1px;
 }

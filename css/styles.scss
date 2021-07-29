@@ -7,13 +7,13 @@
 @import "variables";
 @import "breakpoints";
 @import "typography";
+@import "container";
 
 // "Components"
 @import "article-image";
 @import "header";
 @import "navigation";
 @import "footer";
-@import "container";
 @import "slope";
 @import "main";
 @import "links-section";
@@ -71,19 +71,4 @@ nav a {
     padding: 15px 0;
     color: inherit;
     text-decoration: none;
-}
-
-.slope {
-    background: url(/assets/img/angled_slope_red.svg) top left no-repeat;
-    background-size: cover;
-    width: 100%;
-    position: absolute;
-    top: -1px;
-    height: 11vw
-}
-.slope--flip {
-    background: url(/assets/img/angled_slope_red--flip.svg) top left no-repeat;
-    background-size: cover;
-    top: auto;
-    bottom: -1px;
 }
