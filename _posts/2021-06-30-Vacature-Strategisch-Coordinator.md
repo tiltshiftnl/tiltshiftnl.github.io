@@ -5,7 +5,7 @@ subject: Vacature
 title: Vacature - Strategisch Coordinator
 description: "Ben je een snelle denker, toe aan een volgende stap en weet precies te vertellen waarom je bij ons past? Dan horen we graag van je!"
 keywords: "Vacature, Strategisch Coordinator, Product Owner, Service Designer, UX Researcher, Product Strateeg, Relatie Manager"
-image: "assets/img/foto/IMG_9253_scaled.jpg"
+image: "assets/img/foto/Wonen-Innovatie-met-Design-Sessies-Afdeling-betrekken.jpg"
 caption: ''
 ---
 Tiltshift levert leiderschap in projecten, zowel inhoudelijk als voor proces en strategie. Daarvoor zoeken we talent: slimme en enthousiaste mensen die onderdeel willen zijn van onze hechte zakelijke familie. 
