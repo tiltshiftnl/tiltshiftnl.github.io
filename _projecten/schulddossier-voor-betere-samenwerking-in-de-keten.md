@@ -10,6 +10,7 @@ type:
 keywords: interventie, digitalisering, samenwerking in de keten, met gebruikers, maak het echt, datagedreevn werken, digitale transitie
 labels: [datagedreven werken, samenwerken, ketenpartners, digitale transitie]
 
+hideBanner: true
 image: /assets/img/foto/Schulddossier-Betere-samenwerking-in-de-schuld-keten.jpg
 image_alt_text: "Digitale dossiers als oplossing tot betere samenwerking in de schuldhulpverlening keten"
 caption:
@@ -21,6 +22,10 @@ excerpt: "Eén centraal digitaal dossier om schuldsanering van burgers veilig en
 back: ..
 ---
 Mensen met schulden kunnen hulp krijgen vanuit hun gemeente. Om snel rust en overzicht te creëeren voor de schuldenaar én voor de schuldeisers wordt er dan gekeken naar het onderliggende probleem en meestal ook een sanering gestart. In de praktijk gaat dat vaak niet zoals bedoeld. Zo sprak Arre Zuurman, als gemeentelijk ombudsman, de gemeente Amsterdam aan op onwenselijke incasso’s bij deze minnelijke schuldsanering. Want die zorgden voor stress en problemen.
+
+<div class="article-image">
+    <img src="/assets/img/foto/Schulddossier-Veilig-berichtenverkeer-in-schuld-keten.jpg">
+</div>
 
 De gemeente Amsterdam vroeg aan Tiltshift om uit te vinden waar het probleem van de incasso’s lag en om te adviseren welke interventie te plegen. Na een kort onderzoek werd duidelijk dat het proces bestond uit een sociale kant (wijkteams ter ondersteuning van de schuldenaar) en sanering kant (gemeentelijke kredietbank voor de schuldeisers). Er bestond een soort muur tussen de partners aan die beide kanten. Ze spraken nauwelijks met elkaar en stuurden elkaar vooral brieven met termen als ‘vervaltermijnen’ en ‘vereisten’.
 
