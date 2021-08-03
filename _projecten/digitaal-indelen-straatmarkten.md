@@ -10,7 +10,7 @@ keywords: 'innovatie, design thinking, software design thinking, digitalisering,
 labels: [datagedreven werken, digitale transformatie, eerlijke algoritmes, public code]
 
 order: 2
-
+hideBanner: true
 image: /assets/img/foto/Digitaal-Indelen-Markt-Amsterdam-Marktmeesters.jpg
 image_alt_text: 'Marktmeesters tijdens een (handmatige) indeling van een straatmarkt in Amsterdam'
 caption:
@@ -28,6 +28,10 @@ Al jaren wilde het marktbureau van de gemeente Amsterdam de indeling van de stra
 De marktverordening (de wet op de markt) is zo uitgebreid en complex dat het door elke marktmeester net anders wordt geïnterpreteerd en uitgevoerd. Wat leidt tot discussie en onbegrip bij de ondernemers, al helemaal in een omgeving waar niemand op zijn mondje gevallen is.
 
 Omdat wij tijdens het project Makkelijke Markt hebben laten zien wat we kunnen, vroegen de medewerkers van het Marktbureau zelf aan hun directie om ons in te schakelen.
+
+<div class="article-image">
+    <img src="/assets/img/foto/Digitaal-Indelen-Markt-Amsterdam-Marktmeesters.jpg">
+</div>
 
 We keken mee met de dagelijkse indeling op de markt en liepen controle-rondes met de marktmeesters. Tijdens een Design Sprint onderzochten we wat acceptabel was voor marktondernemers, kramenzetters, marktmeesters en de mensen op het kantoor van het marktbureau. Daaruit kwam een helder concept waar iedereen zich in kon vinden.
 
