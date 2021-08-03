@@ -5,6 +5,7 @@ subject: Vacature
 title: Vacature - Strategisch Coordinator
 description: "Ben je een snelle denker, toe aan een volgende stap en weet precies te vertellen waarom je bij ons past? Dan horen we graag van je!"
 keywords: "Vacature, Strategisch Coordinator, Product Owner, Service Designer, UX Researcher, Product Strateeg, Relatie Manager"
+hideBanner: true
 image: "assets/img/foto/Wonen-Innovatie-met-Design-Sessies-Afdeling-betrekken.jpg"
 caption: ''
 ---
