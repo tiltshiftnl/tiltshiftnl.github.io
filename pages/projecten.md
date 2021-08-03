@@ -8,7 +8,7 @@ title: Tiltshift projecten
 subtitle: Innovatie begint bij de mensen. Focus op hun probleem en laat de techniek volgen. Dan ontstaat de oplossing.
 description: "In ieder Tiltshift gaan we, of het nu een interventie of een volledig nieuw project is, altijd als eerste terug naar de aanleiding."
 keywords: ""
-
+hideBanner: true
 image: "assets/img/foto/Probleem-gedreven-innovatie-Digitaliserings-Projecten.jpg"
 caption:
 ---
