@@ -1,0 +1,23 @@
+.article-image {
+    position: relative;
+    margin-top: $gutter-md;
+    margin-bottom: $gutter-md;
+    display: flex;
+    flex-direction: column;
+    @media screen and (min-width: $breakpoint-md) {
+        margin-top: $gutter-lg;
+        margin-bottom: $gutter-lg;
+    }
+    @include container-md();
+    img {
+        width: 100%;
+    }
+    .slope{
+        width: calc(100% + 1px);
+        right: -1px;
+    }
+    .slope--flip{
+        right: 0;
+        left: -1px;
+    }
+}

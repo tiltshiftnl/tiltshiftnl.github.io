@@ -38,14 +38,13 @@ In de eerste twee weken doorgronden we de situatie. We brengen het proces in kaa
 
 Met kennis en ervaringen uit de discovery gaan we aan de slag met het verzinnen van concepten en oplossingen. Dat doen we iteratief, in een aantal rondes, en in co-creatie met de mensen waar we eerder mee hebben meegelopen. We selecteren telkens de beste ideeën om mee verder te gaan, zodat er aan het eind van de periode wel tien tot twintig concepten zijn, <em>minimum viable solutions</em>. Ook hier maken we met de probleemeigenaar een keuze welke we gaan maken in de eerste week van de realisatie.
 
-<div class="article-image" style="background-image: url(/assets/img/foto/FixxxMethode-makkelijkemarkt.jpg)">
-    <div class="slope"></div>
-    <div class="slope slope--flip"></div>
+<div class="article-image">
+    <img src="/assets/img/foto/FixxxMethode-makkelijkemarkt.jpg">
 </div>
- 
+
 ### week 5 t/m 8: push (realisatie)
 
-Het in de ideation gekozen concept werken we binnen een week uit tot een bruikbare, zij het zeer minimale, versie. Deze versie wordt meteen gebruikt in het dagelijks werk van de betrokken medewerkers. We kijken intensief mee hoe ze het gebruiken en verzamelen hun gebruikerswensen. Op basis daarvan maken we in de tweede week een verbeterde versie en zo maken we, week in, week uit, de oplossing telkens beter geschikt voor de mensen die er mee gaan werken. 
+Het in de ideation gekozen concept werken we binnen een week uit tot een bruikbare, zij het zeer minimale, versie. Deze versie wordt meteen gebruikt in het dagelijks werk van de betrokken medewerkers. We kijken intensief mee hoe ze het gebruiken en verzamelen hun gebruikerswensen. Op basis daarvan maken we in de tweede week een verbeterde versie en zo maken we, week in, week uit, de oplossing telkens beter geschikt voor de mensen die er mee gaan werken.
 
 ### week 9 t/m 12: push (realisatie en uitrol)
 

@@ -13,16 +13,19 @@
         position: absolute;
         left: $header-gutter;
         top: $header-gutter;
-        height: 75px;
+        width: 75px;
         display: flex;
         justify-content: flex-start;
         align-items: flex-start;
         z-index: 9;
         @media screen and (min-width: $breakpoint-md) {
-            height: 160px;
+            width: 120px;
+        }
+        @media screen and (min-width: $breakpoint-xl) {
+            left: 80px;
         }
         img {
-            height: 100%;
+            width: 100%;
         }
     }
 
@@ -75,12 +78,18 @@
         @media screen and (min-width: $breakpoint-md) {
             display: flex;
         }
+        @media screen and (min-width: $breakpoint-xl) {
+            right: 80px;
+        }
         a {
-            color: $primair-blauw;
+            color: $black;
             // color: white;
             margin-left: $gutter-sm;
             margin-right: 0;
             text-decoration: none;
+            @media screen and (min-width: $breakpoint-lg) {
+                margin-left: 2.5rem;
+            }
             &:hover{
                 text-decoration: underline;
             }
@@ -135,7 +144,7 @@
         &__panel{
             width: 70%;
             height: 100%;
-            background-color: $secundair-blauw;
+            background-color: $black;
             display: flex;
             justify-content: center;
             align-items: flex-start;

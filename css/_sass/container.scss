@@ -1,15 +1,46 @@
-.container-md{
+@mixin container-md {
     width: calc(100% - (2 * #{$gutter-sm}) );
-    margin: 0 auto;
-
-    @media screen and (min-width: $breakpoint-lg) {
+    margin-left: auto;
+    margin-right: auto;
+    padding: 0 20px;
+    @media screen and (min-width: $breakpoint-md) {
+        padding: 0;
         width: $container-width-md;
     }
+    @media screen and (min-width: $breakpoint-lg) {
+        width: $container-width-lg;
+    }
+}
 
+@mixin container-sm {
+    width: calc(100% - (2 * #{$gutter-sm}) );
+    margin-left: auto;
+    margin-right: auto;
+
+    @media screen and (min-width: $breakpoint-md) {
+        width: $container-width-sm;
+    }
+    // @media screen and (min-width: $breakpoint-lg) {
+    //     width: 720px;
+    // }
+}
+
+.container-md{
+    @include container-md();
     &--margin-top{
         @media screen and (min-width: $breakpoint-lg) {
             margin-top: 8rem;
         }
     }
-
 }
+
+
+.container-sm{
+    @include container-sm();
+    &--margin-top{
+        @media screen and (min-width: $breakpoint-lg) {
+            margin-top: 8rem;
+        }
+    }
+}
+
