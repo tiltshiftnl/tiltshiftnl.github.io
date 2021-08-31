@@ -38,7 +38,7 @@ Als de 8 minuten voorbij zijn hangt iedereen haar of zijn A4 op de muur. Present
 - Spreek af dat iedereen zijn/haar naam op een vaste plaats op het papier zet;
 - Om onzekerheid over tekenkunsten weg te nemen, kun je starten met een mini teken-workshop;
 - Doe eerst een 'oefenronde' met een grappige opgave om een beetje los te komen;
-- Neem de stakeholders tijdens de demo mee door verslag te doen van de Crazy-8 sessie;
+- Neem je stakeholders mee door verslag te doen van de Crazy-8 sessie;
 - Presenteer daarbij een aantal opvallende ideeën die niet zijn geselecteerd.
 
 ## Hoe verder
