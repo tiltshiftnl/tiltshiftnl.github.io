@@ -17,7 +17,9 @@ back: ..
 
 ## Hoe het werkt
 
-Neem een A4 papier en vouw het 3 keer doormidden. Zo houd je een vel over met 8 vakjes. Bepaal samen of je portrait of landscape gaat werken.
+Neem een A4 papier en vouw het 3 keer doormidden. Zo houd je een vel over met 8 vakjes. Spreek met elkaar af je portrait of landscape gaat werken.
+
+Naar onze ervaring kun je de Crazy-8 workshop het beste gebruiken in een niet al te grote groep, bijvoorbeeld 5 - 8 mensen.
 
 <div class="article-image">
     <img src="/assets/img/materialen/Tiltshift-Workshop-Crazy-8-A4-vouwen.jpg">
