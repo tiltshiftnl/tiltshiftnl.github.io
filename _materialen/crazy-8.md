@@ -37,7 +37,7 @@ Maak voor elk idee een klein schetsje en schrijf er af en toe een woord bij ter 
 
 Als de 8 minuten voorbij zijn hangt iedereen haar of zijn A4 op de muur. Presenteer om de beurt kort je concepten (maximaal 2 minuten per A4).
 
-## Toptips
+## Tips
 
 - Spreek af dat iedereen zijn/haar naam op een vaste plaats op het papier zet;
 - Neem onzekerheid over tekenkunsten weg door te starten met een mini teken-workshop;
