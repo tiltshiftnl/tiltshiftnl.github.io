@@ -29,7 +29,11 @@ Kies het probleem (X) waarop je gaat crazy-8'en en formuleer het als: hoe zouden
 
 Iedereen mag nog een verduidelijkende vraag stellen. Schrijf hierna de opgave bovenaan je A4 als: "Hoe zouden we ...".
 
-Zet een timer (wij gebruiken hiervoor een TimeTimer) op 8 minuten en probeer acht ideeën uit te persen. Teken die en schrijf er af en toe een woord bij ter verduidelijking. Mocht je tijd over hebben dan kun je een accentkleur gebruiken om ieder plaatje nog iets duidelijker te maken.
+## Tijd
+
+Het idee is om de druk flink op te voeren. Zet een timer (wij gebruiken hiervoor een TimeTimer) op 8 minuten en probeer acht ideeën uit te persen. 
+
+Maak voor elk idee een klein schetsje en schrijf er af en toe een woord bij ter verduidelijking. Mocht je tijd over hebben dan kun je een accentkleur gebruiken om ieder plaatje nog iets duidelijker te maken.
 
 Als de 8 minuten voorbij zijn hangt iedereen haar of zijn A4 op de muur. Presenteer om de beurt kort je concepten (maximaal 2 minuten per A4).
 
