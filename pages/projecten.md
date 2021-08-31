@@ -14,11 +14,8 @@ caption:
 ---
 Achter elk project schuilt een aanleiding, een serieus probleem. Omdat het zo ingewikkeld is projecten van de grond te krijgen, wordt dat probleem vaak vergeten en ligt de focus al gauw op een oplossing. Meestal niet de beste, zo is onze ervaring. Of een utopische. Daarom gaan wij in altijd, bij interventies én volledig nieuwe projecten, altijd eerst terug naar de aanleiding. 
 
-> Innovatie begint bij de mensen. Focus op hun probleem en laat de techniek volgen. Dan ontstaat de oplossing.
-
-
 Het zorgt voor een frisse en realistische blik en succesvolle projecten. Waarvan een paar voorbeelden op deze pagina.
 
-<!-- {% include collection.md collection=site.projecten %} -->
+> Innovatie begint bij de mensen. Focus op hun probleem en laat de techniek volgen. Dan ontstaat de oplossing.
 
 {% include projects-link-blocks.html projects=site.projecten %}
