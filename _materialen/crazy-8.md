@@ -7,7 +7,6 @@ subtitle: "Snel creatieve, concrete ideeën verzinnen, en verder itereren."
 
 description: "Deze visuele brainstorm techniek is bedoel om razendsnel een grote hoeveelheid ideeën op te halen."
 labels: [ideation, convergeren, co-creatie, tekenen]
-download: /assets/pdf/crazy-8.pdf
 
 image: "assets/img/foto/IMG_8562.jpg"
 caption: 'Fixxx Ideation "Schulddossier", Gemeente&nbsp;Amsterdam'
@@ -27,5 +26,3 @@ Iedereen mag nog een verduidelijkende vraag stellen. Schrijf hierna de opgave bo
 Stel de klok in op 8 minuten en probeer 8 ideeën uit te persen. Teken die en schrijf er af en toe een woord bij ter verduidelijking. Als je tijd over hebt, kun je  een accentkleur gebruiken om ieder plaatje nog iets duidelijker te maken.
 
 Als de 8 minuten voorbij zijn hangt iedereen haar of zijn A4 op de muur. Presenteer om de beurt kort je concepten (maximaal 2 minuten per A4).
-
-[Download het canvas]({{ page.download }})
