@@ -45,6 +45,10 @@ Als de 8 minuten voorbij zijn hangt iedereen haar of zijn A4 op de muur. Present
 - Neem je stakeholders mee door verslag te doen van de Crazy-8 sessie;
 - Presenteer daarbij een aantal opvallende ideeën die niet zijn geselecteerd.
 
+<div class="article-image">
+    <img src="/assets/img/materialen/Workshop-Crazy-Eight-Ideation-Warroom.jpg">
+</div>
+
 ## Hoe verder
 
 Je kunt dot voting gebruiken om één of meerdere ideeën te selecteren. Hierop kun je vervolgens nog een ronde Crazy-8 op doen, om de ideeën te verdiepen. Vervolgens kies je één of meerdere ideeën om uit te werken tot een concept.
