@@ -27,11 +27,19 @@ Naar onze ervaring kun je de Crazy-8 workshop het beste gebruiken in een niet al
 
 Kies het probleem (X) waarop je gaat crazy-8'en en formuleer het als: hoe zouden we X kunnen oplossen, hoe zou de oplossing voor X er uit zien, hoe zou het werken als we X oplossen?
 
-Iedereen mag nog een verduidelijkende vraag stellen. Schrijf hierna de opgave bovenaan je A4 "Hoe zouden we ...".
+Iedereen mag nog een verduidelijkende vraag stellen. Schrijf hierna de opgave bovenaan je A4 als: "Hoe zouden we ...".
 
 Zet een timer (wij gebruiken hiervoor een TimeTimer) op 8 minuten en probeer acht ideeën uit te persen. Teken die en schrijf er af en toe een woord bij ter verduidelijking. Mocht je tijd over hebben dan kun je een accentkleur gebruiken om ieder plaatje nog iets duidelijker te maken.
 
 Als de 8 minuten voorbij zijn hangt iedereen haar of zijn A4 op de muur. Presenteer om de beurt kort je concepten (maximaal 2 minuten per A4).
+
+## Toptips
+
+- Spreek af dat iedereen zijn/haar naam op een vaste plaats op het papier zet;
+- Om onzekerheid over tekenkunsten weg te nemen, kun je starten met een mini teken-workshop;
+- Doe eerst een 'oefenronde' met een grappige opgave om een beetje los te komen;
+- Neem de stakeholders tijdens de demo mee door verslag te doen van de Crazy-8 sessie;
+- Presenteer daarbij een aantal opvallende ideeën die niet zijn geselecteerd.
 
 ## Hoe verder
 
