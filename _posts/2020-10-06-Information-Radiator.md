@@ -10,7 +10,6 @@ image: "assets/img/foto/IMG_9253_scaled.jpg"
 caption: ''
 hideBanner: true
 author: Johan Groenen
-back: ..
 ---
 
 > Van de nieuwe concepten die ik de laatste jaren heb leren kennen is één van mijn favorieten de 'information radiator'.
@@ -32,3 +31,5 @@ Het tegenovergestelde concept is dat van de "information refrigerator", waarbij 
 Dergelijke systemen hebben de neiging om in onbruik te raken, omdat ze frustrerend zijn. Als het gebruik niet actief wordt aangemoedigd of vaak zelfs verplicht is, dan raakt de informatie oud en incompleet, en is het alleen nog maar frustrerender. Hoe dan ook is dat een verspilling van energie, die ook positief kan worden ingezet.
 
 Klinkt waarschijnlijk heel logisch allemaal, maar kijk nu nog maar eens rond, thuis of op kantoor, en constateer het grote aantal (onbedoelde) information refrigerators. Vervang deze nou eens door information radiators en zie de communicatie verbeteren.
+
+[« overzicht van posts](/posts/)
