@@ -13,7 +13,7 @@ author: Johan Groenen
 back: ..
 ---
 
-> Van de nieuwe concepten die ik de laatste jaren heb leren kennen is één van mijn favorieten de "information radiator".
+> Van de nieuwe concepten die ik de laatste jaren heb leren kennen is één van mijn favorieten de 'information radiator'.
 
 *&emsp; door {{ page.author }}*
 
@@ -25,7 +25,7 @@ Een veelgezien voorbeeld is een muur met post-its. Als je daar langs loopt, vall
 
 In onze Fixxx trajecten maken we hier veel gebruik van. De ruimte (soms ook wel _War Room_ genoemd) is één grote information radiator, die iedere dag door het team geactualiseerd en gestructureerd wordt op basis van wat er die dag is gedaan: een interview, analyse, nieuwe concepten, een iteratie op de code, of feedback uit de tests. Op die manier loop je als teamlid iedere dag binnen en weet je weer precies waar je gebleven was. Maar ook als er iemand langs komt, heeft die al snel een idee van waar we mee bezig zijn, en kunnen we die persoon vervolgens met weinig moeite meenemen in wat we gedaan hebben, welke keuzes gemaakt zijn, en waar we nu staan.
 
-<div class="article-image"><img src="/assets/img/posts/Information-Radiator-demo-dinsdag.jpg"></div>
+<div class="article-image"><img src="/assets/img/posts/Information-Radiator-Demo-dinsdag.jpg"></div>
 
 Het tegenovergestelde concept is dat van de "information refrigerator", waarbij informatie dusdanig wordt gepresenteerd dat het praktisch onbruikbaar is als communicatiekanaal. Voorbeelden daarvan zie je dagelijks: complexe computersystemen, waar de gebruiker eerst voor achter de computer moet gaan zitten, de computer opstarten, vervolgens ergens op omslachtige manier inloggen, om via een aantal handelingen of zoekopdrachten pas terecht te komen bij de informatie (als die te vinden is). Ik kan er zo een stuk of 20 opnoemen, maar volgens mij is dat niet nodig.
 
