@@ -8,8 +8,7 @@ subtitle: "Snel creatieve, concrete ideeën verzinnen en verder itereren."
 description: "Deze visuele brainstorm techniek is bedoel om razendsnel een grote hoeveelheid ideeën op te halen."
 keywords: Design thinking, workshop, Crazy Eight, Ideation, Ideeën, How to, uitleg, instructie
 labels: [design thinking, workshop, ideation, convergeren, co-creatie, tekenen]
-
-image: "assets/img/foto/IMG_8562.jpg"
+hideBanner: true
 
 back: ..
 ---
