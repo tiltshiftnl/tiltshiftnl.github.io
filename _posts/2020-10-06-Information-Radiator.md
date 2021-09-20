@@ -4,7 +4,7 @@ variant: white
 
 subject: Information Radiator
 title: "Information Radiator"
-description: "Van de nieuwe concepten die ik de laatste jaren heb leren kennen is één van mijn favorieten de \"information radiator\"."
+description: "Een information radiator heeft als kenmerken dat hij informatie weergeeft die verandert over tijd en dat deze informatie met zo min mogelijk moeite kan worden waargenomen."
 labels: "Design Thinking, War Room"
 image: "assets/img/foto/IMG_9253_scaled.jpg"
 caption: ''
