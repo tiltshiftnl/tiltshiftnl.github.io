@@ -9,14 +9,18 @@ quote:
 type:
 keywords: Interventie, innovatieprogramma, software design thinking, Fixxx
 labels: [interventie, datagedreven werken, samenwerken, privacy]
+
 hideBanner: true
 image: /assets/img/foto/Wonen-Innovatie-Programma-Interventie.jpg
+caption: ''
+
+order: 400
 
 featured: true
 featured_order: 1
 featured_image: /assets/img/foto/Wonen-Innovatie-Interventie-Software-Ontwikkeling-werkvloer.jpg
 featured_image_alt_text: 'Alt_text'
-caption: ''
+
 excerpt: "Weer beweging in vastgelopen innovatie programma en betrokken medewerkers."
 
 back: ..
