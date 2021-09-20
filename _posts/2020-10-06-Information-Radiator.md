@@ -8,6 +8,7 @@ description: "Van de nieuwe concepten die ik de laatste jaren heb leren kennen i
 labels: "Design Thinking, War Room"
 image: "assets/img/foto/IMG_9253_scaled.jpg"
 caption: ''
+hideBanner: true
 author: Johan Groenen
 back: ..
 ---
@@ -19,6 +20,8 @@ back: ..
 Een information radiator heeft als kenmerken dat hij informatie weergeeft die verandert over tijd en dat deze informatie met zo min mogelijk moeite kan worden waargenomen. In die zin straalt een information radiator informatie, zoals een radiator warmte straalt: je hoeft er maar langs te lopen en je wordt warm.
 
 Een veelgezien voorbeeld is een muur met post-its. Als je daar langs loopt, vallen de post-its direct op. Als het aantal post-its enigszins beperkt is en er duidelijk structuur in zit, en de informatie op de post-its duidelijk leesbaar en actueel, dan zal iedereen die er langs loopt met geen of heel weinig moeite op de hoogte zijn van wat er via deze muur gecommuniceerd wordt.
+
+<div class="article-image"><img src="/assets/img/foto/Information-Radiator-Johan-en-Yvonne-in-War-Room.jpg"></div>
 
 In onze Fixxx trajecten maken we hier veel gebruik van. De ruimte (soms ook wel _War Room_ genoemd) is één grote information radiator, die iedere dag door het team geactualiseerd en gestructureerd wordt op basis van wat er die dag is gedaan: een interview, analyse, nieuwe concepten, een iteratie op de code, of feedback uit de tests. Op die manier loop je als teamlid iedere dag binnen en weet je weer precies waar je gebleven was. Maar ook als er iemand langs komt, heeft die al snel een idee van waar we mee bezig zijn, en kunnen we die persoon vervolgens met weinig moeite meenemen in wat we gedaan hebben, welke keuzes gemaakt zijn, en waar we nu staan.
 
