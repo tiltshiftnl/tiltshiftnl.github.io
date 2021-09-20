@@ -12,8 +12,7 @@ back: ..
 ---
 Voor het gezamenlijk samenvatten van een interview op basis van empathie gebruiken wij vaak Empathy Maps (origineel: [xplane](https://medium.com/the-xplane-collection/updated-empathy-map-canvas-46df22df3c8a) ).
 
-<div class="article-image"><img src="/assets/img/posts/
-Empathy-Map-Gebruiken-Resultaten-Interviews-Verwerken.jpg"></div>
+<div class="article-image"><img src="/assets/img/posts/Empathy-Map-Gebruiken-Resultaten-Interviews-Verwerken.jpg"></div>
 
 De Empathy Map bestaat uit vier kwadranten, daarin omschrijf je wat iemand:
 
