@@ -23,4 +23,6 @@ De Empathy Map bestaat uit vier kwadranten, daarin omschrijf je wat iemand:
 
 Daarnaast kun je onderaan gelijk de pijnpunten apart uitlichten en omschrijven wat er verbeterd kan worden.
 
+Wat voor ons fijn werkt is als iedereen na elkaar zijn/haar bevindingen opplakt en kort toelicht. Zo neem je elkaar mee in ieders bevindingen.
+
 [Download het canvas]({{ page.download }})
