@@ -1,7 +1,7 @@
 {% assign title = include.title %}
 {% assign intro = include.intro %}
 
-{% assign projecten = site.projecten | where: "display", "true" | sort: "display_order" %}
+{% assign projecten = site.projecten | sort: "order" %}
 
 <div class="container-md">
     <!-- <h2>{{title}}</h2> -->
