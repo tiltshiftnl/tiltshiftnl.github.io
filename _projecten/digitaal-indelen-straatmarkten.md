@@ -9,7 +9,8 @@ type:
 keywords: 'innovatie, design thinking, software design thinking, digitalisering, digitale transformatie, publieke markten, marktindeling'
 labels: [datagedreven werken, digitale transformatie, eerlijke algoritmes, public code]
 
-order: 2
+order: 400
+
 hideBanner: true
 image: /assets/img/foto/Digitaal-Indelen-Markt-Amsterdam-Marktmeesters.jpg
 image_alt_text: 'Marktmeesters tijdens een (handmatige) indeling van een straatmarkt in Amsterdam'
