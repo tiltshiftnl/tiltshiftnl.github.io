@@ -9,16 +9,18 @@ type:
 keywords: 'innovatie, design thinking, software design thinking, samenwerking, ketenpartners'
 labels: [ketensamenwerking, huisvesting kwetsbare groepen, omslagroute]
 
+order: 300
+
 hideBanner: true
 image: /assets/img/foto/Woonvergunning-kwetsbare-groepen-samenwerking-keten.jpg
 caption:
+
 featured_order: 1
 featured: false
 featured_image: /assets/img/foto/Woonvergunning-kwetsbare-groepen-design-thinking-voor-beter-resultaat.jpg
 featured_image_alt_text: 'Woonvergunning voor Kwetsbare Groepen.'
 excerpt: "Kwetsbare groepen kunnen in Amsterdam onder begeleiding een periode proef-wonen. Het complexe proces waarin hulpverleners en gemeente nauw samenwerken verliep niet soepel."
 
-order: 1
 back: ..
 ---
 Om mensen uit kwetsbare groepen te helpen met hun terugkeer naar zelfstandigheid mogen ze soms een tijdje op proef wonen. Ze krijgen dan een tijdelijke woning, woonvergunning én de nodige begeleiding. Om dit in goede banen te leiden werken zorgverleners, woningcorporaties en gemeente intensief samen. Maar dat kon beter.
