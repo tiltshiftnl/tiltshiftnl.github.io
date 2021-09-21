@@ -16,7 +16,9 @@ caption: 'Explore "App Interne Dienstverlening", Gemeente&nbsp;Amsterdam'
 
 menu: show
 ---
-{{ page.description }}
+Tiltshifters zorgen voor beweging als het stil staat. Door mensen te motiveren, dingen klein te maken en - als het nodig is - te confronteren. Altijd duurzaam en gericht op voortgang zijn we communicatief, vriendelijk én duidelijk. 
+
+Elke Tiltshifter heeft een specifieke kunde maar evengoed een duidelijke mening. Die zetten we in om jouw doel te bereiken, tenminste, als we in dat doel geloven.
 
 {% include people.html %}
 
