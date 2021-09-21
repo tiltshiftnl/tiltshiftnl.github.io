@@ -5,16 +5,15 @@ variant: white
 title: "Empathy map"
 description: "Voor het gezamenlijk samenvatten van een interview op basis van empathie gebruiken wij vaak Empathy Maps."
 labels: [Interview, Explore, Design Sprint, Fixxx, Push]
-download: /assets/pdf/empathymap.pdf
 hideBanner: true
 
 back: ..
 ---
-Voor het gezamenlijk samenvatten van een interview op basis van empathie gebruiken wij vaak Empathy Maps (origineel: [xplane](https://medium.com/the-xplane-collection/updated-empathy-map-canvas-46df22df3c8a) ).
+Voor het gezamenlijk samenvatten van een interview op basis van empathie gebruiken wij vaak Empathy Maps.
 
 <div class="article-image"><img src="/assets/img/posts/Empathy-Map-Gebruiken-Resultaten-Interviews-Verwerken.jpg"></div>
 
-De Empathy Map bestaat uit vier kwadranten, daarin omschrijf je wat iemand:
+De Empathy Map bestaat tenminste uit vier kwadranten, daarin omschrijf je wat iemand:
 
 - denkt en voelt;
 - ziet;
@@ -27,4 +26,4 @@ Je kunt er voor elke geinterviewde apart de map invullen, of alle resultaten sam
 
 Wat voor ons fijn werkt is als iedereen na elkaar zijn/haar bevindingen opplakt en kort toelicht. Zo neem je elkaar mee in ieders bevindingen.
 
-[Download het canvas]({{ page.download }})
+[Download de originele Empathy Map van XPLANE](https://medium.com/the-xplane-collection/updated-empathy-map-canvas-46df22df3c8a). Hier vindt je ook meer (Engelstalige) uitleg over hoe je de Empathy Map kunt inzetten.
