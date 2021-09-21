@@ -26,7 +26,7 @@ back: ..
 ---
 Door het [ontwerpen en realiseren van Straatnotes](https://www.tiltshift.nl/projecten/straatnotes/) kunnen notities van Straatcoaches in Amsterdam wettelijk en veilig verwerkt worden.  Er ontstaat zo goed zicht op wat er in de stad speelt.
 
-De informatie die straatcoaches verzamelen vormen een rijke bron aan informatie voor veel ambtelijke onderdelen in de stad Amsterdam. Anno 2020 was er behoefte aan het opnieuw structureren van de applicatie, én van de rechthebbenden. Immers, niet iedereen mag zomaar grasduinen in zo'n bron. De vraag was: trekken we de lijn niet te streng? Hoe voldoen we aan de AVG en andere privacy vereisten? En als we de teugels laten vieren, hoe weten we dat er alleen op de juiste manier gebruik gemaakt wordt van de informatie? Kortom: een behoefte aan herstructurering in organisatorische én technische zin.
+De informatie die straatcoaches verzamelen vormen een rijke bron aan informatie voor veel ambtelijke onderdelen in de stad Amsterdam. Anno 2020 was er behoefte aan het opnieuw structureren van de applicatie, én van de rechthebbenden. Immers, niet iedereen mag zomaar grasduinen in zo'n bron. De vraag was: trekken we de lijn niet te streng? Hoe voldoen we aan de AVG en andere privacy vereisten? En hoe weten we dat er alleen op de juiste manier gebruik gemaakt wordt van de informatie? Kortom: een behoefte aan herstructurering in organisatorische én technische zin.
 
 We maakten eerst pas op de plaats door doelgroep, gebruik en opzet in kaart te brengen. We begeleidden de opzet en inrichting van nieuwe convenanten tussen de partijen die gebruik maken van het systeem. Hiermee wordt het juiste gebruik van de informatie geborgd.
 
