@@ -26,14 +26,18 @@ We verzorgen leiderschap, inhoudelijke kennis en waar nodig uitvoering. Onze men
 
 > Als je mensen niet over het hoofd wil zien, moet je ze betrekken in alle fases van het project.
 
-We werken veel voor gemeenten, provincies en zorg. Maar we staan net zo goed klaar voor andere organisaties. Een greep uit onze opdrachtgevers: **Gemeente** Amsterdam, Amersfoort, Rotterdam, **Provincie** Flevoland, Zuid-Holland, Vereniging Nederlandse Gemeenten (VNG), **Ministerie** van Algemene Zaken, en ook **woningcorporaties, ouderenzorg en universiteiten**.
-
 ## Onze mensen
 Een Tiltshifter is specialist op zijn of haar vakgebied en heeft een sterke eigen mening. Die zetten we in om jouw doel te bereiken, tenminste, als we in dat doel geloven. De kern van de organisatie bestaat uit vier personen met om ons heen een groep van ongeveer twintig ‘vaste’ freelancers.
 Ontmoet de kern van Tiltshift: [Johan Groenen](/mensen/johan-groenen/), [Maarten Geraets](/mensen/maarten-geraets/), [Joris Boeren](/mensen/joris-boeren/) en [Eva Leffef](/mensen/eva-leffef/).
 
 
-{% include projects-homepage.html title="Uitgelichte projecten" intro="Om succesvol software te ontwikkelen is het belangrijk om goed te bedenken welk probleem je eigenlijk aan het oplossen bent en voor wie." projects=site.projects %}
+{% include projects-homepage.html title="Uitgelichte projecten" intro="Om succesvol software te ontwikkelen is het belangrijk om te weten welk probleem je eigenlijk oplost en voor wie." projects=site.projects %}
+
+## Opdrachtgevers
+We werken veel voor gemeenten, provincies en zorg. Maar we staan net zo goed klaar voor andere organisaties.
+
+Een greep uit onze opdrachtgevers: 
+**Gemeente** Amsterdam, Amersfoort, Rotterdam, **Provincie** Flevoland, Zuid-Holland, Vereniging Nederlandse Gemeenten (VNG), **Ministerie** van Algemene Zaken, en ook **woningcorporaties, ouderenzorg en universiteiten**.
 
 ## Nieuws
 [Vacature - Strategisch Coördinator](/2021/06/30/Vacature-Strategisch-Coordinator.html) - juni 2021<br>We zijn op zoek naar leuke mensen die met Tiltshift willen groeien. Doe je mee?
