@@ -30,7 +30,9 @@ De informatie die straatcoaches verzamelen vormen een rijke bron aan informatie 
 
 We maakten eerst pas op de plaats door doelgroep, gebruik en opzet in kaart te brengen. We begeleidden de opzet en inrichting van nieuwe convenanten tussen de partijen die gebruik maken van het systeem. Hiermee wordt het juiste gebruik van de informatie geborgd.
 
-<div class="article-image" style="background-image: url(/assets/img/foto/Applicatie-familie-Straatnotes-Informatiestromen.png)"></div>
+<div class="article-image">
+    <img src="/assets/img/foto/Applicatie-familie-Straatnotes-Informatiestromen.png">
+</div>
 
 In technische zin hebben we de architectuur van het systeem naar een volgend niveau getild, met de principes van Common Ground als basis. In plaats van één alles omvattend systeem voor iedereen, is Straatnotes nu een applicatiefamilie geworden. Bestaande uit diverse losse en herbruikbare applicaties met in het midden een centrale database. Die laatste bevat alle informatie én de toegangsrechten conform de afgesloten convenanten en gegevensregeling. 
 
