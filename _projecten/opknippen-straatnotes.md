@@ -2,8 +2,8 @@
 layout: default
 variant: white
 
-title: "Applicatiefamile Straatnotes "
-description: Straatnotes helpt de bevindingen van straatcoaches veilig te verzamelen en om te zetten naar bruikbare informatie en waardevolle inzichten. Waarbij de privacy van de betrokkenen gewaarborgd is.
+title: "Applicatiefamile Straatnotes"
+description: In plaats van één alles omvattend systeem voor iedereen, is Straatnotes nu een applicatiefamilie geworden. Bestaande uit diverse losse en herbruikbare applicaties met in het midden een centrale database. Die laatste bevat alle informatie én de toegangsrechten conform de afgesloten convenanten en gegevensregeling.
 
 quote:
 type:
@@ -13,9 +13,9 @@ labels: [datagedreven werken, samenwerken, ketenpartners, privacy]
 hideBanner: true
 image: /assets/img/foto/Straatnotes-meekijken-met-gebruiker-software-design-thinking.jpg
 featured_image: /assets/img/foto/Straatnotes-Straatcoaches-op-Straat-software-jeugdoverlast-terugdringen.jpg
-featured_image_alt_text: 'Veilig en volgends de AVG bevindingen straatcoaches noteren en delen.'
+featured_image_alt_text: 'Straatnotes: een applicatiefamilie bestaande uit diverse losse en herbruikbare applicaties met in het midden een centrale database.'
 caption:
-excerpt: "De straatcoaches in Amsterdam kregen een echt hulpmiddel in hun werk en de kwaliteit van de data nam fors toe door metadatering en controle."
+excerpt: "In plaats van één alles omvattend systeem voor iedereen, is Straatnotes nu een applicatiefamilie geworden. Bestaande uit diverse losse en herbruikbare applicaties met in het midden een centrale database. Die laatste bevat alle informatie én de toegangsrechten conform de afgesloten convenanten en gegevensregeling."
 
 featured_order: 1
 featured: true
@@ -32,7 +32,7 @@ We maakten eerst pas op de plaats door doelgroep, gebruik en opzet in kaart te b
 
 In technische zin hebben we de architectuur van het systeem naar een volgend niveau getild, met de principes van Common Ground als basis. In plaats van één alles omvattend systeem voor iedereen, is Straatnotes nu een applicatiefamilie geworden. Bestaande uit diverse losse en herbruikbare applicaties met in het midden een centrale database. Die laatste bevat alle informatie én de toegangsrechten conform de afgesloten convenanten en gegevensregeling. 
 
-Veiliger en toekomstgericht. De  privacy van de betrokkenen is nu beter geborgd en het systeem voldoet aan de vereisten van veiligheid. Dankzij de koppeling van toegangsrechten aan het verwerkingsdoel is het nu mogelijk de informatie conform de privacy vereisten te verspreiden onder de aangesloten partijen.
+Veiliger en toekomstgericht. De privacy van de betrokkenen is nu beter geborgd en het systeem voldoet aan de vereisten van veiligheid. Dankzij de koppeling van toegangsrechten aan het verwerkingsdoel is het nu mogelijk de informatie conform de privacy vereisten te verspreiden onder de aangesloten partijen.
 
 Met de professionalisering van Straatnotes is het systeem beter toegerust voor hergebruik in andere gemeenten dan de Gemeente Amsterdam. Daar helpen we natuurlijk graag mee.
 
