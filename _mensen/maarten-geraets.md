@@ -15,7 +15,7 @@ image: "assets/img/foto/IMG_9253_scaled.jpg"
 personImage: /assets/img/foto/Maarten-Geraets.jpg
 email: maarten.geraets@tiltshift.nl
 linkedInUrl: https://www.linkedin.com/in/maarten-geraets/
-telephone: T +31 (0)30 721 08 34
+telephone: T <a href="tel:+31307210834">+31 (0)30 721 08 34</a>
 
 order: 4
 back: ..
