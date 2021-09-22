@@ -17,11 +17,11 @@ back: ..
 ---
 {{ page.description }}
 
-Fixxx is een snel verandertraject waarbij organisatie, processen en techniek gesmeed worden tot een soepel lopend geheel. Het maakt daarbij gebruik van alle mogelijkheden die software design thinking biedt om proces en gedrag te veranderen. Het uitgangspunt is een probleem dat in het begin wordt gevalideerd, verfijnd en aansluitend opgelost. Het is een human centered design methode die organisaties een pragmatische aanpak biedt om slim, snel en effectief innovatie toe te passen.
-
 <div class="article-image">
     <img src="/assets/img/foto/Fixxx-methode-Snelle-innovatie-Design-Thinking.jpg">
 </div>
+
+Fixxx is een snel verandertraject waarbij organisatie, processen en techniek gesmeed worden tot een soepel lopend geheel. Het maakt daarbij gebruik van alle mogelijkheden die software design thinking biedt om proces en gedrag te veranderen. Het uitgangspunt is een probleem dat in het begin wordt gevalideerd, verfijnd en aansluitend opgelost. Het is een human centered design methode die organisaties een pragmatische aanpak biedt om slim, snel en effectief innovatie toe te passen.
 
 Veranderen doe je niet door achter een tekentafel te bedenken, maar door in een multi-disciplinair team te doen. Fixxx start met onderzoek naar het werkelijke probleem om daarna oplossingen voor de gevonden uitdagingen te bedenken. Al na een paar weken gaat het team oplossingen in het echt maken zodat deze door de medewerkers van de organisatie in het dagelijks werk gebruikt en getest worden. Implementatie en realisatie gaan dus gelijk op. Dit zorgt voor draagvlak bij de gebruikers en software die naadloos aansluit op de werkzaamheden. Los van kennisdeling en een positieve sfeer bij de medewerkers ten aanzien van de verandering.
 
