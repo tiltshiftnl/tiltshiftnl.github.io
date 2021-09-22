@@ -22,7 +22,7 @@ Veranderen doe je niet door achter een tekentafel te bedenken, maar door in een 
 
 De Fixxx methode is door ons al in enkele tientallen projecten toegepast. In alle gevallen was het een succesvol begin van verandering of digitale transitie. Dit leidde soms tot een product (dat niet meer weg te denken is bij de gebruikers), soms tot een programma voor digitale transitie waar iedereen weer vertrouwen in heeft. Het is altijd een positief startpunt dat naar meer smaakt.
 
-<div class="plane">
+<div class="plane_black">
     <div class="container-md"><img style="margin: 40px 0;" src="/assets/img/foto/fixxx-methode-canvas.svg">
     </div>
 </div>
