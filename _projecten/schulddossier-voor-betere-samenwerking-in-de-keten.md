@@ -43,12 +43,12 @@ Gezamenlijk besloten we de dossiers als uitgangspunt te nemen. Samen met de gebr
 Zo was het grootste knelpunt binnen een kwartaal opgelost: de dossiers zijn volledig digitaal en door de betere samenwerking is de doorlooptijd met wel 100 dagen is afgenomen. De tijd die daardoor binnen de organisatie vrij kwam kon worden besteed aan het oplossen van de klacht van de ombudsman.
 
 > Ik ben erg blij met en onder de indruk van het werk dat jullie verricht hebben!
->
-><small>Arre Zuurmond</small>
+
+<small class="author">Arre Zuurmond</small>
 
 Nadien is het systeem, inmiddels Schulddossier genaamd, meerdere keren uitgebreid. Want doordat de basis van de samenwerking in de keten gelegd was konden er meer problemen opgelost worden. Zoals bijvoorbeeld met: veilig berichtenverkeer, data gestuurd werken, maar ook thuiswerken.
 
 Inmiddels zijn ook bewindvoerders aan het systeem toegevoegd, zodat de keten nog efficiënter werkt. Het systeem is gemaakt volgens de principes van Common Ground en kan dus ook door  andere gemeenten worden ingezet.
 
 ### Wil je meer weten over beter samenwerken in de keten?
-Neem contact met ons op via +31 (0)20 722 02 07.
+[Neem contact met ons op of maak gelijk een afspraak](/intake-en-advies).
