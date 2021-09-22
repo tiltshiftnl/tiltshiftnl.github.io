@@ -1,7 +1,7 @@
 ---
 layout: default
 variant: white
-permalink: /snelle-innovatie-die-werkt/snelle-innovatie-die-werkt/wildparkerende-touringcars/
+permalink: /snelle-innovatie-die-werkt/wildparkerende-touringcars/
 
 title: Wildparkerende touringcars
 subtitle: 
