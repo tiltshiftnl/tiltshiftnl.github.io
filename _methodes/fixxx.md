@@ -25,10 +25,11 @@ De Fixxx methode is door ons al in enkele tientallen projecten toegepast. In all
 
 <div class="plane">
     <div class="container-md">
-        <div class="article-image"><img src="/assets/img/foto/Fixxx-Methode-Tiltshift.png"></div>
-        Download het [Fixxx-canvas als PDF bestand](/assets/pdf/Fixxx-methode-Tiltshift.pdf).
+        <div class="article-image"><img src="/assets/img/foto/Fixxx-Methode-Tiltshift.png"></div>        
     </div>
 </div>
+
+Download het [Fixxx-canvas als PDF bestand](/assets/pdf/Fixxx-methode-Tiltshift.pdf).
 
 ## week 0: startem - Launch days
 
