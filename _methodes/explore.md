@@ -26,7 +26,7 @@ De uitkomst van een Explore geeft de de startpunten van waaruit concrete innovat
 
 <div class="plane">
     <div class="container-md">
-        <div class="article-image"><img src="assets/img/foto/Explore-Methode-Tiltshift.png"></div>
+        <div class="article-image"><img src="/assets/img/foto/Explore-Methode-Tiltshift.png"></div>
   </div>
 </div>
 
