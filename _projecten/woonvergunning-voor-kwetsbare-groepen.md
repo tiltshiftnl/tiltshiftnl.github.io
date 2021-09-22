@@ -42,4 +42,4 @@ Toen begon het eigenlijk pas echt. Op basis van de feedback die we kregen maakte
 In een paar maanden van probleem naar geïmplementeerde oplossing. Door de snelheid van het team, de betrokkenheid van de gebruikers en een écht tastbaar probleem, maakten we precies dát wat nodig was. Het resultaat tref je op [omslagroute.amsterdam.nl](https://omslagroute.amsterdam.nl/). Een veilige omgeving waarin ketenpartners wél kunnen samenwerken. Daardoor kunnen ze focussen op waar het om gaat: het helpen van die kwetsbare mensen op hun weg naar zelfstandigheid.
 
 ### Wil je de samenwerking tussen partners optimaliseren?
-Neem contact met ons op via +31 (0)20 722 02 07.
+[Neem contact met ons op of maak gelijk een afspraak](/intake-en-advies).
