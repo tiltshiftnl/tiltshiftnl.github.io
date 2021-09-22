@@ -8,6 +8,7 @@ subtitle: Begin meteen met de implementatie zodat iedereen ook echt betrokken is
 description: "Samen met de gemeente Amsterdam ontwikkelde Tiltshift de Fixxx methode voor snelle innovatie. Deze aanpak is kort, praktisch en gebaseerd op software design thinking. Het is opgebouwd uit een aantal vaste onderdelen: launch days, discovery, ideation, push (development) en delivery."
 labels: [innovatie, software design thinking, verandermanagement]
 
+hideBanner: true
 image: /assets/img/foto/Fixxx-methode-Snelle-innovatie-Design-Thinking.jpg
 caption: ''
 
@@ -22,8 +23,8 @@ Veranderen doe je niet door achter een tekentafel te bedenken, maar door in een 
 
 De Fixxx methode is door ons al in enkele tientallen projecten toegepast. In alle gevallen was het een succesvol begin van verandering of digitale transitie. Dit leidde soms tot een product (dat niet meer weg te denken is bij de gebruikers), soms tot een programma voor digitale transitie waar iedereen weer vertrouwen in heeft. Het is altijd een positief startpunt dat naar meer smaakt.
 
-<div class="plane_black">
-    <div class="container-md"><img style="margin: 40px 0;" src="/assets/img/foto/fixxx-methode-canvas.svg">
+<div class="plane">
+    <div class="container-md"><img style="margin: 40px 0;" src="/assets/img/foto/Fixxx-Methode-Tiltshift.png">
     </div>
 </div>
 Download het [Fixxx-canvas als PDF bestand](/assets/pdf/Fixxx-methode-Tiltshift.pdf).
@@ -44,7 +45,7 @@ Met kennis en ervaringen uit de discovery gaan we aan de slag met het verzinnen 
     <img src="/assets/img/foto/Makkelijke-Markt-Administratie-Markt-Ondernemers.jpg">
 </div>
 
-## week 5 t/m 11: maken & gebruiken - Push (realisatie)
+## week 5 t/m 11: maken & gebruiken - Push
 
 Het in de ideation gekozen concept werken we binnen een week uit tot een bruikbare, zij het zeer minimale, versie. Deze versie wordt meteen gebruikt in het dagelijks werk van de betrokken medewerkers. We kijken intensief mee hoe ze het gebruiken en verzamelen hun gebruikerswensen. Op basis daarvan maken we in de tweede week een verbeterde versie en zo maken we, week in, week uit, de oplossing telkens beter geschikt voor de mensen die er mee gaan werken.
 
