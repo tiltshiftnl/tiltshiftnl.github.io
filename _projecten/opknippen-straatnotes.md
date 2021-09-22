@@ -45,8 +45,8 @@ Veiliger en toekomstgericht. De privacy van de betrokkenen is nu beter geborgd e
 Met de professionalisering van Straatnotes is het systeem beter toegerust voor hergebruik in andere gemeenten dan de Gemeente Amsterdam. Daar helpen we natuurlijk graag mee.
 
 > Straatnotes geeft een gedetailleerd en gericht beeld van de jeugdproblematiek, met veel nuance. Het biedt een goede, integrale informatiepositie voor alle betrokkenen.
->
-><small>Paul van Eeten, gemeente Amsterdam</small>
+
+<small class="author">Paul van Eeten, gemeente Amsterdam</small>
 
 ### Wil je meer weten over wat Straatnotes voor jouw gemeente?
-Neem contact met ons op via +31 (0)20 722 02 07.
+[Neem contact met ons op of maak gelijk een afspraak](/intake-en-advies).
