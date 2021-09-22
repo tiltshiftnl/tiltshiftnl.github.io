@@ -7,8 +7,8 @@ subject: Intake en adviesgesprek
 title: "Intake en adviesgesprek"
 subtitle: Plan direct een afspraak in
 
-description: "Vastgelopen IT-project? Nieuw project starten? Tijdens een vrijblijvend intake- en adviesgesprek bespreken we wat de situatie is en hoe we daarbij kunnen helpen."
-keywords: ""
+description: "Vastgelopen IT-project? Digitalisering die niet van de grond komt? Tijdens een vrijblijvend intake- en adviesgesprek bespreken we wat de situatie is en hoe we daarbij kunnen helpen."
+keywords: "Vastgelopen IT-project, digitalisering, interventie, intake- en advies, oude ICT, can do mentaliteit, design thinking, levende software, innovatie"
 
 image: "assets/img/foto/Starten-met-innovatie-verouderde-software-vervangen.jpg"
 caption: 
