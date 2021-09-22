@@ -31,15 +31,15 @@ De Fixxx methode is door ons al in enkele tientallen projecten toegepast. In all
 
 Download het [Fixxx-canvas als PDF bestand](/assets/pdf/Fixxx-methode-Tiltshift.pdf).
 
-## week 0: startem - Launch days
+## week 0: starten
 
 Voorafgaand aan ieder Fixxx traject organiseren we twee 'launch'-dagen waarop we met elkaar kennismaken, de doelen, de organisatie en stakeholders samen in kaart brengen, de (virtuele) teamruimte inrichten en een plan maken voor de discovery.
 
-## week 1 en 2: verkennen - Discovery
+## week 1 en 2: verkennen
 
 In de eerste twee weken doorgronden we de situatie. We brengen het proces in kaart zoals dat in de praktijk echt plaatsvindt. Dat doen we door met de uitvoerenden te spreken en hen in het dagelijks werk te observeren. In de teamruimte brengen we dagelijks alles wat we hebben gezien samen met behulp van design tools zoals empathy maps, fotomateriaal en service maps. Zo krijgt iedereen in het team goed zicht op de concrete problemen die waardevol zijn om op te lossen. Ook krijgen we er een gevoel bij of en hoe die zijn op te lossen. Aan het eind van de discovery maken we, samen met de probleemeigenaar, een keuze over met welke concrete problemen we in de ideation fase doorgaan en waarvoor we oplossingen gaan verzinnen.
 
-## week 3 en 4: bedenken - Ideation
+## week 3 en 4: bedenken
 
 Met kennis en ervaringen uit de discovery gaan we aan de slag met het verzinnen van concepten en oplossingen. Dat doen we iteratief, in een aantal rondes, en in co-creatie met de mensen waar we eerder mee hebben meegelopen. We selecteren telkens de beste ideeën om mee verder te gaan, zodat er aan het eind van de periode wel tien tot twintig concepten zijn, <em>minimum viable solutions</em>. Ook hier maken we met de probleemeigenaar een keuze welke we gaan maken in de eerste week van de realisatie.
 
@@ -47,7 +47,7 @@ Met kennis en ervaringen uit de discovery gaan we aan de slag met het verzinnen 
     <img src="/assets/img/foto/Makkelijke-Markt-Administratie-Markt-Ondernemers.jpg">
 </div>
 
-## week 5 t/m 11: maken & gebruiken - Push
+## week 5 t/m 11: maken & gebruiken
 
 Het in de ideation gekozen concept werken we binnen een week uit tot een bruikbare, zij het zeer minimale, versie. Deze versie wordt meteen gebruikt in het dagelijks werk van de betrokken medewerkers. We kijken intensief mee hoe ze het gebruiken en verzamelen hun gebruikerswensen. Op basis daarvan maken we in de tweede week een verbeterde versie en zo maken we, week in, week uit, de oplossing telkens beter geschikt voor de mensen die er mee gaan werken.
 
