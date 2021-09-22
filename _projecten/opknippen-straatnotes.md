@@ -46,7 +46,7 @@ Met de professionalisering van Straatnotes is het systeem beter toegerust voor h
 
 > Straatnotes geeft een gedetailleerd en gericht beeld van de jeugdproblematiek, met veel nuance. Het biedt een goede, integrale informatiepositie voor alle betrokkenen.
 
-<small class="author">Paul van Eeten, gemeente Amsterdam</small>
+<small class="author">Paul van Eeten, Openbare Orde en Veiligheid, Gemeente Amsterdam</small>
 
 ### Wil je meer weten over wat Straatnotes voor jouw gemeente?
 [Neem contact met ons op of maak gelijk een afspraak](/intake-en-advies).
