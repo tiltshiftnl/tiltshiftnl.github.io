@@ -10,7 +10,7 @@ subtitle: Plan direct een afspraak in
 description: "Vastgelopen IT-project? Nieuw project starten? Tijdens een vrijblijvend intake- en adviesgesprek bespreken we wat de situatie is en hoe we daarbij kunnen helpen."
 keywords: ""
 
-image: "assets/img/foto/Onderzoek-doen-bij-de-mensen-die-het-werk-doen-design-thinking-overheid.jpg"
+image: "assets/img/foto/Starten-met-innovatie-verouderde-software-vervangen.jpg"
 caption: 
 ---
 {{ page.description }}<br>
