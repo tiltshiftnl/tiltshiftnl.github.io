@@ -31,7 +31,6 @@ Toen wij halverwege 2016 werden betrokken ging het eigenlijk om de indeling. Hoe
 
 In drie maanden tijd implementeerden we, samen met de toezichthouders en marktmeesters, een simpele applicatie zodat het wél zin had om pasjes te scannen. We maakten ook een dashboard waarmee de administratie van de markt de gescande gegevens kon inzien en verwerken.
 
-
 Makkelijke Markt hebben we gemaakt met de mensen van de markt. Dagelijks liepen we mee met de marktmeesters en we programmeerden zelfs enkele dagen van achter een echte marktkraam. Om maar zoveel mogelijk feedback te krijgen, juist ook van de kooplieden. We leerden niet alleen inhoudelijk hoe een markt werkt, we ontdekten ook wat ‘fijn werkt’ in de dagelijkse praktijk. Dat hadden we van achter een bureau nooit kunnen bedenken.
 
 <div class="article-image">
@@ -48,4 +47,4 @@ De samenwerking tussen het Marktbureau en Tiltshift smaakte duidelijk naar meer 
 Daarover meer in de [case Digitaal Indelen Straatmarkten](https://www.tiltshift.nl/projecten/digitaal-indelen-straatmarkten/).
 
 ### Verder praten over digitale innovatie?
-Neem contact met ons op via +31 (0)20 722 02 07.
+[Neem contact met ons op of maak gelijk een afspraak](/intake-en-advies).
