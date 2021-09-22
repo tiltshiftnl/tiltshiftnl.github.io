@@ -21,6 +21,10 @@ Fixxx is een snel verandertraject waarbij organisatie, processen en techniek ges
 
 Veranderen doe je niet door achter een tekentafel te bedenken, maar door in een multi-disciplinair team te doen. Fixxx start met onderzoek naar het werkelijke probleem om daarna oplossingen voor de gevonden uitdagingen te bedenken. Al na een paar weken gaat het team oplossingen in het echt maken zodat deze door de medewerkers van de organisatie in het dagelijks werk gebruikt en getest worden. Implementatie en realisatie gaan dus gelijk op. Dit zorgt voor draagvlak bij de gebruikers en software die naadloos aansluit op de werkzaamheden. Los van kennisdeling en een positieve sfeer bij de medewerkers ten aanzien van de verandering.
 
+<div class="article-image">
+    <img src="/assets/img/foto/Fixxx-methode-Snelle-innovatie-Design-Thinking.jpg">
+</div>
+
 De Fixxx methode is door ons al in enkele tientallen projecten toegepast. In alle gevallen was het een succesvol begin van verandering of digitale transitie. Dit leidde soms tot een product (dat niet meer weg te denken is bij de gebruikers), soms tot een programma voor digitale transitie waar iedereen weer vertrouwen in heeft. Het is altijd een positief startpunt dat naar meer smaakt.
 
 <div class="plane">
