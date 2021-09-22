@@ -21,7 +21,7 @@ caption: ''
 
 Vechtclub XL<br>
 Europalaan 2B<br>
-3526 KS Utrecht
+3526 KS Utrecht<br>
 <a href="https://maps.google.com/maps?ll=52.075504,5.106973&z=15&t=m&hl=nl&gl=NL&mapclient=embed&cid=13040789619853914505" target="_blank" title="Open Google Map met Tiltshift adres">Route op de kaart</a>
 
 ### Bedrijfsgegevens
