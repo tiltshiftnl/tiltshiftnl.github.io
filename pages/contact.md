@@ -14,8 +14,8 @@ caption: ''
 
 [Maak een afspraak](/intake-en-advies).
 
-<a href="tel:+31207220207">+31 (0)20 722 02 07</a>
-[info@tiltshift.nl](mailto:info@tiltshift.nl)<br>
+<a href="tel:+31207220207">+31 (0)20 722 02 07</a><br>
+[info@tiltshift.nl](mailto:info@tiltshift.nl)
 
 ### Bezoekadres
 
