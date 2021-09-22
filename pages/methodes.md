@@ -4,12 +4,12 @@ variant: white
 permalink: /methodes/
 
 title: Methodes
-quote: Als je mensen niet over het hoofd wil zien, moet je ze betrekken in alle fases van het project.
+quote: 
 description: "Al onze projecten richten we in op basis van software design thinking methodiek. Dat wil zeggen dat we grofweg dezelfde fases doorlopen: discovery, ideation, development, implementatie, delivery. Dat doen we in human centered, en in co-creatie met de verschillende stakeholders."
-keywords: creative commons, methodes, design thinking, lean startup, service design, government digital services, agile, xp
+keywords: creative commons, methodes, design thinking, lean startup, service design, government digital services, agile, innovatie, innovation, fixxx
 
-image: /assets/img/foto/IMG_9253_scaled.jpg
-caption: 'Explore "Digitalisering Interne Dienstverlening", Gemeente&nbsp;Amsterdam'
+image: /assets/img/foto/Methodes-voor-snelle-effectieve-innovatie.jpg
+caption: ''
 ---
 {{ page.description }}
 
