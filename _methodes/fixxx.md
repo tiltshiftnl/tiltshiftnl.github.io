@@ -8,8 +8,8 @@ subtitle: Begin meteen met de implementatie zodat iedereen ook echt betrokken is
 description: "Samen met de gemeente Amsterdam ontwikkelde Tiltshift de Fixxx methode voor snelle innovatie. Deze aanpak is kort, praktisch en gebaseerd op software design thinking. Het is opgebouwd uit een aantal vaste onderdelen: launch days, discovery, ideation, push (development) en delivery."
 labels: [innovatie, software design thinking, verandermanagement]
 
-image: /assets/img/foto/IMG_1001_scaled.JPG
-caption: 'Fixxx "Makkelijke Markt", Gemeente&nbsp;Amsterdam'
+image: /assets/img/foto/Fixxx-methode-Snelle-innovatie-Design-Thinking-.jpg
+caption: ''
 
 order: 2
 back: ..
@@ -22,8 +22,10 @@ Veranderen doe je niet door achter een tekentafel te bedenken, maar door in een 
 
 De Fixxx methode is door ons al in enkele tientallen projecten toegepast. In alle gevallen was het een succesvol begin van verandering of digitale transitie. Dit leidde soms tot een product (dat niet meer weg te denken is bij de gebruikers), soms tot een programma voor digitale transitie waar iedereen weer vertrouwen in heeft. Het is altijd een positief startpunt dat naar meer smaakt.
 
-<img style="margin: 40px 0;" src="/assets/img/foto/fixxx-methode-canvas.svg">
-
+<div class="plane">
+    <div class="container-md"><img style="margin: 40px 0;" src="/assets/img/foto/fixxx-methode-canvas.svg">
+    </div>
+</div>
 Download hier het [Fixxx-canvas op A0](/assets/pdf/TiltShiftFixxxCanvasA0.pdf).
 
 ### week 0: launch days
@@ -53,3 +55,6 @@ Na een paar weken kunnen we de in de voorgaande weken ontstane oplossing overhev
 ### week 13: delivery
 
 In de laatste week ronden we het project af. We zorgen voor de juiste documentatie, eventuele overdracht aan een beheerafdeling en natuurlijk een grote eindpresentatie aan alle stakeholders en betrokkenen. Meestal is dan ook duidelijk of er behoefte is om de oplossing nog verder door te ontwikkelen. Dat kan aansluitend door een extra push, of later in een nieuw project of met Agile doorontwikkeling.
+
+## Meer weten over snelle innovatie met Fixxx
+[Neem contact met ons op of maak gelijk een afspraak](/intake-en-advies).
