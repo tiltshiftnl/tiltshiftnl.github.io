@@ -15,8 +15,8 @@ caption:
 
 
 > De snelheid waarmee jullie dingen oppakken, je vergeet bijna dat je bij de gemeente werkt!
->
-> <small>Medewerker gemeente Amsterdam</small>
+
+<small class="author">Medewerker gemeente Amsterdam</small>
 
 ## Doe het samen
 
