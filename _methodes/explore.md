@@ -41,6 +41,10 @@ In de tweede week bepalen we de waarde en prioriteit van alle onderwerpen die na
 ## 3 - Kies
 In de derde week kiezen we de onderwerpen die zich het best lenen voor realisatie. Het wordt duidelijker welke uitvoeringsvorm daarbij nodig is en er ontstaat een hoog-over inzicht in de benodigde investering en planning. In een afsluitende sessie maken we met de betrokkenen en management de keuzes. 
 
+<div class="article-image">
+    <img src="/assets/img/foto/Medewerkers-sessie-Design-Thinking.jpg">
+</div>
+
 We voeren een Explore uit in een doorlooptijd van drie weken. We houden korte interviews met met de medewerkers en organiseren en faciliteren de sessies rondom 'waardeer' en 'kies'. Op deze manier ontwikkelen we de startpunten voor innovatie, zowel in de mindset van de medewerkers als op papier. 
 
 ## Meer weten over concrete problemen in kaart brengen tijdens een Explore
