@@ -5,7 +5,7 @@ variant: white
 title: Fixxx
 subtitle: Begin meteen met de implementatie zodat iedereen ook echt betrokken is en kan meedenken
 
-description: "Samen met de gemeente Amsterdam ontwikkelde Tiltshift de Fixxx methode voor snelle innovatie. Deze aanpak is kort, praktisch en gebaseerd op software design thinking. Het is opgebouwd uit een aantal vaste onderdelen: launch days, discovery, ideation, push (development) en delivery."
+description: "Samen met de gemeente Amsterdam ontwikkelde Tiltshift de Fixxx methode voor snelle innovatie. Deze aanpak is kort, praktisch en gebaseerd op software design thinking. Het is opgebouwd uit een aantal vaste fases."
 labels: [innovatie, software design thinking, verandermanagement]
 
 hideBanner: true
@@ -57,7 +57,7 @@ Het in de ideation gekozen concept werken we binnen een week uit tot een bruikba
 
 Na een paar weken kunnen we de in de voorgaande weken ontstane oplossing overhevelen naar een "live" omgeving en breder introduceren bij de medewerkers. Daardoor wordt de versie een vast onderdeel van het werkproces, en zo ook een haakje om dat proces te gaan meeveranderen. Doordat we nu van een grotere groep gebruikers hun feedback krijgen kunnen we de applicatie nog meer op maat gaan maken voor de vaak verschillende typen gebruikers.
 
-## week 13: opleveren - Delivery
+## week 13: opleveren
 
 In de laatste week ronden we het project af. We zorgen voor de juiste documentatie, eventuele overdracht aan een beheerafdeling en natuurlijk een grote eindpresentatie aan alle stakeholders en betrokkenen. Meestal is dan ook duidelijk of er behoefte is om de oplossing nog verder door te ontwikkelen. Dat kan aansluitend door een extra push, of later in een nieuw project of met Agile doorontwikkeling.
 
