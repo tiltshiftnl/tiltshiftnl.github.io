@@ -1,4 +1,4 @@
-.plane{
+.plane, .plane_black{
     background: #efefef;
     padding: $gutter-md;
     margin-bottom: $gutter-md;
@@ -12,3 +12,9 @@
         line-height: $line-height-paragraph-lg;
     }
 }
+.plane_black{
+    background: $black;
+    }
+.plane_red{
+    background: $red;
+    }
