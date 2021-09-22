@@ -22,7 +22,7 @@ De uitkomst van een Explore geeft de de startpunten van waaruit concrete innovat
 
 <div class="plane">
     <div class="container-md">
-<img style="margin: 40px 0; max-width: 100%" src="/assets/img/foto/ExploreMethode-canvas.jpg">
+<img style="margin: 40px 0; max-width: 100%" src="/assets/img/foto/Explore-Methode-Tiltshift.png">
   </div>
 </div>
 
