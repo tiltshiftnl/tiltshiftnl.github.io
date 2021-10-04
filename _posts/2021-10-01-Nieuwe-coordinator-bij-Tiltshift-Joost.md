@@ -9,7 +9,7 @@ hideBanner: true
 image: "/assets/img/posts/Joost-Bout-tekent-bij-Tiltshift.jpg"
 caption: ''
 ---
-Deze week start Joost Bout als coördinator bij Tiltshift, een mix van Product Owner, UX Researcher, productstrateeg én relatiemanager. Daar zijn we dus heel blij mee, want met zijn kunde en achtergrond in communicatie en projectmanagement kunnen we meer beweging brengen bij onze klanten. Nog meer tastbare oplossingen verzinnen en realiseren voor *echte* mensen. 
+Deze week start Joost Bout als coördinator bij Tiltshift, een mix van Product Owner, UX Researcher, productstrateeg én relatiemanager. Daar zijn we dus heel blij mee, want met zijn kunde en achtergrond in communicatie en projectmanagement kunnen we meer beweging brengen bij onze klanten. En nog meer tastbare oplossingen verzinnen en realiseren voor *echte* mensen. 
 
 <div class="article-image">
     <img src="/assets/img/posts/Joost-Bout-tekent-bij-Tiltshift.jpg">
