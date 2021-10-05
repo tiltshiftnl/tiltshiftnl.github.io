@@ -41,7 +41,7 @@ Een greep uit onze opdrachtgevers:
 
 ## Nieuws
 
-[Nieuwe coördinator bij Tiltshift: Joost](/2021/10/04/2021-10-01-Nieuwe-coordinator-bij-Tiltshift-Joost.html) - oktober 2021<br>Wij zijn heel blij dat Joost Bout ons kernteam versterkt als coördinator!
+[Nieuwe coördinator bij Tiltshift: Joost](/2021/10/04/Nieuwe-coordinator-bij-Tiltshift-Joost.html) - oktober 2021<br>Wij zijn heel blij dat Joost Bout ons kernteam versterkt als coördinator!
 <br><br>
 [Vacature - Strategisch Coördinator](/2021/06/30/Vacature-Strategisch-Coordinator.html) - juni 2021<br>We zijn op zoek naar leuke mensen die met Tiltshift willen groeien. Doe je mee?
 <br><br>
