@@ -2,7 +2,7 @@
 layout: default
 variant: white
 subject: mensen
-title: Nieuwe coördinator bij Tiltshift: Joost
+title: Nieuwe coordinator bij Tiltshift: Joost
 description: "Wij zijn heel blij dat Joost Buit ons kernteam versterkt als coördinator!"
 keywords: "Coordinator, Joost Bout, kernteam, vaste krachten, tiltshift, vacature"
 hideBanner: true
