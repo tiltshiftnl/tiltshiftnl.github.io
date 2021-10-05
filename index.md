@@ -40,6 +40,9 @@ Een greep uit onze opdrachtgevers:
 **Gemeente** Amsterdam, Amersfoort, Rotterdam, **Provincie** Flevoland, Zuid-Holland, Vereniging Nederlandse Gemeenten (VNG), **Ministerie** van Algemene Zaken, en ook **woningcorporaties, ouderenzorg en universiteiten**.
 
 ## Nieuws
+
+[Nieuwe coördinator bij Tiltshift: Joost](/2021/10/04/2021-10-01-Nieuwe-coordinator-bij-Tiltshift-Joost.html) - oktober 2021<br>Wij zijn heel blij dat Joost Buit ons kernteam versterkt als coördinator!
+<br><br>
 [Vacature - Strategisch Coördinator](/2021/06/30/Vacature-Strategisch-Coordinator.html) - juni 2021<br>We zijn op zoek naar leuke mensen die met Tiltshift willen groeien. Doe je mee?
 <br><br>
 [Opinie: vijf redenen voor de overheid om te kiezen voor open source](https://www.tiltshift.nl/2021/02/08/Vijf-redenen-voor-de-overheid-om-te-kiezen-voor-open-source.html) - februari 2021<br>De overheid zegt primair open source te gaan werken. Maar in de praktijk is de vorig jaar ingezette beleidslijn ‘open tenzij’ nog flinterdun
