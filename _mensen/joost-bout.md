@@ -16,7 +16,7 @@ personImage: /assets/img/foto/Joost-Bout.jpg
 email: joost.bout@tiltshift.nl
 linkedInUrl: https://www.linkedin.com/in/joost-bout-06147742/
 telephone: <a href="tel:+31207220207">+31 (0)20 722 02 07</a>
-order: 2
+order: 1
 back: ..
 ---
 
