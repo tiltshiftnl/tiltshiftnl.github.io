@@ -3,7 +3,7 @@ layout: person
 variant: white
 
 title: "Joost Bout"
-description: Joost Bout is...
+description: Als coördinator is Joost een mix van Product Owner, UX Researcher, productstrateeg én relatiemanager in één. Hij heeft een achtergrond in communicatie en projectmanagement. En heeft een voorliefde voor dingen goed opzetten en structuur bieden.
 
 quote: 
 type: Coördinator
@@ -21,4 +21,4 @@ order: 1
 back: ..
 ---
 
-Als coördinator bij Tiltshift is Joost Bout een mix van Product Owner, UX Researcher, productstrateeg én relatiemanager in één. Hij heeft een achtergrond in communicatie en projectmanagement. En een voorliefde voor dingen goed opzetten en structuur bieden.
+{{ page.description }}
