@@ -5,7 +5,7 @@ variant: white
 title: "Joost Bout"
 description: Als coördinator is Joost een mix van Product Owner, UX Researcher, productstrateeg én relatiemanager in één. Hij heeft een achtergrond in communicatie en projectmanagement. En heeft een voorliefde voor dingen goed opzetten en structuur bieden.
 
-quote: 
+quote: Ik draag heel graag daadwerkelijk iets bij.
 type: Coordinator
 keywords: "coordinator, product owner, scrum master, ux researcher, productstrateeg, relatiemanager"
 labels: [coördinatie, organiseren, projectmanagement, structuur]
