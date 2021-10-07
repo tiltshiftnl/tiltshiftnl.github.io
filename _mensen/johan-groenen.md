@@ -16,7 +16,7 @@ email: johan.groenen@tiltshift.nl
 linkedInUrl: https://www.linkedin.com/in/jgroenen/
 telephone: T <a href="tel:+31207220207">+31 (0)20 722 02 07</a>
 
-order: 2
+order: 3
 back: ..
 ---
 {{ page.description }}
