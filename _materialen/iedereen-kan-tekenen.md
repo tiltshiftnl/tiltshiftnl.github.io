@@ -27,7 +27,7 @@ Dan moet je natuurlijk wel kúnnen tekenen. Het goede nieuws is: iedereen kan te
 Als start van een sessie of workshop kan het een fijne opwarmer zijn om met elkaar een aantal teken-oefeningen te doen. Op die manier weet je zeker dat de deelnemers het niveau van tekenen snappen en als het goed is leer je elkaar gelijk een beetje kennen.
 
 <div class="article-image">
-    <img src="/assets/img/materialen/Workshop-Crazy-Eight-Ideation-Warroom.jpg">
+    <img src="/assets/img/materialen/benodigheden-teken-workshop.jpg">
 </div>
 
 ## Benodigdheden
