@@ -19,7 +19,7 @@ Het voordeel van een tekening is dat het in één oogopslag jouw idee overbrengt
 Dan moet je natuurlijk wel kúnnen tekenen. Het goede nieuws is: iedereen kan tekenen! Je hebt namelijk geen realistisch kunstwerk nodig om iets over te brengen, een eenvoudig schetsje is vaak genoeg.
 
 <div class="article-image">
-    <img src="/assets/img/materialen/Tiltshift-Workshop-Crazy-8-A4-vouwen.jpg">
+    <img src="/assets/img/materialen/mini-workshop-iedereen-kan-tekenen.jpg">
 </div>
 
 ## Wanneer gebruiken
