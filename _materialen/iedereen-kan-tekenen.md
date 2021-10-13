@@ -38,12 +38,11 @@ Je kunt daarvoor onze template gebruiken: [https://miro.com/app/board/o9J_lqiaJm
 
 ## Stappen
 
-Leg tijdens de introductie de deelnemers uit wat het doel van de oefening is, waarom tekenen zo goed werkt en vooral dat ze niet iets fout kunnen doen. 
-
-Behandel een aantal basisvormen zoals lijnen, cirkels, rechthoeken en combinaties daarvan. Kies eventueel ook een onderwerp wat aansluit bij de opdracht waar je aan werkt. Of laat mensen iets geks tekenen zoals een fantasie dier.
-
-Presenteer na elke ronde alle tekeningen aan elkaar.
+- Leg tijdens de introductie de deelnemers uit wat het doel van de oefening is, waarom tekenen zo goed werkt en vooral dat ze niet iets fout kunnen doen. 
+- Behandel een aantal basisvormen zoals lijnen, cirkels, rechthoeken en combinaties daarvan. 
+- Kies eventueel ook een onderwerp wat aansluit bij de opdracht waar je aan werkt. Of laat mensen iets geks tekenen zoals een fantasie dier.
+- Presenteer na elke ronde alle tekeningen aan elkaar.
 
 ## Wil je meer tekenen?
 
-Onze mini cursus tekenen is gemaakt door Yvonne de Mey
+Onze mini cursus tekenen is gemaakt door Yvonne de Mey. [Meer informatie over haar workshop](https://sites.google.com/kazenda.nl/workshops/).
