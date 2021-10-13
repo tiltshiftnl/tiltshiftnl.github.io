@@ -50,6 +50,7 @@ Je kunt daarvoor onze template gebruiken: [https://miro.com/app/board/o9J_lqiaJm
 
 - Presenteer na elke ronde alle tekeningen aan elkaar.
 
+ 
 ## Wil je meer tekenen?
 
 Onze mini cursus tekenen is gemaakt door Yvonne de Mey. [Meer informatie over haar workshop](https://sites.google.com/kazenda.nl/workshops/).
