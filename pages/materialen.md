@@ -16,6 +16,6 @@ caption:
 ---
 Hieronder vind je een aantal materialen en methodes die wij zelf graag gebruiken ter ondersteuning van de verschillende Tiltshift diensten.
 
-Alle materialen zijn vrij te gebruiken onder Creative Commons licentie CC BY-SA Tiltshift B.V. (www.tiltshift.nl)."
+Alle materialen zijn vrij te gebruiken onder Creative Commons licentie CC BY-SA Tiltshift B.V."
 
 {% include collection.md collection=site.materialen %}
