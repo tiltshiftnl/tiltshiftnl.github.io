@@ -68,11 +68,8 @@
 
             &__logo{
                 margin-right: 50px;
-                margin-bottom: $gutter-sm;
+                margin-bottom: $gutter-md;
                 z-index: 99;
-                @media screen and (min-width: $breakpoint-md) {
-                    margin-bottom: $gutter-md;
-                }
                 @media screen and (min-width: $breakpoint-xl) {
                     margin-bottom: 0;
                     flex-direction: row;
