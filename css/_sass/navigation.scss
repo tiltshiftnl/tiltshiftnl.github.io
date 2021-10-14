@@ -138,11 +138,11 @@
 
         &__backdrop{
             background-color: rgba(0, 0, 0, 0.5);
-            width: 30%;
+            width: 40%;
             height: 100%;
         }
         &__panel{
-            width: 70%;
+            width: 60%;
             height: 100%;
             background-color: $black;
             display: flex;
@@ -167,7 +167,8 @@
                 margin-top: 75px;
                 a {
                     color: white;
-                    line-height: 1.9;
+                    line-height: 2.25;
+                    font-size: 1rem;
                     margin: 0;
                 }
             }
