@@ -11,8 +11,8 @@ keywords:
 labels: [trouble shooting, kwartiermaken, innovatie, public speaking]
 
 hideBanner: true
-image: "assets/img/foto/IMG_9253_scaled.jpg"
-personImage: /assets/img/foto/Maarten-Geraets.jpg
+image: /assets/img/mensen/Maarten-Geraets-Partner-Tiltshift.jpg
+personImage: /assets/img/mensen/Maarten-Geraets-Partner-Tiltshift.jpg
 email: maarten.geraets@tiltshift.nl
 linkedInUrl: https://www.linkedin.com/in/maarten-geraets/
 telephone: T <a href="tel:+31307210834">+31 (0)30 721 08 34</a>
