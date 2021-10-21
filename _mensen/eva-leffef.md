@@ -11,8 +11,8 @@ keywords:
 labels: [coördinatie, coaching, organiseren, projectmanagement, professioneel bemoeial]
 
 hideBanner: true
-image: "assets/img/foto/IMG_9253_scaled.jpg"
-personImage: /assets/img/foto/Eva-Leffef.jpg
+image: "/assets/img/mensen/Eva-Leffef-Associate-Tiltshift.jpg"
+personImage: /assets/img/mensen/Eva-Leffef-Associate-Tiltshift.jpg
 email: eva.leffef@tiltshift.nl
 linkedInUrl: https://www.linkedin.com/in/evaleffef/
 telephone: <a href="tel:+31307210863">+31 (0)30 721 08 63</a>
