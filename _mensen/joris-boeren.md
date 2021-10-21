@@ -10,8 +10,8 @@ keywords:
 labels: [programma- en product management, agile, team coaching, mediation]
 
 hideBanner: true
-image: "assets/img/foto/IMG_9253_scaled.jpg"
-personImage: /assets/img/foto/Joris-Boeren.jpg
+image: /assets/img/mensen/Joris-Boeren-Partner-Tiltshift.jpg
+personImage: /assets/img/mensen/Joris-Boeren-Partner-Tiltshift.jpg
 email: joris.boeren@tiltshift.nl
 linkedInUrl: https://www.linkedin.com/in/jorisboeren/
 telephone: T <a href="tel:+31307210868">+31 (0)30 721 08 68</a>
