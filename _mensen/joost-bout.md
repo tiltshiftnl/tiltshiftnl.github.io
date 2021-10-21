@@ -11,8 +11,8 @@ keywords: "coordinator, product owner, scrum master, ux researcher, productstrat
 labels: [coördinatie, organiseren, projectmanagement, structuur]
 
 hideBanner: true
-image: "/assets/img/foto/Joost-Bout.jpg"
-personImage: /assets/img/foto/Joost-Bout.jpg
+image: "/assets/img/mensen/Joost-Bout-Coordinator-Tiltshift.jpg"
+personImage: /assets/img/mensen/Joost-Bout-Coordinator-Tiltshift.jpg
 email: joost.bout@tiltshift.nl
 linkedInUrl: https://www.linkedin.com/in/joost-bout-06147742/
 telephone: <a href="tel:+31207220207">+31 (0)20 722 02 07</a>
