@@ -11,7 +11,7 @@ keywords: "coordinator, product owner, scrum master, ux researcher, productstrat
 labels: [coördinatie, organiseren, projectmanagement, structuur]
 
 hideBanner: true
-image: "/assets/img/mensen/Joost-Bout-Coordinator-Tiltshift.jpg"
+image: /assets/img/mensen/Joost-Bout-Coordinator-Tiltshift.jpg
 personImage: /assets/img/mensen/Joost-Bout-Coordinator-Tiltshift.jpg
 email: joost.bout@tiltshift.nl
 linkedInUrl: https://www.linkedin.com/in/joost-bout-06147742/
