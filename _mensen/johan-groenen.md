@@ -10,8 +10,8 @@ keywords:
 labels: [open samenwerking, public tech, open innovatie, lean startup, strategie, informatica]
 
 hideBanner: true
-image: /assets/img/foto/Johan-Groenen.jpg
-personImage: /assets/img/foto/Johan-Groenen.jpg
+image: /assets/img/mensen/Johan-Groenen-Partner-Tiltshift.jpg
+personImage: /assets/img/mensen/Johan-Groenen-Partner-Tiltshift.jpg
 email: johan.groenen@tiltshift.nl
 linkedInUrl: https://www.linkedin.com/in/jgroenen/
 telephone: T <a href="tel:+31207220207">+31 (0)20 722 02 07</a>
