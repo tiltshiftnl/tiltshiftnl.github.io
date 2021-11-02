@@ -27,8 +27,10 @@ We verzorgen leiderschap, inhoudelijke kennis en waar nodig uitvoering. Onze men
 > Als je mensen niet over het hoofd wil zien, moet je ze betrekken in alle fases van het project.
 
 ## Onze mensen
-Een Tiltshifter is specialist op zijn of haar vakgebied en heeft een sterke eigen mening. Die zetten we in om jouw doel te bereiken, tenminste, als we in dat doel geloven. De kern van de organisatie bestaat uit vier personen met om ons heen een groep van ongeveer twintig ‘vaste’ freelancers.
-Ontmoet de kern van Tiltshift: [Johan Groenen](/mensen/johan-groenen/), [Maarten Geraets](/mensen/maarten-geraets/), [Joris Boeren](/mensen/joris-boeren/) en [Eva Leffef](/mensen/eva-leffef/).
+Een Tiltshifter is specialist op zijn of haar vakgebied en heeft een sterke eigen mening. Die zetten we in om jouw doel te bereiken, tenminste, als we in dat doel geloven. De kern van de organisatie bestaat uit vijf personen met om ons heen een groep van ongeveer twintig ‘vaste’ freelancers.
+
+
+[Ontmoet het kernteam](/mensen/)
 
 
 {% include projects-homepage.html title="Uitgelichte projecten" intro="Om succesvol software te ontwikkelen is het belangrijk om te weten welk probleem je eigenlijk oplost en voor wie." projects=site.projects %}
