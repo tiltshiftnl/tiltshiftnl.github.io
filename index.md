@@ -40,7 +40,7 @@ We werken veel voor gemeenten, provincies, woningcorporaties, (ouderen)zorg en u
 
 Een greep uit onze opdrachtgevers: 
 
-**Gemeente** Amsterdam, Amersfoort, Rotterdam, **Provincie** Flevoland, Zuid-Holland, Vereniging Nederlandse Gemeenten (VNG), **Ministerie** van Algemene Zaken, en ook **woningcorporaties, ouderenzorg en universiteiten**.
+**Gemeente** Amsterdam, Amersfoort, Rotterdam, **Provincie** Flevoland, Zuid-Holland, Vereniging Nederlandse Gemeenten (VNG), **Ministerie** van Algemene Zaken, Ministerie van Volksgezondheid, Welzijn en Sport en ook **woningcorporaties, ouderenzorg en universiteiten**.
 
 ## Nieuws
 
