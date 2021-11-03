@@ -20,7 +20,7 @@ Bel ons op <a href="tel:+31207220207">020-722 02 07</a> als:
 
 - **Interne digitalisering vast loopt**; we brengen de problemen snel in kaart en lossen ze op, scheiden het kaf van het koren en zorgen voor nieuwe energie en beweging.
 
-We verzorgen het uitvoerend leiderschap voor digitale transformatieprogramma's en projecten, vanuit inhoudelijke expertise op het gebied van service design, software ontwikkeling en organisatieverandering. We werken samen met interne ontwikkelteams en waar nodig halen we onze ontwikkelpartners erbij voor extra capaciteit.
+We verzorgen het uitvoerend leiderschap voor digitale projecten en transformatieprogramma's, vanuit inhoudelijke expertise op het gebied van service design, software ontwikkeling en organisatieverandering. We werken samen met interne ontwikkelteams en waar nodig halen we onze ontwikkelpartners erbij voor extra capaciteit.
 
 Onze mensen werken op basis van de Fixxx aanpak: best practices uit design thinking, service design, agile development en lean startup.
 
