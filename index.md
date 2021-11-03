@@ -3,9 +3,9 @@ layout: default
 hideform: true
 variant: white
 
-title: Digitalisering weer op de rails
-subtitle: Last van projecten die vast zitten of helemaal niet van de grond komen? Klaar met oude ICT? Wij lossen het op!
-description: Organisaties lopen vast in oude ICT. Wij helpen de business hier uit te komen. We lopen mee met de uitvoerenden en ontwerpen samen met hen de benodigde vernieuwing. Zo zorgen we snel voor concreet resultaat én pragmatische innovatie.
+title: Zet digitalisering (weer) op de rails
+subtitle: Als je écht wil beginnen met digitale transformatie of interne digitalisering vast loopt
+description: Organisaties willen werk maken van digitale transformatie, maar blijven hangen in strategische plannen en experimenten. Tiltshift maakt het écht. We lopen mee met de uitvoerenden en maken samen met hen stapsgewijs de benodigde verandering in proces en techniek. Zo zorgen we snel voor concrete resultaten én maken we innovatie pragmatisch.
 keywords: kwartiermaker, digitalisering, oude ICT, digitale transformatie, probleemgedreven innovatie, software design thinking, human centered design, service design, lean startup, lean ux, agile development, xp, scrum, labs, apps, projecten, advies, consultancy, overheid, overheden, publieke sector, mens centraal, common ground, open source, creative commons, creative thinking, open collaboration, Fixxx, Push
 
 image: assets/img/foto/Tiltshift-kwartiermaker-digitalisering-digitale-transformatie-probleemgedreven-innovatie.jpg
@@ -14,24 +14,22 @@ caption:
 
 {{ page.description }}
 
-Wij helpen digitalisering te starten of weer in beweging te krijgen. Bel ons op <a href="tel:+31207220207">020-722 02 07</a> als:
+Bel ons op <a href="tel:+31207220207">020-722 02 07</a> als:
 
-- **je wil starten met digitaliseren**, wij helpen je met een concreet plan en leiden de opstart en uitvoering;
+- **Je écht wil beginnen met digitale transformatie **; samen maken we een concreet plan van aanpak, leiden de opstart (kwartiermaken) en de uitvoering.
 
-- **digitalisering niet van de grond komt**, wij brengen de problemen in kaart en lossen ze op;
+- **Interne digitalisering vast loopt**; we brengen de problemen snel in kaart en lossen ze op, scheiden het kaf van het koren en zorgen voor nieuwe energie en beweging.
 
-- **digitalisering vast loopt**, wij scheiden het kaf van het koren en zorgen voor hernieuwde motivatie en beweging;
+We verzorgen het uitvoerend leiderschap voor digitale transformatieprogramma's en projecten, vanuit inhoudelijke expertise op het gebied van service design, software ontwikkeling en organisatieverandering. We werken samen met interne ontwikkelteams en waar nodig halen we onze ontwikkelpartners erbij voor extra capaciteit.
 
-We verzorgen leiderschap, inhoudelijke kennis en waar nodig uitvoering. Onze mensen werken op basis van onze Fixxx aanpak, gebaseerd op best practices uit Design Thinking, Service Design, Agile en Lean Startup.
+Onze mensen werken op basis van de Fixxx aanpak: best practices uit design thinking, service design, agile development en lean startup.
 
 > Als je mensen niet over het hoofd wil zien, moet je ze betrekken in alle fases van het project.
 
 ## Onze mensen
 Een Tiltshifter is specialist op zijn of haar vakgebied en heeft een sterke eigen mening. Die zetten we in om jouw doel te bereiken, tenminste, als we in dat doel geloven. De kern van de organisatie bestaat uit vijf personen met om ons heen een groep van ongeveer twintig ‘vaste’ freelancers.
 
-
 [Ontmoet het kernteam](/mensen/)
-
 
 {% include projects-homepage.html title="Uitgelichte projecten" intro="Om succesvol software te ontwikkelen is het belangrijk om te weten welk probleem je eigenlijk oplost en voor wie." projects=site.projects %}
 
