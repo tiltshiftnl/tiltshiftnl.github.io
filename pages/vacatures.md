@@ -3,7 +3,7 @@ layout: default
 variant: white
 permalink: /vacatures/
 
-title: Wordt jij de volgende Tiltshifter?
+title: Word jij de volgende Tiltshifter?
 description: "Wij willen uitbreiden! En snel. We zijn op zoek naar fijne Tiltshifters die onderdeel willen worden van onze zakelijke familie en groei willen meemaken. Doe je mee? Solliciteer dan nu."
 keywords: vacature, vacatures, jobs, coordinator, strategisch coordinator, leiderschap, service designer
 
