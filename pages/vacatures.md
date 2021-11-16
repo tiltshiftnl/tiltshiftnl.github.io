@@ -4,7 +4,7 @@ variant: white
 permalink: /vacatures/
 
 title: Word jij de volgende Tiltshifter?
-description: "Wij willen uitbreiden! En snel. We zijn op zoek naar fijne Tiltshifters die onderdeel willen worden van onze zakelijke familie en groei willen meemaken. Doe je mee? Solliciteer dan nu."
+description: "Wij groeien! We zijn op zoek naar fijne Tiltshifters die onderdeel willen worden van onze zakelijke familie en die groei willen meemaken. Doe je mee? Solliciteer dan nu."
 keywords: vacature, vacatures, jobs, coordinator, strategisch coordinator, leiderschap, service designer
 
 hideBanner: true
@@ -13,9 +13,7 @@ caption:
 ---
 {{ page.description }}
 
-<p><hr /></p>
-
 ## Strategisch coördinator
-Zit leiderschap in je bloed? En ben jij iemand die niet snel om de hete brij heen draait? Dan hebben wij de ideale vacature voor jou! Zet als strategisch coordinator je inhoudelijke, strategische en procesmatige leiderschap skills in.
+Zit leiderschap in je bloed? En draai je niet om de hete brij heen? Dan hebben wij de ideale vacature voor jou! Zet als strategisch coördinator je inhoudelijke, strategische en procesmatige leiderschap skills in en solliciteer nu.
 
 [Lees de hele vacature](/2021/06/30/Vacature-Strategisch-Coordinator.html)
