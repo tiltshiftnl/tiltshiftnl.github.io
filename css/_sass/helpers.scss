@@ -14,9 +14,14 @@
     margin-top: $gutter-md;
     margin-bottom: $gutter-md;
 
+    @media screen and (min-width: $breakpoint-md) {
+        margin-top: $gutter-xl;
+        margin-bottom: $gutter-xl;
+    }
+
     @media screen and (min-width: $breakpoint-lg) {
-        margin-top: $gutter-lg;
-        margin-bottom: $gutter-lg;
+        margin-top: $gutter-xl;
+        margin-bottom: 6rem;
     }
 
 }

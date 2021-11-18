@@ -10,7 +10,7 @@
                 <h2>{{title}}</h2>
                 <p class="plane__introduction">{{intro}}</p>
             </div>
-            <div class="tilted-plane__inner__content container-md grid grid--three">
+            <div class="tilted-plane__inner__content container-md grid grid--three projects-homepage">
                 {% for project in projecten  %}
                     {% include image-link-block.html image=project.featured_image title=project.title excerpt=project.excerpt url=project.url %}
                 {% endfor %}
