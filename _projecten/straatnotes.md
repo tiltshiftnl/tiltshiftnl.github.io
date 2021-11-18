@@ -17,8 +17,8 @@ image: /assets/img/foto/Straatnotes-meekijken-met-gebruiker-software-design-thin
 caption:
 
 featured: false
-featured_order: 0
-featured_image: /assets/img/projecten-featured/Straatnotes-Straatcoaches-op-Straat-software-jeugdoverlast-terugdringen.jpg
+featured_order: 1
+featured_image: /assets/img/foto/Straatnotes-Straatcoaches-op-Straat-software-jeugdoverlast-terugdringen.jpg
 featured_image_alt_text: 'Veilig en volgends de AVG bevindingen straatcoaches noteren en delen.'
 excerpt: "De straatcoaches in Amsterdam kregen een echt hulpmiddel in hun werk en de kwaliteit van de data nam fors toe door metadatering en controle."
 
@@ -50,5 +50,6 @@ In drie maanden losten we dus de grootste problemen rondom privacy en veiligheid
 
 <small class="author">Sjoukje Alta, stadsdeelsecretaris stadsdeel Oost</small>
 
-### Wil je meer weten over wat Straatnotes voor jouw gemeente kan betekenen of sparren over de aanpak van jeugdoverlast?
-[Neem contact met ons op of maak gelijk een afspraak](/intake-en-advies).
+<h2 class="mt-4">Wil je meer weten over Straatnotes voor jouw gemeente?</h2>
+{% include cta.html %}
+

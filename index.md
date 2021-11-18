@@ -50,6 +50,3 @@ Een greep uit onze opdrachtgevers:
 [Eva Leffef wordt Associate bij Tiltshift](https://www.tiltshift.nl/2021/01/25/Eva-Leffef-Onderdeel-Van-Tiltshift.html) - januari 2021<br>Eva Leffef blijft gewoon bij Tiltshift, maar vanaf nu als onderdeel van de wat zij noemt 'haar leukste zakelijke familie'. En daar zijn we blij mee.
 <br><br>
 [Tiltshift verhuist naar de Vechtclub XL in Utrecht (op LinkedIn)](https://www.linkedin.com/feed/update/urn:li:activity:6746708254681890816) - december 2020<br>Groei en verhuizingen zorgen ervoor dat we verhuizen van The Hague Tech naar een centraler plaats in Utrecht.
-
-## Wil je meer weten over Straatnotes voor jouw gemeente?
-{% include cta.html %}

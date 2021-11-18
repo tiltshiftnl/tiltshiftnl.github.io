@@ -21,6 +21,13 @@
 
 }
 
+.margin-b{
+    margin-bottom: $gutter-md;
+    @media screen and (min-width: $breakpoint-lg) {
+        margin-bottom: $gutter-lg;
+    }
+}
+
 .link-centered{
     display: flex;
     justify-content: center;
