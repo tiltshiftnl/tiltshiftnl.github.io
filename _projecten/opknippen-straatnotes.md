@@ -48,5 +48,5 @@ Met de professionalisering van Straatnotes is het systeem beter toegerust voor h
 
 <small class="author">Paul van Eeten, Openbare Orde en Veiligheid, Gemeente Amsterdam</small>
 
-### Wil je meer weten over wat Straatnotes voor jouw gemeente?
-[Neem contact met ons op of maak gelijk een afspraak](/intake-en-advies).
+<h2 class="mt-4">Wil je meer weten over Straatnotes voor jouw gemeente?</h2>
+{% include cta.html %}
