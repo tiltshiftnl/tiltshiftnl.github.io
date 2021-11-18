@@ -42,7 +42,7 @@ Gezamenlijk besloten we de dossiers als uitgangspunt te nemen. Samen met de gebr
 
 Zo was het grootste knelpunt binnen een kwartaal opgelost: de dossiers zijn volledig digitaal en door de betere samenwerking is de doorlooptijd met wel 100 dagen is afgenomen. De tijd die daardoor binnen de organisatie vrij kwam kon worden besteed aan het oplossen van de klacht van de ombudsman.
 
-> Ik ben erg blij met en onder de indruk van het werk dat jullie verricht hebben!
+> "Ik ben erg blij met en onder de indruk van het werk dat jullie verricht hebben!"
 >
 > <small>Arre Zuurmond</small>
 
