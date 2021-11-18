@@ -17,7 +17,7 @@ caption:
 
 featured_order: 1
 featured: false
-featured_image: /assets/img/foto/Woonvergunning-kwetsbare-groepen-design-thinking-voor-beter-resultaat.jpg
+featured_image: /assets/img/projecten-featured/Woonvergunning-kwetsbare-groepen-design-thinking-voor-beter-resultaat.jpg
 featured_image_alt_text: 'Woonvergunning voor Kwetsbare Groepen.'
 excerpt: "Kwetsbare groepen kunnen in Amsterdam onder begeleiding een periode proef-wonen. Het complexe proces waarin hulpverleners en gemeente nauw samenwerken verliep niet soepel."
 
