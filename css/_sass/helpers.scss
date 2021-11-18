@@ -9,3 +9,14 @@
 .mt-2{
     margin-top: $gutter-md;
 }
+
+.margin-y{
+    margin-top: $gutter-md;
+    margin-bottom: $gutter-md;
+
+    @media screen and (min-width: $breakpoint-lg) {
+        margin-top: $gutter-lg;
+        margin-bottom: $gutter-lg;
+    }
+
+}

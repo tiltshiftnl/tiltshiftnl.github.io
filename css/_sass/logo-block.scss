@@ -2,9 +2,15 @@
     display: flex;
     justify-content: center;
     align-items: center;
-    margin-bottom: $gutter-sm;
+    margin-bottom: $gutter-md;
     img{
-        max-width: 129px;
+        max-width: 100px;
         max-height: 55px;
+        @media screen and (min-width: $breakpoint-lg) {
+            max-width: 129px;
+        }
+    }
+    @media screen and (min-width: $breakpoint-lg) {
+        margin-bottom: $gutter-md;
     }
 }

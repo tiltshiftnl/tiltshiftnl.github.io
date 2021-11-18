@@ -3,12 +3,10 @@
 
 {% assign projecten = site.projecten | sort: "order" %}
 
-<div class="container-md">
+<div class="container-md grid grid--three">
     <!-- <h2>{{title}}</h2> -->
     <!-- <p class="plane__introduction">{{intro}}</p> -->
-    <div>
     {% for project in projecten  %}
         {% include image-link-block.html image=project.featured_image title=project.title excerpt=project.excerpt url=project.url %}
     {% endfor %}
-    </div>
 </div>

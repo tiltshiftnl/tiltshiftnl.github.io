@@ -1,8 +1,11 @@
 .tilted-plane{
-    transform: rotate(-6deg);
     background-color: $grey;
-    padding: 6rem 2rem 2rem;
-    &__inner{
-        transform: rotate(6deg);
+    padding: 3rem 1rem 1rem;
+    @media screen and (min-width: $breakpoint-md) {
+        padding: 6rem 2rem 2rem;
+        transform: rotate(-6deg);
+        &__inner{
+            transform: rotate(6deg);
+        }
     }
 }
