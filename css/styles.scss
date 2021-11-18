@@ -21,6 +21,7 @@
 @import "logo-block";
 @import "slope";
 @import "main";
+@import "people";
 @import "logos";
 @import "links-section";
 @import "image-caption";
@@ -65,14 +66,13 @@ nav a {
     border-radius: 0.2em;
 }
 
-/*.pasfoto {
-    -webkit-box-shadow: 0px 0px 10px 0px rgba(0,0,0,0.7);
-    -moz-box-shadow: 0px 0px 10px 0px rgba(0,0,0,0.7);
-    box-shadow: 0px 0px 10px 0px rgba(0,0,0,0.7);
-    transform: rotate(-1deg);
-    height: 320px;
-    float: right; border: 20px solid white; margin: 20px;
-}*/
+hr {
+    @include container-sm();
+    border:0;
+    border-top: 1px solid $red;
+    margin: $gutter-md auto;
+    height:1px;
+}
 
 .page-menu a {
     font-family: HelveticaNeueLTPro-Bd, sans-serif;

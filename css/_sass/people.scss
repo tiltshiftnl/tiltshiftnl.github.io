@@ -1,0 +1,6 @@
+.people{
+    margin: $gutter-sm auto $gutter-md;
+    @media screen and (min-width: $breakpoint-lg) {
+        margin: $gutter-lg auto $gutter-lg;
+    }
+}
