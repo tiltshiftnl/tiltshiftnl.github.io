@@ -1,0 +1,17 @@
+.even-blocks-grid{
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    @media screen and (min-width: $breakpoint-md) {
+        grid-template-columns: repeat(4, 1fr);
+    }
+}
+
+.three-blocks-grid{
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    grid-gap: $gutter-md;
+    @media screen and (min-width: $breakpoint-md) {
+        grid-gap: $gutter-lg;
+        grid-template-columns: repeat(3, 1fr);
+    }
+}

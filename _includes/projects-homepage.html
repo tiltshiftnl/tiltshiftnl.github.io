@@ -3,15 +3,18 @@
 
 {% assign projecten = site.projecten | where: "featured", "true" | sort: "featured_order" %}
 
-
-<div class="plane">
-    <div class="container-md">
-        <h2>{{title}}</h2>
-        <p class="plane__introduction">{{intro}}</p>
-        <div>
-        {% for project in projecten  %}
-            {% include image-link-block.html image=project.featured_image title=project.title excerpt=project.excerpt url=project.url %}
-        {% endfor %}
+<div class="container-padding-md mt-4 mb-4">
+    <div class="tilted-plane">
+        <div class="tilted-plane__inner">
+            <div class="tilted-plane__inner__intro container-sm">
+                <h2>{{title}}</h2>
+                <p class="plane__introduction">{{intro}}</p>
+            </div>
+            <div class="tilted-plane__inner__content container-md grid grid--three">
+                {% for project in projecten  %}
+                    {% include image-link-block.html image=project.featured_image title=project.title excerpt=project.excerpt url=project.url %}
+                {% endfor %}
+            </div>
         </div>
     </div>
 </div>

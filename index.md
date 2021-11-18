@@ -29,14 +29,15 @@ Een Tiltshifter is specialist op zijn of haar vakgebied en heeft een sterke eige
 
 [Ontmoet het kernteam](/mensen/)
 
-{% include projects-homepage.html title="Uitgelichte projecten" intro="Om succesvol software te ontwikkelen is het belangrijk om te weten welk probleem je eigenlijk oplost en voor wie." projects=site.projects %}
+{% include projects-homepage.html title="Uitgelichte projecten" intro="Om succesvol software te ontwikkelen is het belangrijk om goed te bedenken welk probleem je eigenlijk aan het oplossen bent en voor wie." projects=site.projects %}
 
 ## Relaties
-We werken veel voor gemeenten, provincies, woningcorporaties, (ouderen)zorg en universiteiten. Maar we staan net zo goed klaar voor andere organisaties. 
+We werken veel voor gemeenten, provincies, woningcorporaties, (ouderen)zorg en universiteiten. Maar we staan net zo goed klaar voor andere organisaties.
 
-Een greep uit onze opdrachtgevers: 
+Een greep uit onze opdrachtgevers:
+**Gemeente** Amsterdam, Amersfoort, Rotterdam, **Provincie** Flevoland, Zuid-Holland, Vereniging Nederlandse Gemeenten (VNG), **Ministerie** van Algemene Zaken, en ook **woningcorporaties, ouderenzorg en universiteiten**.
 
-**Gemeente** Amersfoort, Amsterdam, Rotterdam, **Provincie** Flevoland, Zuid-Holland, Vereniging Nederlandse Gemeenten (VNG), **Ministerie** van Algemene Zaken, Ministerie van Volksgezondheid, Welzijn en Sport en ook **woningcorporaties, ouderenzorg en universiteiten**.
+{% include logos.html %}
 
 ## Nieuws
 

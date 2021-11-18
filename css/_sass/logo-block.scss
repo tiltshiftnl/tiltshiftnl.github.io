@@ -1,0 +1,10 @@
+.logo-block{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: $gutter-sm;
+    img{
+        max-width: 129px;
+        max-height: 55px;
+    }
+}

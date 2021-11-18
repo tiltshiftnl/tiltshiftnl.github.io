@@ -16,7 +16,7 @@ caption: ''
 
 order: 100
 
-featured: true
+featured: false
 featured_order: 1
 featured_image: /assets/img/foto/Wonen-Innovatie-Interventie-Software-Ontwikkeling-werkvloer.jpg
 featured_image_alt_text: 'Alt_text'
@@ -33,7 +33,7 @@ Bij de afdeling Wonen van de Gemeente Amsterdam kwam het ICT innovatie en vernie
 
 We begonnen met een onderzoek waarin we in twee weken het bestaande programma hebben doorgelicht. Dat bleek erg breed en miste een centrale focus. Het was blijven hangen in overlegstructuren en een onhandige mix van *Design Thinking* en traditioneel projectmanagement. Je kent het wel: maanden van achter een bureau iets voorbereiden en dan denken dat na een big bang de wereld veranderd is.
 
-Met het mandaat om dit op te lossen vervingen we vrijwel het hele externe team. Ook betrokken we de medewerkers uit de praktijk door met hen het grootste knelpunt te bepalen. Om dat vervolgens in drie maanden op te lossen. 
+Met het mandaat om dit op te lossen vervingen we vrijwel het hele externe team. Ook betrokken we de medewerkers uit de praktijk door met hen het grootste knelpunt te bepalen. Om dat vervolgens in drie maanden op te lossen.
 
 <div class="article-image">
     <img src="/assets/img/foto/Wonen-Innovatie-met-Design-Sessies-Afdeling-betrekken.jpg">

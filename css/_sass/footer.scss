@@ -58,7 +58,7 @@
             display: flex;
             flex-direction: column;
             z-index: 99;
-            color: $off-white;
+            color: $white;
             margin-top: 2rem;
 
             @media screen and (min-width: $breakpoint-xl) {
@@ -179,7 +179,7 @@
             a {
                 margin-right: $gutter-md;
                 margin-bottom: .5rem;
-                color: $off-white;
+                color: $white;
                 z-index: 999;
 
             }
