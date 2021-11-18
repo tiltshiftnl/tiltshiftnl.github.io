@@ -1,11 +1,11 @@
 
 {% assign people = site.mensen | sort: "order"  %}
 
-<div class="container-md">
+<div class="container-md mt-1">
     {% if include.excludeCurrent %}
     <h3>En de rest...</h3>
     {% endif %}
-    <div class="grid {% if include.excludeCurrent %}grid--three{% endif %}">
+    <div class="grid grid--three {% if include.excludeCurrent %}grid--three{% endif %}">
     {% for person in people  %}
         {% if person.title == page.title && include.excludeCurrent %}
         {% else %}

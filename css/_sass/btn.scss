@@ -1,9 +1,13 @@
 .btn{
     background-color: $primair-blauw;
     color: $white;
-    padding: $gutter-xs $gutter-lg;
+    padding: $gutter-xs $gutter-sm;
     font-size: $font-size-sm;
     font-weight: normal;
     border-radius: 4px;
     text-decoration: none;
+
+    @media screen and (min-width: $breakpoint-lg) {
+        padding: $gutter-xs $gutter-lg;
+    }
 }
