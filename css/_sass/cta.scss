@@ -1,0 +1,34 @@
+.cta{
+    margin-bottom: 2rem;
+    padding-bottom: $gutter-md;
+    border-bottom: 1px solid $red;
+    &__title{
+        color: $primair-blauw;
+        margin-bottom: $gutter-sm;
+    }
+    &__body{
+        display: flex;
+        flex-direction: row;
+        justify-content: flex-start;
+        align-items: stretch;
+        &__image{
+            display: flex;
+        }
+        &__right{
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            justify-content: space-between;
+            margin-left: $gutter-sm;
+            p{
+                margin: 0;
+            }
+            a{
+                text-align: center;
+            }
+            &__text{
+                margin-bottom: 1rem;
+            }
+        }
+    }
+}

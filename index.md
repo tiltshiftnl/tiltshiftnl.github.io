@@ -3,7 +3,7 @@ layout: default
 hideform: true
 variant: white
 
-title: Zet digitalisering op de rails
+title: Digitalisering weer  op de rails
 subtitle: Als je écht wil beginnen met digitale transformatie of interne digitalisering vast loopt
 description: Organisaties willen werk maken van digitale transformatie, maar blijven hangen in strategische plannen en experimenten. Tiltshift maakt het écht. We lopen mee met de uitvoerenden en maken samen met hen stapsgewijs de benodigde verandering in proces en techniek. Zo zorgen we snel voor concrete resultaten én maken we innovatie pragmatisch.
 keywords: kwartiermaker, digitalisering, oude ICT, digitale transformatie, probleemgedreven innovatie, software design thinking, human centered design, service design, lean startup, lean ux, agile development, xp, scrum, labs, apps, projecten, advies, consultancy, overheid, overheden, publieke sector, mens centraal, common ground, open source, creative commons, creative thinking, open collaboration, Fixxx, Push
@@ -27,7 +27,7 @@ We verzorgen het uitvoerend leiderschap voor digitale projecten en transformatie
 ## Onze mensen
 Een Tiltshifter is specialist op zijn of haar vakgebied en heeft een sterke eigen mening. Die zetten we in om jouw doel te bereiken, tenminste, als we in dat doel geloven. De kern van de organisatie bestaat uit vijf personen met om ons heen een groep van ongeveer twintig ‘vaste’ freelancers.
 
-[Ontmoet het kernteam](/mensen/)
+<a href="/mensen/" class="link-centered">Ontmoet het kernteam</a>
 
 {% include projects-homepage.html title="Uitgelichte projecten" intro="Om succesvol software te ontwikkelen is het belangrijk om goed te bedenken welk probleem je eigenlijk aan het oplossen bent en voor wie." projects=site.projects %}
 
@@ -50,3 +50,6 @@ Een greep uit onze opdrachtgevers:
 [Eva Leffef wordt Associate bij Tiltshift](https://www.tiltshift.nl/2021/01/25/Eva-Leffef-Onderdeel-Van-Tiltshift.html) - januari 2021<br>Eva Leffef blijft gewoon bij Tiltshift, maar vanaf nu als onderdeel van de wat zij noemt 'haar leukste zakelijke familie'. En daar zijn we blij mee.
 <br><br>
 [Tiltshift verhuist naar de Vechtclub XL in Utrecht (op LinkedIn)](https://www.linkedin.com/feed/update/urn:li:activity:6746708254681890816) - december 2020<br>Groei en verhuizingen zorgen ervoor dat we verhuizen van The Hague Tech naar een centraler plaats in Utrecht.
+
+## Wil je meer weten over Straatnotes voor jouw gemeente?
+{% include cta.html %}

@@ -1,8 +1,8 @@
 .tilted-plane{
     background-color: $grey;
-    padding: 3rem 1rem 1rem;
+    padding: 3rem 1rem 3rem;
     @media screen and (min-width: $breakpoint-md) {
-        padding: 6rem 2rem 2rem;
+        padding: 6rem 2rem 3rem;
         transform: rotate(-6deg);
         &__inner{
             transform: rotate(6deg);
