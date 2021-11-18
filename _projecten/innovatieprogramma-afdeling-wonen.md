@@ -41,7 +41,7 @@ Met het mandaat om dit op te lossen vervingen we vrijwel het hele externe team. 
 
 Al snel werden de wekelijkse demo’s van het project bezocht door tientallen medewerkers van de uitvoering. Hun input was van onschatbare waarde en doordat we die meteen verwerkten kwam er een wisselwerking van vertrouwen en voortgang. Zo losten we niet alleen de problemen op, ook de afdeling veranderde van ‘we zien wel’ naar ‘wanneer mogen wij’.
 
-> Waar ik 2,5 jaar om gevraagd heb, hebben jullie binnen twee maanden geregeld.
+> "Waar ik 2,5 jaar om gevraagd heb, hebben jullie binnen twee maanden geregeld."
 >
 > <small>Marnix Bolkestein, Hoofd Handhaving at Dienst Wonen Zorg en Samenleven, Gemeente Amsterdam</small>
 
