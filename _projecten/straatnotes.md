@@ -36,9 +36,9 @@ Wij liepen met de coaches mee. Zo zagen met eigen ogen hoe ze in gesprek gingen 
 
 In de applicatie kan op straat al meta data vastgelegd worden. Tenslotte veranderden we de processen zodanig dat informatie pas wordt gedeeld nadat er een controleslag heeft plaatsgevonden, volgens de AVG. Doordat dit makkelijk is, in één eenvoudige omgeving, doet iedereen ook gewoon wat de bedoeling is.
 
-> Behalve dat de oplossing heel goed is heb ik ook met andere ogen naar ons proces kunnen kijken. Daar is het echt beter van geworden.
-
-<small class="author">Janneke Uitterhoeve, teamlead Jeugd en Veiligheid</small>
+> "Behalve dat de oplossing heel goed is heb ik ook met andere ogen naar ons proces kunnen kijken. Daar is het echt beter van geworden."
+>
+> <small>Janneke Uitterhoeve, teamlead Jeugd en Veiligheid</small>
 
 <div class="article-image">
     <img src="/assets/img/foto/Straatnotes-Veilig-Notities-maken-op-straat-jeugdoverlast.jpg">
