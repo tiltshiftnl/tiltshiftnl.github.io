@@ -17,8 +17,8 @@ image: /assets/img/foto/Straatnotes-meekijken-met-gebruiker-software-design-thin
 caption:
 
 featured: false
-featured_order: 1
-featured_image: /assets/img/foto/Straatnotes-Straatcoaches-op-Straat-software-jeugdoverlast-terugdringen.jpg
+featured_order: 0
+featured_image: /assets/img/projecten-featured/Straatnotes-Straatcoaches-op-Straat-software-jeugdoverlast-terugdringen.jpg
 featured_image_alt_text: 'Veilig en volgends de AVG bevindingen straatcoaches noteren en delen.'
 excerpt: "De straatcoaches in Amsterdam kregen een echt hulpmiddel in hun werk en de kwaliteit van de data nam fors toe door metadatering en controle."
 

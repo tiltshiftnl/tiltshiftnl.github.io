@@ -19,7 +19,7 @@ caption:
 
 featured: true
 featured_order: 2
-featured_image: /assets/img/foto/Schulddossier-Veilig-berichtenverkeer-in-schuld-keten.jpg
+featured_image: /assets/img/projecten-featured/Schulddossier-Veilig-berichtenverkeer-in-schuld-keten.jpg
 excerpt: "Eén centraal digitaal dossier om schuldsanering van burgers veilig en sneller te laten verlopen. Waardoor de doorlooptijd met wel 100 dagen is afgenomen."
 
 back: ..

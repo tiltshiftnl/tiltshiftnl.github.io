@@ -18,7 +18,7 @@ caption:
 
 featured: true
 featured_order: 3
-featured_image: /assets/img/foto/Digitaal-Indelen-Handmatige-Marktindeling-gedigitaliseerd.jpg
+featured_image: /assets/img/projecten-featured/Digitaal-Indelen-Handmatige-Marktindeling-gedigitaliseerd.jpg
 featured_image_alt_text: 'De applicatie om aan te melden voor de marktindeling van de straatmarkten in Amsterdam.'
 excerpt: "De marktverordening digitaal toegepast zodat ondernemers transparant hun plaats op de Amsterdamse markt krijgen."
 
