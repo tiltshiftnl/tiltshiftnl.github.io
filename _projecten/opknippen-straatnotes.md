@@ -44,7 +44,7 @@ Veiliger en toekomstgericht. De privacy van de betrokkenen is nu beter geborgd e
 
 Met de professionalisering van Straatnotes is het systeem beter toegerust voor hergebruik in andere gemeenten dan de Gemeente Amsterdam. Daar helpen we natuurlijk graag mee.
 
-> Straatnotes geeft een gedetailleerd en gericht beeld van de jeugdproblematiek, met veel nuance. Het biedt een goede, integrale informatiepositie voor alle betrokkenen.
+> "Straatnotes geeft een gedetailleerd en gericht beeld van de jeugdproblematiek, met veel nuance. Het biedt een goede, integrale informatiepositie voor alle betrokkenen."
 >
 > <small>Paul van Eeten, Openbare Orde en Veiligheid, Gemeente Amsterdam</small>
 
