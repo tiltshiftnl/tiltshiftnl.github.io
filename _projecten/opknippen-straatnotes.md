@@ -16,7 +16,7 @@ hideBanner: true
 image: /assets/img/foto/Straatnotes-meekijken-met-gebruiker-software-design-thinking.jpg
 caption:
 
-featured: true
+featured: false
 featured_order: 1
 featured_image: /assets/img/projecten-featured/Straatnotes-Straatcoaches-op-Straat-software-jeugdoverlast-terugdringen.jpg
 featured_image_alt_text: 'Straatnotes: een applicatiefamilie bestaande uit diverse losse en herbruikbare applicaties met in het midden een centrale database.'
