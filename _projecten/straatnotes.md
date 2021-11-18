@@ -46,9 +46,9 @@ In de applicatie kan op straat al meta data vastgelegd worden. Tenslotte verande
 
 In drie maanden losten we dus de grootste problemen rondom privacy en veiligheid van data op. De straatcoaches kregen een echt hulpmiddel in hun werk en de kwaliteit van de data nam fors toe door metadatering en controle. Juist die toegenomen kwaliteit zorgt ook voor een forse uitbreiding van de gebruikers van de data.
 
-> Scherp in intake, consciëntieus in uitvoering, verbetering van de praktijk en bovendien prettig om mee samen te werken
-
-<small class="author">Sjoukje Alta, stadsdeelsecretaris stadsdeel Oost</small>
+> "Scherp in intake, consciëntieus in uitvoering, verbetering van de praktijk en bovendien prettig om mee samen te werken."
+>
+> <small>Sjoukje Alta, stadsdeelsecretaris stadsdeel Oost</small>
 
 <h2 class="mt-4">Wil je meer weten over Straatnotes voor jouw gemeente?</h2>
 {% include cta.html %}
