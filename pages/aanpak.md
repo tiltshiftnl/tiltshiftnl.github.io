@@ -36,7 +36,7 @@ Zodra de koers van het project helder is bekijken we wat de beste inrichting is.
 
 Wij doen een voorstel voor de inrichting van de organisatie en regelen deze desgewenst in. We faciliteren de scope bepaling en zorgen voor adequaat verwachtingsmanagement.
 
-## K**orte projecten of iteraties**
+## Korte projecten of iteraties**
 
 Met een opgelijnd team, heldere doelen en een realistische scope kunnen we van start. Samen met de eindgebruikers passen we hun proces en software stapsgewijs aan. We starten meteen met de implementatie, zodat de aanpassingen direct en 'in het echt' gebruikt en getest worden. Op deze manier is er snel resultaat en krijgen de medewerkers weer vertrouwen in IT. 
 
@@ -45,3 +45,7 @@ We faciliteren het projectteam met leiderschap en vullen eventueel ontbrekende r
 > We hebben echt het gevoel dat er heel goed naar ons geluisterd is, dit zien we terug in het systeem.
 >
 > <small>Medewerker gemeente Amsterdam</small>
+
+<h2 class="mt-4">Wil je weten wat we voor jouw organisatie kunnen betekenen?</h2>
+{% include cta.html %}
+
