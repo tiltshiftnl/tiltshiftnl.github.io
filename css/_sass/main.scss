@@ -1,14 +1,15 @@
 main {
     background: #E54545;
     color: #FFFFFF;
+    padding-top: 6rem;
     margin-bottom: $gutter-md;
-
     @media screen and (min-width: $breakpoint-md) {
+        padding-top: 0;
         margin-bottom: $gutter-xl;
     }
 
     &.margin-top{
-        margin-top: 5rem;
+        margin-top: 0;
         @media screen and (min-width: $breakpoint-md) {
             margin-top: 8rem;
         }
