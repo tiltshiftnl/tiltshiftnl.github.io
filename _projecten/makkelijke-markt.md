@@ -17,7 +17,7 @@ featured: false
 featured_order: 3
 featured_image: /assets/img/projecten-featured/Makkelijke-Markt-Software-Design-Thinking.jpg
 featured_image_alt_text: 'Marktmeesters tijdens een (handmatige) indeling van een straatmarkt in Amsterdam'
-excerpt: "Door mee te lopen op de markt en zelfs vanachter een marktkraam te programmeren, maakten we Makkelijke Markt. Zo ontdekten we wat werkt in de dagelijkse praktijk. Dat hadden we van achter een bureau nooit kunnen bedenken."
+excerpt: "Door mee te lopen op de markt en zelfs van achter een marktkraam te programmeren, ontdekten we wat werkt in de praktijk. Dat hadden we van achter een bureau nooit kunnen bedenken."
 
 back: ..
 ---
