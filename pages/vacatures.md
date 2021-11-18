@@ -17,6 +17,7 @@ caption:
 Zit leiderschap in je bloed en draai je niet om de hete brij heen? Dan hebben wij de ideale vacature voor jou! Zet als strategisch coördinator je inhoudelijke, strategische en procesmatige leiderschap skills in en solliciteer nu.
 
 [Lees de hele vacature](/2021/06/30/Vacature-Strategisch-Coordinator.html)
-***
+
+<hr />
 
 Staat jouw ideale vacature hier niet bij, maar weet je wel precies te vertellen waarom je bij ons past? Dan horen we ook graag van je. Bel met [Joris](/mensen/joris-boeren/) op 030 - 721 08 68. Mag ook in de vroege avond of in het weekeinde als je dat beter uitkomt.

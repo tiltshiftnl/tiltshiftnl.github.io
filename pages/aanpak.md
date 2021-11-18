@@ -14,9 +14,9 @@ caption:
 
 
 
-> De snelheid waarmee jullie dingen oppakken, je vergeet bijna dat je bij de gemeente werkt!
-
-<small class="author">Medewerker gemeente Amsterdam</small>
+> "De snelheid waarmee jullie dingen oppakken, je vergeet bijna dat je bij de gemeente werkt!"
+>
+> <small class="author">Medewerker gemeente Amsterdam</small>
 
 ## Doe het samen
 
@@ -42,7 +42,7 @@ Met een opgelijnd team, heldere doelen en een realistische scope kunnen we van s
 
 We faciliteren het projectteam met leiderschap en vullen eventueel ontbrekende rollen aan met ervaren mensen.
 
-> We hebben echt het gevoel dat er heel goed naar ons geluisterd is, dit zien we terug in het systeem.
+> "We hebben echt het gevoel dat er heel goed naar ons geluisterd is, dit zien we terug in het systeem."
 >
 > <small>Medewerker gemeente Amsterdam</small>
 
