@@ -47,5 +47,5 @@ Al snel werden de wekelijkse demo’s van het project bezocht door tientallen me
 
 Door onze interventie kwam niet alleen de tooling beschikbaar voor de medewerkers op straat, ook de mindset op de afdeling ten aanzien van automatisering werd positief. Een paar van deze projecten verder kwam het oorspronkelijke doel van het programma weer in beeld: het vervangen van de centrale legacy software uit de jaren negentig door open source en VNG Common Ground applicaties. Maar nu kwam deze wens vanuit de vloer, vanuit de mensen die ermee werken, in plaats van dat deze bedacht is door het management.
 
-### Wil je meer weten over innovatieprogramma's?
-[Neem contact met ons op of maak gelijk een afspraak](/intake-en-advies).
+<h2 class="mt-4">Komt jouw innovatieprogramma niet van de grond?</h2>
+{% include cta.html %}
