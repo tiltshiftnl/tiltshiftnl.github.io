@@ -16,7 +16,7 @@ caption:
 ## Strategisch coördinator
 Zit leiderschap in je bloed en draai je niet om de hete brij heen? Dan hebben wij de ideale vacature voor jou! Zet als strategisch coördinator je inhoudelijke, strategische en procesmatige leiderschap skills in en solliciteer nu.
 
-<a href="/2021/06/30/Vacature-Strategisch-Coordinator.html" class="link-centered">Lees de hele vacature</a>
+<a href="/2021/06/30/Vacature-Strategisch-Coordinator.html" class="link-centered">lees de hele vacature</a>
 
 <hr />
 
