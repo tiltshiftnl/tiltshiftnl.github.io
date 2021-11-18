@@ -18,6 +18,7 @@ Je werk bij Tiltshift is een mix van Product Owner, UX Researcher, product strat
 Tiltshifters werken op WO niveau. Maar opleiding zegt niets over wat je écht kan. Natuurlijk heb je je bekwaamd, cursussen en een opleiding gedaan, welke dan ook. De reis die je aflegde en je ervaring vinden we vaak interessanter dan of je een diploma hebt gehaald. 
 
 Wij bieden een warme zakelijke familie, groei, een eerlijk salaris en na verloop van tijd de mogelijkheid om deel te nemen in het bedrijf. We werken op ons kantoor in Utrecht, op locatie bij de opdrachtgever of deels vanuit huis. 
+<hr />
 
 ## Reageren
 
