@@ -31,13 +31,15 @@ Een Tiltshifter is specialist op zijn of haar vakgebied en heeft een sterke eige
 Ontmoet de kern van Tiltshift: [Johan Groenen](/mensen/johan-groenen/), [Maarten Geraets](/mensen/maarten-geraets/), [Joris Boeren](/mensen/joris-boeren/) en [Eva Leffef](/mensen/eva-leffef/).
 
 
-{% include projects-homepage.html title="Uitgelichte projecten" intro="Om succesvol software te ontwikkelen is het belangrijk om te weten welk probleem je eigenlijk oplost en voor wie." projects=site.projects %}
+{% include projects-homepage.html title="Uitgelichte projecten" intro="Om succesvol software te ontwikkelen is het belangrijk om goed te bedenken welk probleem je eigenlijk aan het oplossen bent en voor wie." projects=site.projects %}
 
 ## Opdrachtgevers
 We werken veel voor gemeenten, provincies en zorg. Maar we staan net zo goed klaar voor andere organisaties.
 
-Een greep uit onze opdrachtgevers: 
+Een greep uit onze opdrachtgevers:
 **Gemeente** Amsterdam, Amersfoort, Rotterdam, **Provincie** Flevoland, Zuid-Holland, Vereniging Nederlandse Gemeenten (VNG), **Ministerie** van Algemene Zaken, en ook **woningcorporaties, ouderenzorg en universiteiten**.
+
+{% include logos.html %}
 
 ## Nieuws
 

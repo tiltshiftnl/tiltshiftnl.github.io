@@ -1,0 +1,8 @@
+.tilted-plane{
+    transform: rotate(-6deg);
+    background-color: $grey;
+    padding: 6rem 2rem 2rem;
+    &__inner{
+        transform: rotate(6deg);
+    }
+}

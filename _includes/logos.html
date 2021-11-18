@@ -1,0 +1,20 @@
+{% assign logos = "
+careyn.png,
+gemeente-amsterdam.png,
+gemeente-rotterdam.png,
+gemeente-arnhem.png,
+ministerie-van-volksgezondheid-welzijn-en-sport.png,
+politie.png,
+provincie-flevoland.png,
+vng.png" | split: ',' %}
+
+<div class="container-md ">
+    <div class="even-blocks-grid mb-4 mt-4">
+        {% for logo in logos %}
+            <div class="logo-block">
+                <img src="/assets/img/logos/{{ logo }}">
+            </div>
+        {% endfor %}
+    </div>
+</div>
+

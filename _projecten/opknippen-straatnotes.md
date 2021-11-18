@@ -20,7 +20,7 @@ featured: true
 featured_order: 1
 featured_image: /assets/img/foto/Straatnotes-Straatcoaches-op-Straat-software-jeugdoverlast-terugdringen.jpg
 featured_image_alt_text: 'Straatnotes: een applicatiefamilie bestaande uit diverse losse en herbruikbare applicaties met in het midden een centrale database.'
-excerpt: "In plaats van één alles omvattend systeem voor iedereen, is Straatnotes nu een applicatiefamilie geworden. Bestaande uit diverse losse en herbruikbare applicaties met in het midden een centrale database. Die laatste bevat alle informatie én de toegangsrechten conform de afgesloten convenanten en gegevensregeling."
+excerpt: "In plaats van één alles omvattend systeem voor iedereen, is Straatnotes nu een applicatiefamilie geworden."
 
 back: ..
 ---
@@ -34,7 +34,7 @@ We maakten eerst pas op de plaats door doelgroep, gebruik en opzet in kaart te b
     <img src="/assets/img/foto/Straatnotes-opknippen-losse-applicaties.jpg">
 </div>
 
-In technische zin hebben we de architectuur van het systeem naar een volgend niveau getild, met de principes van Common Ground als basis. In plaats van één alles omvattend systeem voor iedereen, is Straatnotes nu een applicatiefamilie geworden. Bestaande uit diverse losse en herbruikbare applicaties met in het midden een centrale database. Die laatste bevat alle informatie én de toegangsrechten conform de afgesloten convenanten en gegevensregeling. 
+In technische zin hebben we de architectuur van het systeem naar een volgend niveau getild, met de principes van Common Ground als basis. In plaats van één alles omvattend systeem voor iedereen, is Straatnotes nu een applicatiefamilie geworden. Bestaande uit diverse losse en herbruikbare applicaties met in het midden een centrale database. Die laatste bevat alle informatie én de toegangsrechten conform de afgesloten convenanten en gegevensregeling.
 
 Veiliger en toekomstgericht. De privacy van de betrokkenen is nu beter geborgd en het systeem voldoet aan de vereisten van veiligheid. Dankzij de koppeling van toegangsrechten aan het verwerkingsdoel is het nu mogelijk de informatie conform de privacy vereisten te verspreiden onder de aangesloten partijen.
 
