@@ -35,7 +35,6 @@ Een Tiltshifter is specialist op zijn of haar vakgebied en heeft een sterke eige
 We werken veel voor gemeenten, provincies, woningcorporaties, (ouderen)zorg en universiteiten. Maar we staan net zo goed klaar voor andere organisaties.
 
 Een greep uit onze opdrachtgevers:
-**Gemeente** Amsterdam, Amersfoort, Rotterdam, **Provincie** Flevoland, Zuid-Holland, Vereniging Nederlandse Gemeenten (VNG), **Ministerie** van Algemene Zaken, en ook **woningcorporaties, ouderenzorg en universiteiten**.
 
 {% include logos.html %}
 
