@@ -12,7 +12,7 @@ hideBanner: true
 image: "assets/img/foto/Probleem-gedreven-innovatie-Digitaliserings-Projecten.jpg"
 caption:
 ---
-Achter elk project schuilt een aanleiding, een serieus probleem. Omdat de focus al gauw op een oplossing ligt, wordt dat probleem weer vaak vergeten. Daarom gaan wij in altijd eerst terug naar de aanleiding. 
+Achter elk project schuilt een aanleiding, een serieus probleem. Omdat de focus al snel op een oplossing ligt, wordt dat probleem vaak weer vergeten. Daarom gaan wij altijd eerst terug naar de aanleiding. 
 
 Het zorgt voor een frisse en realistische blik en succesvolle projecten. Waarvan een paar voorbeelden op deze pagina.
 
