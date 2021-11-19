@@ -20,4 +20,4 @@ Zit leiderschap in je bloed en draai je niet om de hete brij heen? Dan hebben wi
 
 <hr />
 
-Staat jouw ideale vacature hier niet bij, maar weet je wel precies te vertellen waarom je bij ons past? Dan horen we ook graag van je. Bel met [Joris](/mensen/joris-boeren/) op 030 - 721 08 68. Mag ook in de vroege avond of in het weekeinde als je dat beter uitkomt.
+Staat jouw ideale vacature hier niet bij, maar weet je wel precies te vertellen waarom je bij ons past? Dan horen we ook graag van je. Bel met [Joris](/mensen/joris-boeren/) op 030 - 721 08 68. Mag ook in de vroege avond of in het weekeinde.
