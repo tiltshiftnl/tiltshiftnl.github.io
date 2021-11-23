@@ -13,7 +13,7 @@ image: /assets/img/foto/Leiderschap-bij-starten-of-vastgelopen-digitalisering.jp
 caption: ''
 ---
 
-[Maak een afspraak](/intake-en-advies).
+Maak een afspraak voor een [intake en adviesgesprek](/intake-en-advies).
 
 <a href="tel:+31207220207">+31 (0)20 722 02 07</a><br>
 [info@tiltshift.nl](mailto:info@tiltshift.nl)
