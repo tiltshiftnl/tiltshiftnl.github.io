@@ -7,12 +7,11 @@ title: Onze aanpak
 description: "Tiltshift helpt bedrijven die vast lopen bij digitale transformatie. Vanuit het perspectief van de business zorgen we voor daadkracht en doelgerichtheid. Dat doen we niet zomaar, daar zit ervaring en een mening achter."
 keywords: methodes, design thinking, lean startup, service design, government digital services, agile, xp, creative commons
 
+hideBanner: true
 image: /assets/img/foto/Tiltshift-Aanpak-Innovatie-Interventie-Vastgelopen-digitaliserings-project.jpg
 caption: 
 ---
 {{ page.description }}
-
-
 
 > "De snelheid waarmee jullie dingen oppakken, je vergeet bijna dat je bij de gemeente werkt!"
 >
