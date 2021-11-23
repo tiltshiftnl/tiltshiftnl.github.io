@@ -11,6 +11,7 @@ subtitle: Ontwerp innovatie
 description: "Materialen ter ondersteuning van de verschillende Tiltshift diensten zijn vrij te gebruiken onder Creative Commons licentie CC BY-SA Tiltshift B.V."
 keywords: ""
 
+hideBanner: true
 image: "assets/img/foto/Matrialen-Software-Design-Thinking-Sessie-Workshop.jpg"
 caption: 
 ---
