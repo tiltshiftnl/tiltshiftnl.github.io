@@ -24,12 +24,12 @@ We verzorgen het uitvoerend leiderschap voor digitale projecten en transformatie
 
 > Als je mensen niet over het hoofd wil zien, moet je ze betrekken in alle fases van het project.
 
+{% include projects-homepage.html title="Uitgelichte projecten" intro="" projects=site.projects %}
+
 ## Onze mensen
 Een Tiltshifter is specialist op zijn of haar vakgebied en heeft een sterke eigen mening. Die zetten we in om jouw doel te bereiken, tenminste, als we in dat doel geloven. De kern van de organisatie bestaat uit vijf personen met daaromheen een groep van ongeveer twintig ‘vaste’ freelancers.
 
 <a href="/mensen/" class="link-centered">ontmoet het kernteam</a>
-
-{% include projects-homepage.html title="Uitgelichte projecten" intro="" projects=site.projects %}
 
 ## Relaties
 We werken veel voor gemeenten, provincies, woningcorporaties, (ouderen)zorg en universiteiten. Maar we staan net zo goed klaar voor andere organisaties.
