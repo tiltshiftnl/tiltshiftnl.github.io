@@ -3,7 +3,7 @@ $image-link-block-gutter: $gutter-xs;
 .image-link-block{
     display: flex;
     flex-direction: column;
-    margin-bottom: $gutter-md;
+    // margin-bottom: $gutter-sm;
     text-decoration: none;
     background-color: $white;
     $self: &;
