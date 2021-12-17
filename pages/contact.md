@@ -8,11 +8,12 @@ quote:
 description: "Neem gerust contact op door een e-mail te sturen naar info@tiltshift.nl of te bellen met +31 (0)20 722 02 07."
 keywords: 'innovatie, interventie, contact opnemen, contactgegevens, utrecht, tiltshift, good public tech'
 
+hideBanner: true
 image: /assets/img/foto/Leiderschap-bij-starten-of-vastgelopen-digitalisering.jpg
 caption: ''
 ---
 
-[Maak een afspraak](/intake-en-advies).
+Maak een afspraak voor een [intake en adviesgesprek](/intake-en-advies).
 
 <a href="tel:+31207220207">+31 (0)20 722 02 07</a><br>
 [info@tiltshift.nl](mailto:info@tiltshift.nl)
