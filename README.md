@@ -19,4 +19,4 @@ Op de volgende plekken kan je informatie vinden over hoe Jekkyl te installeren o
 
 ## Jekyll development
 Om Jekyll met livereload te draaien run je het volgende command:
-```bundle exec jekyll serve --livereload```
+```bundle exec jekyll serve --livereloadbundle exec jekyll serve --livereload```
