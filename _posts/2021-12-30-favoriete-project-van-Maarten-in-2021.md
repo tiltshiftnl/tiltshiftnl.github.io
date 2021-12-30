@@ -15,7 +15,7 @@ Het project in Rotterdam startte met een vraag: “Ik heb techniek om meldingen 
 
 <div class="article-image">
     <img src="/assets/img/posts/Programma-opzetten-Meldingen-Rotterdam-vervanging-msb.jpg">
-   Foto: Gemeente Rotterdam
+    <div class="caption">Foto: Gemeente Rotterdam</div>
 </div>
 
 In plaats van onderzoek te doen naar de tools en techniek en allerlei IT’ers te ondervragen, hebben we eerst naar de context gekeken. Wat is nu de exacte situatie? Al snel kwam naar voren dat het eigenlijk helemaal niet om het systeem ging, maar om de manier hoe de medewerkers willen werken. Dat de transformatie belangrijker is dan de techniek, met al haar belemmeringen.
