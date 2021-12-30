@@ -3,7 +3,7 @@ layout: default
 variant: white
 subject: mensen
 title: Favoriete project van Maarten in 2021
-description: ""
+description: "De Explore die we deden voor de Gemeente Rotterdam is een fantastisch voorbeeld van waar we echt de vraag achter de vraag hebben gevonden. Zo kwam al gauw naar voren dat er geen nieuwe technische functionaliteit nodig is, maar dat er behoefte is aan een transformatie van het werk. Bovendien zijn werkvloer én directie gemotiveerd geraakt om er aan te werken."
 keywords: ""
 hideBanner: true
 image: "/assets/img/posts/Joost-Bout-tekent-bij-Tiltshift.jpg"
@@ -11,9 +11,9 @@ caption: ''
 ---
 Als je Maarten Geraets vraagt welk Tiltshift project er voor hem echt uitsprong afgelopen jaar roept hij meteen:
 
-_“Het onderzoek in Rotterdam! Dat is een fantastisch voorbeeld van waar we echt de vraag achter de vraag hebben gevonden. Zo kwam al gauw naar voren dat er geen nieuwe technische functionaliteit nodig is, maar dat er behoefte is aan een transformatie van het werk. Bovendien zijn werkvloer én directie gemotiveerd geraakt om er aan te werken.”_
+_“De Explore die we deden voor de Gemeente Rotterdam! Dat is een fantastisch voorbeeld van waar we echt de vraag achter de vraag hebben gevonden. Zo kwam al gauw naar voren dat er geen nieuwe technische functionaliteit nodig is, maar dat er behoefte is aan een transformatie van het werk. Bovendien zijn werkvloer én directie gemotiveerd geraakt om er aan te werken.”_
 
-Het project in Rotterdam startte met een vraag:
+Het project startte met een vraag:
 
 > “Ik heb techniek om meldingen te verwerken en wil die techniek veranderen of updaten. Kunnen jullie van Tiltshift ons adviseren wat de beste keuze is?”
 
