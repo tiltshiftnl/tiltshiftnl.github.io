@@ -28,6 +28,6 @@ De vele gesprekken waren vanwege de pandemie bijna volledig via videobellen. Dat
 
 Waar we echt onderscheidend in zijn is hoe wij alle stakeholders, van vloer tot plafond, meenemen in zo’n onderzoek. Iedereen zit dus in dezelfde film en dat is voor allen vaak erg verhelderend. Ook hier hebben we de organisatie meegenomen in wat er echt op de werkvloer speelt en dit gebundeld in een strategisch overleg.
 
-Het antwoord op de ogenschijnlijk simpele vraag waarmee het begon is dat er het beste eerst een programma opgezet kan worden. Daar kan vrijwel meteen mee begonnen worden omdat er vanuit het onderzoek heldere kaders naar voren zijn gekomen. Het is heel anders dan de opdrachtgever had verwacht, maar wel het beste antwoord dat hij kon krijgen. Tastbaar resultaat en heel veel nieuwe energie in het team. Precies wat Maarten het leukste vind van zijn werk. 
+Het antwoord op de ogenschijnlijk simpele vraag waarmee het begon is dat er het beste eerst een programma opgezet kan worden. Daar kan vrijwel meteen mee begonnen worden omdat er vanuit het onderzoek heldere kaders naar voren zijn gekomen. Het is heel anders dan de opdrachtgever had verwacht, maar wel het beste antwoord dat hij kon krijgen. Tastbaar resultaat en heel veel nieuwe energie in het team. Precies wat Maarten het leukste vindt van zijn werk. 
 
 [« overzicht van posts](/posts/)
