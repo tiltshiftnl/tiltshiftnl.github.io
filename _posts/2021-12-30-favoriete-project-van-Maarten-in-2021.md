@@ -6,7 +6,7 @@ title: Favoriete project van Maarten in 2021
 description: "De Explore die we deden voor de gemeente Rotterdam is een fantastisch voorbeeld van waar we echt de vraag achter de vraag hebben gevonden."
 keywords: ""
 hideBanner: true
-image: "/assets/img/posts/Joost-Bout-tekent-bij-Tiltshift.jpg"
+image: "/assets/img/posts/Programma-opzetten-Meldingen-Rotterdam-vervanging-msb.jpg"
 caption: ''
 ---
 Als je Maarten Geraets vraagt welk Tiltshift project er voor hem echt uitsprong het afgelopen jaar roept hij meteen: 
