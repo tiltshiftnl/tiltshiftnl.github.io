@@ -11,9 +11,11 @@ caption: ''
 ---
 Als je Maarten Geraets vraagt welk Tiltshift project er voor hem echt uitsprong afgelopen jaar roept hij meteen:
 
-> “Het onderzoek in Rotterdam! Dat is een fantastisch voorbeeld van waar we echt de vraag achter de vraag hebben gevonden. Zo kwam al gauw naar voren dat er geen nieuwe technische functionaliteit nodig is, maar dat er behoefte is aan een transformatie van het werk. Bovendien zijn werkvloer én directie gemotiveerd geraakt om er aan te werken.”
+_“Het onderzoek in Rotterdam! Dat is een fantastisch voorbeeld van waar we echt de vraag achter de vraag hebben gevonden. Zo kwam al gauw naar voren dat er geen nieuwe technische functionaliteit nodig is, maar dat er behoefte is aan een transformatie van het werk. Bovendien zijn werkvloer én directie gemotiveerd geraakt om er aan te werken.”_
 
-Het project in Rotterdam startte met een vraag: “Ik heb techniek om meldingen te verwerken en wil die techniek veranderen of updaten. Kunnen jullie van Tiltshift ons adviseren wat de beste keuze is?”
+Het project in Rotterdam startte met een vraag:
+
+> “Ik heb techniek om meldingen te verwerken en wil die techniek veranderen of updaten. Kunnen jullie van Tiltshift ons adviseren wat de beste keuze is?”
 
 <div class="article-image">
     <img src="/assets/img/posts/Programma-opzetten-Meldingen-Rotterdam-vervanging-msb.jpg">
