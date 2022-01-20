@@ -1,3 +1,13 @@
+
+@mixin container-sm {
+    width: calc(100% - (2 * #{$gutter-sm}) );
+    margin-left: auto;
+    margin-right: auto;
+    @media screen and (min-width: $breakpoint-md) {
+        width: $container-width-sm;
+    }
+}
+
 @mixin container-md {
     width: calc(100% - (2 * #{$gutter-sm}) );
     margin-left: auto;
@@ -6,43 +16,6 @@
     @media screen and (min-width: $breakpoint-lg) {
         width: $container-width-lg;
     }
-}
-@mixin container-padding-md {
-    $padding: 4rem;
-    width: 100%;
-    margin-left: auto;
-    margin-right: auto;
-    @media screen and (min-width: $breakpoint-lg) {
-        padding-left: 4rem;
-        padding-right: 4rem;
-        width: calc( #{$container-width-lg} + ( 2 * #{$padding} ) );
-    }
-}
-
-@mixin container-sm {
-    width: calc(100% - (2 * #{$gutter-sm}) );
-    margin-left: auto;
-    margin-right: auto;
-
-    @media screen and (min-width: $breakpoint-md) {
-        width: $container-width-sm;
-    }
-    // @media screen and (min-width: $breakpoint-lg) {
-    //     width: 720px;
-    // }
-}
-
-.container-md{
-    @include container-md();
-    &--margin-top{
-        @media screen and (min-width: $breakpoint-lg) {
-            margin-top: 8rem;
-        }
-    }
-}
-
-.container-padding-md{
-    @include container-padding-md();
 }
 
 .container-sm{
@@ -54,3 +27,11 @@
     }
 }
 
+.container-md{
+    @include container-md();
+    &--margin-top{
+        @media screen and (min-width: $breakpoint-lg) {
+            margin-top: 8rem;
+        }
+    }
+}

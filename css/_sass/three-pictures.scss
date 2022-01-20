@@ -1,0 +1,20 @@
+.three-pictures{
+    display: flex;
+    flex-direction: column;
+    margin: $gutter-md auto;
+    @media screen and (min-width: $breakpoint-lg) {
+        flex-direction: row;
+        margin: $gutter-xl auto;
+    }
+    &__picture{
+        display: flex;
+        margin-bottom: $gutter-xs;
+        img {
+            width: 100%;
+        }
+        @media screen and (min-width: $breakpoint-lg) {
+            margin-right: 1rem;
+            margin-bottom: 0;
+        }
+    }
+}
