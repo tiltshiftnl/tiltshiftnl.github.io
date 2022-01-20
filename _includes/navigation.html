@@ -1,0 +1,48 @@
+<nav class="navigation">
+  <a class="navigation__logo" href="/"
+    ><img src="/assets/img/logo_cropped.svg"
+  /></a>
+
+  <div class="navigation__links">
+    {% include main-links.html %}
+    <div class="navigation__links__socials">
+      <a target="_blank" href="https://twitter.com/tiltshiftnl?lang=nl">
+        {% include twitter-icon.html %}
+    </a>
+    <a target="_blank" href="https://www.linkedin.com/company/tiltshiftnl/">
+        {% include linkedin-icon.html %}
+    </a>
+    <a target="_blank" href="https://github.com/tiltshiftnl">
+        {% include github-icon.html %}
+    </a>
+    </div>
+  </div>
+
+  <div class="navigation__hamburger" onclick="toggleNav()">
+    <img
+      class="navigation__hamburger__icon"
+      src="/assets/img/hamburger-menu.svg"
+    />
+  </div>
+
+  <div class="navigation__mobile-menu" id="mobile-navigation">
+    <div class="navigation__mobile-menu__backdrop" onclick="toggleNav()"></div>
+    <div class="navigation__mobile-menu__panel">
+      <div class="navigation__mobile-menu__panel__close" onclick="toggleNav()">
+        <img
+          class="navigation__mobile-menu__panel__close__icon"
+          src="/assets/img/close.svg"
+        />
+      </div>
+      <div class="navigation__mobile-menu__panel__links">
+        {% include main-links.html %}
+      </div>
+    </div>
+  </div>
+</nav>
+
+<script>
+  function toggleNav() {
+    document.getElementById("mobile-navigation").classList.toggle("active");
+  }
+</script>

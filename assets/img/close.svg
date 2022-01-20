@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg width="70px" height="68px" viewBox="0 0 70 68" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<svg width="62px" height="62px" viewBox="0 0 62 62" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
     <!-- Generator: Sketch 64 (93537) - https://sketch.com -->
-    <title>hamburger-menu</title>
+    <title>close</title>
     <desc>Created with Sketch.</desc>
     <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <g id="hamburger-menu" transform="translate(-2.000000, -2.000000)" fill="#FFFFFF" fill-rule="nonzero">
-            <g id="g832" transform="translate(36.000000, 36.000000) rotate(-45.000000) translate(-36.000000, -36.000000) translate(-9.000000, 31.000000)">
-                <rect id="rect826" x="5" y="0" width="80" height="10"></rect>
-                <circle id="circle828" cx="5" cy="5" r="5"></circle>
-                <circle id="circle830" cx="85" cy="5" r="5"></circle>
+        <g id="close" transform="translate(-1.000000, -1.000000)" fill="#FFFFFF" fill-rule="nonzero">
+            <g id="g832" transform="translate(32.500000, 32.500000) rotate(-45.000000) translate(-32.500000, -32.500000) translate(-10.000000, 30.000000)">
+                <rect id="rect826" x="2.54192696" y="0.197370723" width="80" height="4"></rect>
+                <circle id="circle828" cx="2.37035409" cy="2.02579785" r="2"></circle>
+                <circle id="circle830" cx="82.3703541" cy="2.02579785" r="2"></circle>
             </g>
-            <g id="g832" transform="translate(38.000000, 36.000000) rotate(-135.000000) translate(-38.000000, -36.000000) translate(-7.000000, 31.000000)">
-                <rect id="rect826" x="5" y="0" width="80" height="10"></rect>
-                <circle id="circle828" cx="5" cy="5" r="5"></circle>
-                <circle id="circle830" cx="85" cy="5" r="5"></circle>
+            <g id="g832" transform="translate(32.500000, 32.500000) rotate(-135.000000) translate(-32.500000, -32.500000) translate(-10.000000, 30.000000)">
+                <rect id="rect826" x="2.43933983" y="0.646446609" width="80" height="4"></rect>
+                <circle id="circle828" cx="2.84136008" cy="2.64644661" r="2"></circle>
+                <circle id="circle830" cx="82.0373196" cy="2.64644661" r="2"></circle>
             </g>
         </g>
     </g>

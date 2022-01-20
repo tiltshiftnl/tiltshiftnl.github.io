@@ -1,80 +1,51 @@
 .navigation{
+    background-color: white;
     position: fixed;
     top: 0;
     right: 0;
     width: 100%;
     height: 4rem;
+    display: flex;
+    justify-content: space-between;
     z-index: 10;
+    box-shadow: 0px 3px 7px #8888882b;
     @media screen and (min-width: $breakpoint-md) {
-        position: absolute;
-        height: auto;
+        height: 70px;
+        background-color: $black;
+        justify-content: flex-end;
     }
     &__logo{
-        position: absolute;
-        left: $header-gutter;
-        top: $header-gutter;
-        width: 75px;
+        margin-left: $header-gutter;
+        width: 60px;
         display: flex;
-        justify-content: flex-start;
-        align-items: flex-start;
+        // justify-content: center;
+        align-items: center;
         z-index: 9;
         @media screen and (min-width: $breakpoint-md) {
-            width: 120px;
+            margin-left: 0;
+            width: 100px;
+            position: absolute;
+            left: $header-gutter;
+            top: $header-gutter;
         }
-        @media screen and (min-width: $breakpoint-xl) {
-            left: 80px;
+        @media screen and (min-width: $breakpoint-lg) {
+            width: 120px;
+            top: calc(#{$header-gutter} + 70px);
+        }
+        @media screen and (min-width: $breakpoint-lg) {
+            width: 180px;
         }
         img {
             width: 100%;
         }
     }
 
-    &__background{
-        position: absolute;
-        width: 100%;
-        height: 100%;
-        top: 0;
-        right: 0;
-        svg {
-            position: absolute;
-            right: 0;
-            height: 4rem;
-        }
-        .slope-white-flipped{
-            display: none;
-            @media screen and (min-width: $breakpoint-md) {
-                display: block;
-            }
-        }
-        .slope-blue-flipped{
-            display: block;
-            @media screen and (min-width: $breakpoint-md) {
-                display: none;
-            }
-        }
-        @media screen and (min-width: $breakpoint-md) {
-            height: inherit;
-            position: absolute;
-            height: auto;
-            svg {
-                height: inherit;
-            }
-        }
-        @media screen and (min-width: $breakpoint-xl) {
-            width: 1600px;
-        }
-        @media screen and (min-width: $breakpoint-xxl) {
-            width: 1800px;
-        }
-
-    }
-
     &__links{
         display: none;
         z-index: 999;
-        position: absolute;
-        right: $header-gutter;
-        top: $header-gutter;
+        justify-content: center;
+        align-items: center;
+        height: 100%;
         @media screen and (min-width: $breakpoint-md) {
             display: flex;
         }
@@ -82,13 +53,11 @@
             right: 80px;
         }
         a {
-            color: $black;
-            // color: white;
-            margin-left: $gutter-sm;
-            margin-right: 0;
+            color: $white;
+            margin-right: $gutter-sm;
             text-decoration: none;
             @media screen and (min-width: $breakpoint-lg) {
-                margin-left: 2.5rem;
+                margin-right: 2.5rem;
             }
             &:hover{
                 text-decoration: underline;
@@ -104,22 +73,35 @@
             }
         }
 
+        &__socials{
+            display: none;
+            margin-right: $gutter-sm;
+            a {
+                display: flex;
+                justify-content: center;
+                align-items: center;
+                margin-right: $gutter-xs;
+            }
+            @media screen and (min-width: $breakpoint-xl) {
+                display: flex;
+            }
+        }
+
     }
 
     &__hamburger{
-        display: block;
-        width: 28px;
-        height: 28px;
-        position: fixed;
-        top: $header-gutter;
-        right: $header-gutter;
+        display: flex;
+        align-items: center;
         z-index: 10;
         cursor: pointer;
+        margin-right: $header-gutter;
+
+        &__icon{
+            width: 40px;
+            height: 22px;
+        }
         @media screen and (min-width: $breakpoint-md) {
             display: none;
-        }
-        &__icon{
-            height: 100%;
         }
     }
     &__mobile-menu{

@@ -5,9 +5,9 @@
 
   <body class="{% if page.variant %}body--variant-{{ page.variant }}{% endif %}">
 
-    <header>{% include header.html %}</header>
+    {% include navigation.html %}
 
-    <main {% if page.hideBanner %}class="margin-top"{% endif %}>
+    <main class="margin-top">
 
     {% if page.back %}
     <p><a href="{{ page.back }}">« overzicht van {{ page.collection }}</a></p>

@@ -1,133 +1,19 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<!-- Created with Inkscape (http://www.inkscape.org/) -->
-
-<svg
-   xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="89.561752mm"
-   height="78.362274mm"
-   viewBox="0 0 89.561752 78.362274"
-   version="1.1"
-   id="svg8"
-   inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
-   sodipodi:docname="hamburger-menu.svg">
-  <defs
-     id="defs2" />
-  <sodipodi:namedview
-     id="base"
-     pagecolor="#ffffff"
-     bordercolor="#666666"
-     borderopacity="1.0"
-     inkscape:pageopacity="0.0"
-     inkscape:pageshadow="2"
-     inkscape:zoom="1.4"
-     inkscape:cx="115.85562"
-     inkscape:cy="92.175763"
-     inkscape:document-units="mm"
-     inkscape:current-layer="layer1"
-     showgrid="false"
-     fit-margin-top="0"
-     fit-margin-left="0"
-     fit-margin-right="0"
-     fit-margin-bottom="0"
-     inkscape:window-width="1920"
-     inkscape:window-height="1016"
-     inkscape:window-x="1920"
-     inkscape:window-y="27"
-     inkscape:window-maximized="1" />
-  <metadata
-     id="metadata5">
-    <rdf:RDF>
-      <cc:Work
-         rdf:about="">
-        <dc:format>image/svg+xml</dc:format>
-        <dc:type
-           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
-      </cc:Work>
-    </rdf:RDF>
-  </metadata>
-  <g
-     inkscape:label="Layer 1"
-     inkscape:groupmode="layer"
-     id="layer1"
-     transform="translate(-35.219124,-42.818862)">
-    <g
-       id="g824"
-       transform="rotate(6,270.81136,62)"
-       style="fill:#ffffff">
-      <rect
-         y="67"
-         x="40"
-         height="10"
-         width="80"
-         id="rect815"
-         style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.92891157;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke" />
-      <circle
-         r="5"
-         cy="72"
-         cx="40"
-         id="path817"
-         style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke" />
-      <circle
-         style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke"
-         id="circle819"
-         cx="120"
-         cy="72"
-         r="5" />
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="89px" height="70px" viewBox="0 0 89 70" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>hamburger-menu</title>
+    <g id="New-Header" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Typography---Mobile" transform="translate(-324.000000, -22.000000)" fill="#1D1621" fill-rule="nonzero">
+            <g id="hamburger-menu" transform="translate(323.000000, 21.000000)">
+                <g id="g824" transform="translate(0.852536, 0.813788)">
+                    <rect id="rect815" x="0.147464202" y="0.186212397" width="90" height="10"></rect>
+                </g>
+                <g id="g832" transform="translate(0.780876, 30.181138)">
+                    <rect id="rect826" x="0.219124025" y="0.818861523" width="90" height="10"></rect>
+                </g>
+                <g id="g840" transform="translate(0.780876, 60.181138)">
+                    <rect id="rect834" x="0.219123979" y="0.818862392" width="89" height="10"></rect>
+                </g>
+            </g>
+        </g>
     </g>
-    <g
-       id="g832"
-       transform="rotate(6,-15.405688,77)"
-       style="fill:#ffffff">
-      <rect
-         style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.92891157;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke"
-         id="rect826"
-         width="80"
-         height="10"
-         x="40"
-         y="67" />
-      <circle
-         style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke"
-         id="circle828"
-         cx="40"
-         cy="72"
-         r="5" />
-      <circle
-         r="5"
-         cy="72"
-         cx="120"
-         id="circle830"
-         style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke" />
-    </g>
-    <g
-       transform="rotate(6,-301.62273,92)"
-       id="g840"
-       style="fill:#ffffff">
-      <rect
-         y="67"
-         x="40"
-         height="10"
-         width="80"
-         id="rect834"
-         style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.92891157;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke" />
-      <circle
-         r="5"
-         cy="72"
-         cx="40"
-         id="circle836"
-         style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke" />
-      <circle
-         style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke"
-         id="circle838"
-         cx="120"
-         cy="72"
-         r="5" />
-    </g>
-  </g>
 </svg>
