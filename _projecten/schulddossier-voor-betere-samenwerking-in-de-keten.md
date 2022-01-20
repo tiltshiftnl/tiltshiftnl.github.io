@@ -32,7 +32,7 @@ Mensen met schulden kunnen hulp krijgen vanuit hun gemeente. Om snel rust en ove
 
 De gemeente Amsterdam vroeg aan Tiltshift om uit te vinden waar het probleem van de incasso’s lag en om te adviseren welke interventie te plegen. Na een kort onderzoek werd duidelijk dat het proces bestond uit een sociale kant (wijkteams ter ondersteuning van de schuldenaar) en sanering kant (gemeentelijke kredietbank voor de schuldeisers). Er bestond een soort muur tussen de partners aan die beide kanten. Ze spraken nauwelijks met elkaar en stuurden elkaar vooral brieven met termen als ‘vervaltermijnen’ en ‘vereisten’.
 
-<!-- {% include three-images.html imageUrl1="/assets/img/foto/2016-straatcoaches02.jpg" imageAltText1="project.title" imageUrl2="/assets/img/foto/2016-straatcoaches02.jpg" imageAltText2="project.title" imageUrl3="/assets/img/foto/2016-straatcoaches02.jpg" imageAltText3="project.title" %} -->
+{% include three-images.html imageUrl1="/assets/img/foto/2016-straatcoaches02.jpg" imageAltText1="project.title" imageUrl2="/assets/img/foto/2016-straatcoaches02.jpg" imageAltText2="project.title" imageUrl3="/assets/img/foto/2016-straatcoaches02.jpg" imageAltText3="project.title" %}
 
 Onze interventie begon door beide partijen in één ruimte te zetten. Daardoor werd duidelijk dat er grotere problemen waren dan alleen die incasso’s. Zo waren er andere verwachtingen van elkaar en bleek er geen overeenstemming over de te gebruiken documentatie. Waardoor schuldenaren in de praktijk meerdere keren hetzelfde document moesten aanleveren. Ook werden de papieren dossiers bij beide partijen bewaard en ‘actueel’ gehouden. Geen wonder dat het allemaal zo lang duurde.
 
