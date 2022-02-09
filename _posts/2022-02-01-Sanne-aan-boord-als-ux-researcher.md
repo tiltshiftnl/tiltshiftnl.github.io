@@ -3,7 +3,7 @@ layout: default
 variant: white
 subject: mensen
 title: Sanne aan boord als UX Researcher!
-description: "Wij zijn heel blij dat Joost Bout ons kernteam versterkt als coördinator!"
+description: "Met haar achtergrond als filosoof, programmeur en UX-er is ze de perfecte UX researcher in ons team."
 keywords: "UX Researcher, Sanne Stuur, kernteam, vaste krachten, tiltshift, vacature"
 hideBanner: true
 image: "/assets/img/posts/Sanne-aan-boord-als-UX-Researcher.jpg"
