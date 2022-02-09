@@ -44,9 +44,7 @@ Een Tiltshifter is specialist op zijn of haar vakgebied en heeft een sterke eige
 ## Nieuws
 [Sanne aan boord als UX Researcher!](/2022/02/01/Sanne-aan-boord-als-ux-researcher.html) - februari 2022<br>Met haar achtergrond als filosoof, programmeur en UX-er is ze de perfecte UX researcher in ons team. 
 <br><br>
-
 [Favoriete project van Maarten in 2021](/2021/12/30/favoriete-project-van-Maarten-in-2021.html) - december 2021<br>De Explore die we deden voor de gemeente Rotterdam is een fantastisch voorbeeld van waar we echt de vraag achter de vraag hebben gevonden.
 <br><br>
-
 [Nieuwe coördinator bij Tiltshift: Joost](/2021/10/04/Nieuwe-coordinator-bij-Tiltshift-Joost.html) - oktober 2021<br>Wij zijn heel blij dat Joost Bout ons kernteam versterkt als coördinator!
 <br><br>
