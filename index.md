@@ -33,7 +33,7 @@ Een greep uit onze opdrachtgevers:
 {% include logos-relaties.html %} 
 
 ## Onze mensen
-Een Tiltshifter is specialist op zijn of haar vakgebied en heeft een sterke eigen mening. Die zetten we in om jouw doel te bereiken, tenminste, als we in dat doel geloven. De kern van de organisatie bestaat uit vijf personen met daaromheen een groep van ongeveer twintig ‘vaste’ freelancers.
+Een Tiltshifter is specialist op zijn of haar vakgebied en heeft een sterke eigen mening. Die zetten we in om jouw doel te bereiken, tenminste, als we in dat doel geloven. De kern van de organisatie bestaat uit zes personen met daaromheen een groep van ongeveer twintig ‘vaste’ freelancers.
 
 <div class="article-image">
     <a href="/mensen/"><img src="/assets/img/mensen/kernteam-tiltshift.jpg"></a>
