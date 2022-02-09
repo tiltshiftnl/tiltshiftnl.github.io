@@ -46,3 +46,5 @@ Een Tiltshifter is specialist op zijn of haar vakgebied en heeft een sterke eige
 <br><br>
 [Nieuwe coördinator bij Tiltshift: Joost](/2021/10/04/Nieuwe-coordinator-bij-Tiltshift-Joost.html) - oktober 2021<br>Wij zijn heel blij dat Joost Bout ons kernteam versterkt als coördinator!
 <br><br>
+[Vacature - Strategisch Coordinator](/2021/06/30/Vacature-Strategisch-Coordinator.html) - september 2021<br>Ben je een snelle denker, toe aan een volgende stap en weet precies te vertellen waarom je bij ons past? Dan horen we graag van je!
+<br><br>
