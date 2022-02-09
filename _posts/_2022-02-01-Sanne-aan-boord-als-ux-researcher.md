@@ -6,13 +6,13 @@ title: Sanne aan boord als UX Researcher!
 description: "Wij zijn heel blij dat Joost Bout ons kernteam versterkt als coördinator!"
 keywords: "UX Researcher, Sanne Stuur, kernteam, vaste krachten, tiltshift, vacature"
 hideBanner: true
-image: "/assets/img/posts/Joost-Bout-tekent-bij-Tiltshift.jpg"
+image: "/assets/img/posts/Sanne-aan-boord-bij-Tiltshift.jpg"
 caption: ''
 ---
 Afgelopen maand hebben we onze zakelijke familie weer verder uitgebreid, welkom Sanne! Met haar achtergrond als filosoof, programmeur en UX’er is ze de perfecte UX researcher in ons team, en meteen al flink aan de slag voor projecten als het algoritmeregister en buurtteams Amsterdam. Alsof het altijd al zo was. 
 
 <div class="article-image">
-    <img src="/assets/img/posts/Joost-Bout-tekent-bij-Tiltshift.jpg">
+    <img src="/assets/img/posts/Sanne-aan-boord-bij-Tiltshift.jpg">
 </div>
 En wat doe je dan, als je allemaal remote werkt, dan gebruik je voor deze aankondiging een foto uit een online meeting.
 
