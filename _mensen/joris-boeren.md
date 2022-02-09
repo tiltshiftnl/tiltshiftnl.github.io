@@ -16,7 +16,7 @@ email: joris.boeren@tiltshift.nl
 linkedInUrl: https://www.linkedin.com/in/jorisboeren/
 telephone: T <a href="tel:+31307210868">+31 (0)30 721 08 68</a>
 
-order: 4
+order: 5
 back: ..
 ---
 {{ page.description }}
