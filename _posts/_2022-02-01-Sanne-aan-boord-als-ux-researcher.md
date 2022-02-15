@@ -14,6 +14,5 @@ Afgelopen maand hebben we onze zakelijke familie weer verder uitgebreid, welkom 
 <div class="article-image">
     <img src="/assets/img/posts/Sanne-aan-boord-als-UX-Researcher.jpg">
 </div>
-En wat doe je dan, als je allemaal remote werkt, en je geen leuke 'live' foto hebt van iemand aan het werk, of het tekenen van het contract: dan gebruik je voor deze aankondiging foto's uit een online meeting.
 
 [« overzicht van posts](/posts/)
