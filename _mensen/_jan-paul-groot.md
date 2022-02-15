@@ -5,7 +5,7 @@ variant: white
 title: "Jan Paul Groot"
 description: Jan Paul is de rust zelve. Waar onrust regeert, is hij die rots in de branding. Om je daar vervolgens met liefde van af te trappen, want met stilstaan bereik je niets. Chaos omvormen tot iets doelmatigs is wat hij als coördinator het liefste doet. De hectiek omarmen, maar niet vergeten dat er ook busy-work te doen is. Hij zorgt er voor dat jij je dat herinnert.
 
-quote: '"QUOTE"<br /><br /><small>Quotee</small>'
+quote: Als je alles onder controle hebt, ga je niet snel genoeg.
 type: Coördinator
 keywords: "Coördinator, product owner, scrum master, UX Reseacher, onderzoeker, productstrateeg, user centered"
 labels: [coördinatie, organiseren, projectmanagement, structuur]
