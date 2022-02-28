@@ -9,7 +9,7 @@ hideBanner: true
 image: "/assets/img/posts/Jan-Paul-als-coordinator-bij-Tiltshift.jpg"
 caption: ''
 ---
-Deze maand is Jan Paul gestart als coördinator: welkom!
+Afgelopen maand startte Jan Paul als coördinator bij Tiltshift.
 
 <div class="article-image">
     <img src="/assets/img/posts/Jan-Paul-als-coordinator-bij-Tiltshift.jpg">
