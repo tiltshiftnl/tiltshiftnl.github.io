@@ -11,7 +11,9 @@ caption: ''
 ---
 > “Als je alles onder controle hebt, ga je niet snel genoeg.”
 
-Dat is het motto van Jan Paul Groot, sinds vorige maand coördinator bij Tiltshift. 🥳 Met zijn ervaring vormt hij chaos en hectiek om tot een snel en doelmatig traject. Fijn dat je erbij bent Jan Paul, welkom in de familie! 🚀
+Dat is het motto van Jan Paul Groot, sinds vorige maand coördinator bij Tiltshift. 🥳 Met zijn ervaring vormt hij chaos en hectiek om tot een snel en doelmatig traject.
+
+Fijn dat je erbij bent Jan Paul, welkom in de familie! 🚀
 
 <div class="article-image">
     <img src="/assets/img/posts/Jan-Paul-als-coordinator-bij-Tiltshift.jpg">
