@@ -42,11 +42,9 @@ Een Tiltshifter is specialist op zijn of haar vakgebied en heeft een sterke eige
 <a href="/mensen/" class="link-centered">ontmoet het kernteam</a>
 
 ## Nieuws
+[Jan Paul gestart als coördinator!](/2022/03/03/jan-paul-gestart-als-coordinator.html) - maart 2022<br>
+<br><br>
 [Sanne aan boord als UX Researcher!](/2022/02/15/Sanne-aan-boord-als-ux-researcher.html) - februari 2022<br>Met haar achtergrond als filosoof, programmeur en UX-er is ze de perfecte UX researcher in ons team. 
 <br><br>
 [Favoriete project van Maarten in 2021](/2021/12/30/favoriete-project-van-Maarten-in-2021.html) - december 2021<br>De Explore die we deden voor de gemeente Rotterdam is een fantastisch voorbeeld van waar we echt de vraag achter de vraag hebben gevonden.
-<br><br>
-[Nieuwe coördinator bij Tiltshift: Joost](/2021/10/04/Nieuwe-coordinator-bij-Tiltshift-Joost.html) - oktober 2021<br>Wij zijn heel blij dat Joost Bout ons kernteam versterkt als coördinator!
-<br><br>
-[Vacature - Strategisch Coordinator](/2021/06/30/Vacature-Strategisch-Coordinator.html) - september 2021<br>Ben je een snelle denker, toe aan een volgende stap en weet precies te vertellen waarom je bij ons past? Dan horen we graag van je!
 <br><br>
