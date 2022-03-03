@@ -34,8 +34,6 @@ Als start van een sessie of workshop kan het een fijne opwarmer zijn om met elka
 
 A4 papier, stiften en een paar voorbeelden. Of als je remote werkt, een digitale omgeving zoals [Miro](https://miro.com/).
 
-Je kunt daarvoor onze template gebruiken: [https://miro.com/app/board/o9J_lqiaJmc=/](https://miro.com/app/board/o9J_lqiaJmc=/)
-
 <div class="article-image">
     <img src="/assets/img/materialen/Miro-board-workshop-iedereen-kan-tekenen.jpg">
 </div>
