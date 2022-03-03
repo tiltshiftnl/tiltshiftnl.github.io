@@ -18,4 +18,4 @@ De directie committeert zich eraan om een management systeem te implementeren, t
 
 Als onderdeel van het informatiebeveiligingsbeleid zijn er beleidsregels opgesteld voor de verschillende deelonderwerpen die wij vanuit de ISO 27001 norm, onze bedrijfsstrategie, wet- en regelgeving, risicoanalyse en -behandeling noodzakelijk of wenselijk achten voor het degelijk beveiligen van onze informatie. 
 
-Het beleid voor privacy hebben wij gepubliceerd op deze website: https://www.tiltshift.nl/privacy/
+Het beleid voor privacy hebben wij gepubliceerd op deze website: [www.tiltshift.nl/privacy/](https://www.tiltshift.nl/privacy/)
