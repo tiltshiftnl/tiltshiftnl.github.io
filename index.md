@@ -42,7 +42,7 @@ Een Tiltshifter is specialist op zijn of haar vakgebied en heeft een sterke eige
 <a href="/mensen/" class="link-centered">ontmoet het kernteam</a>
 
 ## Nieuws
-[Jan Paul gestart als coördinator!](/2022/03/03/jan-paul-gestart-als-coordinator.html) - maart 2022<br>
+[Jan Paul gestart als coördinator!](/2022/03/03/jan-paul-gestart-als-coordinator.html) - maart 2022<br>Met zijn ervaring vormt hij chaos en hectiek om tot een snel en doelmatig traject.
 <br><br>
 [Sanne aan boord als UX Researcher!](/2022/02/15/Sanne-aan-boord-als-ux-researcher.html) - februari 2022<br>Met haar achtergrond als filosoof, programmeur en UX-er is ze de perfecte UX researcher in ons team. 
 <br><br>
