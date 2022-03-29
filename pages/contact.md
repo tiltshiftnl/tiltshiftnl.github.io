@@ -17,8 +17,8 @@ caption: ''
 
 ### Finance
 
-[finance@tiltshift.nl](mailto:finance@tiltshift.nl)<br>
-[{{ site.data.mensen.joris.tel_display }}](tel:{{ site.data.mensen.joris.tel }})
+[{{ site.data.contact-details.finance.mail }}](mailto:{{ site.data.contact-details.finance.mail }})<br>
+[{{ site.data.contact-details.finance.tel_display }}](tel:{{ site.data.contact-details.finance.tel }})
 
 ### Bezoekadres
 
