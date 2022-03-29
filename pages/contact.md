@@ -17,8 +17,8 @@ caption: ''
 
 ### Finance
 
-[{{ site.data.contact-details.finance.mail }}](mailto:{{ site.data.contact-details.finance.mail }})<br>
-[{{ site.data.contact-details.finance.tel_display }}](tel:{{ site.data.contact-details.finance.tel }})
+[{{ site.data.business-functions.finance.mail }}](mailto:{{ site.data.business-functions.finance.mail }})<br>
+[{{ site.data.business-functions.finance.tel_display }}](tel:{{ site.data.business-functions.finance.tel }})
 
 ### Bezoekadres
 

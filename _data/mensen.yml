@@ -1,6 +1,8 @@
 johan:
   img: Johan-Groenen.png
+  link: /mensen/johan-groenen
   full_name: Johan Groenen
+  first_name: Johan
   function: Partner
   tel: "+31207220207"
   tel_display: +31 (0)20 722 02 07
@@ -24,7 +26,9 @@ maarten:
   mail: maarten.geraets@tiltshift.nl
 joris:
   img: Joris-Boeren.png
+  link: /mensen/joris-boeren
   full_name: Joris Boeren
+  first_name: Joris
   function: Partner
   tel: "+31629366273"
   tel_display: +31 (0)6 293 662 73
