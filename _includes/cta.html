@@ -1,6 +1,6 @@
 <h2 class="mt-4">{{ include.header | default: "Meer weten?" }}</h2>
 <div class="cta container-sm margin-b">
-    <h3 class="cta__title">Plan direct een afspraak in met Johan</h3>
+    <h3 class="cta__title">Maak een afspraak met <a href="/mensen/johan-groenen">Johan</a>.</h3>
     <div class="cta__body">
         <div class="cta__body__image">
             <img class="logo" src="/assets/img/mail/Johan-Groenen.png" style="width: 120px; height: 120px">
@@ -9,7 +9,13 @@
             <div class="cta__body__right__text">
                 <p>Tijdens een vrijblijvend intake- en adviesgesprek bespreken we jouw situatie en hoe we daarbij kunnen helpen.</p>
             </div>
-            <a href="https://calendly.com/johan-at-tiltshift/intake" target="_blank" class="btn">Intake en adviesgesprek</a>
+            <div class="cta__body__right__text" style="width: 100%">
+                <p>
+                    <a href="tel:{{ site.data.mensen.johan.tel }}">{{ site.data.mensen.johan.tel_display }}</a><br>
+                    <a href="mailto:{{ site.data.mensen.johan.mail }}">{{ site.data.mensen.johan.mail }}</a>
+                </p>
+            </div>
+            <a href="https://calendly.com/johan-at-tiltshift/intake" target="_blank" class="btn">Plan direct een afspraak</a>
         </div>
     </div>
 </div>
