@@ -50,6 +50,5 @@ In drie maanden losten we dus de grootste problemen rondom privacy en veiligheid
 >
 > <small>Sjoukje Alta, stadsdeelsecretaris stadsdeel Oost</small>
 
-<h2 class="mt-4">Wil je meer weten over Straatnotes voor jouw gemeente?</h2>
-{% include cta.html %}
+{% include cta.html header="Wil je meer weten over Straatnotes voor jouw gemeente?" %}
 

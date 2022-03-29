@@ -46,5 +46,4 @@ Nadat de basis van Makkelijke Markt op alle markten in Amsterdam in gebruik was 
 De samenwerking tussen het Marktbureau en Tiltshift smaakte duidelijk naar meer en in de afgelopen jaren hebben we ook het indelingsprobleem voor de markten van Amsterdam aangepakt.
 Daarover meer in de [case Digitaal Indelen Straatmarkten](https://www.tiltshift.nl/projecten/digitaal-indelen-straatmarkten/).
 
-<h2 class="mt-4">Verder praten over digitale innovatie?</h2>
-{% include cta.html %}
+{% include cta.html header="Verder praten over digitale innovatie?" %}

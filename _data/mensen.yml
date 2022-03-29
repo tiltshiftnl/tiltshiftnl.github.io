@@ -1,42 +1,56 @@
-- img: Johan-Groenen.png
+johan:
+  img: Johan-Groenen.png
   full_name: Johan Groenen
   function: Partner
-  tel: +31207220207
+  tel: "+31207220207"
   tel_display: +31 (0)20 722 02 07
   linkedin: jgroenen
-- img: Eva-Leffef.png
+  mail: johan.groenen@tiltshift.nl
+eva:
+  img: Eva-Leffef.png
   full_name: Eva Leffef
   function: Strategisch Coördinator
-  tel: +31650222771
+  tel: "+31650222771"
   tel_display: +31 (0)6 250 283 47
   linkedin: evaleffef
-- img: Maarten-Geraets.png
+  mail: eva.leffef@tiltshift.nl
+maarten:
+  img: Maarten-Geraets.png
   full_name: Maarten Geraets
   function: Kwartiermaker / Partner
-  tel: +31650222771
+  tel: "+31650222771"
   tel_display: +31 (0)6 502 227 71
   linkedin: maarten-geraets
-- img: Joris-Boeren.png
+  mail: maarten.geraets@tiltshift.nl
+joris:
+  img: Joris-Boeren.png
   full_name: Joris Boeren
   function: Partner
-  tel: +31629366273
+  tel: "+31629366273"
   tel_display: +31 (0)6 293 662 73
   linkedin: jorisboeren
-- img: Joost-Bout.png
+  mail: joris.boeren@tiltshift.nl
+joost:
+  img: Joost-Bout.png
   full_name: Joost Bout
   function: Coördinator
-  tel: +31612983100
+  tel: "+31612983100"
   tel_display: +31 (0)6 129 831 00
   linkedin: joostbout
-- img: Sanne-Stuur.png
+  mail: joost.bout@tiltshift.nl
+sanne:
+  img: Sanne-Stuur.png
   full_name: Dr. Sanne Stuur
   function: UX Researcher
-  tel: +31641878644
+  tel: "+31641878644"
   tel_display: +31 (0)6 418 786 44
   linkedin: sannestuur
-- img: Jan-Paul-Groot.png
+  mail: sanne.stuur@tiltshift.nl
+jp:
+  img: Jan-Paul-Groot.png
   full_name: Jan Paul Groot
   function: Coördinator
-  tel: +31628704095
+  tel: "+31628704095"
   tel_display: +31 (0)6 287 040 95
   linkedin: janpaulgroot
+  mail: janpaul.groot@tiltshift.nl
