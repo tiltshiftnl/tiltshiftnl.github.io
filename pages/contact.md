@@ -15,11 +15,6 @@ caption: ''
 
 {% include cta.html header="Intake en advies" %}
 
-### Finance
-
-[{{ site.data.business-functions.finance.mail }}](mailto:{{ site.data.business-functions.finance.mail }})<br>
-[{{ site.data.business-functions.finance.tel_display }}](tel:{{ site.data.business-functions.finance.tel }})
-
 ### Bezoekadres
 
 Vechtclub XL<br>
