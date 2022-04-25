@@ -26,6 +26,6 @@ Wij zijn altijd bereid om te helpen bij media aanvragen en zullen ons best doen 
 In onze media kit vindt je informatie over Tiltshift en een aantal afbeeldingen. Als je iets anders nodig hebt, neem vooral contact op.
 
 - [Over Tiltshift B.V.](/)
-- [Foto's van het kernteam](/)
+- [Foto's van het kernteam](/assets/img/mensen)
 - [In actie foto's](/)
 - [Workshop foto's](/)
