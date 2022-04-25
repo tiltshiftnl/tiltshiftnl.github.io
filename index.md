@@ -17,7 +17,7 @@ Bel ons op <a href="tel:+31207220207">020-722 02 07</a> als:
 
 - **Je écht wil beginnen met digitale transformatie**. Samen maken we een concreet plan van aanpak, leiden de opstart (kwartiermaken) en de uitvoering.
 
-- **Interne digitalisering vast loopt**. We brengen de problemen in kaart, scheiden het kaf van het koren en zorgen voor nieuwe energie en beweging.
+- **Interne digitalisering vastloopt**. We brengen de problemen in kaart, scheiden het kaf van het koren en zorgen voor nieuwe energie en beweging.
 
 We verzorgen het uitvoerend leiderschap voor digitale projecten en transformatieprogramma's, vanuit inhoudelijke expertise op het gebied van service design, software ontwikkeling en organisatieverandering. We werken samen met interne ontwikkelteams en waar nodig halen we onze ontwikkelpartners erbij voor extra capaciteit.
 
