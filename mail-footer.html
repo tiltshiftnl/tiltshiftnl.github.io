@@ -1,7 +1,8 @@
 ---
+sitemap:
+    exclude: "yes"
 ---
-{% for item in site.data.mensen %}
-{% assign mens = item[1] %}
+{% assign mens = site.data.mensen["johan"] %}
 <table style="width: 480px">
 	<tr>
 		<td style="vertical-align: top; width: 84px; padding-right: 12px;"><img style="width: 114px" src="https://www.tiltshift.nl/assets/img/mail/{{ mens.img }}"></td>
@@ -21,4 +22,3 @@
 	<tr><td colspan="2" style="font-family: helvetica; font-size: 11px; font-weight: 500; color: #333333"><br>Dit e-mailbericht is uitsluitend bestemd voor de geadresseerde. Als dit bericht niet voor u bestemd is, wordt u vriendelijk verzocht dit aan de afzender te melden en het bericht te verwijderen.</td></tr>
 </table>
 <hr>
-{% endfor %}

@@ -1,23 +1,8 @@
 collections:
-  diensten:
-    output: true
-    permalink: /:collection/:name/
-  methodes:
-    output: true
-    permalink: /:collection/:name/
   projecten:
     output: true
     permalink: /:collection/:name/
-  klanten:
-    output: true
-    permalink: /:collection/:name/
-  testimonials:
-    output: true
-    permalink: /:collection/:name/
   mensen:
-    output: true
-    permalink: /:collection/:name/
-  waarden:
     output: true
     permalink: /:collection/:name/
   materialen:
@@ -29,11 +14,3 @@ collections:
 
 sass:
   sass_dir: /css/_sass
-  
-  theme: jekyll-theme-minimal
-gems:
-  - jekyll-redirect-from
-whitelist:
-  - jekyll-redirect-from
-plugins:
-  - jekyll-redirect-from

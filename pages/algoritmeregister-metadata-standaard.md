@@ -6,7 +6,7 @@ permalink: /algoritmeregister-metadata-standaard/
 title: Algoritmeregister
 subtitle: Metadata Standaard
 
-forward: "https://algoritmeregister.github.io/algoritmeregister-metadata-standaard/"
+forward: "https://www.algoritmeregister.org"
 
 description: ""
 keywords: ""
