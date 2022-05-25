@@ -12,7 +12,7 @@ labels: [product owner, digitale transformatie, agile werken]
 order: 100
 
 hideBanner: true
-image: /assets/img/foto/Joris-Boeren-leiderschap-traject-nieuwe-website-Careyn.jpg
+image: /assets/img/foto/Careyn-Joris-Boeren-leiderschap-traject-nieuwe-website.jpg
 image_alt_text: 'Joris Boeren zorgt voor heldere uitgangspunten en duidelijke scope'
 caption:
 
@@ -28,6 +28,10 @@ Ouderenzorg cliënten of mantelzorgers willen sneller geholpen worden en zelf di
 
 Careyn, een grote zorgorganisatie in de provincies Utrecht en Zuid-Holland, vroeg Tiltshift hen te helpen met hun eerste stap in digitale transitie. Er was behoefte aan een eenvoudige digitale omgeving waar cliënten en mantelzorgers terecht kunnen voor algemene vragen, maar ook waar ze zelfredzaam hun zorg kunnen organiseren. Geen patiëntendossier dus, maar de stap ervoor, het geven van specifieke locatiegebonden informatie en het kunnen aanvragen van diensten.
 
+<div class="article-image">
+    <img src="/assets/img/foto/Joris-Boeren-leiderschap-traject-nieuwe-website-Careyn.jpg" alt="Leiderschap door Joris Boeren">
+</div>
+
 Tijdens het kwartiermaken waren de medewerkers van Careyn al heel gemotiveerd om dit project aan te pakken. Er was alleen nog geen gedeeld beeld van de uitkomst waardoor het project groter dreigde te worden. Daardoor stond de relatie met de bestaande leveranciers onder druk. De opzet van de organisatie vormde een extra uitdaging. Door de vele regio’s en vestigingen zijn er veel belanghebbenden, op verschillende plekken in de organisatie. Allemaal verklaringen waarom eerdere pogingen om tot zo’n digitale omgeving te komen niet zijn gelukt.
 
 > "We kozen bewust voor Tiltshift omdat de ervaring was dat de traditionele manier van werken niet meer de resultaten zou behalen die we voor ogen hadden. Tiltshift kiest de benadering om van wat er al is opnieuw in te regelen en de doelen in korte tijd praktisch te realiseren."
@@ -35,12 +39,7 @@ Tijdens het kwartiermaken waren de medewerkers van Careyn al heel gemotiveerd om
 > <small>Steven van Dorst, Manager Markt en Communicatie, Careyn</small>
 
 <div class="article-image">
-    <img src="/assets/img/foto/Joris-Boeren-leiderschap-traject-nieuwe-website-Careyn.jpg" alt="Leiderschap door Joris Boeren">
-</div>
-
-
-<div class="article-image">
-    <img src="/assets/img/foto/Joost-Bout-en-Sanne-Schuur-onderzoeken-doelgroep.jpg">
+    <img src="/assets/img/foto/Careyn-Joost-Bout-en-Sanne-Schuur-onderzoeken-doelgroep.jpg">
 </div>
 
 Met een compact team van de belangrijkste betrokkenen, waaronder de huidige technische leverancier, formuleerden we de uitgangspunten en borgden die bij de directie. Ook zorgden we ervoor de scope zo klein mogelijk te houden. Geen nieuwe huisstijl, maar wel een forse opfrisbeurt. De huidige teksten inkorten en opnieuw schrijven. Een toekomstvaste architectuur, maar wel een gebaseerd op de techniek die al in gebruik was. En, heel belangrijk, voor alles wat we deden: continue de toegevoegde waarde voor de eindgebruiker centraal stellen.
@@ -48,7 +47,7 @@ Met een compact team van de belangrijkste betrokkenen, waaronder de huidige tech
 Door de afspraken met de interne afdelingen en leverancier te vernieuwen, en met het aanhaken van een UX ontwerper van **Keen design** maakten we snel meters. We introduceerden Agile principes en vervingen de vele ‘smaakjes’ Scrum door één gezamenlijke methode. We zorgden voor een heldere structuur en besluitvorming, van bestuur tot en met de medewerkers.
 
 <div class="article-image">
-    <img src="/assets/img/foto/Nieuwe-website-voor-Careyn-Live.jpg">
+    <img src="/assets/img/foto/Careyn-nieuwe-website-Live.jpg">
 </div>
 
 De realisatie vond plaats in korte sprints waarbij het team telkens met focus aan één thema werkte. Iedere oplevering werd direct getoetst bij echte gebruikers. Zo ontstond de nieuwe omgeving, stap voor stap, afgestemd op de doelgroepen. Kort voor de oplevering gaven we de medewerkers van Careyn al toegang om de content te controleren.
