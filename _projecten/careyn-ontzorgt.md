@@ -50,6 +50,10 @@ Met een compact team van de belangrijkste betrokkenen, waaronder de huidige tech
 
 Door de afspraken met de interne afdelingen en leverancier te vernieuwen, en met het aanhaken van een UX ontwerper van [Keen design](https://www.keen.design/) maakten we snel meters. We introduceerden Agile principes en vervingen de vele ‘smaakjes’ Scrum door één gezamenlijke methode. We zorgden voor een heldere structuur en besluitvorming, van bestuur tot en met de medewerkers.
 
+> “De aanpak van Tiltshift zorgt voor veel vaart in een project. Het werd heel duidelijk wat de bedoeling was en we kregen alle vrijheid om dat in hoge kwaliteit te realiseren.”
+> 
+> Michiel van Nieuwkerk, Senior Developer, Xuntos
+
 De realisatie vond plaats in korte sprints waarbij het team telkens met focus aan één thema werkte. Iedere oplevering werd direct getoetst bij echte gebruikers. Zo ontstond de nieuwe omgeving, stap voor stap, afgestemd op de doelgroepen. Kort voor de oplevering gaven we de medewerkers van Careyn al toegang om de content te controleren.
 
 <div class="article-image">
@@ -58,4 +62,9 @@ De realisatie vond plaats in korte sprints waarbij het team telkens met focus aa
 
 Met de realisatie van de nieuwe [careyn.nl](https://www.careyn.nl/) beschikt de organisatie over een krachtige online omgeving, klaar ook voor de toekomst. De eerste stappen naar self service zijn gezet en de architectuur is gereed voor verdere digitalisering van het administratieve proces.
 
+- product management: Joris Boeren
+- product ownership: Joost Bout
+- UX onderzoek: Sanne Stuurman
+- Keen design: UI en UX
+                                                                    
 {% include cta.html header="Wil je ook digitaal ontzorgt worden?" %}
