@@ -3,7 +3,7 @@ layout: default
 variant: white
 
 title: "Careyn.nl ontzorgt"
-description: Ouderenzorg cliënten of mantelzorgers willen sneller geholpen worden en zelf dingen regelen. Medewerkers verdwalen in de vele ICT-systemen en zijn veel tijd kwijt aan het dupliceren (overtypen) van informatie. Tegelijkertijd staat de ouderenzorg onder druk door veranderende wensen en personeelstekort.
+description: Een nieuwe website als katalysator voor samenwerking
 quote:
 type:
 keywords: 'product owner, product ownerschap, innovatie, design thinking, software design thinking, digitalisering, digitale transformatie, zorg, nieuwe website'
@@ -17,9 +17,9 @@ image_alt_text: 'Joris Boeren zorgt voor heldere uitgangspunten en duidelijke sc
 caption:
 
 featured: true
-featured_order: 3
+featured_order: 1
 featured_image: /assets/img/projecten-featured/Careyn-ontzorgt-met-nieuw-online-kanaal.jpg
-featured_image_alt_text: ''
+featured_image_alt_text:
 excerpt: "Een nieuwe website als katalysator voor samenwerking."
 
 back: ..
