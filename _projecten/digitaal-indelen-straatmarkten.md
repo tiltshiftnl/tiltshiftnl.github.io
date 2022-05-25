@@ -16,7 +16,7 @@ image: /assets/img/foto/Digitaal-Indelen-Markt-Amsterdam-Marktmeesters.jpg
 image_alt_text: 'Marktmeesters tijdens een (handmatige) indeling van een straatmarkt in Amsterdam'
 caption:
 
-featured: true
+featured: false
 featured_order: 3
 featured_image: /assets/img/projecten-featured/Digitaal-Indelen-Handmatige-Marktindeling-gedigitaliseerd.jpg
 featured_image_alt_text: 'De applicatie om aan te melden voor de marktindeling van de straatmarkten in Amsterdam.'
