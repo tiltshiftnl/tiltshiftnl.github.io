@@ -27,7 +27,7 @@ back: ..
 Ouderenzorg cliënten en mantelzorgers willen sneller geholpen worden en zelf dingen regelen. Medewerkers verdwalen in de vele ICT-systemen en zijn veel tijd kwijt aan het dupliceren (overtypen) van informatie. Tegelijkertijd staat de ouderenzorg onder druk door veranderende wensen en personeelstekort.
 
 <div class="article-image">
-    <img src="/assets/img/foto/Joris-Boeren-leiderschap-traject-nieuwe-website-Careyn.jpg" alt="Leiderschap door Joris Boeren">
+    <img src="/assets/img/foto/Careyn-Joris-Boeren-leiderschap-traject-nieuwe-website.jpg" alt="Leiderschap door Joris Boeren">
 </div>
 
 Careyn, een grote zorgorganisatie in de provincies Utrecht en Zuid-Holland, vroeg Tiltshift hen te helpen met hun eerste stap in digitale transitie. Er was behoefte aan een eenvoudige digitale omgeving waar cliënten en mantelzorgers terecht kunnen voor algemene vragen, maar ook waar ze zelfredzaam hun zorg kunnen organiseren. Geen patiëntendossier dus, maar de stap ervoor, het geven van specifieke locatiegebonden informatie en het kunnen aanvragen van diensten.
