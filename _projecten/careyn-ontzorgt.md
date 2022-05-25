@@ -57,7 +57,7 @@ Door de afspraken met de interne afdelingen en leverancier te vernieuwen, en met
 De realisatie vond plaats in korte sprints waarbij het team telkens met focus aan één thema werkte. Iedere oplevering werd direct getoetst bij echte gebruikers. Zo ontstond de nieuwe omgeving, stap voor stap, afgestemd op de doelgroepen. Kort voor de oplevering gaven we de medewerkers van Careyn al toegang om de content te controleren.
 
 <div class="article-image">
-    <img src="/assets/img/foto/Careyn-nieuwe-website-Live.jpg" alt="Website Careyn.nl live>
+    <img src="/assets/img/foto/Careyn-nieuwe-website-Live.jpg" alt="Website Careyn.nl live" >
 </div>
 
 Met de realisatie van de nieuwe [careyn.nl](https://www.careyn.nl/) beschikt de organisatie over een krachtige online omgeving, klaar ook voor de toekomst. De eerste stappen naar self service zijn gezet en de architectuur is gereed voor verdere digitalisering van het administratieve proces.
