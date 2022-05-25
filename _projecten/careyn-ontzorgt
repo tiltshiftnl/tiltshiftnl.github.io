@@ -24,7 +24,7 @@ excerpt: "Een nieuwe website als katalysator voor samenwerking."
 
 back: ..
 ---
-Ouderenzorg cliënten of mantelzorgers willen sneller geholpen worden en zelf dingen regelen. Medewerkers verdwalen in de vele ICT-systemen en zijn veel tijd kwijt aan het dupliceren (overtypen) van informatie. Tegelijkertijd staat de ouderenzorg onder druk door veranderende wensen en personeelstekort. 
+Ouderenzorg cliënten of mantelzorgers willen sneller geholpen worden en zelf dingen regelen. Medewerkers verdwalen in de vele ICT-systemen en zijn veel tijd kwijt aan het dupliceren (overtypen) van informatie. Tegelijkertijd staat de ouderenzorg onder druk door veranderende wensen en personeelstekort.
 
 Careyn, een grote zorgorganisatie in de provincies Utrecht en Zuid-Holland, vroeg Tiltshift hen te helpen met hun eerste stap in digitale transitie. Er was behoefte aan een eenvoudige digitale omgeving waar cliënten en mantelzorgers terecht kunnen voor algemene vragen, maar ook waar ze zelfredzaam hun zorg kunnen organiseren. Geen patiëntendossier dus, maar de stap ervoor, het geven van specifieke locatiegebonden informatie en het kunnen aanvragen van diensten.
 
@@ -38,9 +38,6 @@ Tijdens het kwartiermaken waren de medewerkers van Careyn al heel gemotiveerd om
     <img src="/assets/img/foto/Joris-Boeren-leiderschap-traject-nieuwe-website-Careyn.jpg" alt="Leiderschap door Joris Boeren">
 </div>
 
-We keken mee met de dagelijkse indeling op de markt en liepen controle-rondes met de marktmeesters. Tijdens een Design Sprint onderzochten we wat acceptabel was voor marktondernemers, kramenzetters, marktmeesters en de mensen op het kantoor van het marktbureau. Daaruit kwam een helder concept waar iedereen zich in kon vinden.
-
-Vanuit onze werkplek op het marktkantoor van de Albert Cuyp markt doken we diep in de marktverordening. Eén voor één interpreteerden we de regels, programmeerden we ze en vergeleken het resultaat met de indeling op de markt van die dag. Zo leerden we niet alleen dat de regels soms niet goed werden opgevolgd, maar ook dat sommige regels niet goed werkten in de praktijk.
 
 <div class="article-image">
     <img src="/assets/img/foto/Joost-Bout-en-Sanne-Schuur-onderzoeken-doelgroep.jpg">
@@ -57,10 +54,5 @@ Door de afspraken met de interne afdelingen en leverancier te vernieuwen, en met
 De realisatie vond plaats in korte sprints waarbij het team telkens met focus aan één thema werkte. Iedere oplevering werd direct getoetst bij echte gebruikers. Zo ontstond de nieuwe omgeving, stap voor stap, afgestemd op de doelgroepen. Kort voor de oplevering gaven we de medewerkers van Careyn al toegang om de content te controleren.
 
 Met de realisatie van de nieuwe careyn.nl beschikt de organisatie over een krachtige online omgeving, klaar ook voor de toekomst. De eerste stappen naar self service zijn gezet en de architectuur is gereed voor verdere digitalisering van het administratieve proces.
-
-- product management - Joris Boeren
-- product ownership - Joost Bout
-- UX onderzoek - Sanne Stuurman
-- UI en UX - Keen design
 
 {% include cta.html header="Wil je ook digitaal ontzorgt worden?" %}
