@@ -24,7 +24,7 @@ excerpt: "Een nieuwe website als katalysator voor samenwerking."
 
 back: ..
 ---
-Ouderenzorg cliënten of mantelzorgers willen sneller geholpen worden en zelf dingen regelen. Medewerkers verdwalen in de vele ICT-systemen en zijn veel tijd kwijt aan het dupliceren (overtypen) van informatie. Tegelijkertijd staat de ouderenzorg onder druk door veranderende wensen en personeelstekort.
+Ouderenzorg cliënten en mantelzorgers willen sneller geholpen worden en zelf dingen regelen. Medewerkers verdwalen in de vele ICT-systemen en zijn veel tijd kwijt aan het dupliceren (overtypen) van informatie. Tegelijkertijd staat de ouderenzorg onder druk door veranderende wensen en personeelstekort.
 
 <div class="article-image">
     <img src="/assets/img/foto/Joris-Boeren-leiderschap-traject-nieuwe-website-Careyn.jpg" alt="Leiderschap door Joris Boeren">
