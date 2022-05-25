@@ -42,19 +42,19 @@ Tijdens het kwartiermaken waren de medewerkers van Careyn al heel gemotiveerd om
 >
 > <small>Steven van Dorst, Manager Markt en Communicatie, Careyn</small>
 
+Met een compact team van de belangrijkste betrokkenen, waaronder de huidige technische leverancier, formuleerden we de uitgangspunten en borgden die bij de directie. Ook zorgden we ervoor de scope zo klein mogelijk te houden. Geen nieuwe huisstijl, maar wel een forse opfrisbeurt. De huidige teksten inkorten en opnieuw schrijven. Een toekomstvaste architectuur, maar wel een gebaseerd op de techniek die al in gebruik was. En, heel belangrijk, voor alles wat we deden: continue de toegevoegde waarde voor de eindgebruiker centraal stellen.
+
 <div class="article-image">
     <img src="/assets/img/foto/Careyn-Joost-en-Eva-kijken-naar-scherm.jpg">
 </div>
 
-Met een compact team van de belangrijkste betrokkenen, waaronder de huidige technische leverancier, formuleerden we de uitgangspunten en borgden die bij de directie. Ook zorgden we ervoor de scope zo klein mogelijk te houden. Geen nieuwe huisstijl, maar wel een forse opfrisbeurt. De huidige teksten inkorten en opnieuw schrijven. Een toekomstvaste architectuur, maar wel een gebaseerd op de techniek die al in gebruik was. En, heel belangrijk, voor alles wat we deden: continue de toegevoegde waarde voor de eindgebruiker centraal stellen.
-
 Door de afspraken met de interne afdelingen en leverancier te vernieuwen, en met het aanhaken van een UX ontwerper van [Keen design](https://www.keen.design/) maakten we snel meters. We introduceerden Agile principes en vervingen de vele ‘smaakjes’ Scrum door één gezamenlijke methode. We zorgden voor een heldere structuur en besluitvorming, van bestuur tot en met de medewerkers.
 
-<div class="article-image">
-    <img src="/assets/img/foto/Careyn-nieuwe-website-Live.jpg">
-</div>
-
 De realisatie vond plaats in korte sprints waarbij het team telkens met focus aan één thema werkte. Iedere oplevering werd direct getoetst bij echte gebruikers. Zo ontstond de nieuwe omgeving, stap voor stap, afgestemd op de doelgroepen. Kort voor de oplevering gaven we de medewerkers van Careyn al toegang om de content te controleren.
+
+<div class="article-image">
+    <img src="/assets/img/foto/Careyn-nieuwe-website-Live.jpg" alt="Website Careyn.nl live>
+</div>
 
 Met de realisatie van de nieuwe [careyn.nl](https://www.careyn.nl/) beschikt de organisatie over een krachtige online omgeving, klaar ook voor de toekomst. De eerste stappen naar self service zijn gezet en de architectuur is gereed voor verdere digitalisering van het administratieve proces.
 
