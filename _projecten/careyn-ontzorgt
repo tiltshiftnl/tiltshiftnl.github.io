@@ -6,7 +6,7 @@ title: "Careyn.nl ontzorgt"
 description: Een nieuwe website als katalysator voor samenwerking
 quote:
 type:
-keywords: 'product owner, product ownerschap, innovatie, design thinking, software design thinking, digitalisering, digitale transformatie, zorg, nieuwe website'
+keywords: 'product owner, product ownerschap, innovatie, design thinking, software design thinking, digitalisering, digitale transformatie, zorg, ouderenzorg, nieuwe website'
 labels: [product owner, digitale transformatie, agile werken]
 
 order: 100
@@ -19,7 +19,7 @@ caption:
 featured: true
 featured_order: 1
 featured_image: /assets/img/projecten-featured/Careyn-ontzorgt-met-nieuw-online-kanaal.jpg
-featured_image_alt_text:
+featured_image_alt_text: 'Een nieuwe website als katalysator voor samenwerking.'
 excerpt: "Een nieuwe website als katalysator voor samenwerking."
 
 back: ..
