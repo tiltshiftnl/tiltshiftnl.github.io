@@ -9,6 +9,8 @@ hideBanner: true
 image: "assets/img/foto/Wonen-Innovatie-met-Design-Sessies-Afdeling-betrekken.jpg"
 caption: ''
 ---
+_DEZE VACATURE IS INMIDDELS GESLOTEN_
+
 Tiltshift levert leiderschap in projecten, zowel inhoudelijk als voor proces en strategie. Daarvoor zoeken we talent: slimme en enthousiaste mensen die onderdeel willen zijn van onze hechte zakelijke familie. 
 
 In alles wat je doet zet je de mens centraal. Dus de eindgebruiker zelf, maar ook je teamleden. Je leiderschap is faciliterend maar je draait niet om de hete brij heen. Je houdt ervan om dingen te benoemen, waar nodig op de spits te drijven, tot heldere afspraken te komen en mensen daar aan te houden. Je bent altijd jezelf en ervaart dat als vanzelfsprekend.
