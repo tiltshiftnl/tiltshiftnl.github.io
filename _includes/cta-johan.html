@@ -1,0 +1,24 @@
+<div class="cta container-sm margin-b">
+    <h3 class="cta__title">{{ include.header | default: "Meer weten?" }}</h3>
+    <div class="cta__body">
+        <div class="cta__body__image">
+            <a href="{{ site.data.mensen[site.data.business-functions.intake-en-advies.responsible].link }}">
+                <img class="logo" src="/assets/img/mail/{{ site.data.mensen[site.data.business-functions.intake-en-advies.responsible].img }}" style="width: 120px; height: 120px">
+            </a>
+        </div>
+        <div class="cta__body__right">
+            <div class="cta__body__right__text">
+                <p>Tijdens een vrijblijvend intake- en adviesgesprek bespreken we jouw situatie en hoe we daarbij kunnen helpen.</p>
+            </div>
+            <div class="cta__body__right__text" style="width: 100%">
+                <p>
+                    <a href="tel:{{ site.data.business-functions.intake-en-advies.tel }}">{{ site.data.business-functions.intake-en-advies.tel_display }}</a><br>
+                    <a href="mailto:{{ site.data.business-functions.intake-en-advies.mail }}">{{ site.data.business-functions.intake-en-advies.mail }}</a>
+                </p>
+            </div>
+        </div>
+    </div>
+    <div class="cta__body__right__text" style="width: 100%; text-align: right">
+        <a href="https://calendly.com/johan-at-tiltshift/intake" target="_blank" class="btn">Plan zelf een afspraak</a>
+    </div>
+</div>
