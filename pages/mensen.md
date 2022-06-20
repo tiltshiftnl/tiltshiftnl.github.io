@@ -25,9 +25,3 @@ Tiltshift bestaat uit een kernteam van vaste krachten, aangevuld met een flexibe
 ## Kernteam
 
 {% include people.html %}
-
-## Vacatures
-
-Het komende jaar willen het kernteam uitbreiden. We zijn op zoek naar fijne mensen, die als onderdeel van Tiltshift, die groei willen meemaken. Doe je mee?
-
-[Bekijk de vacatures](/vacatures/)
