@@ -29,11 +29,11 @@
             top: $header-gutter;
         }
         @media screen and (min-width: $breakpoint-lg) {
-            width: 120px;
+            width: 110px;
             top: calc(#{$gutter-md} + 70px);
             left: $gutter-md;
         }
-        @media screen and (min-width: $breakpoint-lg) {
+        @media screen and (min-width: $breakpoint-xl) {
             width: 180px;
         }
         img {
@@ -75,7 +75,7 @@
                     font-size: $font-size-md;
                 }
             }
-    
+
         }
 
         &__socials{
@@ -157,6 +157,13 @@
                     line-height: 2.25;
                     font-size: 1rem;
                     margin: 0;
+                }
+                &__sub{
+                    display: flex;
+                    flex-direction: column;
+                    a {
+                        line-height: 1.5;
+                    }
                 }
             }
         }

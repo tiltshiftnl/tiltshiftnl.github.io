@@ -14,6 +14,16 @@ main {
             margin-top: 8rem;
         }
     }
+
+    ul {
+        margin-bottom: 2rem;
+    }
+
+    li {
+        margin-left: 1.8rem;
+        margin-bottom: .4rem;
+    }
+
 }
 main > h1,
 main > h2,
@@ -32,7 +42,6 @@ main > p {
     margin-bottom: 1.5rem;
     line-height: $line-height-paragraph-lg;
 }
-main li { margin-left: 40px }
 main a { color: inherit }
 main form { margin-bottom: 1em }
 

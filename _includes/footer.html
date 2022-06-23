@@ -1,62 +1,64 @@
 <footer class="footer">
   <div class="footer__inner container-md">
-
-    <div class="footer__inner__red-sheet">
-    </div>
-    <div class="footer__inner__blue-sheet">
-    </div>
+    <div class="footer__inner__red-sheet"></div>
+    <div class="footer__inner__blue-sheet"></div>
 
     <div class="footer__inner__columns-row">
-        <div class="footer__inner__columns-row__logo">
-            <a href="/">
-                <img class="logo" src="/assets/img/logo_transparent_cropped.svg">
-            </a>
+      <div class="footer__inner__columns-row__logo">
+        <a href="/">
+          <img class="logo" src="/assets/img/logo_transparent_cropped.svg" />
+        </a>
+      </div>
+      <div class="footer__inner__columns-row__columns">
+        <div class="footer__inner__columns-row__columns__column">
+          <h2 class="heading-neue heading-neue--h2">Contact</h2>
+          <p><a href="tel:+31207220207">T +31 (0)20 722 02 07</a></p>
+          <p><a href="mailto:info@tiltshift.nl">info@tiltshift.nl</a></p>
+          <p>&nbsp;</p>
+          <p>KvK 68994222</p>
+          <p>BTW NL857680237B01</p>
         </div>
-        <div class="footer__inner__columns-row__columns">
-            <div class="footer__inner__columns-row__columns__column">
-                <h2 class="heading-neue heading-neue--h2">Contact</h2>
-                <p><a href="tel:+31207220207">T +31 (0)20 722 02 07</a></p>
-                <p><a href="mailto:info@tiltshift.nl">info@tiltshift.nl</a></p>
-                <p>&nbsp;</p>
-                <p>KvK 68994222</p>
-                <p>BTW NL857680237B01</p>
-            </div>
-            <div class="footer__inner__columns-row__columns__column">
-                <h2 class="heading-neue heading-neue--h2">Bezoekadres</h2>
-                <p>Vechtclub XL</p>
-                <p>Europalaan 2B</p>
-                <p>3526 KS Utrecht</p>
-                <p><a href="https://maps.google.com/maps?ll=52.075504,5.106973&z=15&t=m&hl=nl&gl=NL&mapclient=embed&cid=13040789619853914505" target="_blank" title="Open Google Map met Tiltshift adres">Route op de kaart</a></p>
-            </div>
-            <div class="footer__inner__columns-row__columns__column">
-                <h2 class="heading-neue heading-neue--h2">Postadres</h2>
-                <p>Tiltshift B.V.</p>
-                <p>Strawinskylaan 11</p>
-                <p>2102 CM Heemstede</p>
-            </div>
-            <div class="footer__inner__columns-row__columns__column">
-                <a href="/posts">Posts</a>
-                <a href="/materialen">Materialen</a>
-                <a href="/privacy">Privacy</a>
-                <a href="/informatiebeveiliging">Informatiebeveiliging</a>
-            </div>
-            <div class="footer__inner__socials">
-                <a target="_blank" href="https://twitter.com/tiltshiftnl?lang=nl">
-                    {% include twitter-icon.html %}
-                </a>
-                <a target="_blank" href="https://www.linkedin.com/company/tiltshiftnl/">
-                    {% include linkedin-icon.html %}
-                </a>
-                <a target="_blank" href="https://github.com/tiltshiftnl">
-                    {% include github-icon.html %}
-                </a>
-            </div>
+        <div class="footer__inner__columns-row__columns__column">
+          <h2 class="heading-neue heading-neue--h2">Bezoekadres</h2>
+          <p>Vechtclub XL</p>
+          <p>Europalaan 2B</p>
+          <p>3526 KS Utrecht</p>
+          <p>
+            <a
+              href="https://maps.google.com/maps?ll=52.075504,5.106973&z=15&t=m&hl=nl&gl=NL&mapclient=embed&cid=13040789619853914505"
+              target="_blank"
+              title="Open Google Map met Tiltshift adres"
+              >Route op de kaart</a
+            >
+          </p>
         </div>
+        <div class="footer__inner__columns-row__columns__column">
+          <h2 class="heading-neue heading-neue--h2">Postadres</h2>
+          <p>Tiltshift B.V.</p>
+          <p>Strawinskylaan 11</p>
+          <p>2102 CM Heemstede</p>
+        </div>
+        <div class="footer__inner__columns-row__columns__column">
+          {% include sub-links.html %}
+        </div>
+        <div class="footer__inner__socials">
+          <a target="_blank" href="https://twitter.com/tiltshiftnl?lang=nl">
+            {% include twitter-icon.html %}
+          </a>
+          <a
+            target="_blank"
+            href="https://www.linkedin.com/company/tiltshiftnl/"
+          >
+            {% include linkedin-icon.html %}
+          </a>
+          <a target="_blank" href="https://github.com/tiltshiftnl">
+            {% include github-icon.html %}
+          </a>
+        </div>
+      </div>
     </div>
     <div class="footer__inner__row">
-        <div class="links-section">
-            {% include main-links.html %}
-        </div>
+      <div class="links-section">{% include main-links.html %}</div>
     </div>
   </div>
 </footer>
