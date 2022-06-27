@@ -20,7 +20,7 @@ Tiltshifters zorgen voor beweging als het stil staat. Door mensen te motiveren, 
 
 Elke Tiltshifter heeft een specifieke kunde maar evengoed een duidelijke mening. Die zetten we in om jouw doel te bereiken, tenminste, als we in dat doel geloven.
 
-Tiltshift bestaat uit een kernteam van vaste krachten, aangevuld met een flexibele schil van 'vaste' freelancers. We werken nauw met elkaar samen en trekken samen op om de doelen van onze opdrachtgevers te halen. Tenminste, als we zelf in die doelen geloven. 
+Tiltshift bestaat uit een kernteam van vaste krachten, aangevuld met een flexibele schil van freelancers. We werken nauw met elkaar samen en trekken samen op om de doelen van onze opdrachtgevers te halen. Tenminste, als we zelf in die doelen geloven. 
 
 ## Kernteam
 
