@@ -17,7 +17,7 @@ email: maarten.geraets@tiltshift.nl
 linkedInUrl: https://www.linkedin.com/in/maarten-geraets/
 telephone: T <a href="tel:+31307210834">+31 (0)30 721 08 34</a>
 
-order: 6
+order: 4
 back: ..
 ---
 {{ page.description }}

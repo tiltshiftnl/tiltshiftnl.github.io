@@ -29,7 +29,13 @@ We verzorgen het uitvoerend leiderschap voor digitale projecten en transformatie
 Een Tiltshifter is specialist op zijn of haar vakgebied en heeft een sterke eigen mening. Die zetten we in om jouw doel te bereiken, tenminste, als we in dat doel geloven. Tiltshift bestaat uit een kernteam van vaste krachten, aangevuld met een flexibele schil van twintig freelancers.
 
 <div class="article-image">
-    <a href="/mensen/"><img src="/assets/img/mensen/kernteam-tiltshift.jpg"></a>
+    <table><tr>
+    {% assign mensen_in_order = site.mensen | sort: "order" %}
+    {% for persoon in mensen_in_order %}
+    <td>
+        <a href="{{ persoon.url }}"><img src="{{ persoon.image }}" style="border: 12px solid white"></a></td>
+    {% endfor %}
+    </tr></table>
 </div>
 
 <a href="/mensen/" class="link-centered">ontmoet het kernteam</a>
