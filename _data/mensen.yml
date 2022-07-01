@@ -1,17 +1,26 @@
+info:
+  img:
+  link: /
+  full_name: Tiltshift
+  first_name: Tiltshift
+  function: Intake en advies
+  tel: "+31207220207"
+  tel_display: +31 (0)20 722 02 07
+  mail: info@tiltshift.nl
 johan:
   img: Johan-Groenen.png
   link: /mensen/johan-groenen
   full_name: Johan Groenen
   first_name: Johan
   function: Partner
-  tel: "+31207220207"
-  tel_display: +31 (0)20 722 02 07
+  tel: "+31641518018"
+  tel_display: +31 (0)6 415 18 0 18
   linkedin: jgroenen
   mail: johan.groenen@tiltshift.nl
 eva:
   img: Eva-Leffef.png
   full_name: Eva Leffef
-  function: Strategisch Coördinator
+  function: Managing Director
   tel: "+31650222771"
   tel_display: +31 (0)6 250 283 47
   linkedin: evaleffef
@@ -19,7 +28,7 @@ eva:
 maarten:
   img: Maarten-Geraets.png
   full_name: Maarten Geraets
-  function: Kwartiermaker / Partner
+  function: Partner
   tel: "+31650222771"
   tel_display: +31 (0)6 502 227 71
   linkedin: maarten-geraets
