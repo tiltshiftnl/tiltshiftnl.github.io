@@ -45,5 +45,5 @@ We faciliteren het projectteam met leiderschap en vullen eventueel ontbrekende r
 >
 > <small>Medewerker gemeente Amsterdam</small>
 
-{% include cta.html header="Wat we voor jouw organisatie kunnen betekenen?" %}
+{% include cta.html header="Wat we voor jouw organisatie kunnen betekenen?" persoon="maarten" %}
 

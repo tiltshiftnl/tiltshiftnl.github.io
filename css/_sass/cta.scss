@@ -13,13 +13,13 @@
         align-items: stretch;
         &__image{
             display: flex;
+            margin-right: $gutter-sm;
         }
         &__right{
             display: flex;
             flex-direction: column;
             align-items: center;
             justify-content: space-between;
-            margin-left: $gutter-sm;
             p{
                 margin: 0;
             }

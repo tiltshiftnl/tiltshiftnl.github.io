@@ -13,7 +13,7 @@ image: /assets/img/foto/Leiderschap-bij-starten-of-vastgelopen-digitalisering.jp
 caption: ''
 ---
 
-{% include cta.html header="Intake en advies" %}
+{% include cta.html header="Intake en advies" persoon="johan" %}
 
 ### Bezoekadres
 

@@ -4,18 +4,15 @@ variant: white
 permalink: /intake-en-advies
 
 subject: Intake en adviesgesprek
-title: "Intake en adviesgesprek"
-subtitle: Plan direct een afspraak in
+title: "Even iemand om mee te sparren?"
+subtitle: 
 
-description: "Vastgelopen IT-project? Digitalisering die niet van de grond komt? Tijdens een vrijblijvend intake- en adviesgesprek bespreken we wat de situatie is en hoe we daarbij kunnen helpen."
+description: "Tijdens een vrijblijvend intake- en adviesgesprek bespreken we jouw situatie en hoe we daarbij kunnen helpen."
 keywords: "Vastgelopen IT-project, digitalisering, interventie, intake- en advies, oude ICT, can do mentaliteit, design thinking, levende software, innovatie"
 
 image: "assets/img/foto/Starten-met-innovatie-verouderde-software-vervangen.jpg"
 caption: 
 ---
-{{ page.description }}<br>
-[Plan direct een afspraak in](https://calendly.com/johan-at-tiltshift/intake)
+Vastgelopen digitaliseringtraject? Een IT-project dat niet van de grond komt? Of misschien geen idee hoe je nou precies moet beginnen met die \"digitale transformatie\"?
 
-Bellen of mailen kan natuurlijk ook, met [Johan](/mensen/johan-groenen/):<br>
-<a href="tel:+310207220207">T +31 (0)20 722 02 07</a><br>
-<a href="mailto:johan.groenen@tiltshift.nl">johan.groenen@tiltshift.nl</a>
+{% include cta.html header="Intake en adviesgesprek" persoon="johan" %}

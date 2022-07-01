@@ -48,4 +48,4 @@ Met de professionalisering van Straatnotes is het systeem beter toegerust voor h
 >
 > <small>Paul van Eeten, Openbare Orde en Veiligheid, Gemeente Amsterdam</small>
 
-{% include cta.html header="Wil je meer weten over Straatnotes voor jouw gemeente?" %}
+{% include cta.html header="Wil je meer weten over Straatnotes voor jouw gemeente?" persoon="eva" %}

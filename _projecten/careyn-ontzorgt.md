@@ -67,4 +67,4 @@ Met de realisatie van de nieuwe [careyn.nl](https://www.careyn.nl/) beschikt de 
 - UX onderzoek: Sanne Stuurman
 - Keen design: UI en UX
                                                                     
-{% include cta.html header="Wil je ook digitaal ontzorgt worden?" %}
+{% include cta.html header="Meer weten? Of ook digitaal ontzorgt worden?" persoon="joris" %}
