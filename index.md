@@ -50,7 +50,7 @@ Een greep uit onze opdrachtgevers:
 {% include logos-relaties.html %} 
 
 ## Nieuws
-[Jan Paul gestart als coördinator!](/2022/03/03/jan-paul-gestart-als-coordinator.html) - maart 2022<br>Met zijn ervaring vormt hij chaos en hectiek om tot een snel en doelmatig traject.
+[Algorithm Registers for European Cities](/2022/07/06/Met-9-steden-werken-aan-Algorithm-Registers-for-European-Cities.html) - juni 2022<br>Johan neemt een samenwerking van 9 steden mee door het hoe en waarom van algoritmeregisters en samen maken ze daarbij een verdiepingsslag.
 <br><br>
 [Sanne aan boord als UX Researcher!](/2022/02/15/Sanne-aan-boord-als-ux-researcher.html) - februari 2022<br>Met haar achtergrond als filosoof, programmeur en UX-er is ze de perfecte UX researcher in ons team. 
 <br><br>
