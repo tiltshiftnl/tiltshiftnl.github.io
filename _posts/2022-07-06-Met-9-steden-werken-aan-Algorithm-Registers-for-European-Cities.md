@@ -20,10 +20,8 @@ Vorige maand zijn we gestart met het Eurocities project “Algorithm Registers f
     <img src="/assets/img/posts/algoritmeregister-mockup-application.png">
 </div>
 
-Wil je op de hoogte blijven? Stuur dan even een bericht naar [johan@tiltshift.nl](johan@tiltshift.nl) en/of volg [twitter.com/algoregs](https://www.twitter.com/algoregs) op Twitter. 
+Wil je op de hoogte blijven? Stuur dan een bericht naar [johan@tiltshift.nl](johan@tiltshift.nl) en/of volg [twitter.com/algoregs](https://www.twitter.com/algoregs) op Twitter. 
 
 Voor meer informatie over Eurocities: [https://eurocities.eu/](https://eurocities.eu/).
-
-
 
 [« overzicht van posts](/posts/)
