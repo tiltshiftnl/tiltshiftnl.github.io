@@ -26,7 +26,7 @@ We verzorgen het uitvoerend leiderschap voor digitale projecten en transformatie
 > Als je mensen niet over het hoofd wil zien, moet je ze betrekken in alle fases van het project.
 
 ## Onze mensen
-Een Tiltshifter is specialist op zijn of haar vakgebied en heeft een sterke eigen mening. Die zetten we in om jouw doel te bereiken, tenminste, als we in dat doel geloven. Tiltshift bestaat uit een kernteam van vaste krachten, aangevuld met een flexibele schil van twintig freelancers.
+Een Tiltshifter is specialist op zijn of haar vakgebied en heeft een sterke eigen mening. Die zetten we in om jouw doel te bereiken, tenminste, als we in dat doel geloven. Tiltshift bestaat uit een kernteam van vaste krachten, aangevuld met een flexibele schil van freelancers.
 
 <div class="article-image">
     <table><tr>
