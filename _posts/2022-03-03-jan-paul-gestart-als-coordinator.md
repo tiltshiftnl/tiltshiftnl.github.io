@@ -22,6 +22,4 @@ Fijn dat je erbij bent Jan Paul, welkom in de familie! 🚀
 
 We hebben nog steeds flinke groeiambities bij Tiltshift. Want meer dan ooit is er behoefte aan adequaat leiderschap in digitaliseringstrajecten. Om beweging te krijgen in dat wat vast zit.
 
-[Bekijk onze vacature](/2021/06/30/Vacature-Strategisch-Coordinator.html) en kijk of jij je thuis voelt bij onze zakelijke familie!
-
 [« overzicht van posts](/posts/)
