@@ -9,7 +9,7 @@
 .person-page{
     display: flex;
     flex-direction: column;
-    margin-top: 2rem;
+    margin-top: 1rem;
     @media screen and (min-width: $breakpoint-md) {
         margin-top: 2rem;
         flex-direction: row;
