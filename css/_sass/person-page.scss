@@ -1,5 +1,5 @@
 .intro {
-    /* display: none; */
+    display: flex;
     @media screen and (min-width: $breakpoint-md) {
         display: flex;
         flex-direction: column;
