@@ -14,7 +14,7 @@ image: /assets/img/mensen/Johan-Groenen-Partner-Tiltshift.jpg
 personImage: /assets/img/mensen/Johan-Groenen-Partner-Tiltshift.jpg
 email: johan.groenen@tiltshift.nl
 linkedInUrl: https://www.linkedin.com/in/jgroenen/
-telephone: T <a href="tel:+31207220207">+31 (0)20 722 02 07</a>
+telephone: T <a href="tel:+31641518018">+31 (0)6 415 18 0 18</a>
 
 order: 3
 back: ..
