@@ -8,7 +8,7 @@ quote: The Proof of the Pudding is in the Eating
 type: Partner
 keywords:
 labels: [open samenwerking, public tech, open innovatie, lean startup, strategie, informatica]
-
+currentwork: "<h2>Hier werk ik aan</h2><h3>Algoritmeregister</h3><p>Het inzetten van algoritmes en kunstmatige intelligentie door de overheid is niet zonder risico’s. Het is daarom niet vreemd dat dit volop in de belangstelling staat in de media, de politiek en Europese wetgeving. Met het programma “Algoritmeregister” helpen we overheden hier meer grip op te krijgen en naar buiten toe meer zicht te geven op welke algoritmes er worden ingezet en waarom.</p>"
 hideBanner: true
 image: /assets/img/mensen/Johan-Groenen-Partner-Tiltshift.jpg
 personImage: /assets/img/mensen/Johan-Groenen-Partner-Tiltshift.jpg
