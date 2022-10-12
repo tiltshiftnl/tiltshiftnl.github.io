@@ -17,7 +17,6 @@
         <div class="person-page__left">
           <img src="{{ page.personImage }}" alt="" />
         </div>
-        {% if page.currentwork %}{{page.currentwork}}{% endif %}
         <div class="person-page__content">
           <p>
           {% if page.telephone %}{{page.telephone}}<br />{% endif %}
@@ -29,6 +28,7 @@
           </blockquote>
           {{ content }}
         </div>
+        {% if page.currentwork %}{{page.currentwork}}{% endif %}
       </div>
     </div>
 
