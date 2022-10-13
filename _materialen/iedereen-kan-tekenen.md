@@ -51,4 +51,4 @@ A4 papier, stiften en een paar voorbeelden. Of als je remote werkt, een digitale
  
 ## Wil je meer tekenen?
 
-Onze mini cursus tekenen is gemaakt door Yvonne de Mey. [Meer informatie over haar workshop](https://sites.google.com/kazenda.nl/workshops/).
+Onze mini cursus tekenen is gemaakt door Yvonne de Mey. [Meer informatie over haar workshop: Improve your UX sketching by keeping a visual diary](https://sites.google.com/kazenda.nl/workshops/).
