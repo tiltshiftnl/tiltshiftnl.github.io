@@ -15,4 +15,4 @@ caption:
 ---
 Vastgelopen digitaliseringtraject? Een IT-project dat niet van de grond komt? Of misschien geen idee hoe je nou precies moet beginnen met die \"digitale transformatie\"?
 
-{% include cta.html header="Intake en adviesgesprek" persoon="johan" %}
+{% include cta.html header="Intake en adviesgesprek" persoon="eva" %}

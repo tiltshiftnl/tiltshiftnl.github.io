@@ -21,7 +21,7 @@ Bel ons op <a href="tel:+31207220207">020-722 02 07</a> als:
 
 We verzorgen het uitvoerend leiderschap voor digitale projecten en transformatieprogramma's, vanuit inhoudelijke expertise op het gebied van service design, software ontwikkeling en organisatieverandering. We werken samen met interne ontwikkelteams en waar nodig halen we onze ontwikkelpartners erbij voor extra capaciteit.
 
-{% include cta.html header="Intake en adviesgesprek" persoon="johan" %}
+{% include cta.html header="Intake en adviesgesprek" persoon="eva" %}
 
 > Als je mensen niet over het hoofd wil zien, moet je ze betrekken in alle fases van het project.
 
@@ -58,4 +58,4 @@ Een greep uit onze opdrachtgevers:
 
 <a href="/posts/" class="link-centered">alle nieuwsberichten</a>
 <br><br>
-{% include cta.html header="Intake en adviesgesprek" persoon="johan" %}
+{% include cta.html header="Intake en adviesgesprek" persoon="eva" %}
