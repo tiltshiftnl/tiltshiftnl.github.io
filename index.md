@@ -15,7 +15,7 @@ caption:
 
 Bel ons op <a href="tel:+31207220207">020-722 02 07</a> als:
 
-- **Je écht wil beginnen met digitale transformatie**. Samen maken we een concreet plan van aanpak, leiden de opstart (kwartiermaken) en de uitvoering.
+- **Je écht wil beginnen met digitale transformatie**. We maken een concreet plan van aanpak, leiden de opstart (kwartiermaken) en de uitvoering.
 
 - **Interne digitalisering vastloopt**. We brengen de problemen in kaart, scheiden het kaf van het koren en zorgen voor nieuwe energie en beweging.
 
