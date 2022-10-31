@@ -26,7 +26,7 @@ We werken samen met interne ontwikkelteams en waar nodig halen we onze ontwikkel
 
 {% include cta.html header="Intake en adviesgesprek" persoon="eva" %}
 
-> Als je mensen niet over het hoofd wil zien, moet je ze betrekken in alle fases van het project.
+> "Als je mensen niet over het hoofd wil zien, moet je ze betrekken in alle fases van het project."
 
 ## Mensen
 Een Tiltshifter is specialist op zijn of haar vakgebied en heeft een sterke eigen mening. Die zetten we in om jouw doel te bereiken, tenminste, als we in dat doel geloven. Tiltshift bestaat uit een kernteam van vaste krachten, aangevuld met een flexibele schil van freelancers.
