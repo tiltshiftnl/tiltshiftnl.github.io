@@ -16,6 +16,6 @@ Achter elk project schuilt een aanleiding, een serieus probleem. Omdat de focus 
 
 Het zorgt voor een frisse en realistische blik en succesvolle projecten. Waarvan een paar voorbeelden op deze pagina.
 
-> Innovatie begint bij de mensen. Focus op hun probleem en laat de techniek volgen. Dan ontstaat de oplossing.
+> "Innovatie begint bij de mensen. Focus op hun probleem en laat de techniek volgen. Dan ontstaat de oplossing."
 
 {% include projects-link-blocks.html projects=site.projecten %}
