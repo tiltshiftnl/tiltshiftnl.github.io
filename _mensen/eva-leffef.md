@@ -5,7 +5,7 @@ variant: white
 title: "Eva Leffef"
 description: Eva is een kei in het mensen laten samenwerken. Ze organiseert en coördineert complexe en moeizame projecten binnen no-time weer tot leven. Beheerst alle disciplines van digitalisering en laat zich geen knollen voor citroenen verkopen. Haar voorliefde voor de mensen 'die het werk doen' zorgt voor vertrouwen. Iedereen werkt graag met en voor haar. Ze vindt haar werk pas geslaagd als iedereen weer gemotiveerd aan het werk is. Dan is het tijd voor een volgende opdracht.
 
-quote: "Als pijnpunten niet uitgesproken worden ben ik niet bang om deze te (laten) benoemen".
+quote: "Als pijnpunten niet uitgesproken worden ben ik niet bang om deze te (laten) benoemen."
 type: Managing Director
 keywords:
 labels: [coördinatie, coaching, organiseren, projectmanagement, professioneel bemoeial]
