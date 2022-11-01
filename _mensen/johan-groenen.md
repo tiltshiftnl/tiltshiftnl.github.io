@@ -42,28 +42,16 @@ vervangen. Met Demodam organiseren we het “centrale marktplein”
 hiervoor:L een plaats waar (nieuwe) leveranciers en klanten naartoe
 kunnen komen met hun problemen, ideeën en innovaties, en waar open
 innovaties en samenwerkingen worden gestimuleerd."
-  - Demodam:
-      text: "Common Ground is een beweging om los te komen van de afhankelijk van
-specifieke leveranciers bij het bedenken, realiseren en in de praktijk
-inzetten van gemeentelijke software. Door software op te splitsen in
-kleine, samenwerkende brokjes wordt het mogelijk om stukjes te
-vervangen. Met Demodam organiseren we het “centrale marktplein”
-hiervoor:L een plaats waar (nieuwe) leveranciers en klanten naartoe
-kunnen komen met hun problemen, ideeën en innovaties, en waar open
-innovaties en samenwerkingen worden gestimuleerd."
+  - Code for NL:
+      text: "Code for NL is de Nederlandse community van mensen die samenwerken aan een open, eerlijke en inclusieve digitale overheid en samenleving. Het doel is de succesvolle digitale transformatie van gemeenten, andere overheden en de samenleving als geheel."
 
 previousProjects:
   - Opzetten Datalab Amsterdam:
       text: "In 2015 werden wij gevraagd om bij de Gemeente Amsterdam een
-Datalab op te zetten: een plaats om “meer te doen met data” en
-“innovatieve toepassingen” te realiseren. Om dit handen en voeten te
-geven hebben we de Fixxx methode voor snelle innovatie die werkt
-geïntroduceerd: in 12 weken van probleem naar werkende toepassing. Met
-onder andere design thinking, lean startup en open source, agile
-development brachten we samen met betrokkenen de problemen in kaart
-en ontwikkelden we slimme, datagedreven oplossingen. Datalab en de
-Fixxx manier van werken zijn ondertussen een voorbeeld geworden voor
-hoe overheden op een nieuwe manier software ontwikkelen."
+Datalab op te zetten: een plaats om “meer te doen met data” en “innovatieve toepassingen” te realiseren. Om dit handen en voeten te geven hebben we de Fixxx methode voor snelle innovatie die werkt
+geïntroduceerd: in 12 weken van probleem naar werkende toepassing. Met onder andere design thinking, lean startup en open source, agile
+development brachten we samen met betrokkenen de problemen in kaart en ontwikkelden we slimme, datagedreven oplossingen. Datalab en de
+Fixxx manier van werken zijn ondertussen een voorbeeld geworden voor hoe overheden op een nieuwe manier software ontwikkelen."
 
 order: 3
 back: ..
