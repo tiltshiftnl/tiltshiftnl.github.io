@@ -11,6 +11,7 @@ labels: [programma- en product management, agile, team coaching, mediation]
 
 hideBanner: true
 image: /assets/img/mensen/Joris-Boeren-Partner-Tiltshift.jpg
+sliderPhoto: "/assets/img/slider/Joris-Boeren.jpg"
 personImage: /assets/img/mensen/Joris-Boeren-Partner-Tiltshift.jpg
 email: joris.boeren@tiltshift.nl
 linkedInUrl: https://www.linkedin.com/in/jorisboeren/
@@ -20,5 +21,5 @@ vcardUrl: https://fwd.tiltshift.nl/vcard-joris
 order: 5
 back: ..
 ---
-{{ page.description }}
 
+{{ page.description }}

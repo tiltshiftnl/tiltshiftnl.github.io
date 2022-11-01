@@ -11,6 +11,7 @@ keywords: "UX, UX Reseacher, onderzoeker, user experience, productstrateeg, user
 labels: [UX Research, onderzoeken, structuur]
 
 hideBanner: true
+sliderDisabled: true
 image: /assets/img/mensen/Sanne-Stuur-UX-Researcher-Tiltshift.jpg
 personImage: /assets/img/mensen/Sanne-Stuur-UX-Researcher-Tiltshift.jpg
 order: 6
