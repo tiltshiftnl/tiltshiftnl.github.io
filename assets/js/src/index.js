@@ -1,3 +1,5 @@
 import Glide from "@glidejs/glide"
 
-new Glide('.glide').mount()
+new Glide('.glide', {
+    perTouch: 1
+}).mount();

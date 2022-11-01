@@ -1,4 +1,4 @@
-{% assign people = site.mensen | sort: "order" %}
+{% assign people = site.mensen | sort: "order" | reverse %}
 
 <div class="container-md">
   <div class="glide">
@@ -16,7 +16,7 @@
               </a>
               <div class="person-slide__text">
                 <h2 class="person-slide__text__name">{{ person.title }}</h2>
-                <h2 class="person-slide__text__type">{{ person.type }}</h2>
+                <h3 class="person-slide__text__type">{{ person.type }}</h3>
                 <blockquote class="person-slide__text__quote">
                   {{ person.quote }}
                 </blockquote>
