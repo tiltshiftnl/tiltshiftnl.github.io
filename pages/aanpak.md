@@ -13,9 +13,7 @@ caption:
 ---
 {{ page.description }}
 
-> "De snelheid waarmee jullie dingen oppakken, je vergeet bijna dat je bij de gemeente werkt!"
->
-> <small class="author">Medewerker gemeente Amsterdam</small>
+
 
 ## Methodiek en stijl
 Iedere partner heeft zijn eigen stijl, maar allemaal werken ze vanuit (software) design thinking en natuurlijk Agile.
@@ -27,6 +25,10 @@ De focus ligt op bruikbaarheid en concrete resultaten. Vaak is het beter om iets
 ### Iedereen betrokken
 
 We brengen iedereen samen in nuttige sessies en geven ruim baan aan de ervaring van de gebruikers. Met het hele team lopen we mee met de uitvoerenden.
+
+> "We hebben echt het gevoel dat er heel goed naar ons geluisterd is, dit zien we terug in het systeem."
+>
+> <small>Medewerker gemeente Amsterdam</small>
 
 ### Heldere koers
 
@@ -42,9 +44,9 @@ Is de koers helder, dan bepalen we de inrichting. We betrekken de mensen die nog
 
 Samen met de gebruikers passen we hun proces en software stapsgewijs aan. We starten metéén met de implementatie, zodat de oplossing direct en ‘in het echt’ gebruikt en getest worden. Op deze manier is er snel resultaat en zien betrokkenen wat er verandert.
 
-> "We hebben echt het gevoel dat er heel goed naar ons geluisterd is, dit zien we terug in het systeem."
+> "De snelheid waarmee jullie dingen oppakken, je vergeet bijna dat je bij de gemeente werkt!"
 >
-> <small>Medewerker gemeente Amsterdam</small>
+> <small class="author">Medewerker gemeente Amsterdam</small>
 
 {% include cta.html header="Wat we voor jouw organisatie kunnen betekenen?" persoon="maarten" %}
 
