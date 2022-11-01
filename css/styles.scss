@@ -21,7 +21,8 @@ sitemap:
 @import "footer";
 @import "blocks-grid";
 @import "logo-block";
-@import "slope";
+// @import "slope";
+@import "glide";
 @import "main";
 @import "people";
 @import "logos";
@@ -38,6 +39,12 @@ sitemap:
 @import "person-block";
 @import "person-page";
 @import "grid";
+
+// Required Core Stylesheet
+@import "node_modules/@glidejs/glide/src/assets/sass/glide.core";
+
+// Optional Theme Stylesheet
+@import "node_modules/@glidejs/glide/src/assets/sass/glide.theme";
 
 
 html, body {

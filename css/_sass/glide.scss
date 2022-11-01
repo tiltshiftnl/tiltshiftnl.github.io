@@ -1,0 +1,93 @@
+.glide{
+    margin-bottom: $gutter-sm;
+
+    @media screen and (min-width: $breakpoint-md) {
+        margin-bottom: $gutter-lg;
+        width: 100%;
+    }
+
+    &__slide{
+        // background-color: green;
+        width: 720px;
+    }
+    .container-sm{
+        @media screen and (max-width: $breakpoint-md) {
+            width: 100%;
+        }
+    }
+}
+
+.glide-controls{
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    left: 0;
+    top: 0;
+    &__left{
+        cursor: pointer;
+        z-index: 99;
+        position: absolute;
+        left: 0;
+        display: flex;
+        align-items: center;
+        height: 100%;
+        @media screen and (max-width: $breakpoint-md) {
+            img {
+                height: 4rem;
+            }
+        }
+    }
+    &__right{
+        cursor: pointer;
+        z-index: 99;
+        position: absolute;
+        right: 0;
+        display: flex;
+        align-items: center;
+        height: 100%;
+        @media screen and (max-width: $breakpoint-md) {
+            img {
+                height: 4rem;
+            }
+        }
+    }
+}
+
+.person-slide {
+    display: flex;
+    flex-direction: column;
+    @media screen and (min-width: $breakpoint-md) {
+        flex-direction: row;
+    }
+    &__photo{
+        display: flex;
+        flex-direction: column;
+        img{
+            height: auto;
+            @media screen and (min-width: $breakpoint-md) {
+                height: 12rem;
+            }
+        }
+    }
+    &__text{
+        margin-left: $gutter-sm;
+        &__name{
+            color: black;
+            margin-bottom: 0;
+        }
+        &__type{
+            margin-top: $gutter-xxs;
+            color: $primair-blauw;
+            font-size: $font-size-md;
+        }
+        &__quote{
+            margin: $gutter-sm 0 0;
+            font-size: $font-size-md;
+            color: $red;
+            width: auto;
+            border-left: 2px solid $red;
+            padding-left: $gutter-xs;
+            font-style: italic;
+        }
+    }
+}

@@ -1,0 +1,41 @@
+{% assign people = site.mensen | sort: "order" %}
+
+<div class="container-md">
+  <div class="glide">
+    <div class="glide__track" data-glide-el="track">
+      <ul class="glide__slides">
+        {% for person in people %} {% if person.sliderDisabled != true %}
+        <li class="glide__slide">
+          <div class="container-sm">
+            <div class="person-slide">
+              <a class="person-slide__photo" href="{{person.url}}">
+                <img
+                  src="{{ person.sliderPhoto }}"
+                  alt="Foto {{ person.title }}"
+                />
+              </a>
+              <div class="person-slide__text">
+                <h2 class="person-slide__text__name">{{ person.title }}</h2>
+                <h2 class="person-slide__text__type">{{ person.type }}</h2>
+                <blockquote class="person-slide__text__quote">
+                  {{ person.quote }}
+                </blockquote>
+              </div>
+            </div>
+          </div>
+        </li>
+        {% endif %} {% endfor %}
+      </ul>
+    </div>
+    <div class="glide-controls" data-glide-el="controls">
+      <div data-glide-dir="<" class="glide-controls__left">
+        <img src="/assets/img/chevron-left.svg" alt=" Pijltje naar links" />
+      </div>
+      <div data-glide-dir=">" class="glide-controls__right">
+        <img src=" /assets/img/chevron-right.svg" alt=" Pijltje naar rechts" />
+      </div>
+    </div>
+  </div>
+</div>
+<script src="{{ site.baseurl }}{% link assets/js/dist/bundle.js %}"></script>
+<a href="/mensen/" class="link-centered mb-4">ontmoet alle experts</a>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="97px" height="171px" viewBox="0 0 97 171" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Group</title>
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linecap="square">
+        <g id="Arrow---Right-Copy-4" transform="translate(-8.000000, -20.000000)" stroke="#1E59A6" stroke-width="6">
+            <g id="Group" transform="translate(56.500000, 105.500000) scale(-1, 1) translate(-56.500000, -105.500000) translate(12.000000, 25.000000)">
+                <line x1="3.16645263" y1="2.78811875" x2="85.9010593" y2="75.2793931" id="Line" transform="translate(44.533756, 39.033756) rotate(3.775466) translate(-44.533756, -39.033756) "></line>
+                <line x1="3.09894073" y1="80.7881188" x2="85.8335474" y2="153.279393" id="Line-Copy" transform="translate(44.466244, 117.033756) rotate(93.775466) translate(-44.466244, -117.033756) "></line>
+            </g>
+        </g>
+    </g>
+</svg>

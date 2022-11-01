@@ -8,10 +8,18 @@ description: Eva is een kei in het mensen laten samenwerken. Ze organiseert en c
 quote: '"Als pijnpunten niet uitgesproken worden ben ik niet bang om deze te (laten) benoemen."'
 type: Managing Director
 keywords:
-labels: [coördinatie, coaching, organiseren, projectmanagement, professioneel bemoeial]
+labels:
+  [
+    coördinatie,
+    coaching,
+    organiseren,
+    projectmanagement,
+    professioneel bemoeial,
+  ]
 
 hideBanner: true
 image: "/assets/img/mensen/Eva-Leffef-Associate-Tiltshift.jpg"
+sliderPhoto: "/assets/img/slider/Eva-Leffef.jpg"
 personImage: /assets/img/mensen/Eva-Leffef-Associate-Tiltshift.jpg
 email: eva.leffef@tiltshift.nl
 linkedInUrl: https://www.linkedin.com/in/evaleffef/
