@@ -16,6 +16,8 @@ caption:
 
 {% include people-slider.html %}
 
+## Digitalisering weer op de rails
+
 {{ page.description }}
 
 Bel ons op <a href="tel:+31207220207">020-722 02 07</a> als:

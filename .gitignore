@@ -2,4 +2,4 @@ _site
 .jekyll-cache
 .sass-cache
 Gemfile
-./node_modules
+node_modules
