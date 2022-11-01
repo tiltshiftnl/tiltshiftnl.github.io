@@ -15,7 +15,8 @@ image: /assets/img/mensen/Maarten-Geraets-Partner-Tiltshift.jpg
 personImage: /assets/img/mensen/Maarten-Geraets-Partner-Tiltshift.jpg
 email: maarten.geraets@tiltshift.nl
 linkedInUrl: https://www.linkedin.com/in/maarten-geraets/
-telephone: T <a href="tel:+31307210834">+31 (0)30 721 08 34</a>
+telephone: <a href="tel:+31307210834">+31 (0)30 721 08 34</a>
+vcardUrl: https://fwd.tiltshift.nl/vcard-maarten
 
 order: 4
 back: ..
