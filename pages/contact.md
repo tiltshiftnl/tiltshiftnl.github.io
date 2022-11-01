@@ -12,8 +12,10 @@ hideBanner: true
 image: /assets/img/foto/Leiderschap-bij-starten-of-vastgelopen-digitalisering.jpg
 caption: ''
 ---
+Tijdens een vrijblijvend intake- en adviesgesprek bespreken we jouw situatie en hoe we daarbij kunnen helpen.
 
-{% include cta.html header="Intake en advies" persoon="eva" %}
+<a href="tel:+31207220207">+31 (0)20 722 02 07</a><br />
+<a href="mailto:info@tiltshift.nl">info@tiltshift.nl</a>
 
 ### Bezoekadres
 
