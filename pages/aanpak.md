@@ -13,12 +13,14 @@ caption:
 ---
 {{ page.description }}
 
-
-
 ## Methodiek en stijl
 Iedere partner heeft zijn eigen stijl, maar allemaal werken ze vanuit (software) design thinking en natuurlijk Agile.
 
 De focus ligt op bruikbaarheid en concrete resultaten. Vaak is het beter om iets maken en dát te beoordelen, dan uren te besteden aan praten en plannen maken.
+
+<div class="article-image">
+    <img src="/assets/img/Fases-Software-Design-Thinking.jpg" alt="Systematische weergave van de fases van Software Design Thinking">
+</div>
 
 ## Elementen die terugkomen
 
