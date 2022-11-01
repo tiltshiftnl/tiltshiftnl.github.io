@@ -3,7 +3,7 @@ layout: default
 variant: white
 permalink: /aanpak/
 
-title: Onze aanpak
+title: De expert aanpak
 description: "Tiltshift experts helpen organisaties die vast lopen bij digitale transformatie. Vanuit het perspectief van de business zorgen ze voor daadkracht en doelgerichtheid. Dat doen ze niet zomaar, daar zit ervaring en een mening achter."
 keywords: methodes, design thinking, lean startup, service design, government digital services, agile, xp, creative commons
 
@@ -17,29 +17,30 @@ caption:
 >
 > <small class="author">Medewerker gemeente Amsterdam</small>
 
-## Doe het samen
+## Methodiek en stijl
+Iedere partner heeft zijn eigen stijl, maar allemaal werken ze vanuit (software) design thinking en natuurlijk Agile.
 
-Projecten doe je samen, met je team én met de mensen voor wie de uitkomst bedoeld is. We brengen iedereen bij elkaar in nuttige sessies en geven ruim baan aan de ervaring van de bedoelde gebruikers. De focus ligt op bruikbaarheid en concrete resultaten. Soms kan je beter iets maken en dat beoordelen, dan er vooraf uren met elkaar over praten. 
+De focus ligt op bruikbaarheid en concrete resultaten. Vaak is het beter om iets maken en dát te beoordelen, dan vooraf uren te besteden aan praten en plannen maken.
 
-In de praktijk doen we eerst een compact onderzoek waarbij het doel voor iedereen weer duidelijk en gelijk wordt. Volgt er een (her)inrichting van het project en gaan we vervolgens vol aan de slag.
+## Elementen die terugkomen
 
-## Iedereen weer op één lijn
+### Iedereen betrokken
 
-De eerste stap is altijd vaststellen wat we willen bereiken en waarom. We verzamelen de bestaande containerbegrippen en abstracte plannen. Vervolgens brengen we dat samen en maken we het concreet. Geen gedetailleerd plan, maar na afloop consensus over de hoofdlijn en een heldere koers van het project.
+We brengen iedereen samen in nuttige sessies en geven ruim baan aan de ervaring van de gebruikers. Met het hele team lopen we mee met de uitvoerenden.
 
-Wij interviewen opdrachtgever, management, andere stakeholders én de mensen voor wie het allemaal bestemd is. We faciliteren het samenbrengen van deze meningen en wensen. En nemen regie ten aanzien van de gezamenlijke besluitvorming.
+### Heldere koers
 
-## Inregelen of interventie
+We stellen altijd eerst vast wat we willen bereiken en waarom. Wij interviewen opdrachtgever, management, andere stakeholders én de mensen voor wie het allemaal bestemd is: de uitvoerende, de gebruiker.
 
-Zodra de koers van het project helder is bepalen we de beste inrichting. Die zetten we op of passen we aan. We betrekken de mensen die nog onvoldoende zijn vertegenwoordigd in het project en sturen we hen die onvoldoende bijdragen weg. Met de nieuwe groep bepalen we een realistische scope en zorgen voor een heldere verwachting. 
+We zorgen voor consensus over de hoofdlijn en een heldere koers. We nemen regie ten aanzien van de gezamenlijke besluitvorming.
 
-Wij doen een voorstel voor de inrichting van de organisatie en regelen deze desgewenst in. We faciliteren de scope bepaling en zorgen voor adequaat verwachtingsmanagement.
+### Inrichting
 
-## Korte projecten of iteraties
+Is de koers helder, dan bepalen we de inrichting. We betrekken de mensen die nog onvoldoende zijn vertegenwoordigd in het project en sturen we hen die onvoldoende bijdragen weg. Met het (nieuwe) team bepalen we een realistische scope.
 
-Met een opgelijnd team, heldere doelen en een realistische scope kunnen we van start. Samen met de eindgebruikers passen we hun proces en software stapsgewijs aan. We starten meteen met de implementatie, zodat de aanpassingen direct en 'in het echt' gebruikt en getest worden. Op deze manier is er snel resultaat en krijgen de medewerkers weer vertrouwen.
+### Korte projecten of iteraties
 
-We faciliteren het projectteam met leiderschap en vullen eventueel ontbrekende rollen aan met ervaren mensen.
+Samen met de gebruikers passen we hun proces en software stapsgewijs aan. We starten metéén met de implementatie, zodat de oplossing direct en ‘in het echt’ gebruikt en getest worden. Op deze manier is er snel resultaat en zien betrokkenen wat er verandert.
 
 > "We hebben echt het gevoel dat er heel goed naar ons geluisterd is, dit zien we terug in het systeem."
 >
