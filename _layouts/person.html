@@ -1,46 +1,61 @@
 <!DOCTYPE html>
 <html>
-{% include head.html %}
-<body class="{% if page.variant %}body--variant-{{ page.variant }}{% endif %}">
-  <header>{% include navigation.html %}</header>
-  <main {% if page.hideBanner %}class="margin-top"{% endif %}>
-    <!-- {% if page.back %}
-    <p><a href="{{ page.back }}">« overzicht van {{ page.collection }}</a></p>
-    {% endif %} -->
+  {% include head.html %}
+  <body
+    class="{% if page.variant %}body--variant-{{ page.variant }}{% endif %}"
+  >
+    <header>{% include navigation.html %}</header>
+    <main {% if page.hideBanner %}class="margin-top" {% endif %}>
+      <!-- {% if page.back %}
+      <p><a href="{{ page.back }}">« overzicht van {{ page.collection }}</a></p>
+      {% endif %} -->
 
-    <div class="container-md">
-      <div class="intro">
-        <h1>{{ page.title }}</h1>
-        <h3 class="person-page__content__type">{{ page.type }}</h3>
-      </div>
-      <div class="person-page">
-        <div class="person-page__left">
-          <img src="{{ page.personImage }}" alt="" />
+      <div class="container-md">
+        <div class="intro"></div>
+
+        <div class="person-page">
+          <div class="person-page__left">
+            <img src="{{ page.personImage }}" alt="" />
+          </div>
+          <div class="person-page__right">
+            <h1 class="person-page__right__name">{{ page.title }}</h1>
+            <h3 class="person-page__right__role">{{ page.type }}</h3>
+            <div class="person-page__right__business-card">
+              <div class="person-page__right__business-card__links">
+                {% if page.telephone %} {{page.telephone}}<br />{% endif %} {%
+                if page.email %}
+                <a href="mailto:{{page.email}}">{{page.email}}</a><br />{% endif
+                %} {% if page.linkedInUrl %}
+                <a href="{{page.linkedInUrl}}">LinkedIn</a>
+                {% endif %} {% if page.vcardUrl %}<br />
+                <a href="{{page.vcardUrl}}" download>vCard downloaden</a>
+                {% endif %}
+              </div>
+              <a
+                class="person-page__right__business-card__btn btn btn--white"
+                href="/contact"
+                >of neem contact op met Tiltshift</a
+              >
+            </div>
+          </div>
         </div>
-        <div class="person-page__content">
-          <p>
-          {% if page.telephone %}{{page.telephone}}<br />{% endif %}
-          {% if page.email %}<a href="mailto:{{page.email}}">{{page.email}}</a><br />{% endif %}
-          {% if page.linkedInUrl %}<a href="{{page.linkedInUrl}}">LinkedIn</a>{% endif %}
-          </p>
-          <blockquote>
-            <p>{{page.quote}}</p>
-          </blockquote>
-          {{ content }}
-        </div>
       </div>
-    </div>
 
-    {% include people.html excludeCurrent=true %}
+      <div class="container-sm">
+        <blockquote>
+          <p>{{page.quote}}</p>
+        </blockquote>
+        {{ content }}
+      </div>
 
-    {% if page.back %}
-    <p><a href="{{ page.back }}">« overzicht van {{ page.collection }}</a></p>
-    {% endif %}
-
-    {% unless page.hideform %}
-    <!-- {% include contact.html %} -->
-    {% endunless %}
-  </main>
-  <footer>{% include footer.html %}</footer>
-</body>
+      {% include people.html excludeCurrent=true %} {% if page.back %}
+      <p>
+        <a href="{{ page.back }}">« overzicht van {{ page.collection }}</a>
+      </p>
+      {% endif %} {% unless page.hideform %}
+      <!-- {% include contact.html %} -->
+      {% endunless %}
+    </main>
+    <footer>{% include footer.html %}</footer>
+  </body>
 </html>

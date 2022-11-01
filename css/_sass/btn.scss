@@ -2,10 +2,17 @@
     background-color: $primair-blauw;
     color: $white;
     padding: $gutter-xs $gutter-sm;
-    font-size: $font-size-sm;
+    font-size: $font-size-md;
     font-weight: normal;
     //border-radius: 4px;
     text-decoration: none;
+    display: flex;
+
+    &--white{
+        background-color: white;
+        color: $primair-blauw;
+        border: 2px solid $primair-blauw;
+    }
 
     @media screen and (min-width: $breakpoint-lg) {
         padding: $gutter-xs $gutter-lg;
