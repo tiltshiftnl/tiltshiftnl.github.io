@@ -76,3 +76,29 @@
         }
     }
 }
+
+.person-page-content{
+    &__title{
+        font-size: $font-size-xl;
+    }
+    &__project {
+        display: flex;
+        justify-self: flex-start;
+        flex-direction: column;
+        // border-bottom: 2px solid $primair-blauw;
+        &--title{
+            color: $primair-blauw;
+            margin-bottom: 0rem;
+        }
+        p{
+            margin-top: .25rem;
+        }
+        &--border{
+            background-color: $primair-blauw;
+            display: flex;
+            width: 5rem;
+            height: 2px;
+            margin-bottom: 1rem;
+        }
+    }
+}

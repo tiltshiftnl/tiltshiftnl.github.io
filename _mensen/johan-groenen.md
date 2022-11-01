@@ -25,6 +25,46 @@ linkedInUrl: https://www.linkedin.com/in/jgroenen/
 vcardUrl: https://fwd.tiltshift.nl/vcard-johan
 telephone: T <a href="tel:+31641518018">+31 (0)6 415 18 0 18</a>
 
+projects:
+  - Algoritmeregister:
+      text: "Het inzetten van algoritmes en kunstmatige intelligentie door de overheid
+is niet zonder risico’s. Het is daarom niet vreemd dat dit volop in de
+belangstelling staat in de media, de politiek en Europese wetgeving. Met
+het programma “Algoritmeregister” helpen **we** overheden hier meer
+grip op te krijgen en naar buiten toe meer inzicht te geven in welke
+algoritmes er worden ingezet en waarom."
+  - Demodam:
+      text: "Common Ground is een beweging om los te komen van de afhankelijk van
+specifieke leveranciers bij het bedenken, realiseren en in de praktijk
+inzetten van gemeentelijke software. Door software op te splitsen in
+kleine, samenwerkende brokjes wordt het mogelijk om stukjes te
+vervangen. Met Demodam organiseren we het “centrale marktplein”
+hiervoor:L een plaats waar (nieuwe) leveranciers en klanten naartoe
+kunnen komen met hun problemen, ideeën en innovaties, en waar open
+innovaties en samenwerkingen worden gestimuleerd."
+  - Demodam:
+      text: "Common Ground is een beweging om los te komen van de afhankelijk van
+specifieke leveranciers bij het bedenken, realiseren en in de praktijk
+inzetten van gemeentelijke software. Door software op te splitsen in
+kleine, samenwerkende brokjes wordt het mogelijk om stukjes te
+vervangen. Met Demodam organiseren we het “centrale marktplein”
+hiervoor:L een plaats waar (nieuwe) leveranciers en klanten naartoe
+kunnen komen met hun problemen, ideeën en innovaties, en waar open
+innovaties en samenwerkingen worden gestimuleerd."
+
+previousProjects:
+  - Opzetten Datalab Amsterdam:
+      text: "In 2015 werden wij gevraagd om bij de Gemeente Amsterdam een
+Datalab op te zetten: een plaats om “meer te doen met data” en
+“innovatieve toepassingen” te realiseren. Om dit handen en voeten te
+geven hebben we de Fixxx methode voor snelle innovatie die werkt
+geïntroduceerd: in 12 weken van probleem naar werkende toepassing. Met
+onder andere design thinking, lean startup en open source, agile
+development brachten we samen met betrokkenen de problemen in kaart
+en ontwikkelden we slimme, datagedreven oplossingen. Datalab en de
+Fixxx manier van werken zijn ondertussen een voorbeeld geworden voor
+hoe overheden op een nieuwe manier software ontwikkelen."
+
 order: 3
 back: ..
 ---

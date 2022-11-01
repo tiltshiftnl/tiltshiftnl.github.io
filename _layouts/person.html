@@ -1,11 +1,9 @@
 <!DOCTYPE html>
 <html>
   {% include head.html %}
-  <body
-    class="{% if page.variant %}body--variant-{{ page.variant }}{% endif %}"
-  >
+  <body class="{% if page.variant %}body--variant-{{ page.variant }}{% endif %}">
     <header>{% include navigation.html %}</header>
-    <main {% if page.hideBanner %}class="margin-top" {% endif %}>
+    <main {% if page.hideBanner %}class="margin-top"{% endif %}>
       <!-- {% if page.back %}
       <p><a href="{{ page.back }}">« overzicht van {{ page.collection }}</a></p>
       {% endif %} -->
@@ -15,47 +13,81 @@
 
         <div class="person-page">
           <div class="person-page__left">
-            <img src="{{ page.personImage }}" alt="" />
+            <img src="{{ page.personImage }}" alt="Foto {{ page.title }}"/>
           </div>
           <div class="person-page__right">
             <h1 class="person-page__right__name">{{ page.title }}</h1>
             <h3 class="person-page__right__role">{{ page.type }}</h3>
-            <div class="person-page__right__business-card">
-              <div class="person-page__right__business-card__links">
-                {% if page.telephone %} {{page.telephone}}<br />{% endif %} {%
+            {% if page.email %}
+              <div class="person-page__right__business-card">
+                <div class="person-page__right__business-card__links">
+                  {% if page.telephone %}
+                    {{page.telephone}}<br/>{% endif %}
+                  {%
                 if page.email %}
-                <a href="mailto:{{page.email}}">{{page.email}}</a><br />{% endif
-                %} {% if page.linkedInUrl %}
-                <a href="{{page.linkedInUrl}}">LinkedIn</a>
-                {% endif %} {% if page.vcardUrl %}<br />
-                <a href="{{page.vcardUrl}}" download>vCard downloaden</a>
-                {% endif %}
+                    <a href="mailto:{{page.email}}">{{page.email}}</a><br/>{% endif
+                %}
+                  {% if page.linkedInUrl %}
+                    <a href="{{page.linkedInUrl}}">LinkedIn</a>
+                  {% endif %}
+                  {% if page.vcardUrl %}<br/>
+                    <a href="{{page.vcardUrl}}" download>vCard downloaden</a>
+                  {% endif %}
+                </div>
+
+                <a class="person-page__right__business-card__btn btn btn--white" href="/contact">of neem contact op met Tiltshift</a>
               </div>
-              <a
-                class="person-page__right__business-card__btn btn btn--white"
-                href="/contact"
-                >of neem contact op met Tiltshift</a
-              >
-            </div>
+            {% endif %}
           </div>
         </div>
       </div>
 
-      <div class="container-sm">
+      <div class="container-sm person-page-content">
         <blockquote>
           <p>{{page.quote}}</p>
         </blockquote>
         {{ content }}
-      </div>
+        {% if page.projects %}
+          <h2 class="person-page">Hier werk ik aan</h2>
+          {%- for p in page.projects -%}
+            {% assign index = forloop.index | minus: 1 %}
+            {% assign key = page.projects[index]|first|first %}
+            <div class="person-page-content__project">
+              <h3 class="person-page-content__project--title">
+                {{page.projects[index]|first|first}}
+              </h3>
+              <p>{{page.projects[index][key].text}}</p>
+              <div class="person-page-content__project--border"></div>
+            </div>
+          {%- endfor -%}
+        {% endif %}
+        {% if page.projects %}
+          <h2 class="person-page">Eerdere projecten</h2>
+          {%- for p in page.previousProjects -%}
+            {% assign index = forloop.index | minus: 1 %}
+            {% assign key = page.previousProjects[index]|first|first %}
+            <div class="person-page-content__project">
+              <h3 class="person-page-content__project--title">
+                {{page.previousProjects[index]|first|first}}
+              </h3>
+              <p>{{page.previousProjects[index][key].text}}</p>
+              <div class="person-page-content__project--border"></div>
+            </div>
+          {%- endfor -%}
+        {% endif %}
+        </div>
 
-      {% include people.html excludeCurrent=true %} {% if page.back %}
-      <p>
-        <a href="{{ page.back }}">« overzicht van {{ page.collection }}</a>
-      </p>
-      {% endif %} {% unless page.hideform %}
-      <!-- {% include contact.html %} -->
-      {% endunless %}
-    </main>
-    <footer>{% include footer.html %}</footer>
+        {% include people.html excludeCurrent=true %}
+        {% if page.back %}
+          <p>
+            <a href="{{ page.back }}">« overzicht van {{ page.collection }}</a>
+          </p>
+        {% endif %}
+        {% unless page.hideform %}
+          <!-- {% include contact.html %} -->
+        {% endunless %}
+      </main>
+      <footer>{% include footer.html %}</footer>
+    </body>
   </body>
 </html>
