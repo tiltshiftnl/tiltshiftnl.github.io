@@ -18,7 +18,7 @@ caption:
 ## Methodiek en stijl
 Iedere partner heeft zijn eigen stijl, maar allemaal werken ze vanuit (software) design thinking en natuurlijk Agile.
 
-De focus ligt op bruikbaarheid en concrete resultaten. Vaak is het beter om iets maken en dát te beoordelen, dan vooraf uren te besteden aan praten en plannen maken.
+De focus ligt op bruikbaarheid en concrete resultaten. Vaak is het beter om iets maken en dát te beoordelen, dan uren te besteden aan praten en plannen maken.
 
 ## Elementen die terugkomen
 
