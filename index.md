@@ -3,7 +3,7 @@ layout: default
 hideform: true
 variant: white
 
-title: Experts in digitale transformatie
+title: Uitvoerend leiderschap in digitale transformatie
 subtitle: Als je écht wil beginnen met digitale transformatie of interne digitalisering vast loopt
 description: |
   We verzorgen het uitvoerend leiderschap voor digitale projecten en transformatieprogramma's, vanuit inhoudelijke expertise op het gebied van service design, software ontwikkeling en organisatieverandering.
