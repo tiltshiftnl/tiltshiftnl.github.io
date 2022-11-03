@@ -40,11 +40,11 @@ We zorgen voor consensus over de hoofdlijn en een heldere koers. We nemen regie 
 
 ### Inrichting
 
-Is de koers helder, dan bepalen we de inrichting. We betrekken de mensen die nog onvoldoende zijn vertegenwoordigd in het project en sturen we hen die onvoldoende bijdragen weg. Met het (nieuwe) team bepalen we een realistische scope.
+Is de koers helder, dan bepalen we de inrichting. We betrekken de mensen die nog onvoldoende zijn vertegenwoordigd en sturen we hen die onvoldoende bijdragen weg. Samen met het (nieuwe) team bepalen we een realistische scope.
 
-### Korte projecten of iteraties
+### Iteratief
 
-Samen met de gebruikers passen we hun proces en software stapsgewijs aan. We starten metéén met de implementatie, zodat de oplossing direct en ‘in het echt’ gebruikt en getest worden. Op deze manier is er snel resultaat en zien betrokkenen wat er verandert.
+Met de gebruikers passen we hun proces en software stapsgewijs aan. We starten metéén met de implementatie, zodat de oplossing direct en ‘in het echt’ gebruikt en getest worden. Op deze manier is er snel resultaat en zien betrokkenen wat er verandert.
 
 > "De snelheid waarmee jullie dingen oppakken, je vergeet bijna dat je bij de gemeente werkt!"
 >
