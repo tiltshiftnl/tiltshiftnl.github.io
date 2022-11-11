@@ -1,0 +1,22 @@
+<div class="article-image">
+    <div style="display: flex">
+        {% assign mensen_in_order = site.mensen | sort: "order" %}
+        {% for persoon in mensen_in_order %}
+        {% unless persoon.title == page.title && include.excludeCurrent %}
+        <div>
+            <div>
+                <a href="{{ persoon.url }}">
+                    <img src="{{ persoon.image }}" style="border: 12px solid white">
+                </a>
+            </div>
+            <div style="text-align: center">
+                <p style="margin: 0; font-weight: bolder">
+                    <a href="{{ persoon.url }}" style="text-decoration: none">{{ persoon.title }}</a>
+                </p>
+                <p style="margin-top: 0; color: #1E59A6">{{ persoon.type }}</p>
+            </div>
+        </div>
+        {% endunless %}
+        {% endfor %}
+    </div>
+</div>

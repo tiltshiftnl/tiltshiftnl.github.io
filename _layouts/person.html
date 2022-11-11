@@ -46,43 +46,46 @@
         <blockquote>
           <p>{{page.quote}}</p>
         </blockquote>
+
         {{ content }}
+
         {% if page.projects %}
-          <h2 class="person-page">Hier werk ik aan</h2>
-          {%- for p in page.projects -%}
-            {% assign index = forloop.index | minus: 1 %}
-            {% assign key = page.projects[index]|first|first %}
+          <h2 class="person-page">Projecten</h2>
+          {% for p in page.projects %}
             <div class="person-page-content__project">
               <h3 class="person-page-content__project--title">
-                {{page.projects[index]|first|first}}
+                {{ p[0] }}
               </h3>
-              <p>{{page.projects[index][key].text}}</p>
+              <p>{{ p[1]|markdownify }}</p>
               <div class="person-page-content__project--border"></div>
             </div>
-          {%- endfor -%}
+          {% endfor %}
         {% endif %}
-        {% if page.projects %}
+
+        {% if page.previousProjects %}
           <h2 class="person-page">Eerdere projecten</h2>
-          {%- for p in page.previousProjects -%}
-            {% assign index = forloop.index | minus: 1 %}
-            {% assign key = page.previousProjects[index]|first|first %}
+          {% for p in page.previousProjects %}
             <div class="person-page-content__project">
               <h3 class="person-page-content__project--title">
-                {{page.previousProjects[index]|first|first}}
+                {{ p[0] }}
               </h3>
-              <p>{{page.previousProjects[index][key].text}}</p>
+              <p>{{ p[1]|markdownify }}</p>
               <div class="person-page-content__project--border"></div>
             </div>
           {%- endfor -%}
         {% endif %}
         </div>
 
-        {% include people.html excludeCurrent=true %}
+        {% include people-table.html excludeCurrent=true %}
+
+        {% comment %}
         {% if page.back %}
           <p>
             <a href="{{ page.back }}">« overzicht van {{ page.collection }}</a>
           </p>
         {% endif %}
+        {% endcomment %}
+
         {% unless page.hideform %}
           <!-- {% include contact.html %} -->
         {% endunless %}

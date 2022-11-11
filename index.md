@@ -36,17 +36,9 @@ We werken samen met interne ontwikkelteams en waar nodig halen we onze ontwikkel
 
 Een Tiltshifter is specialist op zijn of haar vakgebied en heeft een sterke eigen mening. Die zetten we in om jouw doel te bereiken, tenminste, als we in dat doel geloven. Tiltshift bestaat uit een kernteam van vaste krachten, aangevuld met een flexibele schil van freelancers.
 
-<div class="article-image">
-    <table><tr>
-    {% assign mensen_in_order = site.mensen | sort: "order" %}
-    {% for persoon in mensen_in_order %}
-    <td>
-        <a href="{{ persoon.url }}"><img src="{{ persoon.image }}" style="border: 12px solid white"></a></td>
-    {% endfor %}
-    </tr></table>
-</div>
+{% include people-table.html %}
 
-<a href="/mensen/" class="link-centered">ontmoet het kernteam</a>
+<!-- <a href="/mensen/" class="link-centered">ontmoet het kernteam</a> -->
 
 {% include projects-homepage.html title="Uitgelichte projecten" intro="" projects=site.projects %}
 

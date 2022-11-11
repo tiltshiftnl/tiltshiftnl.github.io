@@ -7,10 +7,9 @@
     {% endif %}
     <div class="grid grid--three {% if include.excludeCurrent %}grid--three{% endif %}">
     {% for person in people  %}
-        {% if person.title == page.title && include.excludeCurrent %}
-        {% else %}
+        {% unless person.title == page.title && include.excludeCurrent %}
             {% include person-block.html image=person.personImage title=person.title type=person.type url=person.url %}
-        {% endif %}
+        {% endunless %}
     {% endfor %}
     </div>
 </div>
