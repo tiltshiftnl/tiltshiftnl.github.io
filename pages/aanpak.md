@@ -16,13 +16,13 @@ caption:
 ## Software design thinking
 Iedere partner heeft zijn eigen stijl, maar allemaal werken ze vanuit (software) design thinking en natuurlijk Agile.
 
-De focus ligt op bruikbaarheid en concrete resultaten. Vaak is het beter om iets maken en dát te beoordelen, dan uren te besteden aan praten en plannen maken.
+De focus ligt op bruikbaarheid en concrete resultaten. Vaak is het beter om iets maken en dát te beoordelen, dan te praten en plannen maken.
 
 <div class="article-image">
     <img src="/assets/img/Tiltshift-Aanpak-Software-Design-Thinking.jpg" alt="Systematische weergave van de aanpak van Tiltshift d.m.v. de fases van Software Design Thinking">
 </div>
 
-## Elementen die terugkomen
+## Elementen uitgelicht
 
 ### Iedereen betrokken
 
