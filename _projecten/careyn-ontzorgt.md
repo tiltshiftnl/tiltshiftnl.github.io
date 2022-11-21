@@ -42,7 +42,7 @@ Tijdens het kwartiermaken waren de medewerkers van Careyn al heel gemotiveerd om
 >
 > <small>Steven van Dorst, Manager Markt en Communicatie, Careyn</small>
 
-Met een team van de belangrijkste betrokkenen, waaronder de huidige technische leverancier, formuleerden we de uitgangspunten en borgden deze bij de directie. Ook zorgden we voor een heldere, kleine scope. Geen nieuwe huisstijl, maar wel een flinke opfrisbeurt. De huidige teksten inkorten en opnieuw schrijven. Een toekomstvaste architectuur, maar wel een gebaseerd op de techniek die al in gebruik was. En, heel belangrijk, bij alles wat we deden stond continue de toegevoegde waarde voor de eindgebruiker centraal.
+Met een team van de belangrijkste betrokkenen, waaronder de huidige technische leverancier, formuleerden we de uitgangspunten en borgden deze bij de directie. Ook zorgden we voor een heldere, kleine scope. Geen nieuwe huisstijl, maar wel een flinke opfrisbeurt. De huidige teksten inkorten en herschrijven. Een toekomstvaste architectuur, maar wel een gebaseerd op de techniek die al in gebruik was. En, heel belangrijk, bij alles wat we deden stond continue de toegevoegde waarde voor de eindgebruiker centraal.
 
 <div class="article-image">
     <img src="/assets/img/foto/Careyn-Joost-en-Eva-kijken-naar-scherm.jpg">
