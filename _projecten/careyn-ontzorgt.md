@@ -64,7 +64,7 @@ Met de realisatie van de nieuwe [careyn.nl](https://www.careyn.nl/) beschikt de 
 
 - product management: [Joris Boeren](/mensen/joris-boeren/)
 - product ownership: Joost Bout
-- UX onderzoek: Sanne Stuurman
+- UX onderzoek: Sanne Stuur
 - UX ontwerp en UI: [Keen design](https://www.keen.design/nl/)
                                                                     
 {% include cta.html header="Ook digitaal ontzorgt worden?" persoon="joris" %}
