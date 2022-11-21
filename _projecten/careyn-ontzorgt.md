@@ -62,9 +62,9 @@ De realisatie vond plaats in korte sprints waarbij het team telkens met focus aa
 
 Met de realisatie van de nieuwe [careyn.nl](https://www.careyn.nl/) beschikt de organisatie over een krachtige online omgeving, klaar ook voor de toekomst. De eerste stappen naar self service zijn gezet en de architectuur is gereed voor verdere digitalisering van het administratieve proces.
 
-- product management: Joris Boeren
+- product management: [Joris Boeren](/mensen/joris-boeren/)
 - product ownership: Joost Bout
 - UX onderzoek: Sanne Stuurman
-- Keen design: UI en UX
+- UX ontwerp en UI: [Keen design](https://www.keen.design/nl/)
                                                                     
 {% include cta.html header="Meer weten? Of ook digitaal ontzorgt worden?" persoon="joris" %}
