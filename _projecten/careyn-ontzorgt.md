@@ -30,19 +30,19 @@ Ouderenzorg cliënten en mantelzorgers willen sneller geholpen worden en zelf di
     <img src="/assets/img/foto/Careyn-Joris-Boeren-leiderschap-traject-nieuwe-website.jpg" alt="Leiderschap door Joris Boeren">
 </div>
 
-Careyn, een grote zorgorganisatie in de provincies Utrecht en Zuid-Holland, vroeg Tiltshift hen te helpen met hun eerste stap in digitale transitie. Er was behoefte aan een eenvoudige digitale omgeving waar cliënten en mantelzorgers terecht kunnen voor algemene vragen, maar ook waar ze zelfredzaam hun zorg kunnen organiseren. Geen patiëntendossier dus, maar de stap ervoor, het geven van specifieke locatiegebonden informatie en het kunnen aanvragen van diensten.
+Careyn, een grote zorgorganisatie in de provincies Utrecht en Zuid-Holland, vroeg Tiltshift hen te helpen met hun eerste stap in digitale transformatie. Er was behoefte aan een eenvoudige digitale omgeving waar cliënten en mantelzorgers terecht kunnen voor algemene vragen, maar ook waar ze zelfredzaam hun zorg kunnen organiseren. Geen patiëntendossier dus, maar de stap ervoor, het geven van specifieke locatiegebonden informatie en het kunnen aanvragen van diensten.
 
 <div class="article-image">
     <img src="/assets/img/foto/Careyn-Joost-Bout-en-Sanne-Schuur-onderzoeken-doelgroep.jpg">
 </div>
 
-Tijdens het kwartiermaken waren de medewerkers van Careyn al heel gemotiveerd om dit project aan te pakken. Er was alleen nog geen gedeeld beeld van de uitkomst waardoor het project groter dreigde te worden. Daardoor stond de relatie met de bestaande leveranciers onder druk. De opzet van de organisatie vormde een extra uitdaging. Door de vele regio’s en vestigingen zijn er veel belanghebbenden, op verschillende plekken in de organisatie. Allemaal verklaringen waarom eerdere pogingen om tot zo’n digitale omgeving te komen niet zijn gelukt.
+Tijdens het kwartiermaken waren de medewerkers van Careyn al heel gemotiveerd om dit project aan te pakken. Er was alleen nog geen gedeeld beeld van de uitkomst waardoor het project groter dreigde te worden. Daardoor stond de relatie met de bestaande leveranciers onder druk. De opzet van de organisatie vormde een extra uitdaging. Door de vele regio’s en vestigingen zijn er veel belanghebbenden, op verschillende plekken in de organisatie. Allemaal verklaringen waarom eerdere pogingen om tot zo’n digitale omgeving te komen niet waren gelukt.
 
 > "We kozen bewust voor Tiltshift omdat de ervaring was dat de traditionele manier van werken niet meer de resultaten zou behalen die we voor ogen hadden. Tiltshift kiest de benadering om van wat er al is opnieuw in te regelen en de doelen in korte tijd praktisch te realiseren."
 >
 > <small>Steven van Dorst, Manager Markt en Communicatie, Careyn</small>
 
-Met een compact team van de belangrijkste betrokkenen, waaronder de huidige technische leverancier, formuleerden we de uitgangspunten en borgden die bij de directie. Ook zorgden we ervoor de scope zo klein mogelijk te houden. Geen nieuwe huisstijl, maar wel een forse opfrisbeurt. De huidige teksten inkorten en opnieuw schrijven. Een toekomstvaste architectuur, maar wel een gebaseerd op de techniek die al in gebruik was. En, heel belangrijk, voor alles wat we deden: continue de toegevoegde waarde voor de eindgebruiker centraal stellen.
+Met een team van de belangrijkste betrokkenen, waaronder de huidige technische leverancier, formuleerden we de uitgangspunten en borgden deze bij de directie. Ook zorgden we voor een heldere, kleine scope. Geen nieuwe huisstijl, maar wel een flinke opfrisbeurt. De huidige teksten inkorten en herschrijven. Een toekomstvaste architectuur, maar wel een gebaseerd op de techniek die al in gebruik was. En, heel belangrijk, bij alles wat we deden stond continue de toegevoegde waarde voor de eindgebruiker centraal.
 
 <div class="article-image">
     <img src="/assets/img/foto/Careyn-Joost-en-Eva-kijken-naar-scherm.jpg">
@@ -62,9 +62,9 @@ De realisatie vond plaats in korte sprints waarbij het team telkens met focus aa
 
 Met de realisatie van de nieuwe [careyn.nl](https://www.careyn.nl/) beschikt de organisatie over een krachtige online omgeving, klaar ook voor de toekomst. De eerste stappen naar self service zijn gezet en de architectuur is gereed voor verdere digitalisering van het administratieve proces.
 
-- product management: Joris Boeren
+- product management: [Joris Boeren](/mensen/joris-boeren/)
 - product ownership: Joost Bout
-- UX onderzoek: Sanne Stuurman
-- Keen design: UI en UX
+- UX onderzoek: Sanne Stuur
+- UX ontwerp en UI: [Keen design](https://www.keen.design/nl/)
                                                                     
-{% include cta.html header="Meer weten? Of ook digitaal ontzorgt worden?" persoon="joris" %}
+{% include cta.html header="Ook digitaal ontzorgt worden?" persoon="joris" %}
