@@ -26,7 +26,7 @@ Bel ons op <a href="tel:+31207220207">020-722 02 07</a> als:
 
 - **Interne digitalisering vastloopt**. We brengen de problemen in kaart, scheiden het kaf van het koren en zorgen voor nieuwe energie en beweging.
 
-We werken samen met interne ontwikkelteams en waar nodig halen we onze ontwikkelpartners erbij voor extra capaciteit.
+We werken samen met jouw ontwikkelteam en waar nodig nemen we onze experts mee voor extra capaciteit.
 
 {% include cta.html header="Intake en adviesgesprek" persoon="eva" %}
 
@@ -34,7 +34,7 @@ We werken samen met interne ontwikkelteams en waar nodig halen we onze ontwikkel
 
 ## Mensen
 
-Een Tiltshifter is specialist op zijn of haar vakgebied en heeft een sterke eigen mening. Die zetten we in om jouw doel te bereiken, tenminste, als we in dat doel geloven. Tiltshift bestaat uit een kernteam van vaste krachten, aangevuld met een flexibele schil van freelancers.
+Een Tiltshifter is specialist op zijn of haar vakgebied en heeft een sterke eigen mening. Die zetten we in om jouw doelen te bereiken - tenminste, als we in dat doel geloven.
 
 {% include people-table.html %}
 

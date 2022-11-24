@@ -7,7 +7,7 @@ subject: Digitalisering in beweging
 title: "Mensen"
 subtitle: Tiltshifters zorgen voor beweging om jouw doel te bereiken, als we er in geloven tenminste.
 
-description: "Tiltshifters zorgen voor beweging. Door mensen te motiveren, dingen klein te maken en - als het nodig is - te confronteren. Altijd duurzaam en gericht op voortgang zijn we communicatief, vriendelijk én duidelijk. Elke Tiltshifter heeft een specifieke kunde maar evengoed een duidelijke mening. Die zetten we in om jouw doel te bereiken, tenminste, als we in dat doel geloven."
+description: "Tiltshifters zorgen voor beweging. Door mensen te motiveren, dingen behapbaar te maken en waar dat nodig is te confronteren. Altijd gericht op voortgang zijn we communicatief, vriendelijk én duidelijk. Elke Tiltshifter heeft een specifieke kunde maar evengoed een duidelijke mening. Die zetten we in om jouw doel te bereiken - tenminste, als we in dat doel geloven."
 keywords: "Tiltshifters, kernteam, mensen, peeps, leiderschap, innovatie, interventie, vacature"
 
 hideBanner: true
@@ -16,11 +16,9 @@ caption: 'Explore "App Interne Dienstverlening", Gemeente&nbsp;Amsterdam'
 
 menu: show
 ---
-Tiltshifters zorgen voor beweging als het stil staat. Door mensen te motiveren, dingen klein te maken en - als het nodig is - te confronteren. Altijd duurzaam en gericht op voortgang zijn we communicatief, vriendelijk én duidelijk. 
+Tiltshifters zorgen voor beweging. Door mensen te motiveren, dingen behapbaar te maken en waar dat nodig is te confronteren. Altijd gericht op voortgang zijn we communicatief, vriendelijk én duidelijk.
 
-Elke Tiltshifter heeft een specifieke kunde maar evengoed een duidelijke mening. Die zetten we in om jouw doel te bereiken, tenminste, als we in dat doel geloven.
-
-Tiltshift bestaat uit een kernteam van vaste krachten, aangevuld met een flexibele schil van freelancers. We werken nauw met elkaar samen en trekken samen op om de doelen van onze opdrachtgevers te halen. Tenminste, als we zelf in die doelen geloven. 
+Elke Tiltshifter heeft een specifieke kunde maar evengoed een duidelijke mening. Die zetten we in om jouw doel te bereiken - tenminste, als we in dat doel geloven.
 
 ## Kernteam
 
