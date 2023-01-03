@@ -54,8 +54,6 @@ Een greep uit onze opdrachtgevers:
 
 [Algorithm Registers for European Cities](/2022/07/06/Met-9-steden-werken-aan-Algorithm-Registers-for-European-Cities.html) - juni 2022<br>Johan neemt een samenwerking van 9 steden mee door het hoe en waarom van algoritmeregisters en samen maken ze daarbij een verdiepingsslag.
 <br><br>
-[Sanne aan boord als UX Researcher!](/2022/02/15/Sanne-aan-boord-als-ux-researcher.html) - februari 2022<br>Met haar achtergrond als filosoof, programmeur en UX-er is ze de perfecte UX researcher in ons team.
-<br><br>
 [Favoriete project van Maarten in 2021](/2021/12/30/favoriete-project-van-Maarten-in-2021.html) - december 2021<br>De Explore die we deden voor de gemeente Rotterdam is een fantastisch voorbeeld van waar we echt de vraag achter de vraag hebben gevonden.
 
 <a href="/posts/" class="link-centered">alle nieuwsberichten</a>
