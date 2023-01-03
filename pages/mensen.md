@@ -5,10 +5,10 @@ permalink: /mensen/
 
 subject: Digitalisering in beweging
 title: "Mensen"
-subtitle: Tiltshifters zorgen voor beweging om jouw doel te bereiken, als we er in geloven tenminste.
+subtitle: Tiltshifters zorgen voor beweging om jouw doel te bereiken, als ze er in geloven tenminste.
 
-description: "Tiltshifters zorgen voor beweging. Door mensen te motiveren, dingen behapbaar te maken en waar dat nodig is te confronteren. Altijd gericht op voortgang zijn we communicatief, vriendelijk én duidelijk. Elke Tiltshifter heeft een specifieke kunde maar evengoed een duidelijke mening. Die zetten we in om jouw doel te bereiken - tenminste, als we in dat doel geloven."
-keywords: "Tiltshifters, kernteam, mensen, peeps, leiderschap, innovatie, interventie, vacature"
+description: "Tiltshifters zorgen voor beweging. Door mensen te motiveren, dingen behapbaar te maken en waar dat nodig is te confronteren. Altijd gericht op voortgang zijn we communicatief, vriendelijk én duidelijk. Elke Tiltshifter heeft een specifieke kunde maar evengoed een duidelijke mening. Die zetten ze in om jouw doel te bereiken - tenminste, als ze in dat doel geloven."
+keywords: "Tiltshifters, senior, uitvoerend, leiderschap, consultants, partners, mensen, peeps, innovatie, interventie, vacature"
 
 hideBanner: true
 image: "assets/img/foto/IMG_9253_scaled.jpg"
@@ -18,7 +18,7 @@ menu: show
 ---
 Tiltshifters zorgen voor beweging. Door mensen te motiveren, dingen behapbaar te maken en waar dat nodig is te confronteren. Altijd gericht op voortgang zijn we communicatief, vriendelijk én duidelijk.
 
-Elke Tiltshifter heeft een specifieke kunde maar evengoed een duidelijke mening. Die zetten we in om jouw doel te bereiken - tenminste, als we in dat doel geloven.
+Elke Tiltshifter heeft een specifieke kunde maar evengoed een duidelijke mening. Die zetten ze in om jouw doel te bereiken - tenminste, als ze in dat doel geloven.
 
 ## Kernteam
 
