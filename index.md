@@ -34,7 +34,7 @@ We werken samen met jouw ontwikkelteam en waar nodig nemen we onze experts mee v
 
 ## Mensen
 
-Een Tiltshifter is specialist op zijn of haar vakgebied en heeft een sterke eigen mening. Die zetten we in om jouw doelen te bereiken - tenminste, als we in dat doel geloven.
+Een Tiltshifter is specialist op zijn of haar vakgebied en heeft een sterke eigen mening. Die zetten ze in om jouw doelen te bereiken - tenminste, als ze in dat doel geloven.
 
 {% include people-table.html %}
 
