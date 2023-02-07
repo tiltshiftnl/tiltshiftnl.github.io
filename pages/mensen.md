@@ -20,6 +20,4 @@ Tiltshifters zorgen voor beweging. Door mensen te motiveren, dingen behapbaar te
 
 Elke Tiltshifter heeft een specifieke kunde maar evengoed een duidelijke mening. Die zetten ze in om jouw doel te bereiken - tenminste, als ze in dat doel geloven.
 
-## Kernteam
-
 {% include people.html %}
