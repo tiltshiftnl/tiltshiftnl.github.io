@@ -4,7 +4,7 @@ variant: white
 permalink: /mensen/
 
 subject: Digitalisering in beweging
-title: "Mensen"
+title: "Partners"
 subtitle: Tiltshifters zorgen voor beweging om jouw doel te bereiken, als ze er in geloven tenminste.
 
 description: "Tiltshifters zorgen voor beweging. Door mensen te motiveren, dingen behapbaar te maken en waar dat nodig is te confronteren. Altijd gericht op voortgang zijn we communicatief, vriendelijk én duidelijk. Elke Tiltshifter heeft een specifieke kunde maar evengoed een duidelijke mening. Die zetten ze in om jouw doel te bereiken - tenminste, als ze in dat doel geloven."
