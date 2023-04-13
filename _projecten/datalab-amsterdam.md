@@ -36,6 +36,10 @@ Vanuit DataLab Amsterdam werd gezocht naar concrete problemen in de organisatie 
 
 In de beginfase waren veel afdelingen tegen de plannen en werd ons roekeloos cowboy gedrag verweten. Hierop reageerden we door aan te haken op de belangen van de nee-zeggers. Bleven ze toch nee zeggen, dan gingen we om ze heen.
 
+<div class="article-image">
+    <img src="/assets/img/foto/Gemeentelijk-DataLab-oprichten-Amsterdam.jpg" alt="UX researcher Yvonne en developer Krijn zitten in DataLab Amsterdam">
+</div>
+
 DataLab Amsterdam groeide uit tot een centrale spil in de innovatie van de stad. Afdelingen met aanvankelijk irritatie werden geholpen met kwalitatieve data en applicaties.
 
 Het team had als doel om nuttige toepassingen te maken voor mensen in de stad, waar zij echt wat aan hebben. De *business* kon voor nop gebruikmaken van de diensten van DataLab Amsterdam. Dit wilde ze doordat we schaarste creëerde door te focussen op één project tegelijk. Tijdens enkele open dagen konden casussen worden aangedragen en geprioriteerd. De directie had de finale stem in welke projecten opgepakt werden.
