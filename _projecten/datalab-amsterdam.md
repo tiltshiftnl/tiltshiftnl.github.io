@@ -13,14 +13,14 @@ order: 1000
 
 hideBanner: true
 image: /assets/img/foto/Gemeentelijk-DataLab-oprichten-Amsterdam.jpg
-image_alt_text: ''
+image_alt_text: 'Team zit in ruimte DataLab Rotterdam, in oprichtingsperiode, met op achtergrond een muur vol design en post-its'
 caption:
 
 featured: false
 featured_order: 1
-featured_image: /assets/img/foto/Gemeentelijk-DataLab-oprichten-Amsterdam.jpg
-featured_image_alt_text: ''
-excerpt: "Succesvol gebruik en betere ontsluiting van de gemeentelijke data voor innovatieve toepassingen."
+featured_image: /assets/img/projecten-featured/Team-tijdens-oprichten-DataLab-Amsterdam.jpg
+featured_image_alt_text: 'Team zit in ruimte DataLab Rotterdam, met op achtergrond een muur vol design en post-its'
+excerpt: "De gemeente Amsterdam speelt een voortrekkersrol op het gebied van innovatie, data en applicatieontwikkeling. Dat vindt de oorsprong in DataLab Amsterdam."
 
 back: ..
 ---
