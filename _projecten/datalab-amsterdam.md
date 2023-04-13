@@ -44,10 +44,14 @@ DataLab Amsterdam groeide uit tot een centrale spil in de innovatie van de stad.
 
 Het team had als doel om nuttige toepassingen te maken voor mensen in de stad, waar zij echt wat aan hebben. De *business* kon voor nop gebruikmaken van de diensten van DataLab Amsterdam. Hiervoor stonden ze in de rij doordat we schaarste creëerden door te focussen op één project tegelijk. Tijdens enkele open dagen konden casussen worden aangedragen en geprioriteerd. De directie had de finale stem in welke projecten opgepakt werden.
 
+<div class="article-image">
+    <img src="/assets/img/foto/Oprichten-DataLab-gemeente-Prioritering-projecten.jpg" alt="Prioritering projecten tijdens oprichten DataLab gemeente">
+</div>
+
+DataLab Amsterdam heeft bijgedragen aan de innovatie van de stad en heeft geleid tot kwalitatieve data en applicaties voor verschillende afdelingen binnen de gemeente. Amsterdam speelt, binnen de gemeenten, een voortrekkersrol op het gebied van innovatie, data en applicatieontwikkeling. Dat vindt de oorsprong in DataLab Amsterdam.
+
 > “Dus in drie maanden applicaties maken voor mensen, die shit oplost en die data nodig heeft. Dat was de truc, nu werd de data daadwerkelijk gebruikt”
 > 
 > <small>Maarten Geraets, partner</small>
-
-DataLab Amsterdam heeft bijgedragen aan de innovatie van de stad en heeft geleid tot kwalitatieve data en applicaties voor verschillende afdelingen binnen de gemeente. Amsterdam speelt, binnen de gemeenten, een voortrekkersrol op het gebied van innovatie, data en applicatieontwikkeling. Dat vindt de oorsprong in DataLab Amsterdam.
                                                                     
 {% include cta.html header="Ook innovatieve toepassingen realiseren?" persoon="maarten" %}
