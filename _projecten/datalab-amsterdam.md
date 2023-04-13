@@ -2,7 +2,7 @@
 layout: default
 variant: white
 
-title: "DataLab Amsterdam"
+title: "Oprichten DataLab Amsterdam"
 description: Amsterdam speelt binnen de gemeenten een voortrekkersrol op het gebied van innovatie, data en applicatieontwikkeling. Dat vindt de oorsprong in DataLab Amsterdam.
 quote:
 type:
@@ -20,7 +20,7 @@ featured: false
 featured_order: 1
 featured_image: /assets/img/foto/Gemeentelijk-DataLab-oprichten-Amsterdam.jpg
 featured_image_alt_text: ''
-excerpt: "succesvol gebruik en betere ontsluiting van de gemeentelijke data voor innovatieve toepassingen"
+excerpt: "Succesvol gebruik en betere ontsluiting van de gemeentelijke data voor innovatieve toepassingen."
 
 back: ..
 ---
@@ -42,12 +42,12 @@ In de beginfase waren veel afdelingen tegen de plannen en werd ons roekeloos cow
 
 DataLab Amsterdam groeide uit tot een centrale spil in de innovatie van de stad. Afdelingen met aanvankelijk irritatie werden geholpen met kwalitatieve data en applicaties.
 
-Het team had als doel om nuttige toepassingen te maken voor mensen in de stad, waar zij echt wat aan hebben. De *business* kon voor nop gebruikmaken van de diensten van DataLab Amsterdam. Dit wilde ze doordat we schaarste creëerde door te focussen op één project tegelijk. Tijdens enkele open dagen konden casussen worden aangedragen en geprioriteerd. De directie had de finale stem in welke projecten opgepakt werden.
+Het team had als doel om nuttige toepassingen te maken voor mensen in de stad, waar zij echt wat aan hebben. De *business* kon voor nop gebruikmaken van de diensten van DataLab Amsterdam. Hiervoor stonden ze in de rij doordat we schaarste creëerden door te focussen op één project tegelijk. Tijdens enkele open dagen konden casussen worden aangedragen en geprioriteerd. De directie had de finale stem in welke projecten opgepakt werden.
 
 > “Dus in drie maanden applicaties maken voor mensen, die shit oplost en die data nodig heeft. Dat was de truc, nu werd de data daadwerkelijk gebruikt”
 > 
 > <small>Maarten Geraets, partner</small>
 
-DataLab Amsterdam heeft bijgedragen aan de innovatie van de stad en heeft geleid tot kwalitatieve data en applicaties voor verschillende afdelingen binnen de gemeente. Amsterdam speelt binnen de gemeenten een voortrekkersrol op het gebied van innovatie, data en applicatieontwikkeling. Dat vindt de oorsprong in DataLab Amsterdam.
+DataLab Amsterdam heeft bijgedragen aan de innovatie van de stad en heeft geleid tot kwalitatieve data en applicaties voor verschillende afdelingen binnen de gemeente. Amsterdam speelt, binnen de gemeenten, een voortrekkersrol op het gebied van innovatie, data en applicatieontwikkeling. Dat vindt de oorsprong in DataLab Amsterdam.
                                                                     
 {% include cta.html header="Ook innovatieve toepassingen realiseren?" persoon="maarten" %}
