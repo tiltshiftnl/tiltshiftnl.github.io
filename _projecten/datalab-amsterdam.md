@@ -12,13 +12,13 @@ labels: [data, digitale transformatie]
 order: 1000
 
 hideBanner: true
-image: /assets/img/foto/Careyn-Joris-Boeren-leiderschap-traject-nieuwe-website.jpg
+image: /assets/img/foto/Gemeentelijk-DataLab-oprichten-Amsterdam.jpg
 image_alt_text: ''
 caption:
 
 featured: false
 featured_order: 1
-featured_image: /assets/img/projecten-featured/Careyn-ontzorgt-met-nieuw-online-kanaal.jpg
+featured_image: /assets/img/foto/Gemeentelijk-DataLab-oprichten-Amsterdam.jpg
 featured_image_alt_text: ''
 excerpt: "succesvol gebruik en betere ontsluiting van de gemeentelijke data voor innovatieve toepassingen"
 
