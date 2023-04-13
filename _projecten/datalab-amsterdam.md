@@ -46,4 +46,4 @@ Het team had als doel om nuttige toepassingen te maken voor mensen in de stad, w
 
 DataLab Amsterdam heeft bijgedragen aan de innovatie van de stad en heeft geleid tot kwalitatieve data en applicaties voor verschillende afdelingen binnen de gemeente. Amsterdam speelt binnen de gemeenten een voortrekkersrol op het gebied van innovatie, data en applicatieontwikkeling. Dat vindt de oorsprong in DataLab Amsterdam.
                                                                     
-{% include cta.html header="Ook digitaal ontzorgt worden?" persoon="joris" %}
+{% include cta.html header="Ook innovatieve toepassingen realiseren?" persoon="maarten" %}
