@@ -30,7 +30,7 @@ De gemeente Amsterdam deelde vanuit de [applicatie Straatnotes](https://www.tilt
 
 Ook al leek de oplossingsrichting duidelijk (de e-mailfunctie vanuit de applicatie Straatnotes vervangen), toch deden we een stap terug en brachten we eerst de informatiebehoefte bij de verschillende agenten die te maken hebben met jeugd(overlast) in kaart.
 
-Doordat we al langere tijd werken in het veld van (jeugd) overlast in Amsterdam was er al veel kennis aanwezig en konden we deze onderzoeksfase efficiënt inrichten. De problemen waar agenten in hun informatiebehoefte tegen aan liepen waren dan ook snel in kaart. De heldere visie van de Politie, Gebiedsgebonden politie (GGP), hielp enorm om daar prioriteit in aan te brengen.
+Doordat we al langer werken in het veld van (jeugd) overlast in Amsterdam was er al veel kennis aanwezig en konden we deze onderzoeksfase efficiënt inrichten. De problemen waar agenten in hun informatiebehoefte tegen aan liepen waren dan ook snel in kaart. De heldere visie van de Politie, Gebiedsgebonden politie (GGP), hielp enorm om daar prioriteit in aan te brengen.
 
 <div class="article-image">
     <img src="/assets/img/foto/Product-Management-Adus-Blauw-RUIS.jpg" alt="Product Management en richting voor Product Owner">
