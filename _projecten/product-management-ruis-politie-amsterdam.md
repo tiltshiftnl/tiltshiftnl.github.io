@@ -33,7 +33,7 @@ Ook al leek de oplossingsrichting duidelijk (de e-mailfunctie vanuit de applicat
 Doordat we al langer werken in het veld van (jeugd) overlast in Amsterdam was er al veel kennis aanwezig en konden we deze onderzoeksfase efficiënt inrichten. De problemen waar agenten in hun informatiebehoefte tegen aan liepen waren dan ook snel in kaart. De heldere visie van de Politie, Gebiedsgebonden politie (GGP), hielp enorm om daar prioriteit in aan te brengen.
 
 <div class="article-image">
-    <img src="/assets/img/foto/Product-Management-Adus-Blauw-RUIS.jpg" alt="Product Management en richting voor Product Owner">
+    <img src="/assets/img/foto/Product-Management-Adus-Blauw-RUIS.jpg" alt="Product Management en richting voor Product Owner" caption="Omdat er tijdens dit traject thuiswerken nog grotendeels verplicht was (ivm Corona) vonden veel sessie online plaats via Teams, waarbij Miro als presentatie en samenwerk omgeving werd gebruikt.">
 </div>
 
 Tijdens ideation sessies werden een aantal heldere concepten bedacht als oplossing voor de geselecteerde problemen. De belangrijkste betrokkenen brachten hun stem uit, waarna de PO uiteindelijk de knoop door hakte en koos voor één concept: een hotspot app. Dit concept voorziet in de behoefte om een actueel beeld in overlastplekken te krijgen, wat volledig aansluit bij het gebiedsgebonden werken. De dwingende keuze om slechts één van deze concepten (als eerste) te realiseren gaf richting en duidelijkheid voor het vervolg traject. 
