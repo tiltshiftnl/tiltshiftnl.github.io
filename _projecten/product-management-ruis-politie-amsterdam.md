@@ -20,7 +20,7 @@ featured: true
 featured_order: 1
 featured_image: /assets/img/projecten-featured/Product-Management-datauitwisseling-gemeente-politie.jpg
 featured_image_alt_text: 'Product Management geeft richting aan product owner'
-excerpt: "Richting geven aan Product Owner door goed Product Management d.m.v. de inzet van Software Design Thinking."
+excerpt: "Begeleiding Agile applicatie ontwikkeling t.b.v. datauitwisseling gemeente en politie."
 
 back: ..
 ---
