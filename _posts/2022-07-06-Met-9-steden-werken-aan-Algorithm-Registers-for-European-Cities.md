@@ -3,6 +3,7 @@ layout: default
 variant: white
 subject: Algorithm Registers
 title: Met 9 steden werken aan Algorithm Registers for European Cities
+teaser: "Johan gaat met 9 grote Europese steden aan de slag met algoritmeregisters."
 description: "Johan neemt een samenwerking van 9 steden mee door het hoe en waarom van algoritmeregisters en samen maken we daarbij een verdiepingsslag op de standaard voor algoritmische transparantie, waarbij we speciaal letten op de verschillen in lokale context tussen de Europese steden."
 keywords: "publictech,softwaredesign,softwaredesignthinking, designthinking, eurocities,algoritmeregister, algoritme, algorithm"
 hideBanner: true

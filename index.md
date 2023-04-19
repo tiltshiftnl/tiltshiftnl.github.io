@@ -52,8 +52,16 @@ Een greep uit onze opdrachtgevers:
 
 ## Nieuws
 
-[Algorithm Registers for European Cities](/2022/07/06/Met-9-steden-werken-aan-Algorithm-Registers-for-European-Cities.html) - juni 2022<br>Johan neemt een samenwerking van 9 steden mee door het hoe en waarom van algoritmeregisters en samen maken ze daarbij een verdiepingsslag.
-<br><br>
-[Favoriete project van Maarten in 2021](/2021/12/30/favoriete-project-van-Maarten-in-2021.html) - december 2021<br>De Explore die we deden voor de gemeente Rotterdam is een fantastisch voorbeeld van waar we echt de vraag achter de vraag hebben gevonden.
+{% for post in site.posts limit:2 %}
+  {% capture i18n_date %}
+  {% assign m = post.date | date: "%-m" | minus: 1 %}
+  {% assign months = 'januari,februari,maart,april,mei,juni,juli,augustus,september,oktober,november,december' | split: "," %}
+  {% assign month = months[m] %}
+  {% assign year = post.date | date: "%Y" %}
+  {% assign datum = month | append: " " | append: year %}
+  {% endcapture %}
+
+  [{{ post.title }}]({{ post.url }}) - {{ datum }}<br>{{ post.teaser }}<br><br>
+{% endfor %}
 
 <a href="/posts/" class="link-centered">alle nieuwsberichten</a>
