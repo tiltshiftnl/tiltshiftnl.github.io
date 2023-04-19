@@ -3,7 +3,7 @@ layout: default
 variant: white
 
 title: "Product management RUIS - Politie Amsterdam"
-description: Een nieuwe website als katalysator voor samenwerking
+description: De gemeente Amsterdam deelde vanuit de applicatie Straatnotes bepaalde informatie met de Politie Amsterdam. Dat ging weliswaar op een veilige manier, maar wel in een omslachtig en handmatig proces waardoor de informatie niet altijd overzichtelijk terug te vinden was. Aan ons de vraag om te helpen dit proces te automatiseren door in een design traject de ontwikkelaars van de politie Amsterdam te begeleiden met hun vraag: “*Waarom gaan we wat maken, in welke vorm en voor wie*?”.
 quote:
 type:
 keywords: 'product owner, product ownerschap, innovatie, design thinking, software design thinking, digitalisering, digitale transformatie, zorg, ouderenzorg, nieuwe website'
@@ -24,9 +24,7 @@ excerpt: "Begeleiding Agile applicatie ontwikkeling t.b.v. datauitwisseling geme
 
 back: ..
 ---
-### Aanleiding
-
-De gemeente Amsterdam deelde vanuit de [applicatie Straatnotes](https://www.tiltshift.nl/projecten/opknippen-straatnotes/), bepaalde informatie met de Politie Amsterdam. Dat ging weliswaar op een veilige manier, maar wel in een omslachtig en handmatig proces waardoor de informatie niet altijd overzichtelijk terug te vinden was. Aan ons de vraag om te helpen dit proces te automatiseren door in een design traject de ontwikkelaars van de politie Amsterdam te begeleiden met hun vraag: “*Waarom gaan we wat maken, in welke vorm en voor wie*?”.
+De gemeente Amsterdam deelde vanuit de [applicatie Straatnotes](https://www.tiltshift.nl/projecten/opknippen-straatnotes/) bepaalde informatie met de Politie Amsterdam. Dat ging weliswaar op een veilige manier, maar wel in een omslachtig en handmatig proces waardoor de informatie niet altijd overzichtelijk terug te vinden was. Aan ons de vraag om te helpen dit proces te automatiseren door in een design traject de ontwikkelaars van de politie Amsterdam te begeleiden met hun vraag: “*Waarom gaan we wat maken, in welke vorm en voor wie*?”.
 
 ### Ontwerpend onderzoek
 
