@@ -10,7 +10,7 @@ type:
 keywords: Software design thinking, Design Thinking, echte oplossing voor de mensen die het werk doen, privacy, AVG, jeugdoverlast.
 labels: [datagedreven werken, samenwerken, ketenpartners, privacy]
 
-order: 100
+order: 150
 
 hideBanner: true
 image: /assets/img/foto/Straatnotes-meekijken-met-gebruiker-software-design-thinking.jpg
