@@ -14,7 +14,7 @@ hideBanner: true
 image: /assets/img/foto/Wonen-Innovatie-Programma-Interventie.jpg
 caption: ''
 
-order: 100
+order: 160
 
 featured: true
 featured_order: 1
