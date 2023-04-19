@@ -9,7 +9,7 @@ type:
 keywords: 'product owner, product ownerschap, innovatie, design thinking, software design thinking, digitalisering, digitale transformatie, zorg, ouderenzorg, nieuwe website'
 labels: [product owner, digitale transformatie, agile werken]
 
-order: 150
+order: 110
 
 hideBanner: true
 image: /assets/img/foto/Product-Management-Adus-Blauw-RUIS.jpg
