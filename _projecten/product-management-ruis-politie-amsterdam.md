@@ -24,13 +24,13 @@ excerpt: "Hoe ontwerpend onderzoek, een duidelijke productvisie en een heldere M
 
 back: ..
 ---
-De gemeente Amsterdam deelde vanuit de [applicatie Straatnotes](https://www.tiltshift.nl/projecten/opknippen-straatnotes/) bepaalde informatie met de Politie Amsterdam. Dat ging weliswaar op een veilige manier, maar wel in een omslachtig en handmatig proces waardoor de informatie niet altijd overzichtelijk terug te vinden was. Aan ons de vraag om te helpen dit proces te automatiseren door in een design traject de ontwikkelaars van de politie Amsterdam te begeleiden met hun vraag: “*Waarom gaan we wat maken, in welke vorm en voor wie*?”.
+De gemeente Amsterdam deelde vanuit de [applicatie Straatnotes](https://www.tiltshift.nl/projecten/opknippen-straatnotes/) bepaalde informatie met de Politie Amsterdam. Dat ging weliswaar op een veilige manier, maar wel in een omslachtig en handmatig proces waardoor de informatie niet altijd overzichtelijk terug te vinden was. Aan ons de vraag om te helpen dit proces te verbeteren door in een design traject de ontwikkelaars van de politie Amsterdam te begeleiden met hun vraag: “*Waarom gaan we wat maken, in welke vorm en voor wie*?”.
 
 ### Ontwerpend onderzoek
 
-Ook al leek de oplossingsrichting duidelijk (de e-mailfunctie vanuit de applicatie Straatnotes vervangen), toch deden we een stap terug en brachten we eerst de informatiebehoefte bij de verschillende agenten die te maken hebben met jeugd(overlast) in kaart.
+Ook al leek de oplossingsrichting duidelijk (de e-mailfunctie vanuit de applicatie Straatnotes vervangen), toch deden we een stap terug en brachten we eerst de informatiebehoefte in kaart bij de verschillende agenten die te maken hebben met jeugdoverlast.
 
-Doordat we al langer werken in het veld van (jeugd) overlast in Amsterdam was er al veel kennis aanwezig en konden we deze onderzoeksfase efficiënt inrichten. De problemen waar agenten in hun informatiebehoefte tegen aan liepen waren dan ook snel in kaart. De heldere visie van de Politie, Gebiedsgebonden politie (GGP), hielp enorm om daar prioriteit in aan te brengen.
+Doordat we al langer werken in het veld van jeugdoverlast in Amsterdam was er al veel kennis aanwezig en konden we deze onderzoeksfase efficiënt inrichten. De problemen waar agenten in hun informatiebehoefte tegen aan liepen waren dan ook snel in kaart. De heldere visie van de Politie, Gebiedsgebonden politie (GGP), hielp enorm om daar prioriteit in aan te brengen.
 
 <div class="article-image">
     <img src="/assets/img/foto/Product-Management-Adus-Blauw-RUIS.jpg" alt="Product Management en richting voor Product Owner">
