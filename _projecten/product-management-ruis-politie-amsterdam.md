@@ -40,7 +40,7 @@ Doordat we al langer werken in het veld van jeugdoverlast in Amsterdam was er al
 
 Tijdens ideation sessies werden een aantal heldere concepten bedacht als oplossing voor de geselecteerde problemen. De belangrijkste betrokkenen brachten hun stem uit, waarna de PO uiteindelijk de knoop door hakte en koos voor één concept: een hotspot app. Dit concept voorziet in de behoefte om een actueel beeld in overlastplekken te krijgen, wat volledig aansluit bij het gebiedsgebonden werken. De dwingende keuze om slechts één van deze concepten (als eerste) te realiseren gaf richting en duidelijkheid voor het vervolg traject. 
 
-> "Eva heef zich niet beperkt tot de kale opdracht, maar heeft ons gestimuleerd en gecoacht bij het verder nadenken. Wat is de echte behoefte en hoe kunnen we die invullen? Hoe krijgen we de vraag van de interne klant helder? Hoe kom je tot de meest wenselijke oplossing binnen de mogelijkheden? De communicatie met Eva is heel prettig. Ze is helder, geeft richting, luistert en helpt ons knopen door te hakken. Dit heeft geleid tot een erg goed product. Daarnaast heb ik als Product Owner veel van Eva geleerd."
+> "Eva heeft zich niet beperkt tot de kale opdracht, maar heeft ons gestimuleerd en gecoacht bij het verder nadenken. Wat is de echte behoefte en hoe kunnen we die invullen? Hoe krijgen we de vraag van de interne klant helder? Hoe kom je tot de meest wenselijke oplossing binnen de mogelijkheden?"
 >
 > <small>Aline van der Laan, Operationeel Specialist D & Regionaal Coördinator Partnerschap, Politie Amsterdam</small>
 
@@ -54,11 +54,16 @@ Ter voorbereiding van de ontwikkeling bepaalde de Product Owner, UX-ers en ontwi
     <small>Eerste versie van de applicatie, er is geen echte data te zien.</small>
 </div>
 
-Tijdens de ontwikkelingsfase werd de Product Owner ondersteund bij o.a. Agile werken, het opstellen van de programma,- en projectvisie en het bijhouden van de roadmap (met epics). Door telkens uit te rollen naar kleine groepjes gebruikers in plaats van in één keer live gaan voor alle gebruikers, verliep de livegang van de applicatie soepel. Kleine dingen die tijdens het in gebruik nemen naar boven kwamen konden zo gelijk opgelost worden.
-
 > "Doordat je als begeleidende rol volledig buiten de organisatie staat is het ‘verkopen’ van de werkwijze (bijvoorbeeld een aantal Software Design Thinking methodes) soms extra lastig. Wanneer dit dan toch lukt, mensen de waarde ervan (in)zien en zelfs termen en gebruiken gaan overnemen, dan geeft dat juist weer heel veel energie!"
 >
 > <small>Eva Leffef, Algemeen directeur</small>
+
+Tijdens de ontwikkelingsfase werd de Product Owner ondersteund bij o.a. Agile werken, het opstellen van de programma,- en projectvisie en het bijhouden van de roadmap (met epics). Door telkens uit te rollen naar kleine groepjes gebruikers in plaats van in één keer live gaan voor alle gebruikers, verliep de livegang van de applicatie soepel. Kleine dingen die tijdens het in gebruik nemen naar boven kwamen konden zo gelijk opgelost worden.
+
+
+> "De communicatie met Eva is heel prettig. Ze is helder, geeft richting, luistert en helpt ons knopen door te hakken. Dit heeft geleid tot een erg goed product. Daarnaast heb ik als Product Owner veel van Eva geleerd."
+>
+> <small>Aline van der Laan, Operationeel Specialist D & Regionaal Coördinator Partnerschap, Politie Amsterdam</small>
 
 - product management: [Eva Leffef](/mensen/eva-leffef/)
 - product ownership: Joost Bout
