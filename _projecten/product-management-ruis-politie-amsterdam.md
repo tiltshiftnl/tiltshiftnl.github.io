@@ -40,6 +40,12 @@ Doordat we al langer werken in het veld van jeugdoverlast in Amsterdam was er al
 
 Tijdens ideation sessies werden een aantal heldere concepten bedacht als oplossing voor de geselecteerde problemen. De belangrijkste betrokkenen brachten hun stem uit, waarna de PO uiteindelijk de knoop door hakte en koos voor één concept: een hotspot app. Dit concept voorziet in de behoefte om een actueel beeld in overlastplekken te krijgen, wat volledig aansluit bij het gebiedsgebonden werken. De dwingende keuze om slechts één van deze concepten (als eerste) te realiseren gaf richting en duidelijkheid voor het vervolg traject. 
 
+> "Eva heef zich niet beperkt tot de kale opdracht, maar heeft ons gestimuleerd en gecoacht bij het verder nadenken. Wat is de echte behoefte en hoe kunnen we die invullen? Hoe krijgen we de vraag van de interne klant helder? Hoe kom je tot de meest wenselijke oplossing binnen de mogelijkheden? De communicatie met Eva is heel prettig. Ze is helder, geeft richting, luistert en helpt ons knopen door te hakken. Dit heeft geleid tot een erg goed product. Daarnaast heb ik als Product Owner veel van Eva geleerd."
+>
+> <small>Aline van der Laan, Operationeel Specialist D & Regionaal Coördinator Partnerschap, Politie Amsterdam
+
+###</small>
+
 ### Heldere MVP scope
 
 Ter voorbereiding van de ontwikkeling bepaalde de Product Owner, UX-ers en ontwikkelaar samen de MVP scope (wat is het minimale product om mee live te gaan, zodat er **zo snel mogelijk geleerd kan worden** van gebruik van de applicatie). Een zwarte-gat workshop (”*als dit project helemaal mislukt, waar heeft dat dan aan gelegen?*”) hielp om een paar blinde vlekken in kaart te brengen, zodat deze op voorhand al opgelost werden.
