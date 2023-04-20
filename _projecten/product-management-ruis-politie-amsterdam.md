@@ -47,7 +47,7 @@ Ter voorbereiding van de ontwikkeling bepaalde de Product Owner, UX-ers en ontwi
 <div class="article-image">
     <img src="/assets/img/foto/Begeleiding-agile-ontwikkeling-data-uitwisseling-politie-gemeente.jpg">
     
-    <small>Deze afbeelding dienst slechts ter illustratie en  is niet een weergave van de echte applicatie, er is ook geen echte data te zien.</small>
+    <small>Eerste versie van de applicatie, er is geen echte data te zien.</small>
 </div>
 
 Tijdens de ontwikkelingsfase werd de Product Owner ondersteund met o.a. Agile mindset, programma,- en projectvisie, het opstellen van de roadmap (met epics). Door het uitrollen naar kleine groepjes gebruikers in plaats van in één keer live gaan voor alle gebruikers, verliep de livegang van de applicatie soepel. Kleine dingen die tijdens het in gebruik nemen naar boven kwamen konden zo gelijk opgelost worden.
