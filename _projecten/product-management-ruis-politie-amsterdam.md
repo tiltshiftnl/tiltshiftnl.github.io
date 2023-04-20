@@ -50,7 +50,7 @@ Ter voorbereiding van de ontwikkeling bepaalde de Product Owner, UX-ers en ontwi
     <small>Eerste versie van de applicatie, er is geen echte data te zien.</small>
 </div>
 
-Tijdens de ontwikkelingsfase werd de Product Owner ondersteund met o.a. Agile mindset, programma,- en projectvisie, het opstellen van de roadmap (met epics). Door het uitrollen naar kleine groepjes gebruikers in plaats van in één keer live gaan voor alle gebruikers, verliep de livegang van de applicatie soepel. Kleine dingen die tijdens het in gebruik nemen naar boven kwamen konden zo gelijk opgelost worden.
+Tijdens de ontwikkelingsfase werd de Product Owner ondersteund bij o.a. Agile werken, het opstellen van de programma,- en projectvisie en het bijhouden van de roadmap (met epics). Door telkens uit te rollen naar kleine groepjes gebruikers in plaats van in één keer live gaan voor alle gebruikers, verliep de livegang van de applicatie soepel. Kleine dingen die tijdens het in gebruik nemen naar boven kwamen konden zo gelijk opgelost worden.
 
 > "Doordat je als begeleidende rol volledig buiten de organisatie staat is het ‘verkopen’ van de werkwijze (bijvoorbeeld een aantal Software Design Thinking methodes) soms extra lastig. Wanneer dit dan toch lukt, mensen de waarde ervan (in)zien en zelfs termen en gebruiken gaan overnemen, dan geeft dat juist weer heel veel energie!"
 >
