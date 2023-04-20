@@ -20,7 +20,7 @@ featured: true
 featured_order: 1
 featured_image: /assets/img/projecten-featured/Product-Management-datauitwisseling-gemeente-politie.jpg
 featured_image_alt_text: 'Product Management geeft richting aan product owner'
-excerpt: "Hoe een onderzoek naar de informatie behoefte, een duidelijke product en een heldere MVP scope de Agile applicatie ontwikkeling t.b.v. datauitwisseling gemeente en politie succesvol maakten."
+excerpt: "Hoe ontwerpend onderzoek, een duidelijke productvisie en een heldere MVP scope de datauitwisseling tussen gemeente en politie succesvol maakte."
 
 back: ..
 ---
@@ -40,9 +40,9 @@ Doordat we al langer werken in het veld van (jeugd) overlast in Amsterdam was er
 
 Tijdens ideation sessies werden een aantal heldere concepten bedacht als oplossing voor de geselecteerde problemen. De belangrijkste betrokkenen brachten hun stem uit, waarna de PO uiteindelijk de knoop door hakte en koos voor één concept: een hotspot app. Dit concept voorziet in de behoefte om een actueel beeld in overlastplekken te krijgen, wat volledig aansluit bij het gebiedsgebonden werken. De dwingende keuze om slechts één van deze concepten (als eerste) te realiseren gaf richting en duidelijkheid voor het vervolg traject. 
 
-### Ontwikkeling van MVP
+### Heldere MVP scope
 
-Ter voorbereiding van de ontwikkeling bepaalde de Product Owner, UX-ers en ontwikkelaar samen de MVP scope (wat is het minimale product om mee live te gaan, zodat er zo snel mogelijk geleerd kan worden van gebruik van de applicatie). Een zwarte-gat workshop (”*als dit project helemaal mislukt, waar heeft dat dan aan gelegen?*”) hielp om een paar blinde vlekken in kaart te brengen, zodat deze op voorhand al opgelost werden.
+Ter voorbereiding van de ontwikkeling bepaalde de Product Owner, UX-ers en ontwikkelaar samen de MVP scope (wat is het minimale product om mee live te gaan, zodat er **zo snel mogelijk geleerd kan worden** van gebruik van de applicatie). Een zwarte-gat workshop (”*als dit project helemaal mislukt, waar heeft dat dan aan gelegen?*”) hielp om een paar blinde vlekken in kaart te brengen, zodat deze op voorhand al opgelost werden.
 
 <div class="article-image">
     <img src="/assets/img/foto/Begeleiding-agile-ontwikkeling-data-uitwisseling-politie-gemeente.jpg">
