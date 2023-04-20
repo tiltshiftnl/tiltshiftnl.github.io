@@ -34,7 +34,7 @@ Doordat we al langer werken in het veld van jeugdoverlast in Amsterdam was er al
 
 <div class="article-image">
     <img src="/assets/img/foto/Product-Management-Adus-Blauw-RUIS.jpg" alt="Product Management en richting voor Product Owner">
-   
+   <br />
     <small>Omdat er tijdens dit traject thuiswerken nog grotendeels verplicht was (ivm Corona) vonden veel sessie online plaats via Teams, waarbij Miro als presentatie en samenwerk omgeving werd gebruikt.</small>
 </div>
 
@@ -42,9 +42,7 @@ Tijdens ideation sessies werden een aantal heldere concepten bedacht als oplossi
 
 > "Eva heef zich niet beperkt tot de kale opdracht, maar heeft ons gestimuleerd en gecoacht bij het verder nadenken. Wat is de echte behoefte en hoe kunnen we die invullen? Hoe krijgen we de vraag van de interne klant helder? Hoe kom je tot de meest wenselijke oplossing binnen de mogelijkheden? De communicatie met Eva is heel prettig. Ze is helder, geeft richting, luistert en helpt ons knopen door te hakken. Dit heeft geleid tot een erg goed product. Daarnaast heb ik als Product Owner veel van Eva geleerd."
 >
-> <small>Aline van der Laan, Operationeel Specialist D & Regionaal Coördinator Partnerschap, Politie Amsterdam
-
-###</small>
+> <small>Aline van der Laan, Operationeel Specialist D & Regionaal Coördinator Partnerschap, Politie Amsterdam</small>
 
 ### Heldere MVP scope
 
@@ -52,7 +50,7 @@ Ter voorbereiding van de ontwikkeling bepaalde de Product Owner, UX-ers en ontwi
 
 <div class="article-image">
     <img src="/assets/img/foto/Begeleiding-agile-ontwikkeling-data-uitwisseling-politie-gemeente.jpg">
-    
+    <br />
     <small>Eerste versie van de applicatie, er is geen echte data te zien.</small>
 </div>
 
