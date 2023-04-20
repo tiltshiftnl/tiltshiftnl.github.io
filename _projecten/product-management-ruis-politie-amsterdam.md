@@ -20,7 +20,7 @@ featured: true
 featured_order: 1
 featured_image: /assets/img/projecten-featured/Product-Management-datauitwisseling-gemeente-politie.jpg
 featured_image_alt_text: 'Product Management geeft richting aan product owner'
-excerpt: "Hoe ontwerpend onderzoek, een duidelijke productvisie en een heldere MVP scope de datauitwisseling tussen gemeente en politie succesvol maakte."
+excerpt: "Hoe ontwerpend onderzoek, een duidelijke productvisie en een heldere MVP scope datauitwisseling tussen gemeente en politie succesvol maakte."
 
 back: ..
 ---
