@@ -20,7 +20,7 @@ featured: true
 featured_order: 1
 featured_image: /assets/img/projecten-featured/Product-Management-datauitwisseling-gemeente-politie.jpg
 featured_image_alt_text: 'Product Management geeft richting aan product owner'
-excerpt: "Begeleiding Agile applicatie ontwikkeling t.b.v. datauitwisseling gemeente en politie."
+excerpt: "Hoe een onderzoek naar de informatie behoefte, een duidelijke product en een heldere MVP scope de Agile applicatie ontwikkeling t.b.v. datauitwisseling gemeente en politie succesvol maakten."
 
 back: ..
 ---
@@ -34,6 +34,7 @@ Doordat we al langer werken in het veld van (jeugd) overlast in Amsterdam was er
 
 <div class="article-image">
     <img src="/assets/img/foto/Product-Management-Adus-Blauw-RUIS.jpg" alt="Product Management en richting voor Product Owner">
+   
     <small>Omdat er tijdens dit traject thuiswerken nog grotendeels verplicht was (ivm Corona) vonden veel sessie online plaats via Teams, waarbij Miro als presentatie en samenwerk omgeving werd gebruikt.</small>
 </div>
 
@@ -45,6 +46,7 @@ Ter voorbereiding van de ontwikkeling bepaalde de Product Owner, UX-ers en ontwi
 
 <div class="article-image">
     <img src="/assets/img/foto/Begeleiding-agile-ontwikkeling-data-uitwisseling-politie-gemeente.jpg">
+    
     <small>Deze afbeelding dienst slechts ter illustratie en  is niet een weergave van de echte applicatie, er is ook geen echte data te zien.</small>
 </div>
 
