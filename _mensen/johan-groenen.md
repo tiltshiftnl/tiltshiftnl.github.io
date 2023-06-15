@@ -43,3 +43,10 @@ back: ..
 ---
 
 {{ page.description }}
+
+<h2>Haal Johan erbij als:</h2>
+
+- je een developer begeleid wil inzetten (CodeFellow);
+- je een open (source) ontwikkeltraject wil opstarten;
+- er onduidelijkheden of meningsverschillen zijn over de productvisie, -strategie en/of roadmap;
+- het (agile) development team niet lekker functioneert.
