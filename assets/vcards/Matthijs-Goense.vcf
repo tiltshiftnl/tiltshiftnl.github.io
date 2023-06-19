@@ -1,0 +1,13 @@
+BEGIN:VCARD
+VERSION:3.0
+PRODID:-//Apple Inc.//macOS 13.3.1//EN
+N:Goense;Matthijs;;;
+FN:Matthijs Goense
+ORG:Tiltshift B.V.;
+TITLE:Partner
+EMAIL;type=INTERNET;type=WORK;type=pref:matthijs@tiltshift.nl
+EMAIL;type=INTERNET;type=WORK:matthijs.goense@tiltshift.nl
+TEL;type=CELL;type=VOICE;type=pref:0614197435
+item1.URL;type=pref:https://www.tiltshift.nl/mensen/matthijs-goense/
+item1.X-ABLabel:_$!<HomePage>!$_
+END:VCARD
