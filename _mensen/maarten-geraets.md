@@ -17,7 +17,7 @@ personImage: /assets/img/mensen/Maarten-Geraets-Partner-Tiltshift.jpg
 email: maarten.geraets@tiltshift.nl
 linkedInUrl: https://www.linkedin.com/in/maarten-geraets/
 telephone: <a href="tel:+31650222771‬">+31 (0)6 50 22 27 71‬</a>
-vcardUrl: https://fwd.tiltshift.nl/vcard-maarten
+vcardUrl: https://go.tiltshift.nl/vcard-maarten
 
 order: 4
 back: ..
