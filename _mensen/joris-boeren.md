@@ -16,7 +16,7 @@ personImage: /assets/img/mensen/Joris-Boeren-Partner-Tiltshift.jpg
 email: joris.boeren@tiltshift.nl
 linkedInUrl: https://www.linkedin.com/in/jorisboeren/
 telephone: <a href="tel:+31307210868">+31 (0)30 721 08 68</a>
-vcardUrl: https://fwd.tiltshift.nl/vcard-joris
+vcardUrl: https://go.tiltshift.nl/vcard-joris
 
 projects:
   Woonstad Rotterdam - productmanagement digitale transformatie: "Bij woningcorporatie Woonstad Rotterdam werken we aan de ondersteuning van hun ambities voor digitale transformatie. Woonstad is hier al langer (en goed) mee bezig en nu klaar voor het echte werk, waarbij losse initiatieven in samenhang worden gebracht. 
