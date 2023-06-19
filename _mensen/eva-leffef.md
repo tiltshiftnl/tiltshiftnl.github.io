@@ -18,9 +18,9 @@ labels:
   ]
 
 hideBanner: true
-image: "/assets/img/mensen/Eva-Leffef-Associate-Tiltshift.jpg"
+image: "/assets/img/mensen/Eva-Leffef-Managing-Director-Tiltshift.jpg"
 sliderPhoto: "/assets/img/slider/Eva-Leffef.jpg"
-personImage: /assets/img/mensen/Eva-Leffef-Associate-Tiltshift.jpg
+personImage: /assets/img/mensen/Eva-Leffef-Managing-Director-Tiltshift.jpg
 email: eva.leffef@tiltshift.nl
 linkedInUrl: https://www.linkedin.com/in/evaleffef/
 telephone: <a href="tel:+31207220207">+31 (0)20 722 02 07</a>
