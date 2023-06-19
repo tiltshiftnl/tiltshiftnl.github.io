@@ -24,7 +24,7 @@ personImage: /assets/img/mensen/Eva-Leffef-Associate-Tiltshift.jpg
 email: eva.leffef@tiltshift.nl
 linkedInUrl: https://www.linkedin.com/in/evaleffef/
 telephone: <a href="tel:+31207220207">+31 (0)20 722 02 07</a>
-vcardUrl: https://fwd.tiltshift.nl/vcard-eva
+vcardUrl: https://go.tiltshift.nl/vcard-eva
 
 order: 1
 back: ..
