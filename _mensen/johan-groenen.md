@@ -23,7 +23,7 @@ sliderPhoto: "/assets/img/slider/Johan-Groenen.jpg"
 personImage: /assets/img/mensen/Johan-Groenen-Partner-Tiltshift.jpg
 email: johan.groenen@tiltshift.nl
 linkedInUrl: https://www.linkedin.com/in/jgroenen/
-vcardUrl: https://fwd.tiltshift.nl/vcard-johan
+vcardUrl: https://go.tiltshift.nl/vcard-Johan
 telephone: <a href="tel:+31641518018">+31 (0)6 415 18 0 18</a>
 
 projects:
