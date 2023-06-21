@@ -4,7 +4,7 @@ variant: white
 permalink: /intake-en-advies
 
 subject: Intake en adviesgesprek
-title: "Even iemand om mee te sparren?"
+title: "Iemand om mee te sparren?"
 subtitle: 
 
 description: "Tijdens een vrijblijvend intake- en adviesgesprek bespreken we jouw situatie en hoe we daarbij kunnen helpen."
