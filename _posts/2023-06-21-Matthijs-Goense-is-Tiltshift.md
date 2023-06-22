@@ -21,7 +21,7 @@ Matthijs is gepassioneerd over innovatie en het (bege)leiden van digitale transf
 
 Partners bij Tiltshift zorgen voor synergie tussen de verschillende projecten en oplossingen, en zetten elk hun vaardigheden in om digitale transformatie concreet vorm te geven. Ze benutten de kracht van samenwerking, tillen de uitvoering naar een hoger niveau om samen een positieve impact te maken.
 
-> “Matthijs is met zijn kennis en ervaringen die hij heeft opgedaan o.a. bij de gemeente Utrecht, de SVB en het ministerie van SZW een waardevolle aanvulling op de andere partners. Ik kijk dan ook uit naar de samenwerking!”
+> “Met zijn kennis en ervaringen opgedaan o.a. bij de gemeente Utrecht, de SVB en het ministerie van SZW is Matthijs een waardevolle aanvulling op de andere partners. Ik kijk dan ook uit naar de samenwerking!”
 >
 > <small>Eva Leffef, algemeen directeur</small>
 
