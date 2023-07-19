@@ -32,3 +32,10 @@ back: ..
 {{ page.description }}
 
 Met Matthijs samenwerken gaat anders dan je gewend bent. Door zijn aanpak creëert hij een dynamiek waarbij hij anderen uitdaagt om, net als hijzelf, buiten de gebaande paden te treden. Daarbij benut hij de kracht van gezamenlijkheid en teamwerk waardoor iedereen - en met plezier - het doel bereikt.
+
+<h2>Haal Matthijs erbij als:</h2>
+
+- Er leiderschap nodig is in een (ICT) ontwikkeltraject waarbij de eindgebruiker centraal staat.
+- De kloof tussen beleid en uitvoering gedicht moet worden.
+- Je met innovatie wilt starten binnen je organisatie, of als dit een flinke impuls kan gebruiken.
+- Er een workshop gefaciliteerd moet worden.
