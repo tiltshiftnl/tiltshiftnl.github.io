@@ -46,7 +46,7 @@ back: ..
 
 <h2>Haal Johan erbij als:</h2>
 
-- je een developer begeleid wil inzetten (CodeFellow);
-- je een open (source) ontwikkeltraject wil opstarten;
-- er onduidelijkheden of meningsverschillen zijn over de productvisie, -strategie en/of roadmap;
-- het (agile) development team niet lekker functioneert.
+- Je een developer begeleid wil inzetten (CodeFellow);
+- Je een open (source) ontwikkeltraject wil opstarten;
+- Er onduidelijkheden of meningsverschillen zijn over de productvisie, -strategie en/of roadmap;
+- Het (agile) development team niet lekker functioneert.
