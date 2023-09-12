@@ -17,7 +17,7 @@ author: Eva Leffef
 
 {{ page.description }}
 
-Arjen is zeer gedreven als het gaat om voor wie we het allemaal doen: de gebruiker. Als nog niet helder is waarom iets moet gebeuren, dan zorgt hij ervoor dat dit duidelijk wordt. Door zijn visuele werkwijze neemt hij niet alleen een team mee in het te bereiken doel, hij zorgt voor een echt gedeelde, gevalideerde en gedragen oplossing.
+Arjen is zeer gedreven als het gaat om voor wie we het allemaal doen: de gebruiker. Als nog niet helder is waarom iets moet gebeuren, dan zorgt hij ervoor dat dit (eerst) duidelijk wordt. Door zijn visuele werkwijze neemt hij niet alleen een team mee in het te bereiken doel, hij zorgt voor een echt gedeelde, gevalideerde en gedragen oplossing.
 
 Partners bij Tiltshift zorgen voor synergie tussen de verschillende projecten en oplossingen, en zetten elk hun vaardigheden in om digitale transformatie concreet vorm te geven. Ze benutten de kracht van samenwerking, tillen de uitvoering naar een hoger niveau om samen een positieve impact te maken.
 
