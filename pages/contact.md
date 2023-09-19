@@ -32,7 +32,7 @@ BTW-ID NL857680237B01
 ### Postadres
 
 Tiltshift B.V.<br>
-Strawinskylaan 11<br>
-2102 CM Heemstede
+Croeselaan 375 BS<br>
+3521 BW UTRECHT
 
 {% include google-map.html %}
