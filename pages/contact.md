@@ -20,7 +20,7 @@ Tijdens een vrijblijvend intake- en adviesgesprek bespreken we jouw situatie en 
 ### Bezoekadres
 
 Vechtclub XL<br>
-Europalaan 2b<br>
+Europalaan 2 B<br>
 3526 KS Utrecht<br>
 <a href="https://maps.google.com/maps?ll=52.075504,5.106973&z=15&t=m&hl=nl&gl=NL&mapclient=embed&cid=13040789619853914505" target="_blank" title="Open Google Map met Tiltshift adres">Route op de kaart</a>
 
@@ -32,7 +32,7 @@ BTW-ID NL857680237B01
 ### Postadres
 
 Tiltshift B.V.<br>
-Croeselaan 375bs<br>
+Croeselaan 375 BS<br>
 3521 BW Utrecht
 
 {% include google-map.html %}
