@@ -25,6 +25,6 @@ Partners bij Tiltshift zorgen voor synergie tussen de verschillende projecten en
 >
 > <small>Eva Leffef, algemeen directeur</small>
 
-Wil je Arjen feliciteren? Je vindt zijn contactgegevens op [zijn partner pagina](https://www.tiltshift.nl/mensen/arjen-jelsma/).
+Wil je Arjen feliciteren? Je vindt zijn contactgegevens op [zijn partner pagina](https://www.tiltshift.nl/partners/arjen-jelsma/).
 
 [« overzicht van posts](/posts/)
