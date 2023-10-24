@@ -4,7 +4,7 @@ variant: white
 permalink: /aanpak/
 
 title: De Tiltshift aanpak
-description: "Tiltshift partners helpen organisaties die vast lopen bij digitale transformatie. Vanuit het perspectief van de business zorgen ze voor daadkracht en doelgerichtheid. Dat doen ze niet zomaar, daar zit ervaring en een mening achter."
+description: "Tiltshift partners helpen organisaties (die vast lopen) bij digitale transformatie. Vanuit het perspectief van de business zorgen ze voor daadkracht en doelgerichtheid. Dat doen ze niet zomaar, daar zit ervaring en een mening achter."
 keywords: methodes, design thinking, lean startup, service design, government digital services, agile, xp, creative commons
 
 hideBanner: true
