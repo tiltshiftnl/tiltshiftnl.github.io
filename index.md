@@ -38,8 +38,6 @@ Een Tiltshifter is specialist op zijn of haar vakgebied en heeft een sterke eige
 
 {% include people-table.html %}
 
-<!-- <a href="/mensen/" class="link-centered">ontmoet het kernteam</a> -->
-
 {% include projects-homepage.html title="Uitgelichte projecten" intro="" projects=site.projects %}
 
 ## Relaties
