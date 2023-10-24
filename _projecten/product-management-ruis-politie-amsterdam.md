@@ -65,7 +65,7 @@ Tijdens de ontwikkelingsfase werd de Product Owner ondersteund bij o.a. Agile we
 >
 > <small>Aline van der Laan, Operationeel Specialist D & Regionaal Coördinator Partnerschap, Politie Amsterdam</small>
 
-- product management: [Eva Leffef](/mensen/eva-leffef/)
+- product management: [Eva Leffef](/partners/eva-leffef/)
 - project management: Joost Bout
                                                                     
 {% include cta.html header="Ook richting door Product Management?" persoon="eva" %}
