@@ -1,7 +1,7 @@
 ---
 layout: default
 variant: white
-permalink: /mensen/
+permalink: /partners/
 
 subject: Digitalisering in beweging
 title: "Partners"
