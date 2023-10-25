@@ -14,9 +14,9 @@ caption:
 {{ page.description }}
 
 ## Software design thinking
-De focus ligt op bruikbaarheid en concrete resultaten. Vaak is het beter om iets maken en dát te beoordelen, dan te praten en plannen maken.
+De focus ligt op bruikbaarheid en concrete resultaten. Vaak is het beter om iets te maken en dát te beoordelen, dan te praten en plannen maken.
 
-Iedere partner heeft zijn eigen stijl, maar allemaal werken ze vanuit (software) design thinking en natuurlijk Agile.
+Tiltshift partners hebben hun eigen stijl, maar werken allemaal vanuit (software) design thinking en natuurlijk Agile.
 
 <div class="article-image">
     <img src="/assets/img/Tiltshift-Aanpak-Software-Design-Thinking.jpg" alt="Systematische weergave van de aanpak van Tiltshift d.m.v. de fases van Software Design Thinking">
@@ -32,9 +32,9 @@ We brengen iedereen samen in nuttige sessies en geven ruim baan aan de ervaring 
 
 ## Heldere koers
 
-We stellen altijd eerst vast wat we willen bereiken en waarom. Wij interviewen opdrachtgever, management, andere stakeholders én de mensen voor wie het allemaal bestemd is: de uitvoerende, de gebruiker.
-
 We zorgen voor consensus over de hoofdlijn en een heldere koers. We nemen regie ten aanzien van de gezamenlijke besluitvorming.
+
+We stellen altijd eerst vast wat we willen bereiken en waarom. Wij interviewen opdrachtgever, management, andere stakeholders én de mensen voor wie het allemaal bestemd is: de uitvoerende, de gebruiker.
 
 ## Inrichting
 
