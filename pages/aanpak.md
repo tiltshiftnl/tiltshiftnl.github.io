@@ -14,7 +14,7 @@ caption:
 {{ page.description }}
 
 ## Software design thinking
-De focus ligt op bruikbaarheid en concrete resultaten. Vaak is het beter om iets te maken en dát te beoordelen, dan te praten en plannen maken.
+De focus ligt op bruikbaarheid en concrete resultaten. Vaak is het beter om iets te maken en dát te beoordelen, dan vooraf plannen te maken.
 
 Tiltshift partners hebben hun eigen stijl, maar werken allemaal vanuit (software) design thinking en natuurlijk Agile.
 
