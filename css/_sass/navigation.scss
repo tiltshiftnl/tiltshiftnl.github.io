@@ -8,7 +8,7 @@
     display: flex;
     justify-content: space-between;
     z-index: 10;
-    box-shadow: 0px 3px 7px #8888882b;
+    // box-shadow: 0px 3px 7px #8888882b;
     @media screen and (min-width: $breakpoint-md) {
         height: 70px;
         background-color: $black;
