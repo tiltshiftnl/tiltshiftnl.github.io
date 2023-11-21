@@ -52,4 +52,4 @@ Nadien is het systeem, inmiddels Schulddossier genaamd, meerdere keren uitgebrei
 
 Inmiddels zijn ook bewindvoerders aan het systeem toegevoegd, zodat de keten nog efficiënter werkt. Het systeem is gemaakt volgens de principes van Common Ground en kan dus ook door  andere gemeenten worden ingezet.
 
-{% include cta.html header="Wil je meer weten over beter samenwerken in de keten?" persoon="maarten" %}
+{% include cta.html header="Wil je meer weten over beter samenwerken in de keten?" persoon="eva" %}
