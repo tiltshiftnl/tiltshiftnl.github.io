@@ -14,6 +14,7 @@
         &__image{
             display: flex;
             margin-right: $gutter-sm;
+            margin-bottom: $gutter-sm;
         }
         &__right{
             display: flex;
@@ -29,6 +30,12 @@
             &__text{
                 margin-bottom: 1rem;
             }
+        }
+    }
+
+    @media only screen and (max-width: 400px) {
+        &__body {
+            display: block;
         }
     }
 }
