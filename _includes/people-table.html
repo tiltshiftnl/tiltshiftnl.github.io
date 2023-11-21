@@ -1,4 +1,4 @@
-<div class="article-image">
+<div class="article-image" style="overflow-x: scroll">
     <div style="display: flex">
         {% assign mensen_in_order = site.mensen | sort: "order" %}
         {% for persoon in mensen_in_order %}
@@ -6,7 +6,7 @@
         <div>
             <div>
                 <a href="{{ persoon.url }}">
-                    <img src="{{ persoon.image }}" style="border: 12px solid white">
+                    <img src="{{ persoon.image }}" style="border: 12px solid white; height: 200px; width: auto">
                 </a>
             </div>
             <div style="text-align: center">
