@@ -48,5 +48,5 @@ We starten metéén met de implementatie, zodat de oplossing direct en ‘in het
 >
 > <small class="author">Medewerker gemeente Amsterdam</small>
 
-{% include cta.html header="Wat we voor jouw organisatie kunnen betekenen?" persoon="maarten" %}
+{% include cta.html header="Wat we voor jouw organisatie kunnen betekenen?" persoon="eva" %}
 
