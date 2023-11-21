@@ -26,7 +26,7 @@ Bel ons op <a href="tel:+31207220207">020-722 02 07</a> als:
 
 - **Interne digitalisering vastloopt**. We brengen de problemen in kaart, scheiden het kaf van het koren en zorgen voor nieuwe energie en beweging.
 
-We werken samen met jouw ontwikkelteam en waar nodig nemen we onze experts mee voor extra capaciteit.
+We werken samen met jouw ontwikkelteam en nemen indien nodig eigen experts mee voor extra capaciteit.
 
 {% include cta.html header="Intake en adviesgesprek" persoon="eva" %}
 
