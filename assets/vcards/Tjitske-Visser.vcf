@@ -7,6 +7,7 @@ ORG:Tiltshift;
 TITLE:Partner
 EMAIL;type=INTERNET;type=pref:tjitske@tiltshift.nl
 TEL;type=CELL;type=VOICE;type=pref:00 31 6 44 29 26 21
+NOTE:Uitvoerend leiderschap in digitale transformatie
 item1.URL;type=pref:https://www.tiltshift.nl/
 item1.X-ABLabel:_$!<HomePage>!$_
 PHOTO;ENCODING=b;TYPE=JPEG:/9j/4AAQSkZJRgABAQAASABIAAD/4QBARXhpZgAATU0AKgAA
