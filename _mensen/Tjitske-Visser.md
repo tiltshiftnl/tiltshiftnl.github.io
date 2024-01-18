@@ -32,7 +32,7 @@ back: ..
 
 {{ page.description }}
 
-> "Ik ben de drummer van de band en bied het ritme en de structuur aan de artiesten op de voorgrond. En als je dat niet wilt, dan zit je niet in mijn band."
+> "Ik ben de drummer van de band en bied het ritme en de structuur aan de artiesten op de voorgrond. Als je dat niet wilt, dan zit je niet in mijn band."
 
 <h2>Haal Tjitske erbij als:</h2>
 
