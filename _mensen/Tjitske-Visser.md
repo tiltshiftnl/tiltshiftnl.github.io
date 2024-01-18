@@ -22,7 +22,7 @@ image: /assets/img/mensen/Tjitske-Visser-Partner-Tiltshift.jpg
 sliderPhoto: "/assets/img/slider/Tjitske-Visser.jpg"
 personImage: /assets/img/mensen/Tjitske-Visser-Partner-Tiltshift.jpg
 email: tjitske.visser@tiltshift.nl
-linkedInUrl: https://www.linkedin.com/in/tjitske-visser/
+linkedInUrl: https://www.linkedin.com/in/tjitskevisser/
 vcardUrl: https://go.tiltshift.nl/vcard-Tjitske
 telephone: <a href="tel:+31644292621‬">+31 (0)6 44 29 26 21‬</a>
 
