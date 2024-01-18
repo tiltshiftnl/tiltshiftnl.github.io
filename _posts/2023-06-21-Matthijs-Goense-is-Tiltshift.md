@@ -25,6 +25,6 @@ Partners bij Tiltshift zorgen voor synergie tussen de verschillende projecten en
 >
 > <small>Eva Leffef, algemeen directeur</small>
 
-Wil je Matthijs feliciteren? Je vindt zijn contactgegevens op [zijn partner pagina](https://www.tiltshift.nl/partners/matthijs-goense/).
+Wil je Matthijs feliciteren? Je vindt zijn contactgegevens op [zijn partner pagina](https://www.tiltshift.nl/mensen/matthijs-goense/).
 
 [« overzicht van posts](/posts/)
