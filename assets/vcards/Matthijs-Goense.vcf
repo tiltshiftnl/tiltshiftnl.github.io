@@ -8,6 +8,6 @@ TITLE:Partner
 EMAIL;type=INTERNET;type=WORK;type=pref:matthijs@tiltshift.nl
 EMAIL;type=INTERNET;type=WORK:matthijs.goense@tiltshift.nl
 TEL;type=CELL;type=VOICE;type=pref:0614197435
-item1.URL;type=pref:https://www.tiltshift.nl/mensen/matthijs-goense/
+item1.URL;type=pref:https://www.tiltshift.nl/
 item1.X-ABLabel:_$!<HomePage>!$_
 END:VCARD
