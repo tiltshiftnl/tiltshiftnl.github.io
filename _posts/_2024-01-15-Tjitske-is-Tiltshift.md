@@ -25,6 +25,6 @@ Partners bij Tiltshift zorgen voor synergie tussen de verschillende projecten en
 >
 > <small>Eva Leffef, algemeen directeur</small>
 
-Wil je Tjitske feliciteren? Je vindt haar contactgegevens op [haar partner pagina](https://www.tiltshift.nl/partners/tjitske-visser/).
+Wil je Tjitske feliciteren? Je vindt haar contactgegevens op [haar partner pagina](https://www.tiltshift.nl/mensen/tjitske-visser/).
 
 [« overzicht van posts](/posts/)
