@@ -3,9 +3,9 @@ layout: person
 variant: white
 
 title: "Tjitske Visser"
-description: "Tjitske zet zich in voor het aanpakken van maatschappelijke vraagstukken met behulp van duurzame ICT. Daarvoor verbindt ze de belangen en perspectieven van de verschillende stakeholders om tot uitvoerbare en gedragen oplossingen te komen. Met haar achtergrond in keteninformatisering en -samenwerking (Phd.) doorziet ze de complexiteit in een  interorganisationele omgeving snel en weet ze tot een gezamenlijke kansrijke aanpak en uitvoering te komen.
+description: "Tjitske houdt van opschudden en anders doen. Niet vanuit de de losse pols maar vanuit een duidelijke visie. Met haar achtergrond in keteninformatisering en -samenwerking (Phd.) geeft ze ketens en projecten koers en ritme en zorgt als kwartiermaker en programmamanager dat de experts hun werk wél kunnen doen. Gepokt en gemazeld in de overheid stuurt ze op alle niveau’s richting ‘de bedoeling’. Ze creëert verbinding en vertrouwen maar verlangt tegelijkertijd concrete resultaten van de projectleiders en teams.
 
-Tjitske is blij als het team en de stakeholders tot nieuwe inzichten komen en goede stappen vooruit kunnen zetten. Ze zet graag haar tanden in programma’s en projecten waarbij de belangen van de interne en externe stakeholders verschillen, terwijl gewerkt wordt aan een gedeelde oplossing. Zowel op operationeel als op strategisch/bestuurlijk niveau weet ze de verbinding te leggen en tot concrete resultaten te komen. Hierbij werkt ze gestructureerd, analytisch, organiseert ze de randvoorwaarden voor het team en de organisatie, biedt ze vertrouwen en schept ze duidelijkheid."
+Ik ben de drummer van de band en bied het ritme en de structuur aan de artiesten op de voorgrond. En als je dat niet wilt, dan zit je niet in mijn band."
 quote: '"Met scherpte en plezier komen we met elkaar tot nieuwe inzichten en oplossingen.”'
 type: Partner
 keywords:
