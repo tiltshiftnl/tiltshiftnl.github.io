@@ -3,7 +3,7 @@ layout: person
 variant: white
 
 title: "Tjitske Visser"
-description: "Tjitske houdt van opschudden en anders doen. Niet vanuit de de losse pols maar vanuit een duidelijke visie. Met haar achtergrond in keteninformatisering en -samenwerking (Phd.) geeft ze ketens en projecten koers en ritme en zorgt als kwartiermaker en programmamanager dat de experts hun werk wél kunnen doen. Gepokt en gemazeld in de overheid stuurt ze op alle niveau’s richting ‘de bedoeling’. Ze creëert verbinding en vertrouwen maar verlangt tegelijkertijd concrete resultaten van de projectleiders en teams."
+description: "Tjitske houdt van opschudden en anders doen. Niet vanuit de de losse pols maar vanuit een duidelijke visie. Met haar achtergrond in keteninformatisering en -samenwerking (PhD) geeft ze ketens en projecten koers en ritme en zorgt als kwartiermaker en programmamanager dat de experts hun werk wél kunnen doen. Gepokt en gemazeld in de overheid stuurt ze op alle niveau’s richting ‘de bedoeling’. Ze creëert verbinding en vertrouwen maar verlangt tegelijkertijd concrete resultaten van de projectleiders en teams."
 quote: '"Met scherpte en plezier komen we met elkaar tot nieuwe inzichten en oplossingen.”'
 type: Partner
 keywords:

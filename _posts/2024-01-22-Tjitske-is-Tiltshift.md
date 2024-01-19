@@ -17,7 +17,7 @@ author: Eva Leffef
 
 {{ page.description }}
 
-Tjitske schudt de boel graag op en doorgrondt snel ‘de bedoeling’! Met haar achtergrond in keteninformatisering en -samenwerking (Phd.) geeft ze als kwartiermaker en programmamanager ketens en projecten koers en ritme. Haar overstap naar Tiltshift geeft haar de mogelijkheid om haar werk in te richten zoals zij dat wil.
+Tjitske schudt de boel graag op en doorgrondt snel ‘de bedoeling’! Met haar achtergrond in keteninformatisering en -samenwerking (PhD) geeft ze als kwartiermaker en programmamanager ketens en projecten koers en ritme. Haar overstap naar Tiltshift geeft haar de mogelijkheid om haar werk in te richten zoals zij dat wil.
 
 Partners bij Tiltshift zorgen voor synergie tussen de verschillende projecten en oplossingen, en zetten elk hun vaardigheden in om digitale transformatie concreet vorm te geven. Ze benutten de kracht van samenwerking, tillen de uitvoering naar een hoger niveau om samen een positieve impact te maken.
 
