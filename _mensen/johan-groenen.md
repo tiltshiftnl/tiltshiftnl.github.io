@@ -39,7 +39,7 @@ geïntroduceerd: in 12 weken van probleem naar werkende toepassing. Met onder an
 development brachten we samen met betrokkenen de problemen in kaart en ontwikkelden we slimme, datagedreven oplossingen. Datalab en de
 Fixxx manier van werken zijn ondertussen een voorbeeld geworden voor hoe overheden op een nieuwe manier software ontwikkelen."
 
-order: 998
+order: 990
 back: ..
 ---
 
