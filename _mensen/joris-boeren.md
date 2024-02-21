@@ -23,7 +23,7 @@ projects:
 
 Als Product Manager is het aan Joris om de organisatie te helpen met de koers naar digitaal en de praktische invulling ervan. Hij zorgt daarbij voor een uitvoering die de échte gebruiker, bewoner of medewerker, nodig heeft. Daarbij helpt hij met de opzet van de digitale organisatie, voert hij een meer Agile werkwijze door en zorgt hij dat de teams focus houden."
 
-order: 7
+order: 980
 back: ..
 ---
 
