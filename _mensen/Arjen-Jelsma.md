@@ -25,7 +25,7 @@ linkedInUrl: https://www.linkedin.com/in/arjenjelsma/
 vcardUrl: https://go.tiltshift.nl/vcard-arjen
 telephone: <a href="tel:+31615664944">+31 (0)6 15 66 49 44</a>
 
-order: 6
+order: 960
 back: ..
 ---
 Arjen gaat niet verder zonder dat duidelijk is: ‘waarom doen we dit?’. Hij zorgt voor een duidelijk einddoel waar samen naar toe gewerkt wordt. Bij het digitaliseren van processen staat voor hem het vereenvoudigen van het leven van de gebruiker centraal. Die gebruiker kan de burger in de stad zijn, de wijkagent, de ambtenaar, de beleidsmedewerker of de schoonmaker. De echte waarde zit voor Arjen in adoptie en adoratie door die gebruiker. 
