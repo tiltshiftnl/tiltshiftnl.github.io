@@ -50,3 +50,9 @@ Als de 8 minuten voorbij zijn hangt iedereen haar of zijn A4 op de muur. Present
 ## Hoe verder
 
 Je kunt één of meerdere ideeën selecteren d.m.v. Dot Voting. Hierop kun je vervolgens nog een Crazy-8 ronde doen, om de ideeën verder te verdiepen. Vervolgens kies je één of meerdere ideeën om uit te werken tot een concept.
+
+## Hoe gebruikt Tiltshift de Crazy-8 methode?
+
+Een Crazy-8 sessie doen wij niet op zichzelf staand. Meestal is het één van de workshops in een Software Design Thinking traject. Tijdens de Explore fase brengen we problemen die spelen in de organisatie of afdeling in beeld. Één of meerdere van die problemen worden verder onderzocht tijdens de discovery fase. Daaruit wordt één probleem gekozen als kansrijk om op te lossen. Dan gebruiken wij vaak een Crazy-8 om oplossingen te bedenken voor dit probleem.
+
+{% include cta.html header="Weten welke problemen er spelen binnen jouw organisatie?" persoon="eva" %}
