@@ -2,7 +2,7 @@
 layout: default
 variant: white
 subject: Vacature
-title: Vacature: Ondersteuner (m/v/x) voor 16 uur per week
+title: "Vacature: Ondersteuner (m/v/x) voor 16 uur per week"
 description: "Ben jij de ondersteuner met levenservaring, die niet onder de indruk is en durft je mening te geven? En weet precies te vertellen waarom je bij ons past? Dan horen we graag van je!"
 keywords: "Vacature, administratief, ondersteuner, office manager, relatie manager, regelnicht, regelneef"
 hideBanner: true
