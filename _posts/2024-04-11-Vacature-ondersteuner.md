@@ -18,7 +18,7 @@ Tiltshift is een netwerk organisatie en biedt leiderschap in digitale transforma
 
 ### De taken
 
-Om alles rondom onze eigenwijze partners goed te regelen, zijn we op zoek naar iemand die onze directeur daarbij gaat helpen. De belangrijkste taken zijn de (voorbereiding van) administratie en facturatie, agenda beheer, het onboardingproces van nieuwe partners, en, als dat jouw ding is marketing activiteiten. Ander taken die kunt overnemen zijn notuleren, het plannen van bijeenkomsten, uitjes, lunches en diners, en het bedenken en regelen van relatiegeschenken.
+Om alles rondom onze [eigenwijze partners](https://www.tiltshift.nl/partners/) goed te regelen, zijn we op zoek naar iemand die onze directeur daarbij gaat helpen. De belangrijkste taken zijn de (voorbereiding van) administratie en facturatie, agenda beheer, het onboardingproces van nieuwe partners, en, als dat jouw ding is marketing activiteiten. Ander taken die kunt overnemen zijn notuleren, het plannen van bijeenkomsten, uitjes, lunches en diners, en het bedenken en regelen van relatiegeschenken.
 
 ### Jij!
 
