@@ -1,8 +1,9 @@
 ---
 layout: default
 variant: white
-subject: Vacature
+subject: "Vacature: Ondersteuner (x/v/m) voor 16 uur per week"
 title: "Vacature: Ondersteuner (x/v/m) voor 16 uur per week"
+teaser: "Omdat we aan het groeien zijn, is Tiltshift op zoek naar hulp in onze studio in Utrecht."
 description: "Ben jij die persoon met levenservaring, die niet onder de indruk is en durft je mening te geven? En weet precies te vertellen waarom je bij ons past? Dan horen we graag van je!"
 keywords: "Vacature, administratief, ondersteuner, office manager, relatie manager, regelnicht, regelneef"
 hideBanner: true
