@@ -11,11 +11,11 @@ image: "assets/img/foto/Wonen-Innovatie-met-Design-Sessies-Afdeling-betrekken.jp
 caption: ''
 ---
 
-Omdat we aan het groeien zijn, is Tiltshift op zoek naar hulp in onze studio in Utrecht.
+Tiltshift groeit! En daarom zijn wij op zoek naar hulp in onze studio in Utrecht.
 
 ### Over Tiltshift
 
-Tiltshift is een netwerk organisatie en biedt leiderschap in digitale transformatie. We werken in de niet-commerciële sector en niet voor bedrijven die alleen maar winst willen maken. Partners wordt lid van Tiltshift en werken zelfstandig bij opdrachtgevers in digitale transformatie projecten en programma’s. Zij weten waar ze over praten en zij zorgen er vooral voor dat gebeurt wat moet gebeuren. Dus geen oeverloos overleg, maar echte oplossingen in de praktijk. Tiltshift regelt vanuit onze studio in Utrecht alle zakelijkheden rondom de opdrachten van de partners. En we faciliteren voor de partners training, kennisdeling en ondersteuning o.a. tijdens wekelijkse bijeenkomsten.
+Tiltshift is een netwerk organisatie en biedt leiderschap in digitale transformatie. We werken in de niet-commerciële sector en niet voor bedrijven die alleen maar winst willen maken. Partners wordt lid van Tiltshift en werken bij opdrachtgevers in digitale transformatie projecten en programma’s. Zij weten waar ze over praten en zij zorgen er vooral voor dat gebeurt wat moet gebeuren. Dus geen oeverloos overleg, maar echte oplossingen in de praktijk. Tiltshift regelt vanuit onze studio in Utrecht alle zakelijkheden rondom de opdrachten van de partners. En we faciliteren voor de partners kennisdeling, training en ondersteuning o.a. tijdens wekelijkse bijeenkomsten.
 
 ### De taken
 
