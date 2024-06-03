@@ -48,6 +48,6 @@ back: ..
 <h2>Haal Johan erbij als:</h2>
 
 - je development team niet lekker functioneert;
-- je een duidelijke productvisie, -strategie en roadmap nodig hebt;
+- je een duidelijke productvisie, -strategie, -architectuur en roadmap nodig hebt;
 - je snel bruikbare prototypes nodig hebt;
 - je open en agile wil werken.
