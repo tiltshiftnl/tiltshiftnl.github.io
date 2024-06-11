@@ -21,7 +21,7 @@ Als Rutger op dreef is neemt hij de mensen in zijn team op sleeptouw en zorgt hi
 
 Partners bij Tiltshift zorgen voor synergie tussen de verschillende projecten en oplossingen, en zetten elk hun vaardigheden in om digitale transformatie concreet vorm te geven. Ze benutten de kracht van samenwerking, tillen de uitvoering naar een hoger niveau om samen een positieve impact te maken
 
-> “Ik ben heel bij dat Rutger aan boord is! Want met Rutger als partner gaan we zeker niet over één nacht ijs. Omdat Rutger een oude bekende is van Tiltshift (we werkten namelijk al eerder met elkaar) is het met hem gelijk weer vertrouwd en weer een feestje!”
+> “Ik ben heel bij dat Rutger aan boord is! Want met Rutger als partner gaan we zeker niet over één nacht ijs. Omdat Rutger een oude bekende is van Tiltshift (we werkten namelijk al eerder met elkaar) is het met hem gelijk vertrouwd en weer een feestje!”
 >
 > <small>Eva Leffef, algemeen directeur</small>
 
