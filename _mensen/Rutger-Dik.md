@@ -24,7 +24,7 @@ image: /assets/img/mensen/Rutger-Dik-Partner-Tiltshift.jpg
 sliderPhoto: "/assets/img/slider/Rutger-Dik.jpg"
 personImage: /assets/img/mensen/Rutger-Dik-Partner-Tiltshift.jpg
 email: rutger.dik@tiltshift.nl
-linkedInUrl: https://www.linkedin.com/in/rutgerdik//
+linkedInUrl: https://www.linkedin.com/in/rutgerdik/
 vcardUrl: https://go.tiltshift.nl/vcard-Rutger
 telephone: <a href="tel:+31628131889">+31 (0)6 28 13 18 89</a>
 
