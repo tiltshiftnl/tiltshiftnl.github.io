@@ -12,11 +12,11 @@ labels:
     innovatie, 
     design thinking, 
     duurzame ICT,
+    product management,
+    product owner,
     public tech,
     open innovatie,
     maatschappelijke vraagstukken,
-    keteninformatisering,
-    ketensamenwerking,
   ]
 currentwork: ""
 hideBanner: true
