@@ -22,7 +22,7 @@ currentwork: ""
 hideBanner: true
 image: /assets/img/mensen/Jasper-Ceelen-Partner-Tiltshift.jpg
 sliderPhoto: "/assets/img/slider/Jasper-Ceelen.jpg"
-personImage: /assets/img/mensen/Jasper-Ceelen-Partner-Tiltshift.jpg
+personImage: /assets/img/mensen/Jasper-Ceelen-partner-Tiltshift.jpg
 email: jasper.ceelen@tiltshift.nl
 linkedInUrl: https://www.linkedin.com/in/jasperceelen/
 vcardUrl: https://go.tiltshift.nl/vcard-Jasper
