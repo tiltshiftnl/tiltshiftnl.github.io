@@ -4,7 +4,7 @@ variant: white
 subject: Jasper Ceelen is Tiltshift!
 title: Jasper is Tiltshift!
 teaser: "Tiltshift verwelkomt Jasper Ceelen als nieuwe partner!"
-description: "Tiltshift verwelkomt @Jasper Ceelen als nieuwe partner! 🍾"
+description: "Tiltshift verwelkomt Jasper Ceelen als nieuwe partner! 🍾"
 keywords: "uitvoerend leiderschap,partner,publictech,softwaredesign,softwaredesignthinking,designthinking,developers,overheid"
 hideBanner: true
 image: "assets/img/posts/Jasper-Ceelen-tekent-bij-Tiltshift.jpg"
