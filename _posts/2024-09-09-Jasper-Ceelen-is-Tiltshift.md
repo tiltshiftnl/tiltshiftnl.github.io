@@ -11,11 +11,11 @@ image: "assets/img/posts/Jasper-Ceelen-tekent-bij-Tiltshift.jpg"
 caption:
 author: Eva Leffef
 ---
+{{ page.description }}
+
 <div class="article-image">
     <img src="/assets/img/posts/Jasper-Ceelen-tekent-bij-Tiltshift.jpg">
 </div>
-
-{{ page.description }}
 
 Jasper kan er niks aan doen: problemen oplossen zit in zijn bloed! Aansturen, samenwerken of zelf aan de slag; het maakt voor Jasper geen verschil. Geef hem een uitdaging, een behoefte of een vraag en hij zet zijn tanden erin.
 
