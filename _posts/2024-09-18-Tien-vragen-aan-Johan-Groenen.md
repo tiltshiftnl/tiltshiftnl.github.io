@@ -14,7 +14,7 @@ author: Johan Groenen
 
 ## Kun je vertellen wat het project precies inhield en wat de belangrijkste doelen waren toen je begon?
 
-“Het project was onderdeel van het CDO-office van het ministerie van Justitie en Veiligheid, gericht op het justitie en veiligheid-brede afsprakenstelsel voor gegevens en algoritmes. Het idee is om ervoor te zorgen dat alle organisaties onder het ministerie beter omgaan met gegevens en algoritmes en dat daarbij een goede administratie wordt gevoerd. Een belangrijk onderdeel daarvan is het introduceren van gegevensboekhouding. Mijn rol was om dat idee van een gegevensboekhouding vorm te geven door verschillende productaspecten uit te werken en te demonstreren.
+“Het project was onderdeel van het CDO-office van het ministerie van Justitie en Veiligheid, gericht op het justitie en veiligheid-brede afsprakenstelsel voor gegevens en algoritmes. Het idee is om ervoor te zorgen dat alle organisaties onder het ministerie beter omgaan met gegevens en algoritmes en dat daarbij een goede administratie wordt gevoerd. Een belangrijk onderdeel daarvan is het introduceren van gegevensboekhouding. Mijn rol was om dat idee van een gegevensboekhouding vorm te geven door verschillende productaspecten uit te werken en te demonstreren."
 
 ## Wat waren de grootste uitdagingen tijdens het uitwerken van het concept van de gegevensboekhouding en het ontwikkelen van de bijbehorende productaspecten?
 
