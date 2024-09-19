@@ -4,7 +4,7 @@ variant: white
 
 title: "Joris Boeren"
 description: "Voor het gevoel moeiteloos van strategie naar uitvoering, dat is wat Joris het liefste organiseert. Van een globaal idee of koers maakt hij een concrete transformatie en zet hij het ‘en passent’ ook in gang. Het geheim zit ‘m in eenvoud. Door zaken te versimpelen, het kaf van het koren te scheiden en digitaal als toolkit te gebruiken in plaats van als doel, komt er tractie. Teams gaan bewegen, leveren waarde, krijgen vertrouwen van het bestuurlijk niveau, en repeat: duurzame verandering ten goede."
-quote: '"Als de oplossing al op papier staat, heb je niet het échte probleem te pakken."'
+quote: '"Als je 100% kunt voorspellen hoe iets loopt heb je mij niet nodig."'
 type: Partner
 keywords:
 labels: [programma- en product management, agile, team coaching, mediation]
