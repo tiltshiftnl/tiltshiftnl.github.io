@@ -67,4 +67,4 @@ Met de realisatie van de nieuwe [careyn.nl](https://www.careyn.nl/) beschikt de 
 - UX onderzoek: Sanne Stuur
 - UX ontwerp en UI: [Keen design](https://www.keen.design/nl/)
                                                                     
-{% include cta.html header="Ook digitaal ontzorgt worden?" persoon="eva" %}
+{% include cta.html header="Ook digitaal ontzorgt worden?" persoon="joris" %}
