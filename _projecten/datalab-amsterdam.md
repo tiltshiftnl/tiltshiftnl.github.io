@@ -54,4 +54,4 @@ DataLab Amsterdam heeft bijgedragen aan de innovatie van de stad en heeft geleid
 > 
 > <small>Maarten Geraets, partner</small>
                                                                     
-{% include cta.html header="Ook innovatieve toepassingen realiseren?" persoon="eva" %}
+{% include cta.html header="Ook innovatieve toepassingen realiseren?" persoon="maarten" %}
