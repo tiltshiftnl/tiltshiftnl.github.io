@@ -58,6 +58,6 @@ back: ..
 <h2>Haal Joris erbij als:</h2>
 
 - je de organisatie duurzaam en digitaal wil transformeren;
-- je lopende transformatie niet vooruit te branden is en er iemand nodig is dat wél voor elkaar krijgt
-- je visie omgezet moet worden in daden, en misschien ook wel aangescherpt.
+- je lopende transformatie niet vooruit te branden is, en er iemand nodig is dat wél voor elkaar krijgt;
+- je visie omgezet moet worden in daden (en misschien ook wel aangescherpt moet worden;
 - je medewerkers en klanten blij wilt maken met producten en diensten die hen als uitgangspunt nemen.
