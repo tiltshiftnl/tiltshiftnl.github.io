@@ -43,3 +43,53 @@ joris:
   tel_display: +31 (0)30 721 08 68
   linkedin: jorisboeren
   mail: joris.boeren@tiltshift.nl
+matthijs:
+  img: Matthijs-Goense.png
+  link: /mensen/matthijs-goense
+  full_name: Matthijs Goense
+  first_name: Matthijs
+  function: Partner
+  tel: "+31614197435‬"
+  tel_display: +31 (0)6 14 19 74 35‬
+  linkedin: matthijs-goense
+  mail: matthijs.goense@tiltshift.nl
+arjen:
+  img: Arjen-Jelsma.png
+  link: /mensen/arjen-jelsma
+  full_name: Arjen Jelsma
+  first_name: Arjen
+  function: Partner
+  tel: "+31615664944‬‬"
+  tel_display: +31 (0)6 15 66 49 44‬
+  linkedin: arjenjelsma
+  mail: arjen.jelsma@tiltshift.nl
+tjitske:
+  img: Tjitske-Visser.png
+  link: /mensen/tjitske-visser
+  full_name: Tjitske Visser
+  first_name: Tjitske
+  function: Partner
+  tel: "+31644292621‬"
+  tel_display: +31 (0)6 44 29 26 21‬
+  linkedin: tjitskevisser
+  mail: tjitske.visser@tiltshift.nl
+rutger:
+  img: Rutger-Dik.png
+  link: /mensen/rutger-dik
+  full_name: Rutger Dik
+  first_name: Rutger
+  function: Partner
+  tel: "+31628131889‬‬"
+  tel_display: +31 (0)6 28 13 18 89‬
+  linkedin: rutgerdik
+  mail: rutger.dik@tiltshift.nl
+jasper:
+  img: Jasper Ceelen.png
+  link: /mensen/jasper ceelen
+  full_name: Jasper Ceelen
+  first_name: Jasper
+  function: Partner
+  tel: "+31627077523‬"
+  tel_display: +31 (0)6 27 07 75 23‬
+  linkedin: jasperceelen
+  mail: jasper.ceelen@tiltshift.nl
