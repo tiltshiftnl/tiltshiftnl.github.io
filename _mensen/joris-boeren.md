@@ -54,6 +54,8 @@ back: ..
 
 {{ page.description }}
 
+<p>Als pionier maakte Joris de opgang van Agile werken mee en kreeg er een voorliefde voor mensen die ‘doen’. Hij ziet Agile niet als vrijblijvend maar juist als werkwoord: realistische beloftes doen én waarmaken. En dat op basis van een heldere koers in plaats van een slechte oplossing. Met zijn achtergrond als projectmanager, lijnmanager, product owner en product manager schakelt Joris op alle niveau’s en smeedt belangen aaneen tot een succesvolle transformatie.</p>
+
 <h2>Haal Joris erbij als:</h2>
 
 - je de organisatie duurzaam en digitaal wil transformeren;
