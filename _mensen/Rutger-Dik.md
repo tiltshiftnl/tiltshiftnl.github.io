@@ -28,7 +28,7 @@ linkedInUrl: https://www.linkedin.com/in/rutgerdik/
 vcardUrl: https://go.tiltshift.nl/vcard-Rutger
 telephone: <a href="tel:+31628131889">+31 (0)6 28 13 18 89</a>
 
-order: 940
+order: 2200
 back: ..
 ---
 
