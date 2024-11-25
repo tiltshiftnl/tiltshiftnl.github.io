@@ -30,6 +30,13 @@ Overvolle afvalcontainers, losliggende stoeptegels, afval in het water of een lo
 >
 > <small>Maarten</small>
 
+<div class="article-image">
+    <img src="/assets/img/foto/Forza-MOR-kwartiermaker-programma-manager-forza-mor-Rotterdam.jpg
+" alt="Kwartiermaker en programma manager Maarten, Product manager Oliva en Service designer Peter">
+     <br />
+    <small>v.l.n.r. Programma manager Maarten Geraets, Product manager Olivia de Drie en Service designer Peter Boer</small>
+</div>
+
 Tijdens een _‘Explore’_ bracht Maarten de hele keten in kaart. Hoe worden meldingen gemaakt? Waar komen ze binnen? Wie handelt ze af? En waar zitten de grootste pijnpunten?
 
 Alle problemen, ergernissen en frustraties werden verzameld. Zo ontdekte hij dat het grootste probleem niet in de techniek zat, maar in de inrichting van de hele keten.
@@ -37,13 +44,6 @@ Alle problemen, ergernissen en frustraties werden verzameld. Zo ontdekte hij dat
 > “Het systeem is wel oud, maar bleek ook super stabiel. Het stond totaal niet ‘op omvallen’. Wat mensen daar mee bedoelden, is dat er door de tijd heen veel wensen bij waren gekomen over hoe het zou moeten werken. En dat er nieuwe processen bij waren gekomen. Ze konden weinig aan MSB veranderen, het gat tussen proces en techniek werd steeds groter.”
 >
 > <small>Maarten</small>
-
-<div class="article-image">
-    <img src="/assets/img/foto/Forza-MOR-kwartiermaker-programma-manager-forza-mor-Rotterdam.jpg
-" alt="Kwartiermaker en programma manager Maarten, Product manager Oliva en Service designer Peter">
-     <br />
-    <small>v.l.n.r. Programma manager Maarten Geraets, Product manager Olivia de Drie en Service designer Peter Boer</small>
-</div>
 
 Bij het prioriteren van de problemen kwamen er een aantal grote dingen naar voren: ten eerste vonden veel mensen dat andere afdelingen niet goed met het systeem omgingen. Meldingen belandden vaak op de verkeerde plek of werden niet goed doorgezet.
 
