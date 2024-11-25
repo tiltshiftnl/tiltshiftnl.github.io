@@ -18,4 +18,4 @@ Het zorgt voor een frisse en realistische blik en succesvolle projecten. Waarvan
 
 > "Innovatie begint bij de mensen. Focus op hun probleem en laat de techniek volgen. Dan ontstaat de oplossing."
 
-{% include projects-link-blocks.html projects=site.projecten sort=descending %}
+{% include projects-link-blocks.html projects=site.projecten %}
