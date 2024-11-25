@@ -46,7 +46,7 @@ We starten metéén met de implementatie, zodat de oplossing direct en ‘in het
 
 > "De snelheid waarmee jullie dingen oppakken, je vergeet bijna dat je bij de gemeente werkt!"
 >
-> <small class="author">Medewerker gemeente Amsterdam</small>
+> <small>Medewerker gemeente Amsterdam</small>
 
 {% include cta.html header="Wat we voor jouw organisatie kunnen betekenen?" persoon="eva" %}
 
