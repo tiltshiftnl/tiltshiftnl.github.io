@@ -9,15 +9,15 @@ type:
 keywords: 'product owner, product ownerschap, innovatie, design thinking, software design thinking, digitalisering, digitale transformatie, zorg, ouderenzorg, nieuwe website'
 labels: [product owner, digitale transformatie, agile werken]
 
-order: 110
+order: 920
 
 hideBanner: true
 image: /assets/img/foto/Product-Management-Adus-Blauw-RUIS.jpg
 image_alt_text: 'Product Management geeft richting aan product owner'
 caption:
 
-featured: true
-featured_order: 1
+featured: false
+featured_order: 920
 featured_image: /assets/img/projecten-featured/Product-Management-datauitwisseling-gemeente-politie.jpg
 featured_image_alt_text: 'Product Management geeft richting aan product owner'
 excerpt: "Hoe ontwerpend onderzoek, een duidelijke productvisie en een heldere MVP scope datauitwisseling tussen gemeente en politie succesvol maakte."
