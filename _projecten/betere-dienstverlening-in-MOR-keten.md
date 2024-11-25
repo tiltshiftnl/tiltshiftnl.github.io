@@ -24,7 +24,7 @@ excerpt: "Een nieuwe organisatie binnen de gemeente, die de meldingsketen openba
 
 back: ..
 ---
-Overvolle afvalcontainers, losliggende stoeptegels, afval in het water of een losse putdeksel; in Rotterdam worden hierover ieder jaar meer dan 300.000 meldingen gemaakt. Deze meldingen komen binnen in één systeem: MSB (Meldingssysteem Buitenruimte). Omdat er een nieuw systeem nodig zou zijn, schakelde de gemeente Rotterdam Tiltshift in. ‘Interessant!’ Dacht partner Maarten Geraets. Hij vertrok naar Rotterdam om het probleem tot de bodem uit te zoeken.
+Overvolle afvalcontainers, losliggende stoeptegels, afval in het water of een losse putdeksel; in Rotterdam worden hierover ieder jaar meer dan 300.000 meldingen gemaakt. Deze meldingen komen binnen in één systeem: Meldingssysteem Buitenruimte (MSB). Omdat er een nieuw systeem nodig zou zijn, schakelde de gemeente Rotterdam Tiltshift in. ‘Interessant!’ Dacht partner Maarten Geraets. Hij vertrok naar Rotterdam om het probleem tot de bodem uit te zoeken.
 
 > “De vraag was of we MSB konden vervangen, want naar verluidt zou het ‘op omvallen’ staan. En dat vond ik een interessante vraag. Want waarom wil je in vredesnaam een systeem vervangen? Dat kan toch nooit de hoofdoorzaak van het probleem zijn?”
 >
