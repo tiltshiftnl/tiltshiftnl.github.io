@@ -9,7 +9,7 @@ type:
 keywords: 'product owner, product ownerschap, innovatie, design thinking, software design thinking, digitalisering, digitale transformatie, zorg, ouderenzorg, nieuwe website'
 labels: [product owner, digitale transformatie, agile werken]
 
-order: 100
+order: 910
 
 hideBanner: true
 image: /assets/img/foto/Careyn-Joris-Boeren-leiderschap-traject-nieuwe-website.jpg
@@ -17,7 +17,7 @@ image_alt_text: 'Joris Boeren zorgt voor heldere uitgangspunten en duidelijke sc
 caption:
 
 featured: true
-featured_order: 1
+featured_order: 910
 featured_image: /assets/img/projecten-featured/Careyn-ontzorgt-met-nieuw-online-kanaal.jpg
 featured_image_alt_text: 'Een nieuwe website als katalysator voor samenwerking.'
 excerpt: "Een nieuwe website als katalysator voor samenwerking."
