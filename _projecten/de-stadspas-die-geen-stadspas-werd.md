@@ -20,7 +20,7 @@ featured: true
 featured_order: 1
 featured_image: /assets/img/projecten-featured/Stadspas-Zwolle.jpg
 featured_image_alt_text: 'De stadspas die geen stadspas werd'
-excerpt: "Met het schrappen van de plannen voor de stadspas, ontstond er ruimte voor een nieuwe focus: inzetten op een vereenvoudigen en toegankelijker maken van inkomensregelingen."
+excerpt: "Ruimte voor een nieuwe focus: inzetten op een vereenvoudigen en toegankelijker maken van inkomensregelingen."
 
 back: ..
 ---
