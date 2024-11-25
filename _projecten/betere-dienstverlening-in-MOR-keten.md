@@ -20,7 +20,7 @@ featured: true
 featured_order: 900
 featured_image: /assets/img/projecten-featured/Forza-MOR-Maarten-Olivia-Peter.jpg
 featured_image_alt_text: 'Forza MOR: Betere dienstverlening in MOR keten'
-excerpt: "Een nieuwe organisatie binnen de gemeente Rotterdam. die de meldingsketen openbare ruimte beter maakt, en ook in de toekomst dingen kan blijven verbeteren."
+excerpt: "Een nieuwe organisatie binnen de gemeente, die de meldingsketen openbare ruimte beter maakt, en ook in de toekomst dingen kan blijven verbeteren."
 
 back: ..
 ---
