@@ -12,13 +12,13 @@ labels: [programmamanagement, digitale transformatie, agile werken]
 order: 900
 
 hideBanner: true
-image: /assets/img/foto/Forza-MOR-Maarten-Olivia-Peter.jpg
+image: /assets/img/foto/Forza-MOR-digitalisering-meldingen-openbare-ruimte-Rotterdam.jpg
 image_alt_text: 'Programma manager Maarten, Product manager Oliva en Service designer Peter'
 caption:
 
 featured: true
 featured_order: 900
-featured_image: /assets/img/Forza-MOR-digitalisering-meldingen-openbare-ruimte-Rotterdam.jpg
+featured_image: /assets/img/projecten-featured/Forza-MOR-Maarten-Olivia-Peter.jpg
 featured_image_alt_text: 'Forza MOR: Betere dienstverlening in MOR keten'
 excerpt: "Een nieuwe organisatie binnen de gemeente Rotterdam. die de meldingsketen openbare ruimte beter maakt, en ook in de toekomst dingen kan blijven verbeteren."
 
