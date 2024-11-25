@@ -6,7 +6,7 @@ subtitle: "Digitale innovatie op de straatmarkten van Amsterdam."
 description: "Samen met het centrale marktbureau en de markttoezichthouders ontwikkelden wij Makkelijke Markt, een digitaal bonnenboekje voor de straatmarkten van Amsterdam. Toezichthouders kunnen hiermee aanwezigheid scannen, vergunningen uitgeven en controleren en direct afrekenen met pin."
 keywords: 'Digitale innovatie, interventie, dienstverlening, marktbureau, Amsterdam, digitaal bonnenboekje'
 
-order: 600
+order: 990
 
 hideBanner: true
 image: /assets/img/foto/Makkelijke-Markt-Administratie-Markt-Ondernemers.jpg
@@ -14,7 +14,7 @@ image_alt_text: 'Marktmeesters tijdens een (handmatige) indeling van een straatm
 caption: 'Fixxx "Makkelijke Markt", Gemeente&nbsp;Amsterdam'
 
 featured: false
-featured_order: 3
+featured_order: 990
 featured_image: /assets/img/projecten-featured/Makkelijke-Markt-Software-Design-Thinking.jpg
 featured_image_alt_text: 'Marktmeesters tijdens een (handmatige) indeling van een straatmarkt in Amsterdam'
 excerpt: "Door mee te lopen op de markt en zelfs van achter een marktkraam te programmeren, ontdekten we wat werkt in de praktijk. Dat hadden we van achter een bureau nooit kunnen bedenken."
