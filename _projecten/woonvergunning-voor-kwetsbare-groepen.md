@@ -9,13 +9,13 @@ type:
 keywords: 'innovatie, design thinking, software design thinking, samenwerking, ketenpartners'
 labels: [ketensamenwerking, huisvesting kwetsbare groepen, omslagroute]
 
-order: 300
+order: 960
 
 hideBanner: true
 image: /assets/img/foto/Woonvergunning-kwetsbare-groepen-samenwerking-keten.jpg
 caption:
 
-featured_order: 1
+featured_order: 960
 featured: false
 featured_image: /assets/img/projecten-featured/Woonvergunning-kwetsbare-groepen-design-thinking-voor-beter-resultaat.jpg
 featured_image_alt_text: 'Woonvergunning voor Kwetsbare Groepen.'
