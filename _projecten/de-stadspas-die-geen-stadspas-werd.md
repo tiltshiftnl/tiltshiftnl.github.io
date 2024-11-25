@@ -9,7 +9,7 @@ type:
 keywords: 'stadspas, projectleider, zwolle, ontwerpende aanpak, ontwerpend onderzoek, product owner, product ownerschap, innovatie, design thinking, software design thinking, digitalisering, digitale transformatie'
 labels: [product owner, digitale transformatie, agile werken]
 
-order: 900
+order: 890
 
 hideBanner: true
 image: /assets/img/foto/Stadspas-Zwolle-Sessie.jpg
@@ -17,7 +17,7 @@ image_alt_text: ''
 caption:
 
 featured: true
-featured_order: 900
+featured_order: 890
 featured_image: /assets/img/projecten-featured/Stadspas-Zwolle.jpg
 featured_image_alt_text: 'De stadspas die geen stadspas werd'
 excerpt: "Ruimte voor een nieuwe focus: inzetten op een vereenvoudigen en toegankelijker maken van inkomensregelingen."
