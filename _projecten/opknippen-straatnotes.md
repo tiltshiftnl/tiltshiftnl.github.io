@@ -10,14 +10,14 @@ type:
 keywords: Software design thinking, Design Thinking, echte oplossing voor de mensen die het werk doen, privacy, AVG, jeugdoverlast.
 labels: [datagedreven werken, samenwerken, ketenpartners, privacy]
 
-order: 150
+order: 930
 
 hideBanner: true
 image: /assets/img/foto/Straatnotes-meekijken-met-gebruiker-software-design-thinking.jpg
 caption:
 
 featured: false
-featured_order: 1
+featured_order: 930
 featured_image: /assets/img/projecten-featured/Straatnotes-Straatcoaches-op-Straat-software-jeugdoverlast-terugdringen.jpg
 featured_image_alt_text: 'Straatnotes: een applicatiefamilie bestaande uit diverse losse en herbruikbare applicaties met in het midden een centrale database.'
 excerpt: "In plaats van één alles omvattend systeem voor iedereen, is Straatnotes nu een applicatiefamilie geworden."
