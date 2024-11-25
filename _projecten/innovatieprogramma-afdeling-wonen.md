@@ -16,7 +16,7 @@ caption: ''
 
 order: 940
 
-featured: true
+featured: false
 featured_order: 940
 featured_image: /assets/img/projecten-featured/Wonen-Innovatie-Interventie-Software-Ontwikkeling-werkvloer.jpg
 featured_image_alt_text: 'Innovatieprogramma afdeling Wonen'
