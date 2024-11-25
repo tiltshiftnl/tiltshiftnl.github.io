@@ -24,7 +24,7 @@ excerpt: "Ruimte voor een nieuwe focus: inzetten op een vereenvoudigen en toegan
 
 back: ..
 ---
-De gemeente Zwolle wil dat haar inwoners meedoen aan de maatschappij: kunnen sporten, een museum kunnen bezoeken, of iets leuks kunnen doen met vrienden of familie. Voor mensen met een laag inkomen is dat niet altijd vanzelfsprekend. Voor die mensen heeft Zwolle het participatiefonds. Maar niet iedereen die daar recht op heeft, maakt daar ook gebruik van. Dat kan beter. Matthijs Goense, partner bij Tiltshift, ging ermee aan de slag.
+De gemeente Zwolle wil dat haar inwoners meedoen aan de maatschappij: kunnen sporten, een museum kunnen bezoeken, of iets leuks kunnen doen met vrienden of familie. Voor mensen met een laag inkomen is dat niet altijd vanzelfsprekend. Voor die mensen heeft Zwolle het participatiefonds. Maar niet iedereen die daar recht op heeft, maakt daar ook gebruik van. Dat kan beter. [Matthijs Goense](/mensen/matthijs-goense/), partner bij Tiltshift, ging ermee aan de slag.
 
 Toen Matthijs bij Zwolle begon, was er al een oplossing vastgelegd: het participatiefonds moest plaats maken voor een stadspas. Dat was ook zijn opdracht: werk de details rondom de pas uit en implementeer het.
 
