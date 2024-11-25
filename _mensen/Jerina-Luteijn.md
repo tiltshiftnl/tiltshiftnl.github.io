@@ -28,7 +28,7 @@ telephone: <a href="tel:+31626360121">+31 (0)6 26 36 01 21</a>
 order: 2100
 back: ..
 ---
-Door haar achtergrond in User Experience, haar betrokkenheid bij Ladies That UX Utrecht, en haar uiteenlopende interesses - van interieurarchitectuur tot rouwfotografie - heeft Jerina een geheel eigen blik. Deze stelt haar in staat om uitdagingen vanuit verschillende invalshoeken te benaderen en creatieve oplossingen te vinden die aansluiten bij de behoeften van onze partners en opdrachtgevers.
+Door haar achtergrond in User Experience, haar betrokkenheid bij Ladies That UX Utrecht, en haar uiteenlopende interesses - van interieurarchitectuur tot rouwfotografie - heeft Jerina een geheel eigen blik. Deze stelt haar in staat om uitdagingen vanuit verschillende invalshoeken te benaderen.
 
 {{ page.description }}
 
