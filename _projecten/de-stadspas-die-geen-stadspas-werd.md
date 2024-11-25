@@ -56,18 +56,6 @@ Met het schrappen van de plannen voor de stadspas, ontstond er ruimte voor een n
     <img src="/assets/img/foto/Stadspas-Zwolle-Sessie.jpg" alt="Sessie met meerdere medewerkers van de gemeente Zwolle t.b.v. de Stadspas">
 </div>
 
-Door de afspraken met de interne afdelingen en leverancier te vernieuwen, en met het aanhaken van een UX ontwerper van [Keen design](https://www.keen.design/) maakten we snel meters. We introduceerden Agile principes en vervingen de vele ‘smaakjes’ Scrum door één gezamenlijke methode. We zorgden voor een heldere structuur en besluitvorming, van bestuur tot en met de medewerkers.
-
-> “De aanpak van Tiltshift zorgt voor veel vaart in een project. Het werd heel duidelijk wat de bedoeling was en we kregen alle vrijheid om dat in hoge kwaliteit te realiseren.”
-> 
-> Michiel van Nieuwkerk, Senior Developer, Xuntos
-
-De realisatie vond plaats in korte sprints waarbij het team telkens met focus aan één thema werkte. Iedere oplevering werd direct getoetst bij echte gebruikers. Zo ontstond de nieuwe omgeving, stap voor stap, afgestemd op de doelgroepen. Kort voor de oplevering gaven we de medewerkers van Careyn al toegang om de content te controleren.
-
-<div class="article-image">
-    <img src="/assets/img/foto/Careyn-nieuwe-website-Live.jpg" alt="Website Careyn.nl live" >
-</div>
-
 Matthijs pakt dit, samen met zijn collega’s, aan in drie sporen: de bestaande dienstverlening verbeteren, het beleid rondom de regelingen eenvoudiger maken en de innovatieve dienstverlening. Matthijs is aangesteld als coördinator om deze drie projecten in goede banen te leiden en op elkaar af te stemmen.
                                                                     
 {% include cta.html header="Écht impact maken in jouw gemeente?" persoon="matthijs" %}
