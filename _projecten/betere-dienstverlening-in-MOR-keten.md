@@ -30,14 +30,14 @@ Overvolle afvalcontainers, losliggende stoeptegels, afval in het water of een lo
 >
 > <small>Maarten</small>
 
+Tijdens een _‘Explore’_ bracht Maarten de hele keten in kaart. Hoe worden meldingen gemaakt? Waar komen ze binnen? Wie handelt ze af? En waar zitten de grootste pijnpunten?
+
 <div class="article-image">
     <img src="/assets/img/foto/Forza-MOR-kwartiermaker-programma-manager-forza-mor-Rotterdam.jpg
 " alt="Kwartiermaker en programma manager Maarten, Product manager Oliva en Service designer Peter">
      <br />
     <small>v.l.n.r. Programma manager Maarten Geraets, Product manager Olivia de Drie en Service designer Peter Boer</small>
 </div>
-
-Tijdens een _‘Explore’_ bracht Maarten de hele keten in kaart. Hoe worden meldingen gemaakt? Waar komen ze binnen? Wie handelt ze af? En waar zitten de grootste pijnpunten?
 
 Alle problemen, ergernissen en frustraties werden verzameld. Zo ontdekte hij dat het grootste probleem niet in de techniek zat, maar in de inrichting van de hele keten.
 
