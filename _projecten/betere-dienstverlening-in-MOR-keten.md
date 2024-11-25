@@ -41,6 +41,8 @@ Alle problemen, ergernissen en frustraties werden verzameld. Zo ontdekte hij dat
 <div class="article-image">
     <img src="/assets/img/foto/Forza-MOR-kwartiermaker-programma-manager-forza-mor-Rotterdam.jpg
 " alt="Kwartiermaker en programma manager Maarten, Product manager Oliva en Service designer Peter">
+     <br />
+    <small>V.l.n.r.: Programma manager Maarten Geraets, Product manager Olivia de Drie en Service designer Peter Boer</small>
 </div>
 
 Bij het prioriteren van de problemen kwamen er een aantal grote dingen naar voren: ten eerste vonden veel mensen dat andere afdelingen niet goed met het systeem omgingen. Meldingen belandden vaak op de verkeerde plek of werden niet goed doorgezet.
