@@ -24,3 +24,5 @@ back: ..
 ---
 
 {{ page.description }}
+
+> "Ik vind het heel fijn om met elkaar iets nieuws te maken. Om aan de rest van de wereld te bewijzen: dit kan je prima doen! Voor mij is het allemaal erg logisch, en ik vind het het fascinerend als dit soort dingen soms als ingewikkeld of moeilijk worden ervaren. Ik zeg gewoon: ‘jongens, dit gaan we doen, volg maar, het valt wel mee.’ Dat vind ik heel leuk om te doen.”
