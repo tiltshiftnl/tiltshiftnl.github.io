@@ -14,10 +14,10 @@ hideBanner: true
 image: /assets/img/foto/Wonen-Innovatie-Programma-Interventie.jpg
 caption: ''
 
-order: 160
+order: 940
 
 featured: true
-featured_order: 1
+featured_order: 940
 featured_image: /assets/img/projecten-featured/Wonen-Innovatie-Interventie-Software-Ontwikkeling-werkvloer.jpg
 featured_image_alt_text: 'Innovatieprogramma afdeling Wonen'
 
