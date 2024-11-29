@@ -58,4 +58,4 @@ Met het schrappen van de plannen voor de stadspas, ontstond er ruimte voor een n
 
 Matthijs pakt dit, samen met zijn collega’s, aan in drie sporen: de bestaande dienstverlening verbeteren, het beleid rondom de regelingen eenvoudiger maken en de innovatieve dienstverlening. Matthijs is aangesteld als coördinator om deze drie projecten in goede banen te leiden en op elkaar af te stemmen.
                                                                     
-{% include cta.html persoon="matthijs" header="Écht impact maken in jouw gemeente?" description="Matthijs deelt graag zijn ervaringen over het ombuigen van een stadspas-project naar een effectieve aanpak voor participatie. Neem contact op met Matthijs om samen het verschil te maken!" %}
+{% include cta.html persoon="matthijs" header="Écht impact maken in jouw gemeente?" description="Matthijs deelt graag zijn ervaringen over het ombuigen van een stadspas-project naar een effectieve aanpak voor participatie. Neem contact met hem op om samen het verschil te maken!" %}
