@@ -1,4 +1,4 @@
-x---
+---
 layout: person
 variant: white
 
