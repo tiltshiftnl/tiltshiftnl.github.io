@@ -17,7 +17,7 @@ labels:
     visueel werken,
   ]
 hideBanner: true
-image: /assets/img/mensen/Jerina-Luteijn-Coordinator-Partners-Tiltshift.jpg.jpg
+image: /assets/img/mensen/Jerina-Luteijn-Coordinator-Partners-Tiltshift.jpg
 sliderPhoto: "/assets/img/slider/Jerina-Luteijn.jpg"
 personImage: /assets/img/mensen/Jerina-Luteijn-Coordinator-Partners-Tiltshift.jpg
 email: jerina.luteijn@tiltshift.nl
