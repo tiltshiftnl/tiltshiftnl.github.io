@@ -9,12 +9,13 @@ type: Partner
 keywords:
 labels:
   [
-    open samenwerking,
     public tech,
+    open cultuur,
+    open samenwerking,
     open innovatie,
     lean startup,
     strategie,
-    informatica,
+    informatica
   ]
 currentwork: "<h2>Hier werk ik aan</h2><h3>Algoritmeregister</h3><p>Het inzetten van algoritmes en kunstmatige intelligentie door de overheid is niet zonder risico’s. Het is daarom niet vreemd dat dit volop in de belangstelling staat in de media, de politiek en Europese wetgeving. Met het programma “Algoritmeregister” helpen we overheden hier meer grip op te krijgen en naar buiten toe meer zicht te geven op welke algoritmes er worden ingezet en waarom.</p>"
 hideBanner: true
@@ -45,9 +46,9 @@ back: ..
 
 {{ page.description }}
 
-<h2>Haal Johan erbij als:</h2>
+<h2>Haal Johan erbij</h2>
 
-- je development team niet lekker functioneert;
-- je behoefte hebt aan een duidelijke productvisie, -strategie, -architectuur en roadmap;
-- je snel bruikbare prototypes nodig hebt;
-- je open en agile wil werken.
+- als je écht werk wil maken van open samenwerking;
+- als je productvisie en -strategie steviger moeten;
+- als je verlegen zit om innovatieve productconcepten;
+- als je agile development team sturing nodig heeft.
