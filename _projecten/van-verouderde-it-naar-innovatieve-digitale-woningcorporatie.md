@@ -44,7 +44,7 @@ Jarenlang werd bij Woonstad gesproken over vernieuwen, maar goede plannen strand
 > <small>Joris</small>
 
 <div class="article-image">
-    <img src="/assets/img/foto/Woonstad-Prioriteren-Backlog-Agile-werken-woningcorporatie" alt="Drie mannen staan voor een muur en bestuderen aandachtig de posters en post-its die daar hangen.">
+    <img src="/assets/img/foto/Woonstad-Prioriteren-Backlog-Agile-werken-woningcorporatie.jpg" alt="Drie mannen staan voor een muur en bestuderen aandachtig de posters en post-its die daar hangen.">
      <br />
 </div>
 
@@ -64,7 +64,7 @@ De transformatie gaat verder dan software. De IT-organisatie heeft een prominent
 > <small>Joris</small>
 
 <div class="article-image">
-    <img src="/assets/img/foto/Woonstad-Joris-Boeren-Product-Manager.jpg" alt="Zwart-witfoto van een gedeeltelijke weergave van het gezicht van een man: Joris Boeren. Op de achtergrond is een glazen deur te zien met de woorden "Woonstad Rotterdam" en een weerspiegeling van een straat.">
+    <img src="/assets/img/foto/Woonstad-Joris-Boeren-Product-Manager.jpg" alt="Zwart-witfoto van een gedeeltelijke weergave van het gezicht van een man: Joris Boeren. Op de achtergrond is een glazen deur te zien met de woorden `Woonstad Rotterdam` en een weerspiegeling van een straat.">
      <br />
 </div>
 
