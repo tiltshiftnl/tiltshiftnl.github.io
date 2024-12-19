@@ -50,7 +50,7 @@ Jarenlang werd bij Woonstad gesproken over vernieuwen, maar goede plannen strand
 
 De aanpak had direct impact: teams werkten met focus aan hun domein, met duidelijke verantwoordelijkheid voor data en processen. Dit verbeterde niet alleen de datakwaliteit, maar bracht ook overzicht in een complexe organisatie.
 
-### Samen naar een Agile organisatie
+## Samen naar een Agile organisatie
 
 Woonstad had al stappen gezet richting Agile werken, met de begeleiding van Joris werden de teams beter ingericht en versterkt. De cultuur veranderde van reactief naar proactief:
 
