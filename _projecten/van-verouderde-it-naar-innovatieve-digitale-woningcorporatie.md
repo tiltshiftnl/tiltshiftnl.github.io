@@ -18,7 +18,7 @@ caption:
 
 featured: true
 featured_order: 910
-featured_image: /assets/img/projecten-featured/Woonstad-Joris-Boeren-Product-Manager.jpg
+featured_image: /assets/img/projecten-featured/Woonstad-Rotterdam.jpg
 featured_image_alt_text: 'Zwart-witfoto van een gedeeltelijke weergave van het gezicht van een man: Joris Boeren. Op de achtergrond is een glazen deur te zien met de woorden "Woonstad Rotterdam" en een weerspiegeling van een straat.'
 excerpt: "Met één heldere visie en de opbouw van een wendbare, slagvaardige organisatie is Woonstad Rotterdam klaar voor de toekomst."
 
