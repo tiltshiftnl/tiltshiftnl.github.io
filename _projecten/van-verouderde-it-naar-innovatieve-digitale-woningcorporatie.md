@@ -24,7 +24,7 @@ excerpt: "Met één heldere visie en de opbouw van een wendbare, slagvaardige or
 
 back: ..
 ---
-Woonstad Rotterdam wil voorop blijven lopen als woningcorporatie en zet hoog in op digitalisering. De ambitie? Een organisatie waar technologie bewoners en medewerkers écht ondersteunt, niet belemmert. Maar met een verouderd IT-systeem en talrijke losse initiatieven was er meer nodig dan alleen een plan. Joris Boeren, partner bij Tiltshift, kreeg de taak om de digitale transformatie in goede banen te leiden én in gang te zetten.
+Stichting Woonstad Rotterdam wil voorop blijven lopen als woningcorporatie en zet hoog in op digitalisering. De ambitie? Een organisatie waar technologie bewoners en medewerkers écht ondersteunt, niet belemmert. Maar met een verouderd IT-systeem en talrijke losse initiatieven was er meer nodig dan alleen een plan. [Joris Boeren](../mensen/joris-boeren/), partner bij Tiltshift, kreeg de taak om de digitale transformatie in goede banen te leiden én in gang te zetten.
 
 <div class="article-image">
     <img src="/assets/img/foto/Woonstad-Herinrichting-ICT-afdeling.jpg" alt="Een groep mensen zit rond een vergadertafel in een modern kantoor en is verwikkeld in een discussie. De muren zijn van glas en er hangen sticky notes op.">
@@ -33,7 +33,7 @@ Woonstad Rotterdam wil voorop blijven lopen als woningcorporatie en zet hoog in 
 
 ## Een heldere visie en focus op de praktijk
 
-Jarenlang werd bij Woonstad gesproken over vernieuwen, maar goede plannen strandden vaak door het ontbreken van leiderschap en overzicht. Joris startte met het in kaart brengen van de bestaande situatie en maakte direct scherpe keuzes:
+Lang werd bij Woonstad Rotterdam gesproken over vernieuwen, maar goede plannen strandden vaak door het ontbreken van leiderschap en overzicht. Joris startte met het in kaart brengen van de bestaande situatie en maakte met het team direct scherpe keuze:
 
 - **De beste oplossing voor elk onderdeel:** Geen allesomvattend ERP-systeem, maar een aanpak waarbij voor elk domein de meest geschikte software wordt gekozen.
 - **Gebruik van CORA-referentiearchitectuur:** Deze branche-standaard zorgde voor structuur en consistentie in de aanpak.
@@ -43,7 +43,7 @@ Jarenlang werd bij Woonstad gesproken over vernieuwen, maar goede plannen strand
 >
 > <small>Joris</small>
 
-De aanpak had direct impact: teams werkten met focus aan hun domein, met duidelijke verantwoordelijkheid voor data en processen. Dit verbeterde niet alleen de datakwaliteit, maar bracht ook overzicht in een complexe organisatie.
+De aanpak had direct impact: teams werkten met focus aan hun domein, met duidelijker verantwoordelijkheid voor data en processen. Dit verbeterde niet alleen de datakwaliteit, maar bracht ook overzicht in een complexe organisatie.
 
 <div class="article-image">
     <img src="/assets/img/foto/Woonstad-Prioriteren-Backlog-Agile-werken-woningcorporatie.jpg" alt="Drie mannen staan voor een muur en bestuderen aandachtig de posters en post-its die daar hangen.">
@@ -59,7 +59,7 @@ Woonstad had al stappen gezet richting Agile werken, met de begeleiding van Jori
 
 De transformatie gaat verder dan software. De IT-organisatie heeft een prominente plek gekregen in de directie en speelt een actieve rol in het realiseren van de strategische doelen van Woonstad.
 
-> “De digitale lat ligt hoog bij Woonstad. Het is nu zaak die slim te benutten voor bewoners en medewerkers, en hem daarna verder op te schuiven waar nodig.”
+> “De digitale lat ligt hoog bij Woonstad Rotterdam. Het is nu zaak dat niveau goed te benutten voor bewoners en medewerkers, om de lat daarna nog een beetje hoger te leggen.”
 >
 > <small>Joris</small>
 
