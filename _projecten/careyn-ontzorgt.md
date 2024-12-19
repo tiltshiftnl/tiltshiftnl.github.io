@@ -16,7 +16,7 @@ image: /assets/img/foto/Careyn-Joris-Boeren-leiderschap-traject-nieuwe-website.j
 image_alt_text: 'Joris Boeren zorgt voor heldere uitgangspunten en duidelijke scope'
 caption:
 
-featured: true
+featured: false
 featured_order: 910
 featured_image: /assets/img/projecten-featured/Careyn-ontzorgt-met-nieuw-online-kanaal.jpg
 featured_image_alt_text: 'Een nieuwe website als katalysator voor samenwerking.'
