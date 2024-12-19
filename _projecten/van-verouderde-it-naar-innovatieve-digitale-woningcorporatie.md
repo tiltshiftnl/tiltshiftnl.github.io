@@ -43,12 +43,12 @@ Jarenlang werd bij Woonstad gesproken over vernieuwen, maar goede plannen strand
 >
 > <small>Joris</small>
 
+De aanpak had direct impact: teams werkten met focus aan hun domein, met duidelijke verantwoordelijkheid voor data en processen. Dit verbeterde niet alleen de datakwaliteit, maar bracht ook overzicht in een complexe organisatie.
+
 <div class="article-image">
     <img src="/assets/img/foto/Woonstad-Prioriteren-Backlog-Agile-werken-woningcorporatie.jpg" alt="Drie mannen staan voor een muur en bestuderen aandachtig de posters en post-its die daar hangen.">
      <br />
 </div>
-
-De aanpak had direct impact: teams werkten met focus aan hun domein, met duidelijke verantwoordelijkheid voor data en processen. Dit verbeterde niet alleen de datakwaliteit, maar bracht ook overzicht in een complexe organisatie.
 
 ## Samen naar een Agile organisatie
 
