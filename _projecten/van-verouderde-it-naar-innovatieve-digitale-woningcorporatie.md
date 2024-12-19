@@ -70,4 +70,4 @@ De transformatie gaat verder dan software. De IT-organisatie heeft een prominent
 
 Dankzij de bundeling van losse initiatieven in één heldere visie en de opbouw van een wendbare, slagvaardige organisatie is Woonstad Rotterdam klaar voor de toekomst. De samenwerking tussen IT en de business is hechter dan ooit, met als resultaat een organisatie die sneller kan inspelen op de behoeften van huurders en medewerkers.
   
-{% include cta.html header="Jouw digitale transformatie écht maken?" description="Neem direct contact op met Joris Boeren om samen de volgende stap te zetten." persoon="joris" %}
+{% include cta.html header="Jouw digitale transformatie écht maken?" description="Neem contact op met Joris Boeren om samen de volgende stap te zetten." persoon="joris" %}
