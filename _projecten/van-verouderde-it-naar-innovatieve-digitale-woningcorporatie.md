@@ -9,7 +9,7 @@ type:
 keywords: 'woningcorporatie, dienstverlening, ontwerpende aanpak, ontwerpend onderzoek, programma management, innovatie, design thinking, inrichting it organisatie, verandering it organisatie, software design thinking, digitalisering, digitale transformatie'
 labels: [programmamanagement, digitale transformatie, woningbouw]
 
-order: 910
+order: 880
 
 hideBanner: true
 image: /assets/img/foto/Woonstad-Herinrichting-ICT-afdeling.jpg
@@ -17,7 +17,7 @@ image_alt_text: 'Programma manager Joris Boeren'
 caption:
 
 featured: true
-featured_order: 910
+featured_order: 880
 featured_image: /assets/img/projecten-featured/Woonstad-Rotterdam.jpg
 featured_image_alt_text: 'Zwart-witfoto van een gedeeltelijke weergave van het gezicht van een man: Joris Boeren. Op de achtergrond is een glazen deur te zien met de woorden "Woonstad Rotterdam" en een weerspiegeling van een straat.'
 excerpt: "Met één heldere visie en de opbouw van een wendbare, slagvaardige organisatie is Woonstad Rotterdam klaar voor de toekomst."
