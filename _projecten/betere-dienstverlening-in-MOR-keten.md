@@ -78,7 +78,7 @@ De eerste stap van dit programma was een eigenaar aanstellen. Deze kwam er in de
 Wat begon als een it-vraagstuk, eindigde in een compleet nieuwe organisatie binnen de gemeente Rotterdam. Een organisatie die de meldingsketen openbare ruimte beter maakt, en ook in de toekomst dingen kan blijven verbeteren.
 
 ### Team
-- programma manager: [Maarten Geraets](/partners/maarten-geraets/)
-- product owner: [Arjen Jelsma](/partners/arjen-jelsma/)
+- programma manager: [Maarten Geraets](/mensen/maarten-geraets/)
+- product owner: [Arjen Jelsma](/mensen/arjen-jelsma/)
   
 {% include cta.html header="In een complexe organisatie écht het verschil maken? " persoon="maarten" %}
