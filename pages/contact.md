@@ -27,7 +27,8 @@ Europalaan 2 B<br>
 ### Bedrijfsgegevens
 
 KvK 68994222<br>
-BTW-ID NL857680237B01
+BTW-ID NL857680237B01<br>
+IBAN NL67 SNSB 8846 5901 39
 
 ### Postadres
 
