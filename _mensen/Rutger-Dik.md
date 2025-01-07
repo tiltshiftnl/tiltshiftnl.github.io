@@ -3,7 +3,7 @@ layout: person
 variant: white
 
 title: "Rutger Dik"
-description: "Rutger is die gene voor wie iedereen graag werkt. Hij is vriendelijk, aimabel, bouwt sterke teams en zorgt voor doen, in plaats van alleen maar praten. Onder die deken van vriendelijkheid schuilt echter ook een pragmatische en doelmatige veranderaar. Iemand die voor hands-on oplossingen zorgt door teams stap voor stap te laten ontdekken, realiseren, testen, implementeren en repeat."
+description: "Rutger is nou typisch die persoon voor wie iedereen graag werkt. Hij is vriendelijk, aimabel, bouwt sterke teams en zorgt voor doen, in plaats van alleen maar praten. Maar vergis je niet: achter die vriendelijke glimlach schuilt een pragmatische en doelgerichte veranderaar. Iemand die voor hands-on oplossingen zorgt door zijn teams stap voor stap te laten ontdekken, realiseren, testen, implementeren en repeat."
 quote: '"Als je de richting van de wind niet kunt veranderen, verander dan de stand van je zeilen."'
 type: Partner
 keywords:
