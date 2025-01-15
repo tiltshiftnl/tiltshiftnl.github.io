@@ -24,7 +24,6 @@ main > h1,
 main > h2,
 main > h3,
 main > p,
-main > ul,
 main > form,
 main > p {
     margin-top: 0;
@@ -33,6 +32,15 @@ main > p {
     margin-right: auto;
     @include container-sm();
 }
+
+main > ul{
+    line-height: 1.5;
+    margin-top: 0;
+    margin-left: auto;
+    margin-right: auto;
+    @include container-sm();
+}
+
 main > p {
     margin-bottom: 1.5rem;
     line-height: $line-height-paragraph-lg;
