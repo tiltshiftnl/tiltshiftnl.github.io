@@ -4,7 +4,7 @@ hideform: true
 variant: white
 
 title: Uitvoerend leiderschap in digitale transformatie
-subtitle: Als je écht wil beginnen met digitale transformatie of interne digitalisering vast loopt
+subtitle: "Als je écht wil beginnen met digitale transformatie of interne digitalisering vast loopt"
 description:"We verzorgen het uitvoerend leiderschap voor digitale projecten en transformatieprogramma's, vanuit inhoudelijke expertise op het gebied van service design, software ontwikkeling en organisatieverandering.
 
 Wil je werk maken van digitale transformatie, maar blijf je hangen in strategische plannen en experimenten? Tiltshift maakt het écht! We lopen mee met de uitvoerenden en maken samen met hen stapsgewijs de benodigde verandering in proces en techniek. Zo zorgen we snel voor concrete resultaten én maken we innovatie pragmatisch."
