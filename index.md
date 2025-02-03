@@ -23,6 +23,8 @@ Een Tiltshifter is specialist op zijn of haar vakgebied en heeft een sterke eige
 
 {% include people-table.html %}
 
+> "Als je mensen niet over het hoofd wil zien, moet je ze betrekken in alle fases van het project."
+
 Bel ons op <a href="tel:+31207220207">020-722 02 07</a> als:
 
 - **Je écht wil beginnen met digitale transformatie**. We maken een concreet plan van aanpak, leiden de opstart (kwartiermaken) en de uitvoering.
@@ -31,7 +33,7 @@ Bel ons op <a href="tel:+31207220207">020-722 02 07</a> als:
 
 We werken samen met jouw ontwikkelteam en nemen indien nodig eigen experts mee voor extra capaciteit.
 
-> "Als je mensen niet over het hoofd wil zien, moet je ze betrekken in alle fases van het project."
+
 
 {% include projects-homepage.html title="Uitgelichte projecten" intro="" projects=site.projects %}
 
