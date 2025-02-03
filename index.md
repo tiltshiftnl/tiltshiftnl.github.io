@@ -17,13 +17,15 @@ caption:
 
 Wil je werk maken van digitale transformatie, maar blijf je hangen in strategische plannen en experimenten? Tiltshift maakt het écht! We lopen mee met de uitvoerenden en maken samen met hen stapsgewijs de benodigde verandering in proces en techniek. Zo zorgen we snel voor concrete resultaten én maken we innovatie pragmatisch."
 
-## Mensen
+## Tiltshifters
 
 Een Tiltshifter is specialist op zijn of haar vakgebied en heeft een sterke eigen mening. Die zetten ze in om jouw doelen te bereiken - tenminste, als ze in dat doel geloven.
 
 {% include people-table.html %}
 
 > "Als je mensen niet over het hoofd wil zien, moet je ze betrekken in alle fases van het project."
+
+{% include projects-homepage.html title="Uitgelichte projecten" intro="" projects=site.projects %}
 
 Bel ons op <a href="tel:+31207220207">020-722 02 07</a> als:
 
@@ -33,9 +35,6 @@ Bel ons op <a href="tel:+31207220207">020-722 02 07</a> als:
 
 We werken samen met jouw ontwikkelteam en nemen indien nodig eigen experts mee voor extra capaciteit.
 
-
-
-{% include projects-homepage.html title="Uitgelichte projecten" intro="" projects=site.projects %}
 
 ## Relaties
 
