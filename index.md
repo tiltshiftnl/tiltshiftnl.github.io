@@ -15,7 +15,7 @@ caption:
 
 {{ page.description }}
 
-Wil je werk maken van digitale transformatie, maar blijf je hangen in strategische plannen en experimenten? Tiltshift maakt het écht! We lopen mee met de uitvoerenden en maken samen met hen stapsgewijs de benodigde verandering in proces en techniek. Zo zorgen we snel voor concrete resultaten én maken we innovatie pragmatisch."
+Wil je werk maken van digitale transformatie, maar blijf je hangen in strategische plannen en experimenten? Tiltshift maakt het écht! We lopen mee met de uitvoerenden en maken samen met hen stapsgewijs de benodigde verandering in proces en techniek. Zo zorgen we snel voor concrete resultaten én maken we innovatie pragmatisch.
 
 ## Tiltshifters
 
