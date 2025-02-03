@@ -25,7 +25,7 @@ linkedInUrl: https://www.linkedin.com/in/matthijs-goense/
 vcardUrl: https://go.tiltshift.nl/vcard-matthijs
 telephone: <a href="tel:+31614197435">+31 (0)6 14 19 74 35</a>
 
-order: 970
+order: 2500
 back: ..
 ---
 
