@@ -19,7 +19,7 @@ Wil je werk maken van digitale transformatie, maar blijf je hangen in strategisc
 
 ## Tiltshifters
 
-Een Tiltshifter is specialist op zijn of haar vakgebied en heeft een sterke eigen mening. Die zetten ze in om jouw doelen te bereiken - tenminste, als ze in dat doel geloven.
+Tiltshifters zijn mensen die verandering niet alleen begrijpen, maar die het ook dóen. Die voorop durven lopen en duidelijkheid scheppen, zelfs als het schuurt. Een Tiltshifter is specialist op zijn of haar vakgebied en heeft een sterke eigen mening. Die zetten ze in om jouw doelen te bereiken - tenminste, als ze in dat doel geloven.
 
 {% include people-table.html %}
 
