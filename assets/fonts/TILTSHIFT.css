@@ -24,6 +24,7 @@
 
 /* @import must be at top of file, otherwise CSS will not work */
 @import url("//hello.myfonts.net/count/3c12ce");
+@import url("//hello.myfonts.net/count/3c496e");
 
 @font-face {
   font-family: 'Gilroy-ExtraBold';
@@ -33,7 +34,6 @@
   font-family: 'Northwell';
   src: url('webFonts/Northwell/font.woff2') format('woff2'), url('webFonts/Northwell/font.woff') format('woff');
 }
-@import url("//hello.myfonts.net/count/3c496e");
 @font-face {
   font-family: 'HelveticaNeueLTPro-Bd';
   src: url('webFonts/HelveticaNeueLTPro-Bd/font.woff2') format('woff2'), url('webFonts/HelveticaNeueLTPro-Bd/font.woff') format('woff');
