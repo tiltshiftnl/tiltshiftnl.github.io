@@ -33,7 +33,7 @@ IBAN NL67 SNSB 8846 5901 39
 ### Postadres
 
 Tiltshift B.V.<br>
-Croeselaan 375 BS<br>
-3521 BW Utrecht
+Strawinskylaan 11<br>
+2102 CM Heemstede
 
 {% include google-map.html %}
