@@ -23,7 +23,7 @@ Partners bij Tiltshift zorgen voor synergie tussen de verschillende projecten en
 
 > “Met zijn kennis en ervaringen opgedaan o.a. bij de gemeente Utrecht, de SVB en het ministerie van SZW is Matthijs een waardevolle aanvulling op de andere partners. Ik kijk dan ook uit naar de samenwerking!”
 >
-> <small>Eva Leffef, algemeen directeur</small>
+> <small>Eva Leffef, Tiltshift</small>
 
 Wil je Matthijs feliciteren? Je vindt zijn contactgegevens op [zijn partner pagina](https://www.tiltshift.nl/mensen/matthijs-goense/).
 

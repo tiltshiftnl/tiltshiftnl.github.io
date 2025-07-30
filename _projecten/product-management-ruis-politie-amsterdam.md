@@ -16,11 +16,11 @@ image: /assets/img/foto/Product-Management-Adus-Blauw-RUIS.jpg
 image_alt_text: 'Product Management geeft richting aan product owner'
 caption:
 
-featured: false
+featured: true
 featured_order: 920
 featured_image: /assets/img/projecten-featured/Product-Management-datauitwisseling-gemeente-politie.jpg
 featured_image_alt_text: 'Product Management geeft richting aan product owner'
-excerpt: "Hoe ontwerpend onderzoek, een duidelijke productvisie en een heldere MVP scope datauitwisseling tussen gemeente en politie succesvol maakte."
+excerpt: "Hoe ontwerpend onderzoek zorgt voor een gedragen visie op datauitwisseling tussen gemeente en politie."
 
 back: ..
 ---
@@ -40,7 +40,7 @@ Doordat we al langer werken in het veld van jeugdoverlast in Amsterdam was er al
 
 Tijdens ideation sessies werden een aantal heldere concepten bedacht als oplossing voor de geselecteerde problemen. De belangrijkste betrokkenen brachten hun stem uit, waarna de PO uiteindelijk de knoop door hakte en koos voor één concept: een hotspot app. Dit concept voorziet in de behoefte om een actueel beeld in overlastplekken te krijgen, wat volledig aansluit bij het gebiedsgebonden werken. De dwingende keuze om slechts één van deze concepten (als eerste) te realiseren gaf richting en duidelijkheid voor het vervolg traject. 
 
-> "Eva heeft zich niet beperkt tot de kale opdracht, maar heeft ons gestimuleerd en gecoacht bij het verder nadenken. Wat is de echte behoefte en hoe kunnen we die invullen? Hoe krijgen we de vraag van de interne klant helder? Hoe kom je tot de meest wenselijke oplossing binnen de mogelijkheden?"
+> "Tiltshift heeft zich niet beperkt tot de kale opdracht, maar heeft ons gestimuleerd en gecoacht bij het verder nadenken. Wat is de echte behoefte en hoe kunnen we die invullen? Hoe krijgen we de vraag van de interne klant helder? Hoe kom je tot de meest wenselijke oplossing binnen de mogelijkheden?"
 >
 > <small>Aline van der Laan, Operationeel Specialist D & Regionaal Coördinator Partnerschap, Politie Amsterdam</small>
 
@@ -54,9 +54,9 @@ Ter voorbereiding van de ontwikkeling bepaalde de Product Owner, UX-ers en ontwi
     <small>Eerste versie van de applicatie, er is geen echte data te zien.</small>
 </div>
 
-> "Doordat je als begeleidende rol volledig buiten de organisatie staat is het ‘verkopen’ van de werkwijze (bijvoorbeeld een aantal Software Design Thinking methodes) soms extra lastig. Wanneer dit dan toch lukt, mensen de waarde ervan (in)zien en zelfs termen en gebruiken gaan overnemen, dan geeft dat juist weer heel veel energie!"
+> "Doordat je als begeleider volledig buiten de organisatie staat is het ‘verkopen’ van een nieuwe werkwijze als software design thinking soms lastig. Wanneer dit dan toch lukt dan geeft dat heel veel energie!"
 >
-> <small>Eva Leffef, Algemeen directeur</small>
+> <small>Eva Leffef, Tiltshift</small>
 
 Tijdens de ontwikkelingsfase werd de Product Owner ondersteund bij o.a. Agile werken, het opstellen van de programma,- en projectvisie en het bijhouden van de roadmap (met epics). Door telkens uit te rollen naar kleine groepjes gebruikers in plaats van in één keer live gaan voor alle gebruikers, verliep de livegang van de applicatie soepel. Kleine dingen die tijdens het in gebruik nemen naar boven kwamen konden zo gelijk opgelost worden.
 
@@ -65,7 +65,7 @@ Tijdens de ontwikkelingsfase werd de Product Owner ondersteund bij o.a. Agile we
 >
 > <small>Aline van der Laan, Operationeel Specialist D & Regionaal Coördinator Partnerschap, Politie Amsterdam</small>
 
-- product management: [Eva Leffef](/partners/eva-leffef/)
+- product management: Eva Leffef
 - project management: Joost Bout
                                                                     
-{% include cta.html header="Ook richting door Product Management?" persoon="eva" %}
+{% include cta.html header="Ook richting door Product Management?" persoon="johan" %}

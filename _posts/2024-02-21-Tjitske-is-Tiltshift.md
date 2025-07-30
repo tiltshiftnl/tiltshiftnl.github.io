@@ -23,7 +23,7 @@ Partners bij Tiltshift zorgen voor synergie tussen de verschillende projecten en
 
 > “Tjitske's motivatie en drive om werken leuk en mensgericht te maken, past ontzettend goed bij ons. Met haar bak aan ervaring, brengt ze kwaliteit. Maar bovenal is ze een heel fijn mens!”
 >
-> <small>Eva Leffef, algemeen directeur</small>
+> <small>Eva Leffef, Tiltshift</small>
 
 Wil je Tjitske feliciteren? Je vindt haar contactgegevens op [haar partner pagina](https://www.tiltshift.nl/mensen/tjitske-visser/).
 

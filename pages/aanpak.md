@@ -4,7 +4,7 @@ variant: white
 permalink: /aanpak/
 
 title: De Tiltshift aanpak
-description: "Tiltshift partners helpen organisaties (die vast lopen) bij digitale transformatie. Vanuit het perspectief van de business zorgen ze voor daadkracht en doelgerichtheid. Dat doen ze niet zomaar, daar zit ervaring en een mening achter."
+description: "Wij helpen organisaties die vastlopen in digitale transformatie. Vanuit het perspectief van de werkvloer zorgen we voor focus en voortgang. Dat is geen toeval, daar zit ervaring en een aanpak achter."
 keywords: methodes, design thinking, lean startup, service design, government digital services, agile, xp, creative commons
 
 hideBanner: true
@@ -14,15 +14,15 @@ caption:
 {{ page.description }}
 
 ## Software design thinking
-De focus ligt op bruikbaarheid en concrete resultaten. Vaak is het beter om iets te maken en dát te beoordelen, dan vooraf plannen te maken.
+De focus ligt op werkbaarheid en concrete resultaten. Het is vaak beter om iets concreet te maken en dát te bespreken, dan eindeloos plannen te maken en te blijven hangen in discussies.
 
-Tiltshift partners hebben hun eigen stijl, maar werken allemaal vanuit (software) design thinking en natuurlijk Agile.
+Als partner bij Tiltshift hebben we allemaal onze eigen stijl, maar we delen een voorliefde voor (software) design thinking en agile development. We werken samen met de mensen die het moeten doen en we zorgen ervoor dat zij hun werk beter kunnen doen.
 
 <div class="article-image">
     <img src="/assets/img/Tiltshift-Aanpak-Software-Design-Thinking.jpg" alt="Systematische weergave van de aanpak van Tiltshift d.m.v. de fases van Software Design Thinking">
 </div>
 
-## Iedereen betrokken
+## Iedereen aan tafel
 
 We brengen iedereen samen in nuttige sessies en geven ruim baan aan de ervaring van de gebruikers. Met het hele team lopen we mee met de uitvoerenden.
 
@@ -48,5 +48,5 @@ We starten metéén met de implementatie, zodat de oplossing direct en ‘in het
 >
 > <small>Medewerker gemeente Amsterdam</small>
 
-{% include cta.html header="Wat we voor jouw organisatie kunnen betekenen?" persoon="eva" %}
+{% include cta.html header="Wat we voor jouw organisatie kunnen betekenen?" persoon="johan" %}
 

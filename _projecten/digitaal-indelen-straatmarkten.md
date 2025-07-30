@@ -16,7 +16,7 @@ image: /assets/img/foto/Digitaal-Indelen-Markt-Amsterdam-Marktmeesters.jpg
 image_alt_text: 'Marktmeesters tijdens een (handmatige) indeling van een straatmarkt in Amsterdam'
 caption:
 
-featured: false
+featured: true
 featured_order: 970
 featured_image: /assets/img/projecten-featured/Digitaal-Indelen-Handmatige-Marktindeling-gedigitaliseerd.jpg
 featured_image_alt_text: 'De applicatie om aan te melden voor de marktindeling van de straatmarkten in Amsterdam.'
@@ -54,4 +54,4 @@ Alle verandering is moeilijk. Zeker op een Amsterdamse markt waar alles al jaren
 
 Samen met medewerkers van het marktbureau en ondernemers hebben we de problemen en onduidelijkheden van de dagelijkse indeling op de markt opgelost. Een element dat we niet konden beïnvloeden was de komst van Covid-19. Het heeft de implementatie vertraagd maar niet afgesteld.
 
-{% include cta.html header="Wil je meer weten over Digitaal Indelen?" persoon="eva" %}
+{% include cta.html header="Wil je meer weten over Digitaal Indelen?" persoon="johan" %}

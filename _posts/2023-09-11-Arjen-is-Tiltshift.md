@@ -23,7 +23,7 @@ Partners bij Tiltshift zorgen voor synergie tussen de verschillende projecten en
 
 > “Ik ben blij dat Arjen zich als partner bij ons heeft aangesloten. Zijn gedrevenheid om te groeien en kunde om wat in hoofden leeft visueel te maken is een waardevolle aanvulling!”
 >
-> <small>Eva Leffef, algemeen directeur</small>
+> <small>Eva Leffef, Tiltshift</small>
 
 Wil je Arjen feliciteren? Je vindt zijn contactgegevens op [zijn partner pagina](https://www.tiltshift.nl/mensen/arjen-jelsma/).
 

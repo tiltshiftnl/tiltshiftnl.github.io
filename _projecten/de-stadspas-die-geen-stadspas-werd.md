@@ -16,8 +16,6 @@ image: /assets/img/foto/Stadspas-Zwolle-Sessie.jpg
 image_alt_text: ''
 caption:
 
-featured: true
-featured_order: 890
 featured_image: /assets/img/projecten-featured/Stadspas-Zwolle.jpg
 featured_image_alt_text: 'De stadspas die geen stadspas werd'
 excerpt: "Ruimte voor een nieuwe focus: inzetten op een vereenvoudigen en toegankelijker maken van inkomensregelingen."
@@ -58,4 +56,4 @@ Met het schrappen van de plannen voor de stadspas, ontstond er ruimte voor een n
 
 Matthijs pakt dit, samen met zijn collega’s, aan in drie sporen: de bestaande dienstverlening verbeteren, het beleid rondom de regelingen eenvoudiger maken en de innovatieve dienstverlening. Matthijs is aangesteld als coördinator om deze drie projecten in goede banen te leiden en op elkaar af te stemmen.
                                                                     
-{% include cta.html persoon="matthijs" header="Écht impact maken in jouw gemeente?" description="Matthijs deelt graag zijn ervaringen over het ombuigen van een stadspas-project naar een effectieve aanpak voor participatie. Neem contact met hem op om samen het verschil te maken!" %}
+{% include cta.html persoon="johan" header="Ook aan de slag met betere dienstverlening?" %}

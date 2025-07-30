@@ -5,10 +5,10 @@ permalink: /partners/
 
 subject: Digitalisering in beweging
 title: "Partners"
-subtitle: Tiltshifters zorgen voor beweging om jouw doel te bereiken, als ze er in geloven tenminste.
+subtitle: Tiltshift zorgt voor beweging om jouw doel te bereiken, als we er in geloven tenminste.
 
-description: "Elke Tiltshifter heeft een specifieke kunde maar evengoed een duidelijke mening. Die zetten ze in om jouw doel te bereiken - tenminste, als ze in dat doel geloven. Tiltshifters zorgen voor beweging. Door mensen te motiveren, dingen behapbaar te maken en waar dat nodig is te confronteren. Altijd gericht op voortgang zijn we communicatief, vriendelijk én duidelijk. "
-keywords: "Tiltshifters, senior, uitvoerend, leiderschap, consultants, partners, mensen, peeps, innovatie, interventie, vacature"
+description: "Wij zijn mensen die verandering niet alleen begrijpen, maar die het ook dóen. Die voorop durven lopen en duidelijkheid scheppen, zelfs als het schuurt. Specialist op ons vakgebied en een sterke eigen mening. Die zetten we in om jouw doelen te bereiken… als we in dat doel geloven."
+keywords: "senior, uitvoerend, leiderschap, consultants, partners, mensen, peeps, innovatie, interventie, vacature"
 
 hideBanner: true
 image: "assets/img/foto/IMG_9253_scaled.jpg"
@@ -16,8 +16,8 @@ caption: 'Explore "App Interne Dienstverlening", Gemeente&nbsp;Amsterdam'
 
 menu: show
 ---
-Elke Tiltshifter heeft een specifieke kunde maar evengoed een duidelijke mening. Die zetten ze in om jouw doel te bereiken - tenminste, als ze in dat doel geloven.
+{{ page.description }}
 
-Tiltshifters zorgen voor beweging. Door mensen te motiveren, dingen behapbaar te maken en waar dat nodig is te confronteren. Altijd gericht op voortgang zijn we communicatief, vriendelijk én duidelijk.
+We zetten de boel in beweging. Door dingen behapbaar te maken en te durven doen. Door er te zijn voor mensen, maar ook eerlijk te zijn.
 
 {% include people.html %}

@@ -1,6 +1,6 @@
 <div class="article-image">
     <div class="container-sm" style="display: flex; flex-wrap: wrap">
-        {% assign mensen_in_order = site.mensen | sort: "order" %}
+        {% assign mensen_in_order = site.mensen | sort: "title" %}
         {% for persoon in mensen_in_order %}
         {% unless persoon.title == page.title && include.excludeCurrent %}
         <div>
