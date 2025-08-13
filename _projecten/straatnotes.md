@@ -24,8 +24,7 @@ excerpt: "De straatcoaches in Amsterdam kregen een echt hulpmiddel in hun werk e
 
 back: ..
 ---
-In Amsterdam zijn straatcoaches de ogen en oren op straat. Met de informatie die zij ophalen kan de gemeente tijdig interventies inzetten op individuën, groepen en hotspots. Maar er waren 
-zorgen: notities werden op de eigen telefoons bijgehouden, naar elkaar gemaild, overgetypt in documenten en vervolgens weer doorgemaild naar diverse ontvangers in de gemeente.
+In Amsterdam zijn straatcoaches de ogen en oren op straat. Met de informatie die zij ophalen kan de gemeente diverse interventies tijdig inzetten. Maar er waren zorgen: notities werden op de eigen telefoons bijgehouden, naar elkaar gemaild, overgetypt in documenten en vervolgens weer doorgemaild naar diverse ontvangers in de gemeente.
 
 Sjoukje Alta, stadsdeelsecretaris van Stadsdeel Oost, besloot hier met Tiltshift verandering in te brengen.
 
@@ -33,11 +32,11 @@ Sjoukje Alta, stadsdeelsecretaris van Stadsdeel Oost, besloot hier met Tiltshift
     <img src="/assets/img/foto/Straatnotes-meekijken-met-gebruiker-software-design-thinking.jpg">
 </div>
 
-Door ruim twee weken intensief met de coaches mee te lopen konden we zelf ervaren hoe het is om in gesprek te gaan met groepen jongeren op straat, en waarom je pas daarna, om de hoek, je bevindingen noteert. En hoe vervelend en tijdrovend het is om alle aantekeningen aan het eind van de dienst, midden in de nacht, nog 'netjes' in te moeten voeren in de gemeentelijke systemen. Daar zat voor ons een haakje: een veilig en handige digitaal aantekeningenboekje, helemaal afgestemd op wat er op straat gebeurt. Zo werd Straatnotes geboren.
+Door ruim twee weken intensief met de coaches mee te lopen konden we zelf ervaren hoe het is om op een groep af te stappen en waarom je pas om de hoek je bevindingen noteert. En hoe vervelend en tijdrovend het is om aantekeningen aan het eind van de dienst, midden in de nacht, nog 'netjes' in te moeten voeren in verouderde systemen. Daar zat voor ons een haakje: een veilig en handige digitaal aantekeningenboekje, afgestemd op wat er op straat gebeurt. Zo werd Straatnotes geboren.
 
-Met Straatnotes kan een notitie op straat al verrijkt worden. De gemeente houdt "kaartenbakken" bij voor _hotspots_ en groepen waarvoor tot een aanpak is besloten, zodat die eenvoudig bij een notitie kunnen worden getagd.
+Met Straatnotes kan een notitie op straat al verrijkt worden. De gemeente houdt "kaartenbakken" bij voor bijvoorbeeld _hotspots_ waarvoor tot een aanpak is besloten, zodat die eenvoudig bij een notitie kunnen worden getagd.
 
-Deze kaartenbakken zorgen er ook voor dat er niet per ongeluk mensen worden getagd waarvoor die aanpak is verlopen. En dat informatie die getagd is ook kan worden gelakt zodra er geen aanpak meer loopt. Door bepaalde kleine handmatige stappen over te nemen in Straatnotes, zoals het versturen van mails, kunnen we ook zorgen dat er niet per ongeluk informatie wordt gedeeld met ontvangers die niet (meer) tot een convenant behoren, of informatie die niet langer mag worden gedeeld.
+Deze kaartenbakken zorgen er ook voor dat er niet per ongeluk wordt getagd waarvoor de aanpak is verlopen. En dat informatie die getagd is ook kan worden gelakt zodra er geen aanpak meer loopt. Door bepaalde kleine handmatige stappen over te nemen in Straatnotes, zoals het versturen van mails, kunnen we ook zorgen dat er niet per ongeluk informatie wordt gedeeld met ontvangers die niet (meer) tot een convenant behoren, of informatie die niet langer mag worden gedeeld.
 
 > "Behalve dat de oplossing heel goed is heb ik ook met andere ogen naar ons proces kunnen kijken. Daar is het echt beter van geworden."
 >
