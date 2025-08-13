@@ -3,7 +3,7 @@ layout: default
 variant: white
 
 title: "Straatnotes geeft inzicht in de stad"
-description: Straatnotes helpt de bevindingen van straatcoaches veilig te verzamelen en om te zetten naar bruikbare informatie en waardevolle inzichten. Waarbij de privacy van de betrokkenen gewaarborgd is.
+description: Straatnotes helpt straatcoaches notities veilig te schrijven en versturen, en de gemeente om met respect voor privacy bruikbare, waardevolle inzichten uit deze informatie te halen.
 
 quote:
 type:
@@ -24,17 +24,20 @@ excerpt: "De straatcoaches in Amsterdam kregen een echt hulpmiddel in hun werk e
 
 back: ..
 ---
-In Amsterdam zijn straatcoaches de ogen en oren op straat, waardoor tijdig interventies ingezet kunnen worden. De informatie die zij verzamelen werd ongestructureerd op de eigen telefoon bijgehouden, geappt en overgetypt in de gemeentesystemen. Van waaruit het als e-mail en Excel werd verspreid onder de gebruikers. Het was niet dat het niet veilig kon, de te gebruiken systemen waren onhandig.
+In Amsterdam zijn straatcoaches de ogen en oren op straat. Met de informatie die zij ophalen kan de gemeente tijdig interventies inzetten op individuën, groepen en hotspots. Maar er waren 
+zorgen: notities werden op de eigen telefoons bijgehouden, naar elkaar gemaild, overgetypt in documenten en vervolgens weer doorgemaild naar diverse ontvangers in de gemeente.
 
-De stadsdeel secretaris van Stadsdeel Oost, Sjoukje Alta, wilde dit veranderen maar werd intern niet gehoord. Dus huurde ze Tiltshift in.
+Sjoukje Alta, stadsdeelsecretaris van Stadsdeel Oost, besloot hier met Tiltshift verandering in te brengen.
 
 <div class="article-image">
     <img src="/assets/img/foto/Straatnotes-meekijken-met-gebruiker-software-design-thinking.jpg">
 </div>
 
-Wij liepen met de coaches mee. Zo zagen met eigen ogen hoe ze in gesprek gingen met de jongeren op straat en waarom ze daarna om de hoek pas hun bevindingen noteerden. Ook zagen we hoe omslachtig het was (en dus hoeveel tijd het kostte) om die aantekeningen ‘netjes’ in te voeren in de gemeentelijke systemen. Daarom maakten we een veilige en handige aantekeningen applicatie, helemaal afgestemd op wat er op straat gebeurt.
+Door ruim twee weken intensief met de coaches mee te lopen konden we zelf ervaren hoe het is om in gesprek te gaan met groepen jongeren op straat, en waarom je pas daarna, om de hoek, je bevindingen noteert. En hoe vervelend en tijdrovend het is om alle aantekeningen aan het eind van de dienst, midden in de nacht, nog 'netjes' in te moeten voeren in de gemeentelijke systemen. Daar zat voor ons een haakje: een veilig en handige digitaal aantekeningenboekje, helemaal afgestemd op wat er op straat gebeurt. Zo werd Straatnotes geboren.
 
-In de applicatie kan op straat al meta data vastgelegd worden. Tenslotte veranderden we de processen zodanig dat informatie pas wordt gedeeld nadat er een controleslag heeft plaatsgevonden, volgens de AVG. Doordat dit makkelijk is, in één eenvoudige omgeving, doet iedereen ook gewoon wat de bedoeling is.
+Met Straatnotes kan een notitie op straat al verrijkt worden. De gemeente houdt "kaartenbakken" bij voor _hotspots_ en groepen waarvoor tot een aanpak is besloten, zodat die eenvoudig bij een notitie kunnen worden getagd.
+
+Deze kaartenbakken zorgen er ook voor dat er niet per ongeluk mensen worden getagd waarvoor die aanpak is verlopen. En dat informatie die getagd is ook kan worden gelakt zodra er geen aanpak meer loopt. Door bepaalde kleine handmatige stappen over te nemen in Straatnotes, zoals het versturen van mails, kunnen we ook zorgen dat er niet per ongeluk informatie wordt gedeeld met ontvangers die niet (meer) tot een convenant behoren, of informatie die niet langer mag worden gedeeld.
 
 > "Behalve dat de oplossing heel goed is heb ik ook met andere ogen naar ons proces kunnen kijken. Daar is het echt beter van geworden."
 >
@@ -44,11 +47,11 @@ In de applicatie kan op straat al meta data vastgelegd worden. Tenslotte verande
     <img src="/assets/img/foto/Straatnotes-Veilig-Notities-maken-op-straat-jeugdoverlast.jpg">
 </div>
 
-In drie maanden losten we dus de grootste problemen rondom privacy en veiligheid van data op. De straatcoaches kregen een echt hulpmiddel in hun werk en de kwaliteit van de data nam fors toe door metadatering en controle. Juist die toegenomen kwaliteit zorgt ook voor een forse uitbreiding van de gebruikers van de data.
+Zo pakten we in drie maanden de grootste problemen rondom privacy en veiligheid van gevoelige informatie op en zorgden we voor goed zicht op welke informatie met wie en met welke grondslag gedeeld wordt. De straatcoaches kregen een hulpmiddel dat goed aansloot op hun werk, en ook de kwaliteit van de informatie nam fors toe, met als resultaat beter zicht op wat er op straat gebeurt.
 
 > "Scherp in intake, consciëntieus in uitvoering, verbetering van de praktijk en bovendien prettig om mee samen te werken."
-
-<small class="author">Sjoukje&nbsp;Alta, stadsdeelsecretaris stadsdeel&nbsp;Oost</small>
+>
+> <small>Sjoukje&nbsp;Alta, stadsdeelsecretaris stadsdeel&nbsp;Oost</small>
 
 {% include cta.html header="Wil je meer weten over Straatnotes voor jouw gemeente?" persoon="maarten" %}
 
