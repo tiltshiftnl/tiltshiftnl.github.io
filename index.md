@@ -3,9 +3,9 @@ layout: default
 hideform: true
 variant: white
 
-title: Uitvoerend leiderschap<br>in digitale transformatie
-subtitle: "Als je écht wil beginnen met digitale transformatie of interne digitalisering vast loopt"
-description: "Tiltshift verzorgt uitvoerend leiderschap in digitaliserings-projecten en transformatie-programma's, vanuit inhoudelijke expertise op het gebied van service design, organisatiekunde en agile software ontwikkeling."
+title: Advies en begeleiding van publieke software projecten
+subtitle: "Voor wie écht wil beginnen met digitale transformatie of waar interne digitalisering vast loopt"
+description: "Bouwbegeleiding voor publieke digitaliseringsprojecten en transformatieprogramma's - open source, agile en human centered."
 keywords: "kwartiermaker, digitalisering, oude ICT, digitale transformatie, probleemgedreven innovatie, software design thinking, human centered design, service design, lean startup, lean ux, agile development, xp, scrum, labs, apps, projecten, advies, consultancy, overheid, overheden, publieke sector, mens centraal, common ground, open source, creative commons, creative thinking, open collaboration"
 image: /assets/img/foto/Tiltshift-Aanpak-Innovatie-Interventie-Vastgelopen-digitaliserings-project.jpg
 caption:
@@ -13,15 +13,15 @@ caption:
 
 {{ page.description }}
 
-## Digitalisering weer op de rails
+## Zet digitalisering op de rails
 
-Wil je werk maken van digitale transformatie, maar blijf je hangen in strategische plannen en experimenten? Tiltshift maakt het écht! We werken mee met de uitvoerenden en maken samen met hen stapsgewijs de benodigde verandering in proces en techniek. Zo zorgen we snel voor concrete resultaten én maken we verandering behapbaar.
+Wil je werk maken van digitale transformatie, maar blijf je hangen in strategie en experimenten? Tiltshift maakt het écht! We werken met de uitvoer om stapsgewijs de benodigde verandering in proces en techniek te maken. Zo zorgen we snel voor concrete verbetering én maken we verandering behapbaar.
 
 > "Als je mensen niet over het hoofd wil zien, moet je ze betrekken in alle fases van het project."
 
 ## Voelbaar anders
 
-Wij zijn mensen die verandering niet alleen begrijpen, maar die het ook dóen. Die voorop durven lopen en duidelijkheid scheppen, zelfs als het schuurt. Specialist op ons vakgebied en een sterke eigen mening. Die zetten we in om jouw doelen te bereiken... als we in dat doel geloven.
+Wij zijn mensen die verandering niet alleen begrijpen, maar die het ook doen. We lopen voorop en scheppen duidelijkheid, zelfs waar dat schuurt. Niet op afstand, maar met en tussen de mensen die het moeten doen.
 
 {% include people-table.html %}
 
@@ -37,9 +37,9 @@ Een greep uit onze opdrachtgevers:
 
 Bel ons op <a href="tel:+31207220207">020-722 02 07</a> als je:
 
-- **écht wil beginnen met digitale transformatie**. We maken het concreet, zetten het op poten (kwartiermaken) en begeleiden de uitvoering.
+- **werk wil maken van digitale transformatie**. We maken het concreet, zetten het op poten (kwartiermaken) en begeleiden de uitvoering;
 
-- **vastloopt in interne digitalisering**. We brengen de problemen in kaart, scheiden het kaf van het koren, zorgen voor nieuwe energie en brengen de boel in beweging.
+- **interne digitalisering vastloopt**. We brengen de problemen in kaart, scheiden het kaf van het koren, zorgen voor een duidelijk plan, nieuwe energie en brengen de boel in beweging.
 
 We werken samen met jouw ontwikkelteam en zorgen waar nodig voor de missende expertise.
 
