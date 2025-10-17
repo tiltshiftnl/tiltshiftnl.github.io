@@ -13,7 +13,7 @@ caption:
 
 {{ page.description }}
 
-## Zet digitalisering op de rails
+## Aan de slag met digitale transformatie
 
 Wil je werk maken van digitale transformatie, maar blijf je hangen in strategie en experimenten? Tiltshift maakt het écht! We werken met de uitvoer om stapsgewijs de benodigde verandering in proces en techniek te maken. Zo zorgen we snel voor concrete verbetering én maken we verandering behapbaar.
 

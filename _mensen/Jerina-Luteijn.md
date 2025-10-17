@@ -3,6 +3,9 @@ layout: person
 variant: white
 
 title: "Jerina Luteijn"
+firstname: "Jerina"
+lastname: "Luteijn"
+role: "Coörd. Bedrijfsvoering"
 description: "Als coördinator partners bij Tiltshift zet Jerina nu haar ervaring in om alles wat er moet gebeuren soepel te laten verlopen. Haar vermogen om snel verbanden te leggen, informatie te plaatsen en mensen met elkaar in contact te brengen, komt hierbij goed van pas. Ze is altijd kritisch en nieuwsgierig, en zet zich in om ervoor te zorgen dat iedereen gezien wordt en mee kan doen. Haar energie besteedt ze graag nuttig, met plezier, en voor een doel waar ze volledig achter kan staan."
 quote: '"Niet klagen, maar vragen!"'
 type: Coörd. Bedrijfsvoering
