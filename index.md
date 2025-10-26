@@ -15,7 +15,7 @@ caption:
 
 ## Aan de slag met digitale transformatie
 
-Wil je werk maken van digitale transformatie, maar blijf je hangen in strategie en experimenten? Tiltshift maakt het écht! We gaan aan de slag met de uitvoer proces, techniek en mensen in beweging. Zo zorgen we snel voor concrete resultaten en maken we verandering behapbaar, stap voor stap.
+Wil je werk maken van digitale transformatie, maar blijf je hangen in strategie en experimenten? Tiltshift maakt het écht! We gaan aan de slag met de uitvoer en brengen proces, techniek en mensen in beweging. Zo zorgen we snel voor concrete resultaten en maken we verandering behapbaar, stap voor stap.
 
 > "Als je mensen niet over het hoofd wil zien, moet je ze betrekken in alle fases van het project."
 
