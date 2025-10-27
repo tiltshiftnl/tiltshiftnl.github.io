@@ -5,7 +5,7 @@ variant: white
 
 title: "Advies en begeleiding van publieke digitalisering"
 subtitle: "Voor wie écht wil beginnen met digitale transformatie of waar interne digitalisering vast loopt"
-description: "Regievoering voor publieke digitaliseringsprojecten en transformatieprogramma's op basis van best practices: open, agile en human centered."
+description: "Tiltshift organiseert en voert regie over projecten, programma’s en samenwerkingen; open, agile en human centered."
 keywords: "kwartiermaker, digitalisering, oude ICT, digitale transformatie, probleemgedreven innovatie, software design thinking, human centered design, service design, lean startup, lean ux, agile development, xp, scrum, labs, apps, projecten, advies, consultancy, overheid, overheden, publieke sector, mens centraal, common ground, open source, creative commons, creative thinking, open collaboration"
 image: /assets/img/foto/Tiltshift-Aanpak-Innovatie-Interventie-Vastgelopen-digitaliserings-project.jpg
 caption:
@@ -15,7 +15,9 @@ caption:
 
 ## Aan de slag met digitale transformatie
 
-Wil je werk maken van digitale transformatie, maar blijf je hangen in strategie en experimenten? Tiltshift maakt het écht! We gaan aan de slag met de uitvoer en brengen proces, techniek en mensen in beweging. Zo zorgen we snel voor concrete resultaten en maken we verandering behapbaar, stap voor stap.
+Wil je werk maken van digitale transformatie, maar blijf je hangen in strategie en experimenten? Tiltshift maakt het écht! We gaan aan de slag met de uitvoer en brengen proces, techniek en mensen in beweging. Dit doen we samen met jouw ontwikkelteam en waar nodig regelen we de missende expertise. Zo zorgen we snel voor concrete resultaten en maken we verandering behapbaar, stap voor stap.
+
+Loop je vast in interne digitalisering? Wil je nu eens écht aan de slag met digitale transformatie? Bel ons op <a href="tel:+31207220207">020-722 02 07</a>!
 
 > "Als je mensen niet over het hoofd wil zien, moet je ze betrekken in alle fases van het project."
 
@@ -34,14 +36,6 @@ Een greep uit onze opdrachtgevers:
 {% include logos-relaties.html %}
 
 {% include projects-homepage.html title="Uitgelichte projecten" intro="We werken voor organisaties die midden in de samenleving staan. Als digitalisering vastloopt of maar niet van de grond komt." projects=site.projects %}
-
-Bel ons op <a href="tel:+31207220207">020-722 02 07</a> als je:
-
-- **werk wil maken van digitale transformatie**. We maken het concreet, zetten het op poten (kwartiermaken) en begeleiden de uitvoering;
-
-- **interne digitalisering vastloopt**. We brengen de problemen in kaart, scheiden het kaf van het koren, zorgen voor een duidelijk plan, nieuwe energie en brengen de boel in beweging.
-
-We werken samen met jouw ontwikkelteam en zorgen waar nodig voor de missende expertise.
 
 <!--
 ## Nieuws
