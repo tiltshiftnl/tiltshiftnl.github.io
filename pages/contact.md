@@ -28,5 +28,3 @@ IBAN NL67 SNSB 8846 5901 39
 Tiltshift B.V.<br>
 Strawinskylaan 11<br>
 2102 CM Heemstede
-
-{% include google-map.html %}
