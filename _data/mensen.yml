@@ -13,10 +13,10 @@ johan:
   full_name: Johan Groenen
   first_name: Johan
   function: Partner
-  tel: "+31641518018"
-  tel_display: +31 (0)6 415 18 0 18
+  tel: "+31207220207"
+  tel_display: +31 (0)20 722 02 07
   linkedin: jgroenen
-  mail: johan.groenen@tiltshift.nl
+  mail: johan@tiltshift.nl
 maarten:
   img: Maarten-Geraets.png
   full_name: Maarten Geraets
@@ -35,16 +35,6 @@ joris:
   tel_display: +31 (0)30 721 08 68
   linkedin: jorisboeren
   mail: joris.boeren@tiltshift.nl
-arjen:
-  img: Arjen-Jelsma.png
-  link: /mensen/arjen-jelsma
-  full_name: Arjen Jelsma
-  first_name: Arjen
-  function: Partner
-  tel: "+31615664944"
-  tel_display: +31 (0)6 15 66 49 44
-  linkedin: arjenjelsma
-  mail: arjen.jelsma@tiltshift.nl
 rutger:
   img: Rutger-Dik.png
   link: /mensen/rutger-dik

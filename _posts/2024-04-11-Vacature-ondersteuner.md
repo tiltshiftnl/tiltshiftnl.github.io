@@ -33,6 +33,6 @@ Wij bieden een warme zakelijke familie en een eerlijk salaris. We werken vanuit 
 
 ## Reageren
 
-Word je enthousiast en weet je precies te vertellen waarom je bij ons past? Dan horen we graag van je. Bel daarvoor met [Eva](/mensen/eva-leffef/) op +31 (0)20 722 02 07 of mail naar [eva@tiltshift.nl](mailto:eva@tiltshift.nl).
+Word je enthousiast en weet je precies te vertellen waarom je bij ons past? Dan horen we graag van je. Bel daarvoor met [Joris](/mensen/joris-boeren/) op +31 (0)30 721 08 68 of mail naar [joris@tiltshift.nl](mailto:joris@tiltshift.nl).
 
 [« overzicht van posts](/posts/)

@@ -14,17 +14,19 @@ caption: ''
 ---
 Tijdens een vrijblijvend intake- en adviesgesprek bespreken we jouw situatie en hoe we daarbij kunnen helpen.
 
-<a href="tel:+31207220207">+31 (0)20 722 02 07</a><br />
+### Contactgegevens
+
 <a href="mailto:info@tiltshift.nl">info@tiltshift.nl</a>
-
-### Bedrijfsgegevens
-
-KvK 68994222<br>
-BTW-ID NL857680237B01<br>
-IBAN NL67 SNSB 8846 5901 39
+<a href="tel:+31307210868">+31 (0)30 721 08 68</a><br />
 
 ### Postadres
 
 Tiltshift B.V.<br>
 Strawinskylaan 11<br>
 2102 CM Heemstede
+
+### Bedrijfsgegevens
+
+KvK 68994222<br>
+BTW-ID NL857680237B01<br>
+IBAN NL67 SNSB 8846 5901 39

@@ -17,7 +17,7 @@ Voor interview aanvragen, podcast guest sprekers, hoge resolutie afbeeldingen, s
 
 ## Pers contact
 
-Johan Groenen - [johan.groenen@tiltshift.nl](mailto:johan.groenen@tiltshift.nl) of bel +31 (0)20 722 02 07
+Johan Groenen - [johan@tiltshift.nl](mailto:johan@tiltshift.nl)
 
 Wij zijn altijd bereid om te helpen bij media aanvragen en zullen ons best doen om de nodige informatie en materialen toe te sturen.
 
