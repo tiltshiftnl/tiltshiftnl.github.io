@@ -16,8 +16,8 @@ Tijdens een vrijblijvend intake- en adviesgesprek bespreken we jouw situatie en 
 
 ### Contactgegevens
 
-<a href="mailto:info@tiltshift.nl">info@tiltshift.nl</a>
-<a href="tel:+31307210868">+31 (0)30 721 08 68</a><br />
+<a href="mailto:info@tiltshift.nl">info@tiltshift.nl</a><br />
+<a href="tel:+31307210868">+31 (0)30 721 08 68</a>
 
 ### Postadres
 
