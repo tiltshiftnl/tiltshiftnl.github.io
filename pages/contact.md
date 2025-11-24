@@ -17,13 +17,6 @@ Tijdens een vrijblijvend intake- en adviesgesprek bespreken we jouw situatie en 
 <a href="tel:+31207220207">+31 (0)20 722 02 07</a><br />
 <a href="mailto:info@tiltshift.nl">info@tiltshift.nl</a>
 
-### Bezoekadres
-
-Vechtclub XL<br>
-Europalaan 2 B<br>
-3526 KS Utrecht<br>
-<a href="https://maps.google.com/maps?ll=52.075504,5.106973&z=15&t=m&hl=nl&gl=NL&mapclient=embed&cid=13040789619853914505" target="_blank" title="Open Google Map met Tiltshift adres">Route op de kaart</a>
-
 ### Bedrijfsgegevens
 
 KvK 68994222<br>
