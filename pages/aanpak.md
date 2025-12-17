@@ -38,11 +38,11 @@ We stellen altijd eerst vast wat we willen bereiken en waarom. Wij interviewen o
 
 ## Inrichting
 
-Is de koers helder, dan bepalen we de inrichting. We betrekken de mensen die nog onvoldoende zijn vertegenwoordigd en sturen we hen die onvoldoende bijdragen weg. Samen met het (nieuwe) team bepalen we een realistische scope.
+Is de koers helder, dan bepalen we de inrichting. We betrekken de mensen die nog onvoldoende zijn vertegenwoordigd en spreken aan wie onvoldoende bijdraagt. Samen met het (nieuwe) team bepalen we een realistische scope.
 
 ## Implementatie tijdens ontwikkeling
 
-We starten metéén met de implementatie, zodat de oplossing direct en ‘in het echt’ gebruikt en getest worden. Met de gebruikers passen we hun proces en software stapsgewijs aan. Op deze manier is er snel resultaat en zien betrokkenen wat er verandert.
+We starten graag zo snel mogelijk met implementatie van een kleine oplossing, zodat die direct en ‘in het echt’ gebruikt en getest worden. Op die manier zien we hoe mensen ermee werken en hoe de organisatie erop reageert. Zo kunnen we processen en software stapsgewijs aanpassen, in de context van de veranderende organisatie. Op deze manier is er snel resultaat én voelen alle betrokkenen direct verandering.
 
 > "De snelheid waarmee jullie dingen oppakken, je vergeet bijna dat je bij de gemeente werkt!"
 >
