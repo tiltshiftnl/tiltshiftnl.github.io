@@ -3,7 +3,7 @@ layout: default
 variant: white
 back: /
 
-title: Advies en begeleiding
+title: Advies, begeleiding en uitvoer
 quote: Creativity is thinking up new things. Innovation is doing new things.
 order: 1
 
