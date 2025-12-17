@@ -15,15 +15,17 @@ caption:
 
 ## Aan de slag met digitale transformatie
 
-Wil je werk maken van digitale transformatie, maar blijf je hangen in strategie en experimenten? Tiltshift maakt het écht! We gaan aan de slag met de uitvoer en brengen proces, techniek en mensen in beweging. Dit doen we samen met jouw ontwikkelteam en waar nodig regelen we de missende expertise. Zo zorgen we snel voor concrete resultaten en maken we verandering behapbaar, stap voor stap.
+Wil je werk maken van digitale transformatie, maar blijf je hangen in discussies en experimenten? Tiltshift maakt het écht! We gaan aan de slag met de uitvoer en brengen proces, techniek en mensen in beweging. Dit doen we samen met jouw ontwikkelteam en waar nodig regelen wij de missende expertise.
 
-Loop je vast in interne digitalisering? Wil je nu eens écht aan de slag met digitale transformatie? Bel ons op <a href="tel:+31207220207">020-722 02 07</a>!
+Zo zorgen we snel voor concrete resultaten en maken we verandering behapbaar, stap voor stap.
 
-> "Als je mensen niet over het hoofd wil zien, moet je ze betrekken in alle fases van het project."
+Loop je vast in interne digitalisering en wil je nu eens écht aan de slag met digitale transformatie? Bel <a href="tel:+31207220207">020-722 02 07</a>!
 
 ## Voelbaar anders
 
-Wij zijn mensen die verandering niet alleen begrijpen, maar die het ook doen. We lopen voorop en scheppen duidelijkheid, zelfs waar dat schuurt. Niet op afstand, maar met en tussen de mensen die het moeten doen.
+Wij zijn mensen die verandering niet alleen begrijpen; we doen het ook echt. We lopen voorop en scheppen duidelijkheid, zelfs waar dat schuurt. Niet op afstand, maar met en tussen de mensen die het moeten doen.
+
+> "Als je mensen niet over het hoofd wil zien, moet je ze betrekken in alle fases van het project."
 
 {% include people-table.html %}
 
