@@ -31,7 +31,7 @@ Wij zijn mensen die verandering niet alleen begrijpen; we doen het ook echt. We 
 
 ## Opdrachtgevers
 
-We werken voor organisaties die midden in de samenleving staan: voor gemeenten, provincies, woningcorporaties, (ouderen)zorg en universiteiten. Maar ook voor ministeries en uitvoeringsorganisaties, en misschien ook wel voor jouw organisatie?
+We werken voor organisaties die midden in de samenleving staan: voor gemeenten, provincies, woningcorporaties, (ouderen)zorg en universiteiten. Voor ministeries en uitvoeringsorganisaties, en misschien ook wel voor jouw organisatie?
 
 Een greep uit onze opdrachtgevers:
 
