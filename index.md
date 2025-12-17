@@ -5,7 +5,7 @@ variant: white
 
 title: "Advies, begeleiding en uitvoer van publieke digitalisering"
 subtitle: "Voor wie écht wil beginnen met digitale transformatie of waar interne digitalisering vast loopt"
-description: "Tiltshift organiseert en voert regie over projecten, programma’s en samenwerkingen; open, agile en human centered."
+description: "Tiltshift helpt projecten, programma’s en samenwerkingen, van visie tot uitvoering; open, agile en human centered."
 keywords: "kwartiermaker, digitalisering, oude ICT, digitale transformatie, probleemgedreven innovatie, software design thinking, human centered design, service design, lean startup, lean ux, agile development, xp, scrum, labs, apps, projecten, advies, consultancy, overheid, overheden, publieke sector, mens centraal, common ground, open source, creative commons, creative thinking, open collaboration"
 image: /assets/img/foto/Tiltshift-Aanpak-Innovatie-Interventie-Vastgelopen-digitaliserings-project.jpg
 caption:
