@@ -5,7 +5,7 @@ variant: white
 
 title: "Advies, begeleiding en uitvoer van publieke digitalisering"
 subtitle: "Voor wie écht wil beginnen met digitale transformatie of waar interne digitalisering vast loopt"
-description: "Tiltshift helpt projecten, programma’s en samenwerkingen, van visie tot uitvoering; open, agile en human centered."
+description: "Tiltshift helpt projecten, programma’s en samenwerkingen in publieke digitalisering, van visie tot implementatie."
 keywords: "kwartiermaker, digitalisering, oude ICT, digitale transformatie, probleemgedreven innovatie, software design thinking, human centered design, service design, lean startup, lean ux, agile development, xp, scrum, labs, apps, projecten, advies, consultancy, overheid, overheden, publieke sector, mens centraal, common ground, open source, creative commons, creative thinking, open collaboration"
 image: /assets/img/foto/Tiltshift-Aanpak-Innovatie-Interventie-Vastgelopen-digitaliserings-project.jpg
 caption:
@@ -13,9 +13,11 @@ caption:
 
 {{ page.description }}
 
-## Aan de slag met digitale transformatie
+## Aan de slag
 
-Wil je werk maken van digitale transformatie, maar blijf je hangen in discussies en experimenten? Tiltshift maakt het écht! We gaan aan de slag met de uitvoer en brengen proces, techniek en mensen in beweging. Dit doen we samen met jouw ontwikkelteam en waar nodig regelen wij de missende expertise.
+Wil je werk maken van digitale transformatie, maar blijf je hangen in discussies en experimenten? Maak het écht met Tiltshift!
+
+Wij werken in de uitvoer, met de mensen die het moeten doen. Door middel van slimme, digitale interventies brengen we proces, techniek en mensen in beweging. Dat doen we samen met jouw ontwikkelteams, en waar nodig zorgen wij voor aanvullende expertise.
 
 Zo zorgen we snel voor concrete resultaten en maken we verandering behapbaar, stap voor stap.
 
