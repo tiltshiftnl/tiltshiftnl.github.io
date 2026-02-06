@@ -6,7 +6,6 @@ title: "Maarten Geraets"
 firstname: "Maarten"
 lastname: "Geraets"
 role: "Partner"
-description: Maarten is meester in het opschudden van teams, projecten en verwachtingen. Als bestuurskundige doorziet hij processen en legt hij focus op wat kan, in plaats van op wat niet mag. Met zijn achtergrond als acteur maakt hij van elke bijeenkomst een feest-met-een-doel. Hij gaat niets uit de weg dat in de weg van het doel staat. Met zijn _can-do_ mentaliteit neemt hij iedereen, van werkvloer tot en met directie, mee in die verandering. Als alle neuzen weer de goede kant opstaan zit zijn klus er op.
 description: Maarten is meester in het opschudden van teams, projecten en verwachtingen. Als bestuurskundige doorziet hij organisatie en processen en legt hij focus op wat kan, in plaats van op wat niet mag. Met zijn achtergrond als acteur maakt hij van verandering en innovatie een feest-met-een-doel. Hij gaat niets uit de weg dat in de weg van het doel staat. Met zijn _can-do_ mentaliteit neemt hij iedereen, van werkvloer tot en met directie, mee in die verandering. Pas als de verandering staat en voelbaar is zit zijn klus er op.
 
 quote: '"Ik maak het super helder voor mensen: er is maar één mogelijkheid, of we gaan er volledig voor, of we doen het niet."'
