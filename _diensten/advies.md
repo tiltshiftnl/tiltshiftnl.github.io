@@ -3,7 +3,7 @@ layout: default
 variant: white
 back: /
 
-title: Advies, begeleiding en uitvoer
+title: Full-service Partner voor Publieke Digitalisering
 quote: Creativity is thinking up new things. Innovation is doing new things.
 order: 1
 
