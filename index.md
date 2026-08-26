@@ -3,29 +3,30 @@ layout: default
 hideform: true
 variant: white
 
-title: "Full-service Partner voor Publieke Digitalisering"
-subtitle: "Voor wie écht wil beginnen met digitale transformatie of waar interne digitalisering vast loopt"
-description: "Tiltshift helpt bij het ontwerpen, opzetten en uitvoeren van publieke digitalisering---van visie tot implementatie."
+title: "Aan de slag met Tiltshift. Concrete stappen in de transitie naar open source."
+# "Voor wie écht wil beginnen met digitale transformatie of waar interne digitalisering vast loopt"
+description: "Tiltshift is kwartiermaker en begeleider van publieke digitale transformatie. Wil je stappen maken richting digitale autonomie en opensourcewerken, dan zijn wij de juiste partner."
 keywords: "kwartiermaker, digitalisering, oude ICT, digitale transformatie, probleemgedreven innovatie, software design thinking, human centered design, service design, lean startup, lean ux, agile development, xp, scrum, labs, apps, projecten, advies, consultancy, overheid, overheden, publieke sector, mens centraal, common ground, open source, creative commons, creative thinking, open collaboration"
 image: /assets/img/foto/Tiltshift-Aanpak-Innovatie-Interventie-Vastgelopen-digitaliserings-project.jpg
 caption:
 ---
-
 {{ page.description }}
 
 ## Aan de slag
 
-Wil je werk maken van digitale transformatie, maar blijf je hangen in discussies en experimenten? Maak het écht met Tiltshift!
+Wil je werk maken van digitale autonomie, maar blijf je hangen in discussies en verkenningen?
+Maak het écht met Tiltshift!
 
-Wij werken in de uitvoer, met de mensen die het moeten doen. Door middel van slimme, digitale interventies brengen we proces, techniek en mensen in beweging. Dat doen we samen met jouw ontwikkelteams, en waar nodig zorgen wij voor aanvullende expertise.
+Wij werken in de uitvoer, met de mensen die het moeten doen.
+We brengen in kaart wat nodig is, organiseren en begeleiden pilots en implementaties, en blijven als adoptiepartner betrokken om te zorgen voor succesvol gebruik.
 
-Zo zorgen we snel voor concrete resultaten en maken we verandering behapbaar, stap voor stap.
-
-Loop je vast in interne digitalisering en wil je nu eens écht aan de slag met digitale transformatie? Bel <a href="tel:+31207220207">020-722 02 07</a>!
+Bel <a href="tel:+31207220207">020-722 02 07</a> of mail <a href="mailto:info@tiltshift.nl">info@tiltshift.nl</a> voor een intake- en adviesgesprek.
 
 ## Voelbaar anders
 
-Wij zijn mensen die verandering niet alleen begrijpen; we doen het ook echt. We lopen voorop en scheppen duidelijkheid, zelfs waar dat schuurt. Niet op afstand, maar met en tussen de mensen die het moeten doen.
+Verandering is pas verandering als je het kan voelen.
+Daarom werken we niet vanaf de zijlijn, maar midden in de organisatie.
+Niet op afstand, maar tussen en met de mensen die het moeten doen.
 
 > "Als je mensen niet over het hoofd wil zien, moet je ze betrekken in alle fases van het project."
 
@@ -33,7 +34,7 @@ Wij zijn mensen die verandering niet alleen begrijpen; we doen het ook echt. We 
 
 ## Opdrachtgevers
 
-We werken voor organisaties die midden in de samenleving staan: voor gemeenten, provincies, woningcorporaties, (ouderen)zorg en universiteiten. Voor ministeries en uitvoeringsorganisaties, en misschien ook wel voor jouw organisatie?
+We werken voor publieke, maatschappelijke, en andere organisaties die midden in de samenleving staan: voor gemeenten, provincies, woningcorporaties, (ouderen)zorg en universiteiten. Voor ministeries, uitvoeringsorganisaties en publieke samenwerkingen.
 
 Een greep uit onze opdrachtgevers:
 
