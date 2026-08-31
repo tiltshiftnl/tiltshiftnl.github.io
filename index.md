@@ -3,24 +3,35 @@ layout: default
 hideform: true
 variant: white
 
-title: "Aan de slag met Tiltshift. Concrete stappen in de transitie naar open source."
+title: "Digitalisering die werkt.<br>Voor de mensen die het moeten doen."
 # "Voor wie écht wil beginnen met digitale transformatie of waar interne digitalisering vast loopt"
-description: "Tiltshift is kwartiermaker en begeleider van publieke digitale transformatie. Wil je stappen maken richting digitale autonomie en opensourcewerken, dan zijn wij de juiste partner."
+description: "Misschien niet zo gelikt als de grote adviesbureaus. Wél ervaren doeners met hart voor de mensen die de publieke sector vormen. We werken naast en samen met de uitvoering. Hart voor mensen, processen én techniek."
 keywords: "kwartiermaker, digitalisering, oude ICT, digitale transformatie, probleemgedreven innovatie, software design thinking, human centered design, service design, lean startup, lean ux, agile development, xp, scrum, labs, apps, projecten, advies, consultancy, overheid, overheden, publieke sector, mens centraal, common ground, open source, creative commons, creative thinking, open collaboration"
 image: /assets/img/foto/Tiltshift-Aanpak-Innovatie-Interventie-Vastgelopen-digitaliserings-project.jpg
 caption:
 ---
 {{ page.description }}
 
-## Aan de slag
+<a href="/contact/" class="button" style="display: block; width: 100%; text-align: right">Maak een afspraak voor een intake- en adviesgesprek</a>
 
-Wil je werk maken van digitale autonomie, maar blijf je hangen in discussies en verkenningen?
+<br>
+
+## Transformeren naar open source
+
+Wil je werk maken van digitale autonomie, maar blijf je hangen in vrijblijvende discussies, verkenningen en pilots?
 Maak het écht met Tiltshift!
 
-Wij werken in de uitvoer, met de mensen die het moeten doen.
-We brengen in kaart wat nodig is, organiseren en begeleiden pilots en implementaties, en blijven als adoptiepartner betrokken om te zorgen voor succesvol gebruik.
+Sinds 2015 zijn wij de partner voor overheden en publieke organisaties die overstappen naar open source en opensourcewerken.
 
-Bel <a href="tel:+31207220207">020-722 02 07</a> of mail <a href="mailto:info@tiltshift.nl">info@tiltshift.nl</a> voor een intake- en adviesgesprek.
+<a href="/projecten/" class="button" style="display: block; width: 100%; text-align: right">Bekijk onze projecten</a>
+
+<br>
+
+We brengen in kaart wat nodig is, organiseren en begeleiden pilots en implementaties, en blijven als adoptiepartner betrokken om te zorgen voor succesvol gebruik. Vanuit de uitvoer, met de mensen die het moeten doen.
+
+<a href="/aanpak/" class="button" style="display: block; width: 100%; text-align: right">Lees meer over onze aanpak</a>
+
+<br>
 
 ## Voelbaar anders
 
@@ -34,7 +45,7 @@ Niet op afstand, maar tussen en met de mensen die het moeten doen.
 
 ## Opdrachtgevers
 
-We werken voor publieke, maatschappelijke, en andere organisaties die midden in de samenleving staan: voor gemeenten, provincies, woningcorporaties, (ouderen)zorg en universiteiten. Voor ministeries, uitvoeringsorganisaties en publieke samenwerkingen.
+We werken voor publieke en maatschappelijke organisaties, en andere organisaties die midden in de samenleving staan: voor gemeenten, provincies, woningcorporaties, (ouderen)zorg en universiteiten. Voor ministeries, uitvoeringsorganisaties en publieke samenwerkingen.
 
 Een greep uit onze opdrachtgevers:
 
