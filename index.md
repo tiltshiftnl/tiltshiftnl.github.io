@@ -3,7 +3,7 @@ layout: default
 hideform: true
 variant: white
 
-title: "Voor de mensen die het moeten doen.<br>Digitalisering die werkt."
+title: "Digitalisering die werkt.<br>Voor de mensen die het moeten doen."
 # "Voor wie écht wil beginnen met digitale transformatie of waar interne digitalisering vast loopt"
 description: "Misschien niet zo gelikt als de grote adviesbureaus. Wél slimme doeners met hart voor de publieke zaak. We werken naast en samen met de mensen in de uitvoer. Hart voor mensen, processen én techniek."
 keywords: "kwartiermaker, digitalisering, oude ICT, digitale transformatie, probleemgedreven innovatie, software design thinking, human centered design, service design, lean startup, lean ux, agile development, xp, scrum, labs, apps, projecten, advies, consultancy, overheid, overheden, publieke sector, mens centraal, common ground, open source, creative commons, creative thinking, open collaboration"
