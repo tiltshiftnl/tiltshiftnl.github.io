@@ -5,7 +5,7 @@ variant: white
 
 title: "Voor de mensen die het moeten doen."
 # "Voor wie écht wil beginnen met digitale transformatie of waar interne digitalisering vast loopt"
-description: "Slimme doeners die zich inzetten voor de publieke zaak. We werken voor, naast en samen met de mensen in de uitvoer. Met hart voor de mensen, processen én techniek."
+description: "Slimme doeners die zich inzetten voor de publieke zaak. We werken voor, naast en samen met de mensen in de uitvoer. Met hart voor de mens, en oog voor techniek."
 keywords: "kwartiermaker, digitalisering, oude ICT, digitale transformatie, probleemgedreven innovatie, software design thinking, human centered design, service design, lean startup, lean ux, agile development, xp, scrum, labs, apps, projecten, advies, consultancy, overheid, overheden, publieke sector, mens centraal, common ground, open source, creative commons, creative thinking, open collaboration"
 image: /assets/img/foto/Tiltshift-Aanpak-Innovatie-Interventie-Vastgelopen-digitaliserings-project.jpg
 caption:
