@@ -14,7 +14,7 @@ caption:
 
 <a href="/contact/" class="button" style="display: block; width: 100%; text-align: right">Maak een afspraak voor een intake- en adviesgesprek</a>
 
-{% include valprop.html title="Opensourcewerken" description="We helpen development teams met een nieuwe manier van werken. Aan publieke code die open, herbruikbaar, leesbaar, te verantwoorden, toegankelijk en duurzaam is." %}
+{% include valprop.html title="Opensourcewerken" description="We helpen development teams met een nieuwe manier van werken: open, agile en mensgericht. Aan publieke code die open, herbruikbaar, leesbaar, te verantwoorden, toegankelijk en duurzaam is." %}
 
 ## Transformeren naar open source
 
