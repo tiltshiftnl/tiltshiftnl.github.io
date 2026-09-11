@@ -1,0 +1,104 @@
+<style>
+    .valprop {
+        position: relative;
+        width: 100%;
+        max-width: 720px;
+        margin: 2em auto 2em;
+        overflow-x: hidden; /* voorkomt dat de gedraaide backdrop de pagina breder maakt */
+    }
+    .valprop__media {
+        position: relative;
+        width: 80%;
+        max-width: 500px;
+        margin: 2em auto;
+    }
+    .valprop__backdrop {
+        position: absolute;
+        top: 0;
+        left: 2em;
+        width: 100%;
+        aspect-ratio: 1;
+        background-color: #E64544;
+        transform: rotate(6deg);
+    }
+    .valprop__panel {
+        position: relative;
+        width: 100%;
+        min-height: 260px;
+        aspect-ratio: 1;
+        height: auto;
+        display: flex;
+        flex-direction: column;
+        justify-content: flex-end;
+        overflow: hidden;
+        border-radius: 4px;
+        color: white;
+        background-size: cover;
+        background-position: center;
+    }
+    .valprop__panel::before {
+        content: '';
+        position: absolute;
+        inset: 0;
+        background: linear-gradient(to bottom, rgba(0, 0, 0, 0) 0%, rgba(0, 0, 0, 0.75) 100%);
+    }
+    .valprop__content {
+        position: relative;
+        z-index: 1;
+        padding: 1.5em 2em;
+    }
+    .valprop__content h2 {
+        margin: 0 0 0.4em;
+        font-size: clamp(1.1rem, 4vw, 1.5rem);
+    }
+    .valprop__content p {
+        margin: 0;
+        font-size: clamp(0.85rem, 2.5vw, 1rem);
+        line-height: 1.5;
+    }
+    .valprop__button {
+        display: inline-block;
+        margin-top: 1em;
+        padding: 10px 20px;
+        background: black;
+        color: white;
+        text-decoration: none;
+        border-radius: 4px;
+        transition: opacity 0.2s ease;
+    }
+    .valprop__button:hover {
+        opacity: 0.8;
+    }
+    @media (max-width: 480px) {
+        .valprop__content {
+            padding: 1.25em 1.5em;
+        }
+    }
+    @media (max-width: 640px) {
+        .valprop__media {
+            width: 100%;
+            max-width: none;
+            margin: 2em 0;
+        }
+        .valprop__panel {
+            border-radius: 0;
+        }
+    }
+</style>
+<div class="valprop">
+    <div class="valprop__media">
+        <div class="valprop__backdrop"></div>
+        <div
+            class="valprop__panel"
+            style="background-image: url('/assets/img/foto/Tiltshift-Aanpak-Innovatie-Interventie-Vastgelopen-digitaliserings-project.jpg')"
+            role="img"
+            aria-label="Illustratie bij design sprints"
+        >
+            <div class="valprop__content">
+                <h2>{{ include.title }}</h2>
+                <p>{{ include.description }}</p>
+                <a href="/contact/" class="valprop__button">Contact</a>
+            </div>
+        </div>
+    </div>
+</div>

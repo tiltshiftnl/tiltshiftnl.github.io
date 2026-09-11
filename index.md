@@ -5,7 +5,7 @@ variant: white
 
 title: "Digitalisering die werkt.<br>Voor de mensen die het moeten doen."
 # "Voor wie écht wil beginnen met digitale transformatie of waar interne digitalisering vast loopt"
-description: "Misschien niet zo gelikt als de grote adviesbureaus. Wél slimme doeners met hart voor de publieke zaak. We werken naast en samen met de mensen in de uitvoer. Hart voor mensen, processen én techniek."
+description: "Misschien niet zo gelikt als de grote adviesbureaus. Wél slimme doeners met hart voor de publieke zaak. We werken voor, naast en samen met de mensen in de uitvoer. Hart voor mensen, processen én techniek."
 keywords: "kwartiermaker, digitalisering, oude ICT, digitale transformatie, probleemgedreven innovatie, software design thinking, human centered design, service design, lean startup, lean ux, agile development, xp, scrum, labs, apps, projecten, advies, consultancy, overheid, overheden, publieke sector, mens centraal, common ground, open source, creative commons, creative thinking, open collaboration"
 image: /assets/img/foto/Tiltshift-Aanpak-Innovatie-Interventie-Vastgelopen-digitaliserings-project.jpg
 caption:
@@ -14,7 +14,7 @@ caption:
 
 <a href="/contact/" class="button" style="display: block; width: 100%; text-align: right">Maak een afspraak voor een intake- en adviesgesprek</a>
 
-<br>
+{% include valprop.html title="Opensourcewerken" description="We helpen development teams met een nieuwe manier van werken. Aan publieke code die open, herbruikbaar, leesbaar, te verantwoorden, toegankelijk en duurzaam is." %}
 
 ## Transformeren naar open source
 
@@ -25,13 +25,13 @@ Sinds 2015 zijn wij de partner voor overheden en publieke organisaties die overs
 
 <a href="/projecten/" class="button" style="display: block; width: 100%; text-align: right">Bekijk onze projecten</a>
 
-<br>
+{% include valprop.html title="Implementatie" description="Je wil aan de slag met autonome alternatieven? We verkennen wat past, organiseren de pilot en begeleiden implementatie en adoptie." %}
 
 We brengen in kaart wat nodig is, organiseren en begeleiden pilots en implementaties, en blijven als adoptiepartner betrokken om te zorgen voor succesvol gebruik. Vanuit de uitvoer, met de mensen die het moeten doen.
 
 <a href="/aanpak/" class="button" style="display: block; width: 100%; text-align: right">Lees meer over onze aanpak</a>
 
-<br>
+{% include valprop.html title="Design sprints" description="Snel toetsen of een idee in de praktijk werkt. We komen één week langs om het concreet te maken, uit te werken, werkend te krijgen en te testen met gebruikers." %}
 
 ## Voelbaar anders
 
