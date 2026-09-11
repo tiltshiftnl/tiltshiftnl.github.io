@@ -85,14 +85,17 @@
         }
     }
 </style>
+{% 
+    assign image = include.image | default: '/assets/img/foto/Tiltshift-Aanpak-Innovatie-Interventie-Vastgelopen-digitaliserings-project.jpg' 
+%}
 <div class="valprop">
     <div class="valprop__media">
         <div class="valprop__backdrop"></div>
         <div
             class="valprop__panel"
-            style="background-image: url('/assets/img/foto/Tiltshift-Aanpak-Innovatie-Interventie-Vastgelopen-digitaliserings-project.jpg')"
+            style="background-image: url('{{ image | relative_url }}')"
             role="img"
-            aria-label="Illustratie bij design sprints"
+            aria-label="Illustratie bij {{ include.title }}"
         >
             <div class="valprop__content">
                 <h2>{{ include.title }}</h2>

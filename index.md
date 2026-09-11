@@ -14,7 +14,7 @@ caption:
 
 <a href="/contact/" class="button" style="display: block; width: 100%; text-align: right">Maak een afspraak voor een intake- en adviesgesprek</a>
 
-{% include valprop.html title="Opensourcewerken" description="We helpen development teams met een nieuwe manier van werken: open, agile en mensgericht. Aan publieke code die open, herbruikbaar, leesbaar, te verantwoorden, toegankelijk en duurzaam is." %}
+{% include valprop.html title="Opensourcewerken" description="We helpen development teams met een nieuwe manier van werken: open, agile en mensgericht. Aan publieke code die open, herbruikbaar, leesbaar, te verantwoorden, toegankelijk en duurzaam is." image="/assets/img/foto/Straatnotes-Veilig-Notities-maken-op-straat-jeugdoverlast.jpg" %}
 
 ## Transformeren naar open source
 
@@ -25,13 +25,17 @@ Sinds 2015 zijn wij de partner voor overheden en publieke organisaties die overs
 
 <a href="/projecten/" class="button" style="display: block; width: 100%; text-align: right">Bekijk onze projecten</a>
 
-{% include valprop.html title="Implementatie" description="Je wil aan de slag met autonome alternatieven? We verkennen wat past, organiseren de pilot en begeleiden implementatie en adoptie." %}
+{% include valprop.html title="Implementatie" description="Je wil aan de slag met autonome alternatieven? We verkennen wat past, organiseren de pilot en begeleiden implementatie en adoptie." image="/assets/img/foto/Careyn-Joris-Boeren-leiderschap-traject-nieuwe-website.jpg" %}
 
 We brengen in kaart wat nodig is, organiseren en begeleiden pilots en implementaties, en blijven als adoptiepartner betrokken om te zorgen voor succesvol gebruik. Vanuit de uitvoer, met de mensen die het moeten doen.
 
 <a href="/aanpak/" class="button" style="display: block; width: 100%; text-align: right">Lees meer over onze aanpak</a>
 
-{% include valprop.html title="Design sprints" description="Snel toetsen of een idee in de praktijk werkt. We komen één week langs om het concreet te maken, uit te werken, werkend te krijgen en te testen met gebruikers." %}
+<!--
+{% include valprop.html title="Design sprints" description="Snel toetsen of een idee in de praktijk werkt. We komen één week langs om het concreet te maken, uit te werken, werkend te krijgen en te testen met gebruikers." image="/assets/img/foto/Schulddossier-Design-Thinking-Schulddienstverlening.jpg" %}
+-->
+
+{% include valprop.html title="Community management" description="We bouwen en organiseren actieve communities rondom publieke tech projecten en thema's, inclusief de online tools die daarvoor nodig zijn." image="/assets/img/foto/Stadspas-Zwolle-Sessie.jpg" %}
 
 ## Voelbaar anders
 
