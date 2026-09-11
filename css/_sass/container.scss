@@ -3,8 +3,19 @@
     width: calc(100% - (2 * #{$gutter-sm}) );
     margin-left: auto;
     margin-right: auto;
+    justify-content: center;
+    gap: 0.5rem;
+    img {
+        height: auto;
+        width: 100%;
+        max-width: 320px;
+        border: 12px solid white;
+    }
     @media screen and (min-width: $breakpoint-md) {
         width: $container-width-sm;
+        img {
+            border: 0;
+        }
     }
 }
 
@@ -23,6 +34,9 @@
     &--margin-top{
         @media screen and (min-width: $breakpoint-lg) {
             margin-top: 8rem;
+            width: 100%;
+            justify-content: center;
+            gap: 0.5rem;
         }
     }
 }
