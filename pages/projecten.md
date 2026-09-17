@@ -4,7 +4,7 @@ permalink: /projecten/
 variant: white
 
 subject: Tiltshift projecten
-title: Tiltshift projecten
+title: Elke reis begint met een eerste stap.
 subtitle: Innovatie begint bij de mensen. Focus op hun probleem en laat de techniek volgen. Dan ontstaat de oplossing.
 description: "In ieder Tiltshift project gaan we altijd als eerste terug naar de aanleiding."
 keywords: ""
@@ -12,11 +12,9 @@ hideBanner: true
 image: "assets/img/foto/Probleem-gedreven-innovatie-Digitaliserings-Projecten.jpg"
 caption:
 ---
-Achter elk project schuilt een aanleiding, een probleem. Maar omdat de focus al snel op de oplossing ligt, wordt dat probleem vaak ook weer vergeten. Onze taak is om dat probleem scherp te krijgen en te houden. Zo zorgen we ervoor dat we de juiste oplossing vinden en ontwikkelen.
+Digitale transformatie klinkt als een enorm ingewikkeld en groot proces. Maar in de praktijk begint de echte verandering altijd met een eerste project. Pas als je aan de slag gaat met veranderen van de praktijk, wordt echt duidelijk wat daar allemaal voor nodig is.
 
-Deze houding zorgt voor een frisse en realistische blik en succesvolle projecten.
-
-> "Innovatie begint bij de mensen. Focus op hun probleem en laat de techniek volgen. Dan ontstaat de oplossing."
+> "Innovatie begint bij de mensen. Blijf focussen op hun probleem en laat de techniek volgen. Dan ontstaat een passende oplossing."
 
 {% include projects-link-blocks.html projects=site.projecten %}
 

@@ -3,8 +3,8 @@ layout: default
 variant: white
 permalink: /aanpak/
 
-title: Onze manier van werken
-description: "Wij helpen organisaties die vastlopen in digitale transformatie. Vanuit het perspectief vanaf de werkvloer zorgen we voor focus op verandering die werkt in de praktijk."
+title: Dat kan wel een beetje Tiltshift gebruiken.
+description: "Wij helpen organisaties die vastlopen in digitale transformatie. Dat doen we voor, naast en samen met de mensen in de uitvoer. Maar daar komt natuurlijk nog wel meer bij kijken."
 keywords: methodes, design thinking, lean startup, service design, government digital services, agile, xp, creative commons
 
 hideBanner: true
@@ -13,9 +13,29 @@ caption:
 ---
 {{ page.description }}
 
-<br>
+> "Als het makkelijk was, dan kon je het zelf wel."
 
-## Software design thinking
+## Durven doen
+
+Gedoe komt er toch.
+Dus niet alles tot in de puntjes plannen, maar vooral beginnen; we geloven niet in te lang blijven hangen in de voorfase.
+Mensen gaan vaak pas "aan" als er iets op het spel staat, dus kun je maar beter zorgen dat er snel iets echts gebeurt.
+
+## In beweging
+
+Een gezonde organisatie is geen stabiele context, maar een levende omgeving.
+Als alles stil staat, kan er niks veranderen.
+Dus helpen we de boel in beweging te krijgen, om daar dan met z'n allen richting aan te geven.
+
+## Eerlijk er zijn
+
+Verandering begint en eindigt bij de mensen die het moeten doen.
+En het is makkelijker gezegd dan gedaan.
+Daarom werken we niet op afstand, maar voor, naast en samen met de mensen in de uitvoer.
+Om te kunnen voelen wat er speelt en wat werkt.
+En helpen om werk zelf vorm te geven.
+
+# Software design thinking
 Onze focus ligt op concrete stappen maken en voortgang boeken voor de mensen die het moeten doen.
 Het is vaak sneller om iets te maken en dát te bespreken, dan eindeloos te filosoferen over wat het allemaal zou kunnen zijn.
 

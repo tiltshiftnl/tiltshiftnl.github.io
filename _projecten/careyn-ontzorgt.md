@@ -3,7 +3,7 @@ layout: default
 variant: white
 
 title: "Careyn ontzorgt"
-description: Een nieuwe website als katalysator voor samenwerking
+description: Een nieuwe website als aanjager van gezamenlijke strategie
 quote:
 type:
 keywords: 'product owner, product ownerschap, innovatie, design thinking, software design thinking, digitalisering, digitale transformatie, zorg, ouderenzorg, nieuwe website'
@@ -19,8 +19,8 @@ caption:
 featured: false
 featured_order: 910
 featured_image: /assets/img/projecten-featured/Careyn-ontzorgt-met-nieuw-online-kanaal.jpg
-featured_image_alt_text: 'Een nieuwe website als katalysator voor samenwerking.'
-excerpt: "Een nieuwe website als katalysator voor samenwerking."
+featured_image_alt_text: 'Een nieuwe website als aanjager van een gezamenlijke strategie.'
+excerpt: "Een nieuwe website als aanjager van een gezamenlijke strategie."
 
 back: ..
 ---

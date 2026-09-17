@@ -10,24 +10,33 @@ keywords: "kwartiermaker, digitalisering, oude ICT, digitale transformatie, prob
 image: /assets/img/foto/Tiltshift-Aanpak-Innovatie-Interventie-Vastgelopen-digitaliserings-project.jpg
 caption:
 ---
-## Publieke digitalisering die werkt
+## Kwartiermakers van publieke digitale transformatie
 
+De publieke sector loopt vast in trage IT-trajecten, dure leveranciers en beleid dat ver afstaat van de praktijk.
+Wij geloven dat dit anders kan én moet.
+
+> "Geen vrijblijvende rapporten, maar concrete stappen."
+
+Tiltshift is geen traditioneel adviesbureau en geen softwareleverancier.
+Wij zijn kwartiermakers.
 {{ page.description }}
 
 <a href="/contact/" class="button" style="display: block; width: 100%; text-align: right">Maak een afspraak voor een intake- en adviesgesprek</a>
 
-{% include valprop.html title="Opensourcewerken" description="We helpen development teams met een nieuwe manier van werken: open, agile en mensgericht. Aan publieke code die open, herbruikbaar, leesbaar, te verantwoorden, toegankelijk en duurzaam is." image="/assets/img/foto/Straatnotes-Veilig-Notities-maken-op-straat-jeugdoverlast.jpg" %}
+{% include valprop.html title="Opensourcewerken" description="We helpen bij het opzetten van in-house development teams met een bewezen manier van werken: open source, agile en human centered." image="/assets/img/foto/Straatnotes-Veilig-Notities-maken-op-straat-jeugdoverlast.jpg" %}
 
-## Transformeren naar open source
+## Transformeren naar open source werken
 
-Wil je werk maken van digitale autonomie, maar blijf je hangen in vrijblijvende discussies, verkenningen en pilots?
+Wil je werk maken van digitale autonomie, maar blijf je hangen in discussies, verkenningen en planning?
 Maak het écht met Tiltshift!
 
-Sinds 2015 zijn wij de partner voor overheden en publieke organisaties die overstappen naar open source en opensourcewerken.
+Sinds 2015 zijn wij partner voor een breed scala aan overheden en publieke organisaties die de overstap wagen van _one-size-fits-none_ inkoop naar in-house ontwikkeling van maatwerk oplossingen voor de uitvoer.
 
 <a href="/projecten/" class="button" style="display: block; width: 100%; text-align: right">Bekijk onze projecten</a>
 
-{% include valprop.html title="Implementatie" description="Je wil aan de slag met autonome alternatieven? We verkennen wat past, organiseren de pilot en begeleiden implementatie en adoptie." image="/assets/img/foto/Careyn-Joris-Boeren-leiderschap-traject-nieuwe-website.jpg" %}
+{% include valprop.html title="Bestaande oplossingen" description="Er bestaan ook al mooie autonome alternatieven! We verkennen wat past, organiseren de pilot en begeleiden implementatie en adoptie." image="/assets/img/foto/Careyn-Joris-Boeren-leiderschap-traject-nieuwe-website.jpg" %}
+
+## Publieke digitalisering die werkt
 
 We brengen in kaart wat nodig is, organiseren en begeleiden pilots en implementaties, en blijven als adoptiepartner betrokken om te zorgen voor succesvol gebruik. Vanuit de uitvoer, met de mensen die het moeten doen.
 
@@ -37,7 +46,7 @@ We brengen in kaart wat nodig is, organiseren en begeleiden pilots en implementa
 {% include valprop.html title="Design sprints" description="Snel toetsen of een idee in de praktijk werkt. We komen één week langs om het concreet te maken, uit te werken, werkend te krijgen en te testen met gebruikers." image="/assets/img/foto/Schulddossier-Design-Thinking-Schulddienstverlening.jpg" %}
 -->
 
-{% include valprop.html title="Community management" description="We bouwen en organiseren actieve communities rondom publieke tech projecten en thema's, inclusief de online tools die daarvoor nodig zijn." image="/assets/img/foto/Stadspas-Zwolle-Sessie.jpg" %}
+{% include valprop.html title="Community building" description="We bouwen en organiseren actieve communities rondom publieke tech projecten en thema's, en leveren de online ondersteuning die daarvoor nodig is." image="/assets/img/foto/Stadspas-Zwolle-Sessie.jpg" %}
 
 ## Voelbaar anders
 
