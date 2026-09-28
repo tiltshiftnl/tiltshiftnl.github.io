@@ -5,7 +5,7 @@ variant: white
 
 title: "Voor de mensen die het moeten doen."
 # "Voor wie écht wil beginnen met digitale transformatie of waar interne digitalisering vast loopt"
-description: "Slimme doeners die zich inzetten voor de publieke zaak. We werken voor, naast en samen met de mensen in de uitvoer. Met hart voor de mens, en oog voor techniek."
+description: "Slimme doeners die zich inzetten voor de publieke zaak. We werken voor, naast en samen met de mensen in de uitvoer aan techniek die voor hen werkt. Met hart voor de mens, en oog voor techniek."
 keywords: "kwartiermaker, digitalisering, oude ICT, digitale transformatie, probleemgedreven innovatie, software design thinking, human centered design, service design, lean startup, lean ux, agile development, xp, scrum, labs, apps, projecten, advies, consultancy, overheid, overheden, publieke sector, mens centraal, common ground, open source, creative commons, creative thinking, open collaboration"
 image: /assets/img/foto/Tiltshift-Aanpak-Innovatie-Interventie-Vastgelopen-digitaliserings-project.jpg
 caption:
@@ -13,12 +13,12 @@ caption:
 ## Kwartiermakers van publieke digitale transformatie
 
 De publieke sector loopt vast in trage IT-trajecten, dure leveranciers en beleid dat ver afstaat van de praktijk.
-Wij geloven dat dit anders kan én moet.
+Wij vinden dat dit anders kan én moet.
 
 > "Geen vrijblijvende rapporten, maar concrete stappen."
 
 Tiltshift is geen traditioneel adviesbureau en geen softwareleverancier.
-Wij zijn kwartiermakers.
+Wij zijn kwartiermakers en begeleiders van publieke digitalisering en opensourcewerken.
 {{ page.description }}
 
 <a href="/contact/" class="button" style="display: block; width: 100%; text-align: right">Maak een afspraak voor een intake- en adviesgesprek</a>
