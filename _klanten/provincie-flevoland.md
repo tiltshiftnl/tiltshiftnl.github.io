@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: klant
 variant: white
 
 title: Provincie Flevoland
@@ -9,14 +9,16 @@ type:
 keywords:
 labels: []
 
-logo: /assets/img/relaties/provincie-flevoland.png
-order: 8
+logo: /assets/img/relaties/provincie-flevoland.svg
+categorie: provincies
+order: 21
 
 featured: false
 featured_order: 1000
 
+projecten: []
+
 image:
 caption:
 
-back: ..
 ---

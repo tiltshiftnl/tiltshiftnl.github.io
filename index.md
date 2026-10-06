@@ -62,7 +62,7 @@ Niet op afstand, maar tussen en met de mensen die het moeten doen.
 
 We werken voor publieke en maatschappelijke organisaties, en andere organisaties die midden in de samenleving staan: voor gemeenten, provincies, woningcorporaties, (ouderen)zorg en universiteiten. Voor ministeries, uitvoeringsorganisaties en publieke samenwerkingen.
 
-Een greep uit onze opdrachtgevers:
+{% include klanten-uitgelicht.html %}
 
 {% include logos-relaties.html %}
 

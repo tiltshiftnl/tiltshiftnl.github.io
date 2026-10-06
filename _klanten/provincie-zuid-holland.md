@@ -2,16 +2,17 @@
 layout: klant
 variant: white
 
-title: Vrije Universiteit Amsterdam
-description:
+title: Provincie Zuid-Holland
+description: 
 quote:
+quote_author:
 type:
 keywords:
 labels: []
 
-logo: /assets/img/relaties/vu-university-amsterdam.svg
-categorie: universiteiten
-order: 41
+logo: /assets/img/relaties/provincie-zuid-holland.svg
+categorie: provincies
+order: 22
 
 featured: false
 featured_order: 1000

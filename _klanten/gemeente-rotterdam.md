@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: klant
 variant: white
 
 title: Gemeente Rotterdam
@@ -9,13 +9,15 @@ type:
 keywords:
 labels: []
 
+projecten: []
+
 image: /assets/img/foto/IMG_9715.JPG
 caption: 'Discovery "Digitaal Indelen Straatmarkten", Gemeente&nbsp;Amsterdam'
 
-logo: /assets/img/relaties/gemeente-rotterdam.png
-order: 1
+logo: /assets/img/relaties/gemeente-rotterdam.svg
+categorie: gemeenten
+order: 11
 
 featured: false
 featured_order: 1000
-back: ..
 ---

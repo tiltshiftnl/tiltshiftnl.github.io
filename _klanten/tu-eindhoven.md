@@ -2,16 +2,17 @@
 layout: klant
 variant: white
 
-title: Vrije Universiteit Amsterdam
-description:
+title: Technische Universiteit Eindhoven
+description: 
 quote:
+quote_author:
 type:
 keywords:
 labels: []
 
-logo: /assets/img/relaties/vu-university-amsterdam.svg
+logo: /assets/img/relaties/tu-eindhoven.svg
 categorie: universiteiten
-order: 41
+order: 42
 
 featured: false
 featured_order: 1000

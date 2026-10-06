@@ -2,22 +2,22 @@
 layout: klant
 variant: white
 
-title: Careyn
+title: Gemeente Arnhem
 description:
 quote:
+quote_author:
 type:
 keywords:
 labels: []
 
-logo: /assets/img/relaties/careyn.svg
-categorie: zorg
-order: 61
+logo: /assets/img/relaties/gemeente-arnhem.svg
+categorie: gemeenten
+order: 14
 
 featured: false
 featured_order: 1000
 
-projecten:
-  - careyn-ontzorgt
+projecten: []
 
 image:
 caption:

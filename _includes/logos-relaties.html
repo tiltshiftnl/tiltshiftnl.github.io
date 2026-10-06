@@ -1,4 +1,4 @@
-{% assign klanten = site.klanten | where_exp: "klant", "klant.logo" | sort: "order" %}
+{% assign klanten = site.klanten | where_exp: "klant", "klant.logo" | where_exp: "klant", "klant.featured != true" | sort: "order" %}
 
 <div class="container-md ">
     <div class="logos even-blocks-grid margin-y">

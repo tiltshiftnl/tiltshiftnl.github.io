@@ -1,0 +1,29 @@
+{% assign klanten = site.klanten | where_exp: "klant", "klant.featured == true" | sort: "featured_order" %}
+
+<div class="container-md klanten-uitgelicht-section">
+    <div class="grid grid--three klanten-uitgelicht">
+        {% for klant in klanten %}
+            <div class="klant-card">
+                <div class="klant-card__logo">
+                    {% if klant.logo %}
+                        <img src="{{ klant.logo }}" alt="{{ klant.title }}">
+                    {% else %}
+                        <h3>{{ klant.title }}</h3>
+                    {% endif %}
+                </div>
+                {% if klant.description %}
+                    <p class="klant-card__description">{{ klant.description }}</p>
+                {% endif %}
+                {% if klant.quote %}
+                    <blockquote class="klant-card__quote">
+                        <p>{{ klant.quote }}</p>
+                        {% if klant.quote_author %}<cite>{{ klant.quote_author }}</cite>{% endif %}
+                    </blockquote>
+                {% endif %}
+                {% comment %}
+                <a href="{{ klant.url }}" class="klant-card__link">Tiltshift bij {{ klant.short_title | default: klant.title }}</a>
+                {% endcomment %}
+            </div>
+        {% endfor %}
+    </div>
+</div>

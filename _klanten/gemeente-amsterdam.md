@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: klant
 variant: white
 
 title: Gemeente Amsterdam
@@ -9,13 +9,16 @@ type:
 keywords:
 labels: []
 
+projecten:
+  - datalab-amsterdam
+
 image: /assets/img/foto/IMG_9715.JPG
 caption: 'Discovery "Digitaal Indelen Straatmarkten", Gemeente&nbsp;Amsterdam'
 
-logo: /assets/img/relaties/gemeente-amsterdam.png
-order: 7
+logo: /assets/img/relaties/gemeente-amsterdam.svg
+categorie: gemeenten
+order: 12
 
 featured: false
 featured_order: 1000
-back: ..
 ---

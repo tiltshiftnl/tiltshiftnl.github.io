@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: klant
 variant: white
 
 title: Ministerie van Volksgezondheid, Welzijn en Sport
@@ -9,14 +9,16 @@ type:
 keywords:
 labels: []
 
-logo: /assets/img/relaties/ministerie-van-volksgezondheid-welzijn-en-sport.png
-order: 3
+logo: /assets/img/relaties/ministerie-van-volksgezondheid-welzijn-en-sport.svg
+categorie: ministeries
+order: 32
 
 featured: false
 featured_order: 1000
 
+projecten: []
+
 image:
 caption:
 
-back: ..
 ---

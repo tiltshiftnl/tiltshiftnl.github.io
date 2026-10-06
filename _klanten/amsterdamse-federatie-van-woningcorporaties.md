@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: klant
 variant: white
 
 title: Amsterdamse Federatie van Woningcorporaties
@@ -10,13 +10,15 @@ keywords:
 labels: []
 
 logo: /assets/img/relaties/amsterdamse-federatie-van-woningcorporaties.png
-order: 4
+categorie: woningcorporaties
+order: 51
 
 featured: false
 featured_order: 1000
 
+projecten: []
+
 image:
 caption:
 
-back: ..
 ---

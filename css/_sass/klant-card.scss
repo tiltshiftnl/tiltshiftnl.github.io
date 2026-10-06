@@ -1,0 +1,69 @@
+.klant-card{
+    display: flex;
+    flex-direction: column;
+    background-color: $white;
+    padding: $gutter-md $gutter-sm;
+    margin-bottom: $gutter-sm;
+
+    &__logo{
+        display: flex;
+        align-items: center;
+        min-height: 105px;
+        margin-bottom: $gutter-sm;
+        img{
+            max-width: 240px;
+            max-height: 105px;
+        }
+        h3{
+            margin: 0;
+        }
+    }
+
+    &__description{
+        margin-top: 0;
+        line-height: $line-height-paragraph-lg;
+    }
+
+    &__quote{
+        margin: 0 0 $gutter-sm 0;
+        font-style: italic;
+        cite{
+            display: block;
+            margin-top: $gutter-xs;
+            font-size: $font-size-sm;
+            font-style: normal;
+        }
+    }
+
+    &__link{
+        margin-top: auto;
+        color: $primair-blauw;
+    }
+}
+
+// Uitgelichte klanten direct gevolgd door de logo-rij: dicht op elkaar
+.klanten-uitgelicht-section{
+    margin-top: $gutter-md;
+    margin-bottom: $gutter-sm;
+    @media screen and (min-width: $breakpoint-md) {
+        margin-top: $gutter-xl;
+    }
+    + .container-md .logos{
+        margin-top: 0;
+    }
+}
+
+.klant-page{
+    &__logo img{
+        max-width: 240px;
+        max-height: 100px;
+    }
+    &__description{
+        font-size: $font-size-lg;
+        line-height: $line-height-paragraph-lg;
+    }
+    &__highlights{
+        line-height: $line-height-paragraph-lg;
+        margin-bottom: $gutter-md;
+    }
+}

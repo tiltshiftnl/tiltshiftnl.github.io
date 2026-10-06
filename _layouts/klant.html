@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html>
+
+  {% include head.html %}
+
+  <body class="{% if page.variant %}body--variant-{{ page.variant }}{% endif %}">
+
+    {% include navigation.html %}
+
+    <main class="margin-top">
+      <div class="container-md klant-page">
+
+        <p><a href="/#opdrachtgevers">« alle opdrachtgevers</a></p>
+
+        {% if page.logo %}
+          <div class="klant-page__logo">
+            <img src="{{ page.logo }}" alt="{{ page.title }}">
+          </div>
+        {% endif %}
+
+        <h1>{{ page.title }}</h1>
+
+        {% if page.description %}
+          <p class="klant-page__description">{{ page.description }}</p>
+        {% endif %}
+
+        {% if page.highlights %}
+          <h2>Wat we deden</h2>
+          <ul class="klant-page__highlights">
+            {% for highlight in page.highlights %}
+              <li>{{ highlight }}</li>
+            {% endfor %}
+          </ul>
+        {% endif %}
+
+        {% if page.quote %}
+          <blockquote>
+            <p>{{ page.quote }}</p>
+            {% if page.quote_author %}<small>{{ page.quote_author }}</small>{% endif %}
+          </blockquote>
+        {% endif %}
+
+        {{ content }}
+
+        {% if page.projecten.size > 0 %}
+          <h2>Projecten</h2>
+          <div class="grid grid--three">
+            {% for slug in page.projecten %}
+              {% assign project_url = "/projecten/" | append: slug | append: "/" %}
+              {% assign project = site.projecten | where: "url", project_url | first %}
+              {% if project %}
+                {% include image-link-block.html image=project.featured_image title=project.title excerpt=project.excerpt url=project.url %}
+              {% endif %}
+            {% endfor %}
+          </div>
+        {% endif %}
+
+      </div>
+    </main>
+
+    <footer>{% include footer.html %}</footer>
+
+  </body>
+
+</html>

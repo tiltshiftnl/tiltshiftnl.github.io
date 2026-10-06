@@ -4,10 +4,10 @@
     align-items: center;
     margin-bottom: $gutter-md;
     img{
-        max-width: 100px;
-        max-height: 55px;
+        max-width: 150px;
+        max-height: 83px;
         @media screen and (min-width: $breakpoint-lg) {
-            max-width: 129px;
+            max-width: 194px;
         }
     }
     @media screen and (min-width: $breakpoint-lg) {

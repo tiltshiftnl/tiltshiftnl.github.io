@@ -12,7 +12,8 @@ collections:
     output: true
     permalink: /:collection/:name/
   klanten:
-    output: false
+    output: true
+    permalink: /:collection/:name/
 
 sass:
   sass_dir: /css/_sass
