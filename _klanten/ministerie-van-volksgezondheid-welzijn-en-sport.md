@@ -1,6 +1,5 @@
 ---
 layout: klant
-variant: white
 
 title: Ministerie van Volksgezondheid, Welzijn en Sport
 description:

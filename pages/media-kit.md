@@ -1,6 +1,5 @@
 ---
 layout: default
-variant: white
 permalink: /media-kit/
 
 title: Media

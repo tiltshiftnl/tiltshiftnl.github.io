@@ -1,6 +1,5 @@
 ---
 layout: default
-variant: white
 
 title: "Iedereen kan tekenen"
 subtitle: "tekenen, ideation, opwarmer, workshop, sessie"

@@ -1,6 +1,5 @@
 ---
 layout: default
-variant: white
 subject: Arjen Jelsma is Tiltshift!
 title: Arjen Jelsma is Tiltshift!
 teaser: "Arjen Jelsma heeft zich als partner aangesloten bij Tiltshift."

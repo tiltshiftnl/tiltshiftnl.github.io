@@ -1,6 +1,5 @@
 ---
 layout: default
-variant: white
 title: "Makkelijke markt"
 subtitle: "Digitale innovatie op de straatmarkten van Amsterdam."
 description: "Samen met het centrale marktbureau en de markttoezichthouders ontwikkelden wij Makkelijke Markt, een digitaal bonnenboekje voor de straatmarkten van Amsterdam. Toezichthouders kunnen hiermee aanwezigheid scannen, vergunningen uitgeven en controleren en direct afrekenen met pin."

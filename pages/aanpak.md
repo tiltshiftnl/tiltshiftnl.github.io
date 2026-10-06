@@ -1,6 +1,5 @@
 ---
 layout: default
-variant: white
 permalink: /aanpak/
 
 title: Dat kan wel een beetje Tiltshift gebruiken.

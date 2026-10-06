@@ -1,6 +1,5 @@
 ---
 layout: default
-variant: white
 subject: Jasper Ceelen is Tiltshift!
 title: Jasper is Tiltshift!
 teaser: "Tiltshift verwelkomt Jasper Ceelen als nieuwe partner!"

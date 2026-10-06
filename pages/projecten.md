@@ -1,7 +1,6 @@
 ---
 layout: default
 permalink: /projecten/
-variant: white
 
 subject: Tiltshift projecten
 title: Elke reis begint met een eerste stap.

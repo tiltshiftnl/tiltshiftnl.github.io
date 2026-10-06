@@ -1,6 +1,5 @@
 ---
 layout: default
-variant: white
 
 title: "Interview kaart"
 description: "Interview kaart op basis van Empathy Map."

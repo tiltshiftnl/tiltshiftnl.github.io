@@ -1,6 +1,5 @@
 ---
 layout: default
-variant: white
 subject: mensen
 title: Eva Leffef onderdeel van Tiltshift
 description: "Hoe we een arbeidsovereenkomst tekenen in tijden van social distancing? Gewoon, op gepaste afstand, op kantoor."

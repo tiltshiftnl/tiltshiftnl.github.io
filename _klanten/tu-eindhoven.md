@@ -1,6 +1,5 @@
 ---
 layout: klant
-variant: white
 
 title: Technische Universiteit Eindhoven
 description: 

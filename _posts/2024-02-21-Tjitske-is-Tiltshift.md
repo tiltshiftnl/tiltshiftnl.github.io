@@ -1,6 +1,5 @@
 ---
 layout: default
-variant: white
 subject: Tjitske Visser is Tiltshift!
 title: Tjitske Visser is Tiltshift!
 teaser: "Tjitske Visser heeft zich als partner aangesloten bij Tiltshift."

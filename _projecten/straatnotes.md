@@ -1,6 +1,5 @@
 ---
 layout: default
-variant: white
 
 title: "Straatnotes geeft inzicht in de stad"
 description: Straatnotes helpt straatcoaches notities veilig te schrijven en versturen, en de gemeente om met respect voor privacy bruikbare, waardevolle inzichten uit deze informatie te halen.

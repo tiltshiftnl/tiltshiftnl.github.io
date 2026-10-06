@@ -1,7 +1,6 @@
 ---
 layout: default
 permalink: /diensten/
-variant: white
 
 title: Tiltshift diensten
 subtitle: Innovatie begint bij de mensen. Focus op hun probleem en laat de techniek volgen. Dan ontstaat de oplossing.

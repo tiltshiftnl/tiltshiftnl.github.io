@@ -1,6 +1,5 @@
 ---
 layout: person
-variant: white
 
 title: "Joris Boeren"
 firstname: "Joris"

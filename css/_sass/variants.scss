@@ -1,83 +1,26 @@
-/* DEFAULT: RED */
 body, main {
-    background: #E54545;
-    color: #FFF;
-}
-.slope {
-    background: url(/assets/img/angled_slope_red.svg) top left no-repeat;
-    background-size: cover;
-}
-.slope--flip {
-    background: url(/assets/img/angled_slope_red--flip.svg) top left no-repeat;
-    background-size: cover;
-}
-.header-with-image-overlay {
-  background-color: #E54545;
-}
-.tiltshift-2020-image-socials-block-overlay {
-  background-color: #E54545;
-}
-.label {
-    background: #f4b4b4;
-    color: #1D1621;
-}
-button {
-  background: #f4b4b4;
-  color: #1D1621;
-}
-/* BLUE */
-.body--variant-blue,
-.body--variant-blue main {
-    background: #4545E5;
-    color: #FFF;
-}
-.body--variant-blue .slope {
-    background: url(/assets/img/angled_slope_blue.svg) top left no-repeat;
-    background-size: cover;
-}
-.body--variant-blue .slope--flip {
-    background: url(/assets/img/angled_slope_blue--flip.svg) top left no-repeat;
-    background-size: cover;
-}
-.body--variant-blue .header-with-image-overlay {
-  background-color: #4545E5;
-}
-.body--variant-blue .tiltshift-2020-image-socials-block-overlay {
-  background-color: #4545E5;
-}
-.body--variant-blue .label {
-    background: #b4b4f4;
-    color: $black;
-}
-.body--variant-blue button {
-  background: #b4b4f4 !important;
-  color: $black !important;
-}
-/* WHITE */
-.body--variant-white,
-.body--variant-white main {
     background: $white;
     color: $black;
 }
-.body--variant-white .slope {
+.slope {
     background: url(/assets/img/angled_slope_white.svg) top left no-repeat;
     background-size: cover;
 }
-.body--variant-white .slope--flip {
+.slope--flip {
     background: url(/assets/img/angled_slope_white--flip.svg) top left no-repeat;
     background-size: cover;
 }
-.body--variant-white .header-with-image-overlay {
+.header-with-image-overlay {
   background-color: #454545;
 }
-.body--variant-white .tiltshift-2020-image-socials-block-overlay {
+.tiltshift-2020-image-socials-block-overlay {
   background-color: #454545;
 }
-.body--variant-white .label {
+.label {
     background: #1D1621;
     color: #fff;
 }
-.body--variant-white button {
+button {
   background: #1D1621 !important;
   color: #fff !important;
 }

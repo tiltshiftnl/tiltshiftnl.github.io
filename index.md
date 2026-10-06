@@ -1,7 +1,6 @@
 ---
 layout: default
 hideform: true
-variant: white
 
 title: "Voor de mensen die het moeten doen."
 # "Voor wie écht wil beginnen met digitale transformatie of waar interne digitalisering vast loopt"

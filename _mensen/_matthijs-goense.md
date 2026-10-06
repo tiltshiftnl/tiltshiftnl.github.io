@@ -1,6 +1,5 @@
 ---
 layout: person
-variant: white
 
 title: "Matthijs Goense"
 description: "Matthijs transformeert vage (beleids)opgaven naar concrete resultaten. Hij weet hoe je met creativiteit en aanstekelijk enthousiasme impact maakt en voelt zich als een vis in het water als het gaat om strategische vraagstukken op het gebied van digitalisering, dienstverlening en innovatie. Het spanningsveld tussen beleid en uitvoering is wat hem, als voormalig ambtenaar, het meeste boeit."

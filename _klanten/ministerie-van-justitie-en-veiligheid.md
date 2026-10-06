@@ -1,6 +1,5 @@
 ---
 layout: klant
-variant: white
 
 title: Ministerie van Justitie en Veiligheid
 description: "Voor het ministerie van Justitie en Veiligheid werkten we aan gegevensboekhouding."

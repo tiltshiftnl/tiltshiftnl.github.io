@@ -1,6 +1,5 @@
 ---
 layout: default
-variant: white
 
 title: "Lange termijn doelen canvas"
 description: "Wat zijn de lange termijn doelen voor innovatie en digitale transformatie?"

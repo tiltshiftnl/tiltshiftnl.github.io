@@ -1,6 +1,5 @@
 ---
 layout: default
-variant: white
 permalink: /contact/
 
 title: Wij maken graag tijd voor een bakkie koffie.

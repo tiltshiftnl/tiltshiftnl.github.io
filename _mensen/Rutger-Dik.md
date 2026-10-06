@@ -1,6 +1,5 @@
 ---
 layout: person
-variant: white
 
 title: "Rutger Dik"
 firstname: "Rutger"

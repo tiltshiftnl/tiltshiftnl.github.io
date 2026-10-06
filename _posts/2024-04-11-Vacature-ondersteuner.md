@@ -1,6 +1,5 @@
 ---
 layout: default
-variant: white
 subject: "Vacature: Ondersteuner (x/v/m) - 16 uur per week"
 title: "Vacature: Ondersteuner (x/v/m) - 16 uur per week"
 teaser: "Omdat we aan het groeien zijn, is Tiltshift op zoek naar hulp in onze studio in Utrecht."

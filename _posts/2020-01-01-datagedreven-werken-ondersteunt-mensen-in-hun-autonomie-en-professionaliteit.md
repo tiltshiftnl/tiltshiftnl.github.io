@@ -1,6 +1,5 @@
 ---
 layout: default
-variant: white
 subject: common ground
 title: Datagedreven werken ondersteunt mensen in hun autonomie en professionaliteit
 description: "Johan Groenen en Maarten Geraets stonden in 2015 samen met Joris Boeren aan de wieg van Datalab Amsterdam. Gedrieën richtten zij TiltShift op, een software design bureau voor probleemgedreven innovatie in de publieke sector. Na een reactie op de Toolbox Datagedreven werken spreken we Johan en Maarten over hun werk en de do’s en don’ts van datagedreven werken. Hoe moet datagedreven werken wèl en niét worden ingezet?"

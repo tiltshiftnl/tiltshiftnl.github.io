@@ -1,6 +1,5 @@
 ---
 layout: klant
-variant: white
 
 title: Provincie Zuid-Holland
 description: 

@@ -1,6 +1,5 @@
 ---
 layout: klant
-variant: white
 
 title: BIJ12
 short_title: BIJ12

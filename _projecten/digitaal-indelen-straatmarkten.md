@@ -1,6 +1,5 @@
 ---
 layout: default
-variant: white
 
 title: "Digitaal Indelen Straatmarkten"
 description: Als jaren wilde het marktbureau van de gemeente Amsterdam de indeling van de straatmarkten automatiseren. Maar omdat iedere poging daartoe mislukte bleef de indeling een handmatig proces. De complexe indeling vereiste veel inzet van de marktmeesters in de ochtend, waardoor er in de middag regelmatig niemand meer beschikbaar om toezicht te houden op de markt.

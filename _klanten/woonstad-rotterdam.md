@@ -1,6 +1,5 @@
 ---
 layout: klant
-variant: white
 
 title: Woonstad Rotterdam
 description: "Met één heldere visie en de opbouw van een wendbare, slagvaardige organisatie is Woonstad Rotterdam klaar voor de toekomst."

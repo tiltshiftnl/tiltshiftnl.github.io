@@ -1,6 +1,5 @@
 ---
 layout: default
-variant: white
 permalink: /intake-en-advies
 
 subject: Intake en adviesgesprek

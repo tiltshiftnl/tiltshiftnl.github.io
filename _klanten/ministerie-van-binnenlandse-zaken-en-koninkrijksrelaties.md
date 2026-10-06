@@ -1,6 +1,5 @@
 ---
 layout: klant
-variant: white
 
 title: Ministerie van Binnenlandse Zaken en Koninkrijksrelaties
 short_title: MinBZK

@@ -1,6 +1,5 @@
 ---
 layout: default
-variant: white
 subject: mensen
 title: Jan Paul is gestart als coördinator
 description: "Met zijn ervaring vormt hij chaos en hectiek om tot een snel en doelmatig traject. Fijn dat je erbij bent Jan Paul, welkom in de familie!"

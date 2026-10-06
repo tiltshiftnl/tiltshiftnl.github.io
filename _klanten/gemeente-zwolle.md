@@ -1,6 +1,5 @@
 ---
 layout: klant
-variant: white
 
 title: Gemeente Zwolle
 short_title: Zwolle

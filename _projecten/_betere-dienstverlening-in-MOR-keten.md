@@ -1,6 +1,5 @@
 ---
 layout: default
-variant: white
 
 title: "Forza MOR: Betere dienstverlening in MOR keten"
 description: Niet iedereen die recht heeft op ondersteuning bij participatie, maakt daar ook gebruik van. Dat kan beter. 

@@ -1,6 +1,5 @@
 ---
 layout: default
-variant: white
 
 title: "Applicatiefamile Straatnotes"
 description: In plaats van één alles omvattend systeem voor iedereen, is Straatnotes nu een applicatiefamilie geworden. Bestaande uit diverse losse en herbruikbare applicaties met in het midden een centrale database. Die laatste bevat alle informatie én de toegangsrechten conform de afgesloten convenanten en gegevensregeling.

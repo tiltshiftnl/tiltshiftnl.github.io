@@ -1,6 +1,5 @@
 ---
 layout: default
-variant: white
 subject: Developer.overheid.nl
 title: Tom Ootes aan de slag bij developer.overheid.nl
 teaser: "Deze maand is Tom bij Developer Overheid NL begonnen als \"Developer en pleitbezorger Open Source\"."

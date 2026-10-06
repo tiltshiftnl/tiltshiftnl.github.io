@@ -1,6 +1,5 @@
 ---
 layout: default
-variant: white
 subject: Algorithm Registers
 title: Met 9 steden werken aan Algorithm Registers for European Cities
 teaser: "Johan gaat met 9 grote Europese steden aan de slag met algoritmeregisters."

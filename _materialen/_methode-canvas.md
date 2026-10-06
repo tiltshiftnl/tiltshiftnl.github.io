@@ -1,6 +1,5 @@
 ---
 layout: default
-variant: white
 
 title: "Methode canvas"
 subtitle: "Snel creatieve, concrete ideeën verzinnen, en verder itereren."

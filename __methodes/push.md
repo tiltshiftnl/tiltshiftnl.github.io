@@ -1,6 +1,5 @@
 ---
 layout: default
-variant: white
 
 title: Push
 subtitle: 

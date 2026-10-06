@@ -1,6 +1,5 @@
 ---
 layout: klant
-variant: white
 
 title: Politie
 description:

@@ -1,6 +1,5 @@
 ---
 layout: default
-variant: white
 
 title: "Empathy map"
 description: "Voor het gezamenlijk samenvatten van een interview op basis van empathie gebruiken wij vaak Empathy Maps."

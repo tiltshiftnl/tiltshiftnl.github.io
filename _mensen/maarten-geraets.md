@@ -1,6 +1,5 @@
 ---
 layout: person
-variant: white
 
 title: "Maarten Geraets"
 firstname: "Maarten"

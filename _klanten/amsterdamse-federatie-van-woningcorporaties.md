@@ -1,6 +1,5 @@
 ---
 layout: klant
-variant: white
 
 title: Amsterdamse Federatie van Woningcorporaties
 description:

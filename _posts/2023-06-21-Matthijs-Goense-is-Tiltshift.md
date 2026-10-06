@@ -1,6 +1,5 @@
 ---
 layout: default
-variant: white
 subject: Matthijs Goense is Tiltshift!
 title: Matthijs Goense is Tiltshift!
 teaser: "Matthijs Goense heeft zich als partner aangesloten bij Tiltshift."

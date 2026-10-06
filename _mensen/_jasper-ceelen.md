@@ -1,6 +1,5 @@
 ---
 layout: person
-variant: white
 
 title: "Jasper Ceelen"
 description: "Jasper is een rasechte verbinder en spreekt vloeiend de taal van ontwerpers, technologen, stakeholders en eindgebruikers. Waar nodig maakt hij een vertaalslag en zorgt hij ervoor dat iedereen op één lijn zit. Met ruim twintig jaar ervaring in software-ontwikkeling en communicatieprojecten helpt hij organisaties bij digitale transformaties en het creëren van digitale diensten en producten."

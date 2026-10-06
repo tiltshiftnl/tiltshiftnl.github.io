@@ -1,6 +1,5 @@
 ---
 layout: default
-variant: white
 
 title: "Oprichten DataLab Amsterdam"
 description: Amsterdam speelt binnen de gemeenten een voortrekkersrol op het gebied van innovatie, data en applicatieontwikkeling. Dat vindt de oorsprong in DataLab Amsterdam.

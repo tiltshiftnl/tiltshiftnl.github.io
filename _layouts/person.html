@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   {% include head.html %}
-  <body class="{% if page.variant %}body--variant-{{ page.variant }}{% endif %}">
+  <body>
     <header>{% include navigation.html %}</header>
     <main {% if page.hideBanner %}class="margin-top"{% endif %}>
       <!-- {% if page.back %}

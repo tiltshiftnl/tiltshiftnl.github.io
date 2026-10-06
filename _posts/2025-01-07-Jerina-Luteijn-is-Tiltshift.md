@@ -1,6 +1,5 @@
 ---
 layout: default
-variant: white
 subject: Jerina Luteijn is Tiltshift!
 title: Jerina Luteijn is Tiltshift!
 teaser: "Jerina Luteijn is gestart als partner coördinator bij Tiltshift."

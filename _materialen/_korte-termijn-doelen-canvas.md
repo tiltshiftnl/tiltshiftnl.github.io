@@ -1,6 +1,5 @@
 ---
 layout: default
-variant: white
 
 title: "Korte termijn doelen canvas"
 subtitle: "Snel de korte termijn doelen van de sprint in kaart brengen."

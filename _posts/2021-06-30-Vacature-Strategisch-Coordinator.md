@@ -1,6 +1,5 @@
 ---
 layout: default
-variant: white
 subject: Vacature
 title: Vacature - Strategisch Coördinator
 description: "Ben je een snelle denker, toe aan een volgende stap en weet precies te vertellen waarom je bij ons past? Dan horen we graag van je!"

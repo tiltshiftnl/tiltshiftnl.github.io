@@ -1,6 +1,5 @@
 ---
 layout: default
-variant: white
 subject: mensen
 title: Sanne aan boord als UX Researcher!
 description: "Met haar achtergrond als filosoof, programmeur en UX-er is ze de perfecte UX researcher in ons team."

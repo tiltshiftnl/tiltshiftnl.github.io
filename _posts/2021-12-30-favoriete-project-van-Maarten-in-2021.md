@@ -1,6 +1,5 @@
 ---
 layout: default
-variant: white
 subject: mensen
 title: Favoriete project van Maarten in 2021
 description: "De Explore die we deden voor de gemeente Rotterdam is een fantastisch voorbeeld van waar we echt de vraag achter de vraag hebben gevonden."

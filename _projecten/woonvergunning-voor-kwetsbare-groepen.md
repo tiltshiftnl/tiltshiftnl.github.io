@@ -1,6 +1,5 @@
 ---
 layout: default
-variant: white
 
 title: Woonvergunning voor Kwetsbare Groepen
 description: Kwetsbare groepen kunnen in Amsterdam onder begeleiding een periode proef-wonen. Het complexe proces waarin hulpverleners en gemeente nauw samenwerken verliep niet soepel.

@@ -1,6 +1,5 @@
 ---
 layout: default
-variant: white
 subject: Rutger Dik is Tiltshift!
 title: Rutger Dik is Tiltshift!
 teaser: "Rutger Dik heeft zich als partner aangesloten bij Tiltshift."

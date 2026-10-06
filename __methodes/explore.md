@@ -1,6 +1,5 @@
 ---
 layout: default
-variant: white
 
 title: Explore
 subtitle: "Samen problemen en ideeën ophalen waar ze zijn: op de werkvloer, op straat, aan het bed."

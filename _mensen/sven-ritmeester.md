@@ -1,6 +1,5 @@
 ---
 layout: person
-variant: white
 
 title: "Sven Ritmeester"
 firstname: "Sven"

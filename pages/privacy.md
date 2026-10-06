@@ -1,6 +1,5 @@
 ---
 layout: default
-variant: white
 permalink: /privacy/
 
 title: Privacy

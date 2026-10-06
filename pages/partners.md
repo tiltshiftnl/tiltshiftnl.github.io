@@ -1,6 +1,5 @@
 ---
 layout: default
-variant: white
 permalink: /partners/
 
 subject: Digitalisering in beweging

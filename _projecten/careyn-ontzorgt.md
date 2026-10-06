@@ -1,6 +1,5 @@
 ---
 layout: default
-variant: white
 
 title: "Careyn ontzorgt"
 description: Een nieuwe website als aanjager van gezamenlijke strategie

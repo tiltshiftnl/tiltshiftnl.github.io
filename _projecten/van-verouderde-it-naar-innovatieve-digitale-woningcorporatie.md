@@ -1,6 +1,5 @@
 ---
 layout: default
-variant: white
 
 title: "Van verouderde IT naar innovatieve digitale woningcorporatie"
 description: Woonstad Rotterdam wil voorop blijven lopen als woningcorporatie en zet hoog in op digitalisering. De ambitie? Een organisatie waar technologie bewoners en medewerkers écht ondersteunt, niet belemmert. Maar met een verouderd IT-systeem en talrijke losse initiatieven was er meer nodig dan alleen een plan. Joris Boeren, partner bij Tiltshift, kreeg de taak om de digitale transformatie in goede banen te leiden én in gang te zetten. 

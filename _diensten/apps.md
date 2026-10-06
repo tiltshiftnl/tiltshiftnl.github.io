@@ -1,6 +1,5 @@
 ---
 layout: default
-variant: white
 back: /
 
 title: Onderhoud van apps

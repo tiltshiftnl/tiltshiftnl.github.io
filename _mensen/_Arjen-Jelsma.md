@@ -1,6 +1,5 @@
 ---
 layout: person
-variant: white
 
 title: "Arjen Jelsma"
 description: "Door zijn achtergrond in Marketing, Communicatie en fotografie is Arjen in staat om wat in hoofden leeft visueel te maken. Beeld met een goed verhaal spreekt immers meer tot de verbeelding dan een stoffig rapport in een la. Hij neemt niet alleen een team mee in het te bereiken doel, hij zorgt voor een echt gedeelde, gevalideerde en gedragen oplossing."

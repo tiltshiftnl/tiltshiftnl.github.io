@@ -1,6 +1,5 @@
 ---
 layout: default
-variant: white
 
 title: "Innovatieprogramma afdeling Wonen"
 description: Door interventie weer beweging in vastgelopen innovatieprogramma. Betrokken medewerkers komen uiteindelijk zelf met vraag om verandering.

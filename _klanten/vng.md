@@ -1,6 +1,5 @@
 ---
 layout: klant
-variant: white
 
 title: Vereniging van Nederlandse Gemeenten
 description: 

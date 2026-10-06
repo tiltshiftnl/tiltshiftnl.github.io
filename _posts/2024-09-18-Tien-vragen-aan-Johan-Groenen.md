@@ -1,6 +1,5 @@
 ---
 layout: default
-variant: white
 subject: Tien vragen aan Johan Groenen
 title: Tien vragen aan Johan Groenen over Gegevensboekhouding JenV
 teaser: "Afgelopen jaar werkte Johan Groenen, partner bij Tiltshift, vanuit het programma Open op Orde met het CDO Office van het Ministerie van Justitie en Veiligheid en Asiel en Migratie aan het Afsprakenstelsel Gegevens en Algoritmes, en daarbinnen aan het concept Gegevensboekhouding."

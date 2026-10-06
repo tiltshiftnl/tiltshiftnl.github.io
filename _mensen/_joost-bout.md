@@ -1,6 +1,5 @@
 ---
 layout: person
-variant: white
 
 title: "Joost Bout"
 description: Als coördinator is Joost een mix van Product Owner, UX Researcher, productstrateeg én relatiemanager in één. Hij heeft een achtergrond in communicatie en projectmanagement. En heeft een voorliefde voor dingen goed opzetten en structuur bieden.

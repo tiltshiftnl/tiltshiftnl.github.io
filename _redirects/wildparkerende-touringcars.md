@@ -1,6 +1,5 @@
 ---
 layout: default
-variant: white
 permalink: /snelle-innovatie-die-werkt/wildparkerende-touringcars
 
 title: Wildparkerende touringcars

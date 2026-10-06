@@ -1,6 +1,5 @@
 ---
 layout: klant
-variant: white
 
 title: Gemeente Amsterdam
 description: Voor de gemeente Amsterdam hebben wij het Datalab Amsterdam opgericht, dé werkplaats voor datagedreven innovatie en verbetering van digitale dienstverlening.

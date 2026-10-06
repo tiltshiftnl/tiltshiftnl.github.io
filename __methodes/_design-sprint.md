@@ -1,6 +1,5 @@
 ---
 layout: default
-variant: blue
 
 title: Design Sprint
 subtitle: Van probleem naar concept in 5 dagen.
