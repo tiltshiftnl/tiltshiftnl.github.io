@@ -1,22 +1,22 @@
 ---
 layout: klant
 
-title: Politie
+title: Ministerie van Algemene Zaken
 description:
 quote:
+quote_author:
 type:
 keywords:
 labels: []
 
-logo: /assets/img/relaties/politie.svg
+logo: /assets/img/relaties/ministerie-van-algemene-zaken.svg
 categorie: ministeries
-order: 36
+order: 34
 
 featured: false
 featured_order: 1000
 
-projecten:
-  - product-management-ruis-politie-amsterdam
+projecten: []
 
 image:
 caption:

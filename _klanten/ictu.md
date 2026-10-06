@@ -1,22 +1,22 @@
 ---
 layout: klant
 
-title: Politie
+title: ICTU
 description:
 quote:
+quote_author:
 type:
 keywords:
 labels: []
 
-logo: /assets/img/relaties/politie.svg
+logo: /assets/img/relaties/ictu.svg
 categorie: ministeries
-order: 36
+order: 35
 
 featured: false
 featured_order: 1000
 
-projecten:
-  - product-management-ruis-politie-amsterdam
+projecten: []
 
 image:
 caption:

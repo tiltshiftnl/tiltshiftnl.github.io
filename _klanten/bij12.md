@@ -12,7 +12,7 @@ labels: []
 
 logo: /assets/img/relaties/bij12.svg
 categorie: provincies
-order: 23
+order: 24
 
 featured: true
 featured_order: 2
