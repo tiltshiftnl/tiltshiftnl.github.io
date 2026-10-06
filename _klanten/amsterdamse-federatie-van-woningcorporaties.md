@@ -9,6 +9,7 @@ keywords:
 labels: []
 
 logo: /assets/img/relaties/amsterdamse-federatie-van-woningcorporaties.png
+logo_width: 135
 categorie: woningcorporaties
 order: 51
 

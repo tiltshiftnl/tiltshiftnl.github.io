@@ -10,6 +10,7 @@ keywords:
 labels: []
 
 logo: /assets/img/relaties/provincie-zeeland.svg
+logo_width: 153
 categorie: provincies
 order: 23
 

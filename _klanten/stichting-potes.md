@@ -10,6 +10,7 @@ keywords:
 labels: []
 
 logo: /assets/img/relaties/stichting-potes.svg
+logo_width: 113
 categorie: stichtingen
 order: 71
 

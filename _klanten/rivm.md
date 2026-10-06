@@ -11,6 +11,7 @@ keywords:
 labels: []
 
 logo: /assets/img/relaties/rivm.svg
+logo_width: 146
 categorie: ministeries
 order: 36
 

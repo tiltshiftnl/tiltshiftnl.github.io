@@ -10,6 +10,7 @@ keywords:
 labels: []
 
 logo: /assets/img/relaties/tu-eindhoven.svg
+logo_width: 119
 categorie: universiteiten
 order: 42
 

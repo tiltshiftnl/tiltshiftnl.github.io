@@ -10,6 +10,7 @@ keywords:
 labels: []
 
 logo: /assets/img/relaties/gemeente-arnhem.svg
+logo_width: 163
 categorie: gemeenten
 order: 14
 

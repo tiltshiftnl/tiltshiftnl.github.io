@@ -9,6 +9,7 @@ keywords:
 labels: []
 
 logo: /assets/img/relaties/careyn.svg
+logo_width: 72
 categorie: zorg
 order: 61
 

@@ -2,13 +2,11 @@
     background-color: none;
 }
 
+// Grijs via SVG-filter #logo-grijs (zie _includes/logo-filter.html); in kleur bij hover
 .logo-block img,
 .klant-card__logo img{
-    filter: grayscale(1);
-    opacity: .75;
-    transition: filter .2s ease, opacity .2s ease;
+    filter: url(#logo-grijs);
     &:hover{
         filter: none;
-        opacity: 1;
     }
 }

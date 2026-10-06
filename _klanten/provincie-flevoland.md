@@ -9,6 +9,7 @@ keywords:
 labels: []
 
 logo: /assets/img/relaties/provincie-flevoland.svg
+logo_width: 136
 categorie: provincies
 order: 21
 

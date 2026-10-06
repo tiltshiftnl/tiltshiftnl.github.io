@@ -10,6 +10,7 @@ keywords:
 labels: []
 
 logo: /assets/img/relaties/provincie-zuid-holland.svg
+logo_width: 188
 categorie: provincies
 order: 22
 

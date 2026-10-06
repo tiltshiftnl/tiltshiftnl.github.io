@@ -9,6 +9,7 @@ keywords:
 labels: []
 
 logo: /assets/img/relaties/vu-university-amsterdam.svg
+logo_width: 170
 categorie: universiteiten
 order: 41
 

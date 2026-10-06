@@ -12,6 +12,7 @@ keywords:
 labels: []
 
 logo: /assets/img/relaties/ministerie-van-justitie-en-veiligheid.svg
+logo_width: 146
 categorie: ministeries
 order: 33
 

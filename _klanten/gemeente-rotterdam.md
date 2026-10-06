@@ -14,6 +14,7 @@ image: /assets/img/foto/IMG_9715.JPG
 caption: 'Discovery "Digitaal Indelen Straatmarkten", Gemeente&nbsp;Amsterdam'
 
 logo: /assets/img/relaties/gemeente-rotterdam.svg
+logo_width: 187
 categorie: gemeenten
 order: 11
 

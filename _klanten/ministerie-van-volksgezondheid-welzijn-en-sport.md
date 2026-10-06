@@ -9,6 +9,7 @@ keywords:
 labels: []
 
 logo: /assets/img/relaties/ministerie-van-volksgezondheid-welzijn-en-sport.svg
+logo_width: 158
 categorie: ministeries
 order: 32
 

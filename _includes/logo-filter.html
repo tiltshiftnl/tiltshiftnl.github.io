@@ -1,0 +1,11 @@
+<!-- Grijsfilter voor klantlogo's: maakt grijs en tilt donkere tinten op, zodat zwarte en gekleurde logo's even zwaar ogen -->
+<svg width="0" height="0" style="position: absolute" aria-hidden="true" focusable="false">
+    <filter id="logo-grijs" color-interpolation-filters="sRGB">
+        <feColorMatrix type="saturate" values="0"/>
+        <feComponentTransfer>
+            <feFuncR type="table" tableValues="0.12 0.26 0.5 0.76 1"/>
+            <feFuncG type="table" tableValues="0.12 0.26 0.5 0.76 1"/>
+            <feFuncB type="table" tableValues="0.12 0.26 0.5 0.76 1"/>
+        </feComponentTransfer>
+    </filter>
+</svg>

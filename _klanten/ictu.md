@@ -10,6 +10,7 @@ keywords:
 labels: []
 
 logo: /assets/img/relaties/ictu.svg
+logo_width: 148
 categorie: ministeries
 order: 35
 

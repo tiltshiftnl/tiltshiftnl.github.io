@@ -4,11 +4,10 @@
     align-items: center;
     margin-bottom: $gutter-md;
     img{
-        max-width: 150px;
+        // breedte per logo via logo_width (oppervlakte-genormaliseerd)
+        max-width: 100%;
         max-height: 83px;
-        @media screen and (min-width: $breakpoint-lg) {
-            max-width: 194px;
-        }
+        height: auto;
     }
     @media screen and (min-width: $breakpoint-lg) {
         margin-bottom: $gutter-md;

@@ -9,6 +9,7 @@ keywords:
 labels: []
 
 logo: /assets/img/relaties/politie.svg
+logo_width: 138
 categorie: ministeries
 order: 37
 

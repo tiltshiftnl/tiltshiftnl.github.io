@@ -10,6 +10,7 @@ keywords:
 labels: []
 
 logo: /assets/img/relaties/woonstad-rotterdam.svg
+logo_width: 144
 categorie: woningcorporaties
 order: 52
 

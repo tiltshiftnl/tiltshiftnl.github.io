@@ -10,6 +10,7 @@ keywords:
 labels: []
 
 logo: /assets/img/relaties/vng.svg
+logo_width: 99
 categorie: gemeenten
 order: 15
 

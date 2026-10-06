@@ -10,6 +10,7 @@ keywords:
 labels: []
 
 logo: /assets/img/relaties/ministerie-van-algemene-zaken.svg
+logo_width: 109
 categorie: ministeries
 order: 34
 

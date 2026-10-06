@@ -4,7 +4,7 @@
     <div class="logos even-blocks-grid margin-y">
         {% for klant in klanten %}
             <div class="logo-block">
-                <img src="{{ klant.logo }}" alt="{{ klant.title }}">
+                <img src="{{ klant.logo }}" alt="{{ klant.title }}"{% if klant.logo_width %} style="width: {{ klant.logo_width }}px"{% endif %}>
             </div>
         {% endfor %}
     </div>
