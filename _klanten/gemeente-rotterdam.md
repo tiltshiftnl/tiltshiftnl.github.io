@@ -12,6 +12,10 @@ labels: []
 image: /assets/img/foto/IMG_9715.JPG
 caption: 'Discovery "Digitaal Indelen Straatmarkten", Gemeente&nbsp;Amsterdam'
 
+logo: /assets/img/relaties/gemeente-rotterdam.png
 order: 1
+
+featured: false
+featured_order: 1000
 back: ..
 ---

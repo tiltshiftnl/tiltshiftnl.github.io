@@ -11,6 +11,8 @@ collections:
   landings:
     output: true
     permalink: /:collection/:name/
+  klanten:
+    output: false
 
 sass:
   sass_dir: /css/_sass

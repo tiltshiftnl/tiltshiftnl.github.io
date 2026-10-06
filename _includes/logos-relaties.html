@@ -1,20 +1,11 @@
-{% assign logos = "
-gemeente-rotterdam.png,
-politie.png,
-ministerie-van-volksgezondheid-welzijn-en-sport.png,
-amsterdamse-federatie-van-woningcorporaties.png,
-vu-university-amsterdam.png,
-careyn.png,
-gemeente-amsterdam.png,
-provincie-flevoland.png" | split: ',' %}
+{% assign klanten = site.klanten | where_exp: "klant", "klant.logo" | sort: "order" %}
 
 <div class="container-md ">
     <div class="logos even-blocks-grid margin-y">
-        {% for logo in logos %}
+        {% for klant in klanten %}
             <div class="logo-block">
-                <img src="/assets/img/relaties/{{ logo }}">
+                <img src="{{ klant.logo }}" alt="{{ klant.title }}">
             </div>
         {% endfor %}
     </div>
 </div>
-
