@@ -1,22 +1,23 @@
 ---
 layout: klant
 
-title: Politie
+title: Rijksinstituut voor Volksgezondheid en Milieu
+short_title: RIVM
 description:
 quote:
+quote_author:
 type:
 keywords:
 labels: []
 
-logo: /assets/img/relaties/politie.svg
+logo: /assets/img/relaties/rivm.svg
 categorie: ministeries
-order: 37
+order: 36
 
 featured: false
 featured_order: 1000
 
-projecten:
-  - product-management-ruis-politie-amsterdam
+projecten: []
 
 image:
 caption:
