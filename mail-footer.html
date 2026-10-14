@@ -13,7 +13,7 @@ sitemap:
 			</p>
 			<p style="margin: 0; margin-top: 7px">
 				<span style="font-family: helvetica; font-size: 16px; line-height: 1.2em; font-weight: 900; color: #000000">Tiltshift</span><br>
-				<span style="font-family: helvetica; font-size: 12px; line-height: 1.3em; font-weight: 500; color: #000000"><a style="color: #000000; text-decoration: none" href="tel:{{ mens.tel }}">{{ mens.tel_display }}</a></span><br>
+				{% if mens.tel %}<span style="font-family: helvetica; font-size: 12px; line-height: 1.3em; font-weight: 500; color: #000000"><a style="color: #000000; text-decoration: none" href="tel:{{ mens.tel }}">{{ mens.tel_display }}</a></span><br>{% endif %}
 				<span style="font-family: helvetica; font-size: 12px; line-height: 1.3em; font-weight: 500; color: #000000"><a style="color: #000000; text-decoration: none" href="https://www.linkedin.com/in/{{ mens.linkedin }}">linkedin.com/in/{{ mens.linkedin }}</a></span><br>
 				<span style="font-family: helvetica; font-size: 12px; line-height: 1.3em; font-weight: 500; color: #000000"><a style="color: #000000; text-decoration: none" href="https://www.tiltshift.nl">www.tiltshift.nl</a></span>
 			</p>

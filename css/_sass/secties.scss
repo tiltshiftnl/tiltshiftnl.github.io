@@ -1,0 +1,180 @@
+// Losstaande secties (_includes/sectie.html).
+// Oneven secties: tekst links, beeld rechts. Even secties: andersom.
+// Het beeld loopt aan zijn kant door tot de schermrand; de tekst blijft op de inhoudskolom.
+// Brede secties: het tekstblok verspringt links/rechts, het beeld loopt eronder over de volle breedte.
+
+$sectie-tekst: 420px;
+$sectie-tussen: 100px;
+$sectie-beeld: 504px; // tekst + tussen + beeld = 1024px, de inhoudsbreedte van container-md
+
+.sectie {
+    display: grid;
+    gap: 2rem;
+    margin-bottom: 5rem;
+
+    @media screen and (min-width: $breakpoint-md) {
+        margin-bottom: 8rem;
+    }
+
+    // Twee kolommen
+    &:not(.sectie--breed):not(.sectie--tekst) {
+        // Mobiel: tekst met marge, beeld schermvullend
+        .sectie__tekst { @include container-md(); }
+        .sectie__beeld .valprop__media {
+            width: 100%;
+            max-width: none;
+            margin: 1.5rem 0;
+        }
+        .sectie__beeld .valprop__panel { border-radius: 0; }
+
+        // Tablet: onder elkaar, schermbreed, maar geen gigantisch vierkant
+        @media screen and (min-width: $breakpoint-md) and (max-width: #{$breakpoint-lg - 1px}) {
+            .sectie__beeld .valprop__panel { aspect-ratio: 3 / 2; }
+            .sectie__beeld .valprop__backdrop { aspect-ratio: auto; height: 100%; }
+        }
+
+        // Twee kolommen pas vanaf 1280px (daaronder wordt het te krap)
+        @media screen and (min-width: $breakpoint-lg) {
+            grid-template-columns: minmax(20px, 1fr) minmax(0, $sectie-tekst) $sectie-tussen minmax(0, $sectie-beeld) minmax(20px, 1fr);
+            align-items: start;
+            column-gap: 0;
+            margin-top: 10em;
+            .sectie__tekst {
+                grid-row: 1;
+                grid-column: 2;
+                width: auto;
+                margin: 0;
+                padding: 1.5rem 0 0; // gelijk met de bovenkant van de foto (margin van .valprop__media)
+            }
+            .sectie__beeld {
+                grid-row: 1;
+                grid-column: 4 / 6;
+            }
+        }
+    }
+    &:not(.sectie--breed):not(.sectie--tekst):nth-of-type(even),
+    &.sectie--beeld-links:not(.sectie--breed):not(.sectie--tekst) {
+        @media screen and (min-width: $breakpoint-lg) {
+            grid-template-columns: minmax(20px, 1fr) minmax(0, $sectie-beeld) $sectie-tussen minmax(0, $sectie-tekst) minmax(20px, 1fr);
+            .sectie__tekst { grid-column: 4; }
+            .sectie__beeld { grid-column: 1 / 3; }
+            // Rood vlak in spiegelbeeld: steekt uit naar de schermrand, niet naar de tekst
+            .valprop__backdrop {
+                left: -2em;
+                transform: rotate(-6deg);
+            }
+        }
+    }
+
+    &--breed {
+        gap: 2rem;
+        grid-template-columns: minmax(0, 1fr);
+        // Rasters (resultaten, klanten) brengen hun eigen marge mee; in een sectie is die overbodig
+        .sectie__beeld .margin-y,
+        .sectie__beeld .blokken { margin-top: 0; margin-bottom: 0; }
+        // Kop dicht op het eigen blok, ruimte naar de sectie erboven
+        margin-top: 5rem;
+        @media screen and (min-width: $breakpoint-md) { margin-top: 7rem; }
+        .sectie__tekst-binnen { max-width: 32em; }
+        @media screen and (min-width: $breakpoint-md) {
+            &:nth-of-type(even) .sectie__tekst-binnen { margin-left: auto; }
+        }
+    }
+
+    &__tekst {
+        display: flex;
+        flex-direction: column;
+    }
+    &__tekst-binnen {
+        display: flex;
+        flex-direction: column;
+        align-items: flex-start;
+    }
+    &__label {
+        margin: 0 0 .6rem;
+        font-family: HelveticaNeueLTPro-Bd, sans-serif;
+        font-size: $font-size-sm;
+        letter-spacing: .08em;
+        text-transform: uppercase;
+        color: $red;
+    }
+    &__kop {
+        margin: 0 0 1rem;
+        font-family: HelveticaNeueLTPro-Bd, sans-serif;
+        font-size: clamp(2rem, 4.4vw, 2.8rem);
+        line-height: 1.04;
+        letter-spacing: -.02em;
+    }
+    &__intro {
+        margin: 0 0 1.4rem;
+        font-size: $font-size-lg;
+        line-height: $line-height-paragraph-lg;
+    }
+    &__link {
+        font-family: HelveticaNeueLTPro-Bd, sans-serif;
+        color: $black;
+    }
+
+    &__beeld .valprop {
+        margin: 0;
+        max-width: none;
+    }
+}
+
+// Direct onder een paginatitel of kop: geen extra lucht nodig
+@media screen and (min-width: $breakpoint-lg) {
+    main > h1 + .sectie:not(.sectie--breed):not(.sectie--tekst) {
+        margin-top: 2rem;
+    }
+}
+
+// Opgemaakte inhoud (markdown) in een sectie: alinea's, lijsten en quotes op de kolombreedte
+.sectie__inhoud {
+    > :first-child { margin-top: 0; }
+    p {
+        margin: 0 0 1.2rem;
+        line-height: $line-height-paragraph-lg;
+    }
+    blockquote {
+        width: auto;
+        margin: 1.6rem 0;
+        > p { padding-left: 1.1rem; padding-right: 0; }
+    }
+    ul, ol { padding-left: 1.2rem; line-height: 1.5; }
+    .sectie__link { display: inline-block; margin-top: .4rem; }
+}
+
+// Tekstsectie: label en kop links, inhoud rechts. Verspringt niet: de kop staat altijd links.
+.sectie--tekst {
+    margin-bottom: 3.5rem;
+    .sectie__tekst,
+    .sectie__inhoud { @include container-md(); }
+    .sectie__kop { font-size: clamp(1.7rem, 3.4vw, 2.4rem); }
+
+    @media screen and (min-width: $breakpoint-lg) {
+        grid-template-columns: minmax(20px, 1fr) minmax(0, $sectie-tekst) $sectie-tussen minmax(0, $sectie-beeld) minmax(20px, 1fr);
+        align-items: start;
+        column-gap: 0;
+        margin-top: 5rem;
+        margin-bottom: 5rem;
+        .sectie__tekst,
+        .sectie__inhoud {
+            grid-row: 1;
+            width: auto;
+            margin: 0;
+            padding: 0;
+        }
+        .sectie__tekst { grid-column: 2; position: sticky; top: 2rem; }
+        .sectie__inhoud { grid-column: 4; }
+    }
+}
+
+// Link als knop: voor de belangrijkste actie, zoals boeken
+.sectie__link--knop {
+    display: inline-block;
+    padding: .75rem 1.4rem;
+    background: $black;
+    color: $white;
+    text-decoration: none;
+    &:hover, &:focus-visible { background: $red; color: $white; }
+}

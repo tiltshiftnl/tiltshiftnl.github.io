@@ -1,0 +1,10 @@
+{% assign nr = include.start | default: 1 %}
+<ol class="stappen container-sm">
+    {% for stap in include.items %}
+    <li class="stappen__stap">
+        <span class="stappen__nr" aria-hidden="true">{{ nr | plus: forloop.index0 }}</span>
+        <h3>{{ stap.titel }}</h3>
+        <p>{{ stap.tekst }}</p>
+    </li>
+    {% endfor %}
+</ol>

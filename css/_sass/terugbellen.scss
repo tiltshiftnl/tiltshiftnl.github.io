@@ -1,0 +1,55 @@
+// "Bel mij terug"-formulier (_includes/terugbel-formulier.html)
+
+.terugbellen {
+    width: 100%;
+    margin: .4rem 0 1.4rem;
+    max-width: 34em;
+
+    &__velden {
+        display: grid;
+        grid-template-columns: minmax(0, 1fr);
+        gap: .8rem 1rem;
+        margin-bottom: 1.2rem;
+    }
+    label {
+        display: block;
+        min-width: 0;
+        font-family: HelveticaNeueLTPro-Bd, sans-serif;
+        font-size: $font-size-sm;
+        span { font-family: "AtkinsonHyperlegible", sans-serif; font-weight: normal; }
+        input, textarea, select { display: block; margin-top: .3rem; }
+    }
+    &__honing { position: absolute; left: -9999px; width: 1px; height: 1px; overflow: hidden; }
+
+    input, textarea, select {
+        width: 100%;
+        box-sizing: border-box;
+        padding: .55rem .7rem;
+        border: 2px solid $black;
+        border-radius: 0;
+        background: $white;
+        color: $black;
+        font: inherit;
+        font-family: "AtkinsonHyperlegible", sans-serif;
+        font-size: $font-size-md;
+        &:focus { outline: 3px solid $red; outline-offset: 1px; }
+    }
+    textarea { resize: vertical; }
+
+    button {
+        display: inline-block;
+        padding: .8rem 1.5rem;
+        border: 0;
+        background: $black !important;
+        color: $white !important;
+        font-family: HelveticaNeueLTPro-Bd, sans-serif;
+        font-size: $font-size-md;
+        cursor: pointer;
+        &:hover, &:focus-visible { background: $red !important; }
+        &:disabled { opacity: .6; cursor: wait; }
+    }
+    &__melding {
+        margin: 1rem 0 0;
+        font-family: HelveticaNeueLTPro-Bd, sans-serif;
+    }
+}

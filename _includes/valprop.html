@@ -4,7 +4,6 @@
         width: 100%;
         max-width: 720px;
         margin: 2em auto 2em;
-        overflow-x: hidden; /* voorkomt dat de gedraaide backdrop de pagina breder maakt */
     }
     .valprop__media {
         position: relative;
@@ -31,7 +30,6 @@
         flex-direction: column;
         justify-content: flex-end;
         overflow: hidden;
-        border-radius: 4px;
         color: white;
         background-size: cover;
         background-position: center;
@@ -41,6 +39,9 @@
         position: absolute;
         inset: 0;
         background: linear-gradient(to bottom, rgba(0, 0, 0, 0) 0%, rgba(0, 0, 0, 0.75) 100%);
+    }
+    .valprop__panel--kaal::before {
+        display: none;
     }
     .valprop__content {
         position: relative;
@@ -63,7 +64,6 @@
         background: black;
         color: white;
         text-decoration: none;
-        border-radius: 4px;
         transition: opacity 0.2s ease;
     }
     .valprop__button:hover {
@@ -75,10 +75,11 @@
         }
     }
     @media (max-width: 640px) {
+        /* schermvullend, ook binnen een container; main knipt de gedraaide backdrop af aan de schermrand */
         .valprop__media {
-            width: 100%;
+            width: 100vw;
             max-width: none;
-            margin: 2em 0;
+            margin: 2em 0 2em calc(50% - 50vw);
         }
         .valprop__panel {
             border-radius: 0;
@@ -92,16 +93,18 @@
     <div class="valprop__media">
         <div class="valprop__backdrop"></div>
         <div
-            class="valprop__panel"
+            class="valprop__panel{% unless include.title %} valprop__panel--kaal{% endunless %}"
             style="background-image: url('{{ image | relative_url }}')"
             role="img"
-            aria-label="Illustratie bij {{ include.title }}"
+            aria-label="{{ include.alt | default: include.title | default: 'Foto' }}"
         >
+            {% if include.title %}
             <div class="valprop__content">
                 <h2>{{ include.title }}</h2>
                 <p>{{ include.description }}</p>
-                <a href="/contact/" class="valprop__button">Contact</a>
+                <a href="{{ include.url | default: '/contact/' }}" class="valprop__button">{{ include.button | default: 'Contact' }}</a>
             </div>
+            {% endif %}
         </div>
     </div>
 </div>

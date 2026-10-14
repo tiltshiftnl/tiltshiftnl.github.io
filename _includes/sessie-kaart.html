@@ -1,0 +1,4 @@
+{% assign s = include.sessie %}
+{% assign knop = "Bekijk workshop" %}
+{% capture beschrijving %}{{ s.uitkomst }} {{ s.duur_kort }}{% if s.investering and s.investering != "Vraag om offerte" %}, {{ s.investering }}{% endif %}.{% endcapture %}
+{% include valprop.html title=s.title description=beschrijving image=s.image url=s.url button=knop %}

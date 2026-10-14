@@ -51,4 +51,4 @@ Met het schrappen van de plannen voor de stadspas, ontstond er ruimte voor een n
 
 Nu wordt dit aangepakt in drie sporen: de bestaande dienstverlening verbeteren, het beleid rondom de regelingen eenvoudiger maken en de innovatieve dienstverlening. Vanuit Tiltshift leverden wij de coördinatie om deze drie projecten in goede banen te leiden en op elkaar af te stemmen.
                                                                     
-{% include cta.html persoon="johan" header="Ook aan de slag met betere dienstverlening?" %}
+{% include cta.html persoon="rutger" header="Ook aan de slag met betere dienstverlening?" %}

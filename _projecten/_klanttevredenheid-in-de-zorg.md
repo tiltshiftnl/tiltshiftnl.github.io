@@ -23,7 +23,7 @@ Om antwoord te krijgen op de vraag organiseerden we, samen met De Zorgcirkel, ee
 
 Op de eerste dag gingen we op onderzoek uit, als discovery. We liepen mee in het dagelijkse proces en kregen een goed beeld van hoe het er op de vloer aan toe ging. Het is flink doorwerken en waar iedereen het belang van een soort ervaringsmonitor onderschreef lag de prioriteit toch echt bij de zorg zelf. Er bleek eigenlijk vooral behoefte te zijn aan simpele ondersteunende tools.
 
-In de ideation op dag twee brachten we wat we hadden gezien samen in empathy maps. Met dat als uitgangspunt bedachten we met behulp van ‘crazy-8’ een tiental concepten. De medewerkers van Zorgcirkel kozen die middag voor het concept waarbij we een ander probleem op de werkvloer verbeterden dat als ‘bijvangst’ dagelijkse metingen over de klanttevredenheid zou opleveren. Zo verbetert het werkproces van de medewerkers en stromen de metingen als vanzelf binnen.
+In de ideation op dag twee brachten we wat we hadden gezien samen in empathy maps. Met dat als uitgangspunt bedachten we met behulp van ‘Crazy 8's’ een tiental concepten. De medewerkers van Zorgcirkel kozen die middag voor het concept waarbij we een ander probleem op de werkvloer verbeterden dat als ‘bijvangst’ dagelijkse metingen over de klanttevredenheid zou opleveren. Zo verbetert het werkproces van de medewerkers en stromen de metingen als vanzelf binnen.
 
 <div class="article-image">
     <img src="/assets/img/foto/IMG_0037.JPG">

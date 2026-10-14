@@ -1,0 +1,13 @@
+{%- assign p = site.mensen | where: "url", include.url | first -%}
+{%- assign tel = p.telephone | split: 'tel:' | last | split: '"' | first | strip -%}
+BEGIN:VCARD
+VERSION:3.0
+N:{{ p.lastname }};{{ p.firstname }};;;
+FN:{{ p.title }}
+ORG:Tiltshift
+{% if p.role %}TITLE:{{ p.role }}
+{% endif %}{% if p.telephone and tel != "" %}TEL;TYPE=WORK,VOICE:{{ tel }}
+{% endif %}{% if p.email %}EMAIL;TYPE=WORK:{{ p.email }}
+{% endif %}URL:https://www.tiltshift.nl{{ p.url }}
+{% if p.linkedInUrl %}X-SOCIALPROFILE;TYPE=linkedin:{{ p.linkedInUrl }}
+{% endif %}END:VCARD

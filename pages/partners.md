@@ -1,4 +1,5 @@
 ---
+label: "Partners"
 layout: default
 permalink: /partners/
 
@@ -10,7 +11,7 @@ description: "Wij zijn mensen die verandering niet alleen begrijpen, maar die he
 keywords: "senior, uitvoerend, leiderschap, consultants, partners, mensen, peeps, innovatie, interventie, vacature"
 
 hideBanner: true
-image: "assets/img/foto/IMG_9253_scaled.jpg"
+image: "/assets/img/foto/Information-Radiator-stickies-op-flipover.jpg"
 caption: 'Explore "App Interne Dienstverlening", Gemeente&nbsp;Amsterdam'
 
 menu: show

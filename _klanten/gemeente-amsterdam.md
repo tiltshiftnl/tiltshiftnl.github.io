@@ -11,7 +11,7 @@ labels: []
 projecten:
   - datalab-amsterdam
 
-image: /assets/img/foto/IMG_9715.JPG
+image: /assets/img/foto/Digitaal-Indelen-Markt-Amsterdam-Marktmeesters.jpg
 caption: 'Discovery "Digitaal Indelen Straatmarkten", Gemeente&nbsp;Amsterdam'
 
 logo: /assets/img/relaties/gemeente-amsterdam.svg

@@ -24,8 +24,6 @@ sliderPhoto: "/assets/img/slider/Jasper-Ceelen.jpg"
 personImage: /assets/img/mensen/Jasper-Ceelen-partner-Tiltshift.jpg
 email: jasper.ceelen@tiltshift.nl
 linkedInUrl: https://www.linkedin.com/in/jasperceelen/
-vcardUrl: https://go.tiltshift.nl/vcard-Jasper
-telephone: <a href="tel:+31627077523">+31 (0)‭6 27 07 75 23‬</a>
 
 order: 2100
 back: ..

@@ -10,7 +10,7 @@ description: Voordat je aan de slag gaat met innovatie, is het een goed idee om 
 keywords: 
 labels:
 
-image: /assets/img/foto/IMG_9253_scaled.jpg
+image: /assets/img/foto/Information-Radiator-stickies-op-flipover.jpg
 caption: 'Explore "Digitalisering Interne Dienstverlening", Gemeente&nbsp;Amsterdam'
 ---
 Veel organisaties worstelen met innovatie. Waar begin je? Wat is er nodig? Op welke manier ga je te werk?

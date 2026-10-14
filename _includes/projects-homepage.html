@@ -1,15 +1,27 @@
-{% assign title = include.title %}
+{% assign title = include.title | default: "Resultaten" %}
 {% assign intro = include.intro %}
 
-{% assign projecten = site.projecten | where: "featured", "true" | sort: "featured_order" %}
+{% if include.slugs %}
+    {% assign slugs = include.slugs | split: "," %}
+    {% assign projecten = "" | split: "" %}
+    {% for slug in slugs %}
+        {% assign project_url = "/projecten/" | append: slug | strip | append: "/" %}
+        {% assign project = site.projecten | where: "url", project_url | first %}
+        {% if project %}{% assign projecten = projecten | push: project %}{% endif %}
+    {% endfor %}
+{% else %}
+    {% assign projecten = site.projecten | where: "featured", "true" | sort: "featured_order" %}
+{% endif %}
 
 <div class="container-md  margin-y">
+    {% unless include.zonder_kop %}
     <h2>{{title}}</h2>
-    <p>{{intro}}</p>
-    <div class="grid grid--three projects-homepage">
+    {% if intro %}<p>{{intro}}</p>{% endif %}
+    {% endunless %}
+    <div class="grid grid--three{% unless include.slugs %} projects-homepage{% endunless %}">
         {% for project in projecten  %}
-            {% include image-link-block.html image=project.featured_image title=project.title excerpt=project.excerpt url=project.url %}
+            {% include image-link-block.html image=project.image title=project.title excerpt=project.excerpt url=project.url %}
         {% endfor %}
     </div>
-    <a href="/projecten/" class="link-centered">alle projecten</a>
+    {% unless include.zonder_kop %}<a href="/projecten/" class="link-centered">alle resultaten</a>{% endunless %}
 </div>

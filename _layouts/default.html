@@ -12,23 +12,21 @@
     <main class="margin-top">
 
     {% if page.back %}
-    <p><a href="{{ page.back }}">« overzicht van {{ page.collection }}</a></p>
+    <p><a href="{{ page.back }}">« overzicht van {% if page.collection == "projecten" %}resultaten{% else %}{{ page.collection }}{% endif %}</a></p>
     {% endif %}
 
-    {% if page.type %}
-    <h2>&nbsp;{{ page.type }}:</h2>
-    {% endif %}
-
+    {% include pagina-label.html %}
     <h1>{{ page.title }}</h1>
 
     {{ content }}
 
     {% if page.back %}
-    <p><a href="{{ page.back }}">« overzicht van {{ page.collection }}</a></p>
+    <p><a href="{{ page.back }}">« overzicht van {% if page.collection == "projecten" %}resultaten{% else %}{{ page.collection }}{% endif %}</a></p>
     {% endif %}
 
-    {% unless page.hideform %}
-    <!-- {% include contact.html %} -->
+    {% comment %}Contactblok onderaan, tenzij de pagina er zelf al een heeft of contactblok: false zet{% endcomment %}
+    {% unless page.contactblok == false or content contains 'class="cta"' %}
+    {% include cta.html persoon=page.contactpersoon header=page.contactblok_kop description=page.contactblok_tekst %}
     {% endunless %}
 
     </main>

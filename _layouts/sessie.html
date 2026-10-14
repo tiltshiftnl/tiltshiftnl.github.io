@@ -1,0 +1,55 @@
+---
+layout: default
+---
+
+{% capture beeld %}{% if page.image %}{% include valprop.html image=page.image alt=page.title %}{% endif %}{% endcapture %}
+{% assign boek_tekst = "Boek deze workshop" %}
+{% assign boek_link = page.url | split: "/" | last | prepend: "/boeken/?workshop=" %}
+{% include sectie.html kop=page.kop tekst=page.lead link=boek_link linktekst=boek_tekst knop=true beeld=beeld %}
+
+{% if page.reeks %}
+{% capture reeks %}{% include reeks.html reeks=page.reeks huidig=page.url %}{% endcapture %}
+{% include sectie.html breed=true label="Publieke code" kop="Drie momenten in een opdracht" tekst="Bij de start, tussentijds en bij oplevering. Elke workshop kan los, samen houden ze een opdracht op koers." beeld=reeks %}
+{% endif %}
+
+{% capture voor_wie %}{% for alinea in page.voor_wie %}
+{{ alinea }}
+{% endfor %}{% endcapture %}
+{% include sectie.html label="Voor wie" kop="Met wie gaan we aan de slag" inhoud=voor_wie %}
+
+{% include propositie.html pijn=page.herkenning winst=page.meenemen %}
+
+<div id="aanpak"></div>
+{% capture stappen %}{% include stappen-kort.html items=page.stappen start=0 %}{% endcapture %}
+{% capture beeld %}{% if page.aanpak_beeld %}{% include valprop.html image=page.aanpak_beeld alt="Wat we gaan doen" %}{% endif %}{% endcapture %}
+{% capture aanpak %}{{ page.aanpak_intro }}
+
+{{ stappen }}{% endcapture %}
+{% include sectie.html label="Aanpak" kop="Wat we gaan doen" inhoud=aanpak beeld=beeld %}
+
+{% if page.checklist %}
+{% capture checklist %}<ul class="checklist">{% for regel in page.checklist %}<li>{{ regel | markdownify | remove: "<p>" | remove: "</p>" | strip }}</li>{% endfor %}</ul>{% endcapture %}
+{% include sectie.html label="Checklist" kop="Wat we bij de start regelen" inhoud=checklist %}
+{% endif %}
+
+{% include praktisch.html duur=page.duur deelnemers=page.deelnemers locatie=page.locatie investering=page.investering %}
+
+{% capture waarom %}Tiltshift organiseert en begeleidt workshops en projecten in publieke digitalisering. We beginnen bij de mensen en hun werk, niet bij de techniek. Soms is minder techniek het beste antwoord, en dan zeggen we dat ook.{% endcapture %}
+{% include sectie.html label="Waarom Tiltshift" kop="Doe het met Tiltshift" inhoud=waarom %}
+
+{% if page.gedaan_voor %}
+{% capture logos %}{% include opdrachtgevers-logos.html klanten=page.gedaan_voor %}{% endcapture %}
+{% include sectie.html breed=true label="Opdrachtgevers" kop="Wij deden dit eerder met" beeld=logos %}
+{% endif %}
+
+{% capture cta_tekst %}We beginnen met een korte intake: samen kijken we of de {{ page.title }} past bij jouw vraag. Daarna krijg je een vrijblijvende offerte.{% endcapture %}
+{% include cta.html header=page.cta_kop description=cta_tekst persoon=page.contactpersoon knop_link=boek_link knop_tekst=boek_tekst %}
+
+{% assign andere = site.sessies | where_exp: "s", "s.url != page.url" | sort: "order" %}
+{% if andere.size > 0 %}
+{% capture kaarten %}<div class="sessie-kaarten">{% for sessie in andere limit: 1 %}{% include sessie-kaart.html sessie=sessie %}{% endfor %}</div>{% endcapture %}
+{% include sectie.html label="Workshops" kop="Andere workshops" link="/workshops/" linktekst="Bekijk alle workshops" beeld=kaarten %}
+{% endif %}
+
+{% capture balk_tekst %}{{ page.duur_kort }}{% if page.investering %} · {{ page.investering }}{% endif %}{% endcapture %}
+{% include boek-balk.html titel=page.title tekst=balk_tekst link=boek_link %}

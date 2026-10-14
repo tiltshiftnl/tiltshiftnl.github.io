@@ -1,3 +1,6 @@
+# portret: portretfoto in het contactblok (verplicht voor iedereen met een nummer, zwart-wit).
+#          Het contactblok kiest het portret van wie het nummer opneemt, zie _data/adresboek.yml.
+# img: klein plaatje voor de e-mailhandtekening (assets/img/mail/).
 info:
   img:
   link: /
@@ -8,6 +11,7 @@ info:
   tel_display: +31 (0)20 722 02 07
   mail: info@tiltshift.nl
 johan:
+  portret: /assets/img/mensen/Johan-Groenen-Partner-Tiltshift.jpg
   img: Johan-Groenen.png
   link: /mensen/johan-groenen
   full_name: Johan Groenen
@@ -16,8 +20,10 @@ johan:
   tel: "+31207220207"
   tel_display: +31 (0)20 722 02 07
   linkedin: jgroenen
-  mail: johan@tiltshift.nl
+  mail: johan.groenen@tiltshift.nl
 maarten:
+  portret: /assets/img/mensen/Maarten-Geraets-Partner-Tiltshift.jpg
+  link: /mensen/maarten-geraets
   img: Maarten-Geraets.png
   full_name: Maarten Geraets
   function: Partner
@@ -26,6 +32,7 @@ maarten:
   linkedin: maarten-geraets
   mail: maarten.geraets@tiltshift.nl
 joris:
+  portret: /assets/img/mensen/Joris-Boeren-Partner-Tiltshift.jpg
   img: Joris-Boeren.png
   link: /mensen/joris-boeren
   full_name: Joris Boeren
@@ -36,6 +43,7 @@ joris:
   linkedin: jorisboeren
   mail: joris.boeren@tiltshift.nl
 rutger:
+  portret: /assets/img/mensen/Rutger-Dik-Partner-Tiltshift.jpg
   img: Rutger-Dik.png
   link: /mensen/rutger-dik
   full_name: Rutger Dik
@@ -51,8 +59,6 @@ jerina:
   full_name: Jerina Luteijn
   first_name: Jerina
   function: Coördinator Bedrijfsvoering
-  tel: "+31626360121"
-  tel_display: +31 (0)6 263 601 21
   linkedin: jerina-luteijn
   mail: jerina.luteijn@tiltshift.nl
 

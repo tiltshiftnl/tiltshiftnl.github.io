@@ -1,0 +1,14 @@
+{% comment %}
+Een fotoblok met titel, korte tekst en link. Hoort in een .blokken-raster (zie _includes/blokken-voorbeeld in het design system).
+Parameters: titel, tekst, afbeelding, url, linktekst, nr (rood stapnummer), moment (klein, boven de titel), huidig (markering).
+{% endcomment %}
+<a class="blok{% if include.huidig %} blok--huidig{% endif %}" href="{{ include.url }}">
+    <span class="blok__beeld"><img src="{{ include.afbeelding }}" alt="" loading="lazy"></span>
+    <span class="blok__tekst">
+        {% if include.nr %}<span class="blok__nr">{{ include.nr }}</span>{% endif %}
+        {% if include.moment %}<span class="blok__moment">{{ include.moment }}</span>{% endif %}
+        <span class="blok__titel">{{ include.titel }}</span>
+        {% if include.tekst %}<span class="blok__omschrijving">{{ include.tekst }}</span>{% endif %}
+        <span class="blok__link">{{ include.linktekst | default: "Bekijk" }} <span aria-hidden="true">→</span></span>
+    </span>
+</a>

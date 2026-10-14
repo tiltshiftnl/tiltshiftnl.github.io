@@ -4,7 +4,7 @@ layout: default
 subject: Information Radiator
 title: "Information Radiator"
 description: "Een information radiator heeft als kenmerken dat hij informatie weergeeft die verandert over tijd en dat deze informatie met zo min mogelijk moeite kan worden waargenomen."
-image: "assets/img/foto/IMG_9253_scaled.jpg"
+image: "/assets/img/foto/Information-Radiator-stickies-op-flipover.jpg"
 caption: ''
 hideBanner: true
 author: Johan Groenen

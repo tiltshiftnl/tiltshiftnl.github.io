@@ -1,0 +1,7 @@
+---
+permalink: /vcard/sven-ritmeester.vcf
+layout: null
+sitemap:
+  exclude: "yes"
+---
+{% include vcard.vcf url="/mensen/sven-ritmeester/" %}

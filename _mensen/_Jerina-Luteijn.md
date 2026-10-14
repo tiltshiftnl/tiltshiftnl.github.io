@@ -24,8 +24,6 @@ sliderPhoto: "/assets/img/slider/Jerina-Luteijn.jpg"
 personImage: /assets/img/mensen/Jerina-Luteijn-Coordinator-Partners-Tiltshift.jpg
 email: jerina.luteijn@tiltshift.nl
 linkedInUrl: https://www.linkedin.com/in/jerina-luteijn/
-vcardUrl: 
-telephone: <a href="tel:+31626360121">+31 (0)6 26 36 01 21</a>
 
 order: 2100
 back: ..

@@ -1,0 +1,70 @@
+{% comment %}
+"Bel mij terug"-formulier. Stuurt naar de mini-API uit _data/terugbellen.yml, of opent zonder API
+een vooraf ingevulde e-mail. Parameters: onderwerp (bijvoorbeeld de titel van de workshop), kies (true: keuzelijst met workshops,
+voorgeselecteerd via ?workshop=<naam> in de URL).
+{% endcomment %}
+{% assign tb = site.data.terugbellen %}
+<form class="terugbellen" data-endpoint="{{ tb.endpoint }}" data-mail="{{ tb.mail }}" data-onderwerp="{{ include.onderwerp | default: page.title | escape }}"
+      action="{% if tb.endpoint != '' %}{{ tb.endpoint }}{% else %}mailto:{{ tb.mail }}{% endif %}" method="post">
+    <div class="terugbellen__velden">
+        {% if include.kies %}
+        {% assign workshops = site.sessies | sort: "order" %}
+        <label>Workshop<select name="workshop">
+            {% for w in workshops %}<option value="{{ w.url | split: '/' | last }}">{{ w.title }}</option>{% endfor %}
+            <option value="">Weet ik nog niet</option>
+        </select></label>
+        {% endif %}
+        <label>E-mail of telefoon<input type="text" name="contact" required autocomplete="email" placeholder="naam@organisatie.nl of 06 12 34 56 78"></label>
+        <label>Extra info <span>(optioneel)</span><textarea name="info" rows="3"></textarea></label>
+        <label class="terugbellen__honing" aria-hidden="true">Website<input type="text" name="website" tabindex="-1" autocomplete="off"></label>
+    </div>
+    <input type="hidden" name="pagina" value="{{ page.title | escape }}">
+    <button type="submit">Bel mij terug <span aria-hidden="true">→</span></button>
+    <p class="terugbellen__melding" role="status" hidden></p>
+</form>
+<script>
+(function () {
+    var form = document.currentScript.previousElementSibling;
+    if (!form || form.dataset.klaar) return;
+    form.dataset.klaar = '1';
+    var keuze = form.querySelector('select[name="workshop"]');
+    if (keuze) {
+        var gevraagd = new URLSearchParams(location.search).get('workshop');
+        if (gevraagd && keuze.querySelector('option[value="' + gevraagd + '"]')) keuze.value = gevraagd;
+        var zet = function () { form.dataset.onderwerp = keuze.value ? keuze.options[keuze.selectedIndex].text : 'een workshop'; };
+        keuze.addEventListener('change', zet); zet();
+    }
+    function gegevens() {
+        var d = {};
+        new FormData(form).forEach(function (v, k) { d[k] = String(v).trim(); });
+        d.url = location.href;
+        return d;
+    }
+    function perMail(d) {
+        var regels = ['Graag teruggebeld over: ' + form.dataset.onderwerp, '',
+            'E-mail of telefoon: ' + d.contact, '', d.info || '', '', 'Pagina: ' + d.url];
+        location.href = 'mailto:' + form.dataset.mail +
+            '?subject=' + encodeURIComponent('Bel mij terug: ' + form.dataset.onderwerp) +
+            '&body=' + encodeURIComponent(regels.join('\n'));
+    }
+    function melding(tekst) {
+        var m = form.querySelector('.terugbellen__melding');
+        m.textContent = tekst; m.hidden = false;
+    }
+    form.addEventListener('submit', function (e) {
+        e.preventDefault();
+        var d = gegevens();
+        if (d.website) return; // honeypot
+        if (!form.dataset.endpoint) { perMail(d); melding('Je mailprogramma opent met je gegevens erin. Verstuur de mail, dan bellen we je terug.'); return; }
+        form.querySelector('button').disabled = true;
+        fetch(form.dataset.endpoint, { method: 'POST', headers: { 'Content-Type': 'application/json' }, body: JSON.stringify(d) })
+            .then(function (r) {
+                if (!r.ok) throw new Error(r.status);
+                form.querySelector('.terugbellen__velden').hidden = true;
+                form.querySelector('button').hidden = true;
+                melding('Dank je. We nemen contact met je op voor een korte intake.');
+            })
+            .catch(function () { form.querySelector('button').disabled = false; perMail(d); melding('Versturen lukte niet. Je mailprogramma opent met je gegevens erin.'); });
+    });
+})();
+</script>

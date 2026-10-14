@@ -1,0 +1,12 @@
+{% comment %}
+Klein rood label boven de paginatitel. Volgorde: label in de front matter, dan een vaste naam per collectie, anders "Tiltshift".
+{% endcomment %}
+{% assign collectie_labels = "sessies:Workshop,projecten:Resultaat,posts:Post,materialen:Materiaal,klanten:Opdrachtgever,mensen:Mensen" | split: "," %}
+{% assign pagina_label = page.label %}
+{% unless pagina_label %}
+    {% for paar in collectie_labels %}
+        {% assign delen = paar | split: ":" %}
+        {% if page.collection == delen[0] %}{% assign pagina_label = delen[1] %}{% endif %}
+    {% endfor %}
+{% endunless %}
+<p class="pagina-label">{{ pagina_label | default: "Tiltshift" }}</p>

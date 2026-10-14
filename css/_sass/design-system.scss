@@ -1,0 +1,172 @@
+// Alleen voor /design-system/: weergave van de bouwstenen
+
+.ds-inhoud {
+    display: flex;
+    flex-wrap: wrap;
+    gap: .4rem 1.4rem;
+    padding: 0 20px;
+    margin-bottom: 2rem;
+    font-family: HelveticaNeueLTPro-Bd, sans-serif;
+}
+
+.ds-voorbeeld {
+    padding: 1.4rem 20px;
+    margin-bottom: 1.5rem;
+    border: 1px dashed #CFCBD3;
+    > :first-child { margin-top: 0; }
+    > :last-child { margin-bottom: 0; }
+    h1 { font-size: 2.6rem; }
+}
+
+.ds-kleuren {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(140px, 1fr));
+    gap: 1.2rem;
+    padding: 0 20px;
+    margin-bottom: 1.5rem;
+}
+.ds-kleur {
+    display: flex;
+    flex-direction: column;
+    gap: .2rem;
+    font-size: $font-size-sm;
+    span {
+        display: block;
+        height: 72px;
+        margin-bottom: .4rem;
+        box-shadow: inset 0 0 0 1px rgba(0, 0, 0, .12);
+    }
+    strong { font-family: HelveticaNeueLTPro-Bd, sans-serif; }
+}
+
+.ds-letter {
+    margin: 0;
+    font-size: 1.8rem;
+    &--kop { font-family: HelveticaNeueLTPro-Bd, sans-serif; }
+}
+.ds-meta {
+    margin: .2rem 0 1.2rem;
+    font-size: $font-size-sm;
+}
+
+.ds-code {
+    padding: .8rem 20px;
+    margin-bottom: 2.5rem;
+    background: $black;
+    color: $white;
+    font-size: .7rem;
+    line-height: 1.5;
+    white-space: pre-wrap;
+    word-break: break-word;
+}
+
+// /image-library/: afbeeldingen onder elkaar met beschrijving
+.beeldbank {
+    list-style: none;
+    padding: 0 20px;
+    margin-bottom: 3rem;
+
+    &__item {
+        display: grid;
+        grid-template-columns: 1fr;
+        gap: .8rem;
+        padding: 1.2rem 0;
+        border-top: 1px solid $grey;
+        @media screen and (min-width: $breakpoint-md) {
+            grid-template-columns: 280px minmax(0, 1fr);
+            gap: 1.6rem;
+            align-items: start;
+        }
+    }
+    &__beeld {
+        display: block;
+        background: $grey;
+        img {
+            display: block;
+            width: 100%;
+            max-width: none;
+            max-height: 220px;
+            object-fit: contain;
+            border: 0;
+        }
+    }
+    &__beschrijving {
+        margin: 0 0 .5rem;
+        line-height: $line-height-paragraph-lg;
+    }
+    &__meta {
+        margin: 0;
+        font-size: $font-size-sm;
+        code { word-break: break-all; }
+    }
+    &__soort {
+        display: inline-block;
+        margin-right: .4rem;
+        padding: 0 .4rem;
+        font-family: HelveticaNeueLTPro-Bd, sans-serif;
+        font-size: $font-size-xs;
+        text-transform: uppercase;
+        letter-spacing: .06em;
+        color: $white;
+        background: $black;
+    }
+}
+
+// /nummers/: verborgen nummeradministratie
+.nummers {
+    list-style: none;
+    padding: 0 20px;
+    margin-bottom: 3rem;
+
+    &__item {
+        display: grid;
+        grid-template-columns: 96px minmax(0, 1fr);
+        gap: 1.2rem;
+        padding: 1.1rem 0;
+        border-top: 1px solid $grey;
+        align-items: start;
+    }
+    &__portret {
+        display: block;
+        width: 96px;
+        height: 96px;
+        max-width: none;
+        object-fit: cover;
+        border: 0;
+        &--leeg {
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            padding: .4rem;
+            background: $grey;
+            font-size: $font-size-xs;
+            text-align: center;
+        }
+    }
+    &__nummer {
+        margin: 0;
+        font-family: HelveticaNeueLTPro-Bd, sans-serif;
+        font-size: $font-size-lg;
+    }
+    &__persoon { margin: .2rem 0 .4rem; }
+    &__gebruik {
+        margin: 0;
+        padding-left: 1.1rem;
+        font-size: $font-size-sm;
+        line-height: 1.5;
+    }
+}
+.nummers__lijst {
+    dt { font-family: HelveticaNeueLTPro-Bd, sans-serif; font-size: $font-size-sm; }
+    dd { font-size: $font-size-sm; word-break: break-word; }
+    display: grid;
+    grid-template-columns: auto minmax(0, 1fr);
+    gap: .5rem .8rem;
+    margin: .4rem 0 0;
+    dd { margin: 0; }
+}
+.nummers__fout {
+    margin: .2rem 0;
+    color: $red;
+    font-family: HelveticaNeueLTPro-Bd, sans-serif;
+}

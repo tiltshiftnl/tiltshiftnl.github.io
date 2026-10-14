@@ -1,0 +1,14 @@
+{% comment %}
+Overzicht van posts als resultaatblokken (image-link-block), met foto en teaser.
+Zonder eigen image valt een post terug op een algemene foto.
+{% endcomment %}
+<div class="container-md">
+    <div class="grid grid--three posts-overzicht">
+        {% for post in include.posts %}
+            {% assign beeld = post.image | default: "/assets/img/foto/Innovatie-Digitaliserings-Nieuws-Posts-en-Vacatures.jpg" %}
+            {% unless beeld contains "://" or beeld.first == "/" %}{% assign eerste = beeld | slice: 0 %}{% if eerste != "/" %}{% assign beeld = beeld | prepend: "/" %}{% endif %}{% endunless %}
+            {% capture tekst %}{{ post.teaser | default: post.excerpt | strip_html | truncatewords: 30 }}{% endcapture %}
+            {% include image-link-block.html image=beeld title=post.title excerpt=tekst url=post.url %}
+        {% endfor %}
+    </div>
+</div>

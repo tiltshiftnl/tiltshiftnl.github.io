@@ -3,7 +3,7 @@
 <div class="container-md klanten-uitgelicht-section">
     <div class="grid grid--three klanten-uitgelicht">
         {% for klant in klanten %}
-            <div class="klant-card">
+            <a class="klant-card" href="{{ klant.url }}">
                 <div class="klant-card__logo">
                     {% if klant.logo %}
                         <img src="{{ klant.logo }}" alt="{{ klant.title }}">
@@ -23,7 +23,7 @@
                 {% comment %}
                 <a href="{{ klant.url }}" class="klant-card__link">Tiltshift bij {{ klant.short_title | default: klant.title }}</a>
                 {% endcomment %}
-            </div>
+            </a>
         {% endfor %}
     </div>
 </div>

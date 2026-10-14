@@ -1,0 +1,12 @@
+# Instellingen voor het "bel mij terug"-formulier (_includes/terugbel-formulier.html).
+#
+# endpoint: adres van de eigen mini-API. Leeg = het formulier opent een vooraf ingevulde
+#           e-mail aan 'mail'. Gevuld = het formulier stuurt een POST met JSON naar dit adres.
+#
+# Afspraak met de API (POST, Content-Type: application/json):
+#   { "contact" (e-mail of telefoon, verplicht), "info" (optioneel), "pagina", "url" }
+#   Antwoord 2xx = gelukt. Al het andere = mislukt; het formulier valt dan terug op e-mail.
+#   Het veld "website" is een honeypot tegen spam: als dat gevuld is, niet verwerken.
+
+endpoint: ""
+mail: info@tiltshift.nl

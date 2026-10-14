@@ -1,0 +1,12 @@
+{% comment %}
+De workshops van een reeks (bijvoorbeeld publieke-code) als blokken: stap 1 en 2 klein, stap 3 groot,
+met rode stapnummers. Parameters: reeks, huidig (url van de huidige pagina; die krijgt "Je bent hier").
+{% endcomment %}
+{% assign stappen = site.sessies | where: "reeks", include.reeks | sort: "reeks_stap" %}
+<div class="blokken blokken--groot-laatst container-md">
+    {% for s in stappen %}
+    {% assign is_huidig = false %}{% if s.url == include.huidig %}{% assign is_huidig = true %}{% endif %}
+    {% if is_huidig %}{% assign lt = "Je bent hier" %}{% else %}{% assign lt = "Bekijk workshop" %}{% endif %}
+    {% include blok.html nr=s.reeks_stap moment=s.reeks_moment titel=s.title tekst=s.uitkomst afbeelding=s.image url=s.url linktekst=lt huidig=is_huidig %}
+    {% endfor %}
+</div>

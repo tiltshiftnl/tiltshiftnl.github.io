@@ -1,0 +1,38 @@
+{% comment %}
+Een losstaande sectie (zie css/_sass/secties.scss).
+- Met beeld: tekst en beeld naast elkaar. Oneven secties hebben de tekst links, even secties rechts.
+- Met breed=true: het beeld staat onder de tekst, over de volle breedte.
+- Zonder beeld maar met inhoud: tekstsectie, met label en kop links en de inhoud rechts.
+Parameters: label, kop, tekst, inhoud (markdown, via capture), html (onbewerkte HTML, bijvoorbeeld een formulier), link, linktekst, knop (link als zwarte knop), beeld (HTML, via capture), breed, beeld_links (beeld altijd links).
+{% endcomment %}
+{% if include.beeld == nil or include.beeld == "" %}{% assign zonder_beeld = true %}{% else %}{% assign zonder_beeld = false %}{% endif %}
+{% if zonder_beeld and include.inhoud and include.breed == nil %}
+<section class="sectie sectie--tekst">
+    <div class="sectie__tekst">
+        {% if include.label %}<p class="sectie__label">{{ include.label }}</p>{% endif %}
+        {% if include.kop %}<h2 class="sectie__kop">{{ include.kop }}</h2>{% endif %}
+    </div>
+    <div class="sectie__inhoud">
+        {% if include.tekst %}<p class="sectie__intro">{{ include.tekst }}</p>{% endif %}
+        {{ include.inhoud | markdownify }}
+        {% if include.link %}<a href="{{ include.link }}" class="sectie__link">{{ include.linktekst }} <span aria-hidden="true">→</span></a>{% endif %}
+    </div>
+</section>
+{% else %}
+{% capture sectie_tekst %}
+    <div class="sectie__tekst{% if include.breed %} container-md{% endif %}">
+        <div class="sectie__tekst-binnen">
+            {% if include.label %}<p class="sectie__label">{{ include.label }}</p>{% endif %}
+            {% if include.kop %}<h2 class="sectie__kop">{{ include.kop }}</h2>{% endif %}
+            {% if include.tekst %}<p class="sectie__intro">{{ include.tekst }}</p>{% endif %}
+            {% if include.inhoud %}<div class="sectie__inhoud">{{ include.inhoud | markdownify }}</div>{% endif %}
+            {% if include.html %}{{ include.html }}{% endif %}
+            {% if include.link %}<a href="{{ include.link }}" class="sectie__link{% if include.knop %} sectie__link--knop{% endif %}">{{ include.linktekst }} <span aria-hidden="true">→</span></a>{% endif %}
+        </div>
+    </div>
+{% endcapture %}
+<section class="sectie{% if include.breed %} sectie--breed{% endif %}{% if include.beeld_links %} sectie--beeld-links{% endif %}">
+    {{ sectie_tekst }}
+    {% if include.beeld %}<div class="sectie__beeld">{{ include.beeld }}</div>{% endif %}
+</section>
+{% endif %}

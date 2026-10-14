@@ -1,0 +1,21 @@
+{% comment %}Balk die onderin beeld vast blijft staan, met de knop om te boeken. Parameters: titel, tekst, link.{% endcomment %}
+<div class="boek-balk" role="region" aria-label="Boeken">
+    <div class="boek-balk__binnen">
+        <p class="boek-balk__titel"><strong>{{ include.titel }}</strong>{% if include.tekst %}<span>{{ include.tekst }}</span>{% endif %}</p>
+        <a class="boek-balk__knop" href="{{ include.link }}">Boek deze workshop <span aria-hidden="true">→</span></a>
+    </div>
+</div>
+<script>
+(function () {
+    // Pas in beeld zodra de pitch (de eerste sectie, met de eerste boekknop) voorbij is
+    var balk = document.querySelector('.boek-balk');
+    var pitch = document.querySelector('main .sectie');
+    if (!balk || !pitch || !('IntersectionObserver' in window)) return;
+    balk.classList.add('boek-balk--weg');
+    new IntersectionObserver(function (items) {
+        var e = items[0];
+        var voorbij = !e.isIntersecting && e.boundingClientRect.top < 0;
+        balk.classList.toggle('boek-balk--weg', !voorbij);
+    }).observe(pitch);
+})();
+</script>

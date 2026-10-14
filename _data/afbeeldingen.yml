@@ -1,0 +1,291 @@
+# Beeldbank van tiltshift.nl, getoond op /image-library/.
+# Pas de beschrijvingen gerust met de hand aan. Soort: foto, schermafdruk, illustratie of portret.
+# Nieuwe afbeelding? Voeg een regel toe met pad, soort en beschrijving.
+
+# --- foto ---
+- pad: /assets/img/foto/404-Probleem-Gedreven-Innovatie.jpg
+  map: foto
+  soort: foto
+  beschrijving: "Display van een kopieerapparaat met de foutmelding \"Er is een functioneel probleem opgetreden\". Gebruikt op de 404-pagina."
+- pad: /assets/img/foto/Applicatie-familie-Straatnotes-Informatiestromen.png
+  map: foto
+  soort: illustratie
+  beschrijving: "Schema van de informatiestromen tussen de Straatnotes-applicaties, de centrale database en de partijen die raadplegen."
+- pad: /assets/img/foto/Begeleiding-agile-ontwikkeling-data-uitwisseling-politie-gemeente.jpg
+  map: foto
+  soort: schermafdruk
+  beschrijving: "Schermafdruk van ADUSBlauw: meldingen per locatie naast een kaart van Amsterdam."
+- pad: /assets/img/foto/Careyn-Joost-Bout-en-Sanne-Schuur-onderzoeken-doelgroep.jpg
+  map: foto
+  soort: foto
+  beschrijving: "Joost Bout en Sanne Schuur kijken samen naar een scherm tijdens doelgroeponderzoek voor Careyn."
+- pad: /assets/img/foto/Careyn-Joost-en-Eva-kijken-naar-scherm.jpg
+  map: foto
+  soort: foto
+  beschrijving: "Over de schouder: twee mensen kijken naar een scherm met een lijst, bij Careyn."
+- pad: /assets/img/foto/Careyn-Joris-Boeren-leiderschap-traject-nieuwe-website.jpg
+  map: foto
+  soort: foto
+  beschrijving: "Joris Boeren belt, met op de achtergrond de nieuwe Careyn-website op een scherm."
+- pad: /assets/img/foto/Careyn-nieuwe-website-Live.jpg
+  map: foto
+  soort: foto
+  beschrijving: "Lancering van de nieuwe Careyn-website: scherm met \"We zijn live!\" en een teamlid aan tafel."
+- pad: /assets/img/foto/Digitaal-Indelen-Markt-Amsterdam-Marktmeesters.jpg
+  map: foto
+  soort: foto
+  beschrijving: "Drie marktmeesters van Amsterdam rond een computer, aan het werk met de digitale marktindeling."
+- pad: /assets/img/foto/Digitaal-Indelen-Markt-Applicatie-voor-Marktindeling-Amsterdam.jpg
+  map: foto
+  soort: foto
+  beschrijving: "Close-up van een telefoon met de app voor de marktindeling (Dappermarkt)."
+- pad: /assets/img/foto/Forza-MOR-programma-dienstverlening-MOR-domein-Rotterdam.jpg
+  map: foto
+  soort: foto
+  beschrijving: "Werksessie in Rotterdam rond meldingen openbare ruimte, met de poster \"Stoeptegel los? Jij meldt 't, ik fix 't.\""
+- pad: /assets/img/foto/Gemeentelijk-DataLab-oprichten-Amsterdam.jpg
+  map: foto
+  soort: foto
+  beschrijving: "Twee teamleden van het DataLab Amsterdam aan tafel voor een wand vol post-its en foto's."
+- pad: /assets/img/foto/Information-Radiator-stickies-op-flipover.jpg
+  map: foto
+  soort: foto
+  beschrijving: "Man plakt stickies op een flipover vol geclusterde post-its."
+- pad: /assets/img/foto/Innovatie-Digitaliserings-Nieuws-Posts-en-Vacatures.jpg
+  map: foto
+  soort: foto
+  beschrijving: "Twee mensen in regenjassen maken lachend een selfie. Gebruikt op de nieuwspagina."
+- pad: /assets/img/foto/Leiderschap-bij-starten-of-vastgelopen-digitalisering.jpg
+  map: foto
+  soort: foto
+  beschrijving: "Hand houdt een ordner omhoog met het label \"Wachten akkoord manager\". Gebruikt op de contactpagina."
+- pad: /assets/img/foto/Makkelijke-Markt-Administratie-Markt-Ondernemers.jpg
+  map: foto
+  soort: foto
+  beschrijving: "Drie teamleden achter laptops op de markt, tussen de kramen."
+- pad: /assets/img/foto/Makkelijke-Markt-Software-Design-Thinking.jpg
+  map: foto
+  soort: foto
+  beschrijving: "Twee marktmeesters op de markt, een van hen met een telefoon in de hand."
+- pad: /assets/img/foto/Makkelijke-Markt-Software-Implementatie.jpg
+  map: foto
+  soort: foto
+  beschrijving: "Close-up van een telefoon met de Makkelijke Markt-app voor het invoeren van marktgegevens."
+- pad: /assets/img/foto/Materialen-Software-Design-Thinking-Sessie-Workshop.jpg
+  map: foto
+  soort: foto
+  beschrijving: "Platte hand op een tafel, laag gefotografeerd. Gebruikt op de materialenpagina."
+- pad: /assets/img/foto/Oprichten-DataLab-gemeente-Prioritering-projecten.jpg
+  map: foto
+  soort: schermafdruk
+  beschrijving: "Prioriteringsmatrix van het DataLab met criteria en stickers per project."
+- pad: /assets/img/foto/Probleem-gedreven-innovatie-Digitaliserings-Projecten.jpg
+  map: foto
+  soort: foto
+  beschrijving: "Telefoon met app in de hand, met schaduwen op de klinkers. Gebruikt op het resultatenoverzicht."
+- pad: /assets/img/foto/Presentatie-bij-wand-met-schetsen.jpg
+  map: foto
+  soort: foto
+  beschrijving: "Iemand presenteert bij een wand met schetsen en wijst naar een ontwerp."
+- pad: /assets/img/foto/Product-Management-Adus-Blauw-RUIS.jpg
+  map: foto
+  soort: schermafdruk
+  beschrijving: "Miro-bord van het RUIS-traject met sessies, schetsen en concepten."
+- pad: /assets/img/foto/Schetsen-en-stickies-op-de-muur.jpg
+  map: foto
+  soort: foto
+  beschrijving: "Schetsen van schermen en post-its op de muur, met een rode magneet."
+- pad: /assets/img/foto/Schulddossier-Betere-samenwerking-in-de-schuld-keten.jpg
+  map: foto
+  soort: foto
+  beschrijving: "Handen bladeren door een la vol papieren dossiers van de gemeente Amsterdam."
+- pad: /assets/img/foto/Schulddossier-Design-Thinking-Schulddienstverlening.jpg
+  map: foto
+  soort: foto
+  beschrijving: "Groep aan een lange tafel tijdens een ontwerpsessie voor schulddienstverlening."
+- pad: /assets/img/foto/Schulddossier-Veilig-berichtenverkeer-in-schuld-keten.jpg
+  map: foto
+  soort: foto
+  beschrijving: "Kast vol ordners en een archiefkast op een kantoor."
+- pad: /assets/img/foto/Stadspas-Zwolle-Ciao-How-Now-Wow.jpg
+  map: foto
+  soort: foto
+  beschrijving: "Uitgeprinte ideeën en concepten op de muur tijdens een sessie voor de Stadspas Zwolle."
+- pad: /assets/img/foto/Stadspas-Zwolle-Sessie.jpg
+  map: foto
+  soort: foto
+  beschrijving: "Groep staat en buigt over tafels tijdens een werksessie in Zwolle."
+- pad: /assets/img/foto/Starten-met-innovatie-verouderde-software-vervangen.jpg
+  map: foto
+  soort: foto
+  beschrijving: "Close-up van handen die een telefoon vasthouden. Gebruikt op de intake- en adviespagina."
+- pad: /assets/img/foto/Straatnotes-meekijken-met-gebruiker-software-design-thinking.jpg
+  map: foto
+  soort: foto
+  beschrijving: "Twee straatcoaches in winterjassen kijken samen op een telefoon."
+- pad: /assets/img/foto/Straatnotes-opknippen-losse-applicaties.jpg
+  map: foto
+  soort: foto
+  beschrijving: "Wand met post-its en kaartjes, de planning van het opknippen van Straatnotes."
+- pad: /assets/img/foto/Straatnotes-Veilig-Notities-maken-op-straat-jeugdoverlast.jpg
+  map: foto
+  soort: foto
+  beschrijving: "Ontwikkelteam aan het werk achter laptops, met een whiteboard vol schetsen op de achtergrond."
+- pad: /assets/img/foto/Tiltshift-Aanpak-Innovatie-Interventie-Vastgelopen-digitaliserings-project.jpg
+  map: foto
+  soort: foto
+  beschrijving: "Twee mensen voor een wand met schetsen en post-its. Wordt veel gebruikt als algemene Tiltshift-foto."
+- pad: /assets/img/foto/Tiltshift-Aanpak-Software-Design-Thinking.jpg
+  map: foto
+  soort: illustratie
+  beschrijving: "Schema van de aanpak in drie fases: explore, discovery, ideation, development en implement."
+- pad: /assets/img/foto/Tiltshift-Privacy-Policy.jpg
+  map: foto
+  soort: illustratie
+  beschrijving: "Handgetekende schetsen van app-schermen over statussen en selectiemethodes. Gebruikt bij privacy en informatiebeveiliging."
+- pad: /assets/img/foto/Wonen-Innovatie-met-Design-Sessies-Afdeling-betrekken.jpg
+  map: foto
+  soort: foto
+  beschrijving: "Twee mensen bekijken een wand vol schetsen tijdens een ontwerpsessie."
+- pad: /assets/img/foto/Wonen-Innovatie-Programma-Interventie.jpg
+  map: foto
+  soort: foto
+  beschrijving: "Iemand op de passagiersstoel van een auto kijkt op een telefoon, onderweg in de stad."
+- pad: /assets/img/foto/Woonstad-Herinrichting-ICT-afdeling.jpg
+  map: foto
+  soort: foto
+  beschrijving: "Overleg aan een grote vergadertafel bij Woonstad Rotterdam."
+- pad: /assets/img/foto/Woonstad-Joris-Boeren-Product-Manager.jpg
+  map: foto
+  soort: foto
+  beschrijving: "Joris Boeren bij de glazen deur met het logo van Woonstad Rotterdam."
+- pad: /assets/img/foto/Woonstad-Prioriteren-Backlog-Agile-werken-woningcorporatie.jpg
+  map: foto
+  soort: foto
+  beschrijving: "Team staat bij een wand met kaartjes om de backlog te prioriteren, bij Woonstad."
+- pad: /assets/img/foto/Woonvergunning-kwetsbare-groepen-samenwerking-keten.jpg
+  map: foto
+  soort: foto
+  beschrijving: "Twee mensen werken aan een wand met schetsen van stappen in het proces van de woonvergunning."
+- pad: /assets/img/foto/Woonvergunning-kwetsbare-groepen-verbeteren-samenwerking-in-keten.jpg
+  map: foto
+  soort: schermafdruk
+  beschrijving: "Schermafdruk van de stappen in het proces, met labels per betrokken organisatie."
+- pad: /assets/img/foto/ZC-choose.jpg
+  map: foto
+  soort: foto
+  beschrijving: "Twee mensen in gesprek voor een wand met schetsen. Wordt ook gebruikt door de handtekeninggenerator."
+
+# --- materialen ---
+- pad: /assets/img/materialen/Benodigdheden-teken-workshop.jpg
+  map: materialen
+  soort: foto
+  beschrijving: "Stiften, papier en schetsen van mokken van simpel tot complex, voor de tekenworkshop."
+- pad: /assets/img/materialen/Mini-workshop-iedereen-kan-tekenen.jpg
+  map: materialen
+  soort: schermafdruk
+  beschrijving: "Resultaten van de mini-workshop: getekende stadsgezichten en voorwerpen."
+- pad: /assets/img/materialen/Miro-board-workshop-iedereen-kan-tekenen.jpg
+  map: materialen
+  soort: schermafdruk
+  beschrijving: "Schermafdruk van het Miro-bord voor de online workshop \"Iedereen kan tekenen\"."
+- pad: /assets/img/materialen/Tiltshift-Workshop-Crazy-8-A4-vouwen.jpg
+  map: materialen
+  soort: illustratie
+  beschrijving: "Tekening: een A4 in vier stappen vouwen tot acht vakken voor Crazy 8's."
+- pad: /assets/img/materialen/Workshop-Crazy-Eight-Ideation-Warroom.jpg
+  map: materialen
+  soort: foto
+  beschrijving: "Twee mensen voor een wand vol Crazy 8's-schetsen."
+
+# --- posts ---
+- pad: /assets/img/posts/Algoritmeregister-mockup-applicatie.png
+  map: posts
+  soort: illustratie
+  beschrijving: "Mockup van de applicatie van het algoritmeregister."
+- pad: /assets/img/posts/Arjen-Jelsma-tekent-als-partner-bij-Tiltshift.jpg
+  map: posts
+  soort: foto
+  beschrijving: "Arjen Jelsma tekent zijn partnercontract, met een glas wijn op tafel."
+- pad: /assets/img/posts/Empathy-Map-Gebruiken-Resultaten-Interviews-Verwerken.jpg
+  map: posts
+  soort: foto
+  beschrijving: "Twee mensen bij een empathy map vol post-its, met interviewresultaten."
+- pad: /assets/img/posts/Eva-Leffef-tekent-en-is-onderdeel-van-Tiltshift.jpg
+  map: posts
+  soort: foto
+  beschrijving: "Eva Leffef tekent, met een selfie van een collega in de hoek."
+- pad: /assets/img/posts/Information-Radiator-Demo-dinsdag.jpg
+  map: posts
+  soort: illustratie
+  beschrijving: "Tekening van een gele post-it met \"Dinsdag: Demo!\"."
+- pad: /assets/img/posts/Information-Radiator-Johan-en-Yvonne-in-War-Room.jpg
+  map: posts
+  soort: foto
+  beschrijving: "Johan en Yvonne voor de wand in de war room, met foto's en post-its."
+- pad: /assets/img/posts/Information-Radiator-War-Room-Wand-met-Stickies.jpg
+  map: posts
+  soort: foto
+  beschrijving: "War room met wanden vol stickies en iemand die meeleest."
+- pad: /assets/img/posts/Jan-Paul-als-coordinator-bij-Tiltshift.jpg
+  map: posts
+  soort: foto
+  beschrijving: "Jan Paul glimlacht aan tafel, bij zijn start als coördinator."
+- pad: /assets/img/posts/Jasper-Ceelen-tekent-bij-Tiltshift.jpg
+  map: posts
+  soort: foto
+  beschrijving: "Jasper Ceelen tekent, terwijl een collega met champagne toekijkt."
+- pad: /assets/img/posts/Joost-Bout-tekent-bij-Tiltshift.jpg
+  map: posts
+  soort: foto
+  beschrijving: "Joost Bout tekent, met twee enthousiaste collega's achter hem."
+- pad: /assets/img/posts/Matthijs-Goense-nieuwe-partner-Tiltshift.jpg
+  map: posts
+  soort: foto
+  beschrijving: "Matthijs Goense lacht in de camera terwijl hij tekent als partner."
+- pad: /assets/img/posts/Programma-opzetten-Meldingen-Rotterdam-vervanging-msb.jpg
+  map: posts
+  soort: foto
+  beschrijving: "Vuilniswagen en medewerkers die containers legen in Rotterdam."
+- pad: /assets/img/posts/Rutger-Dik-tekent-bij-Tiltshift.jpg
+  map: posts
+  soort: foto
+  beschrijving: "Rutger Dik tekent, terwijl een collega een foto maakt."
+- pad: /assets/img/posts/Sanne-aan-boord-als-UX-Researcher.jpg
+  map: posts
+  soort: foto
+  beschrijving: "Sanne schrijft aan tafel met een telefoon aan haar oor, bij haar start als UX-researcher."
+- pad: /assets/img/posts/Tiltshift-verwelkomt-Jerina.jpg
+  map: posts
+  soort: foto
+  beschrijving: "Jerina en een collega lachend aan tafel bij de ondertekening."
+- pad: /assets/img/posts/Tom-Ootes-developer-overheid.jpg
+  map: posts
+  soort: foto
+  beschrijving: "Tom Ootes vertelt voor een scherm van developer.overheid.nl."
+- pad: /assets/img/posts/We-proosten-op-Tjitske-die-start-als-partner-bij-Tiltshift.jpg
+  map: posts
+  soort: foto
+  beschrijving: "Proosten met champagne op de start van Tjitske als partner."
+
+# --- mensen ---
+- pad: /assets/img/mensen/Johan-Groenen-Partner-Tiltshift.jpg
+  map: mensen
+  soort: portret
+  beschrijving: "Portret van Johan Groenen, partner."
+- pad: /assets/img/mensen/Joris-Boeren-Partner-Tiltshift.jpg
+  map: mensen
+  soort: portret
+  beschrijving: "Portret van Joris Boeren, partner."
+- pad: /assets/img/mensen/Maarten-Geraets-Partner-Tiltshift.jpg
+  map: mensen
+  soort: portret
+  beschrijving: "Portret van Maarten Geraets, partner."
+- pad: /assets/img/mensen/Rutger-Dik-Partner-Tiltshift.jpg
+  map: mensen
+  soort: portret
+  beschrijving: "Portret van Rutger Dik, partner."
+- pad: /assets/img/mensen/Sven-Ritmeester-Consultant-Agile.png
+  map: mensen
+  soort: portret
+  beschrijving: "Portret van Sven Ritmeester, agile consultant."

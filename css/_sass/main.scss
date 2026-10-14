@@ -1,4 +1,5 @@
 main {
+    overflow-x: clip; // gedraaide vlakken (valprops) mogen de pagina niet breder maken
     padding-top: 5rem;
     margin-bottom: $gutter-md;
     @media screen and (min-width: $breakpoint-md) {
@@ -31,7 +32,8 @@ main > p {
     @include container-sm();
 }
 
-main > ul{
+main > ul,
+main > ol{
     line-height: 1.5;
     margin-top: 0;
     margin-left: auto;
@@ -65,4 +67,32 @@ main {
         margin-bottom: .5rem;
         line-height: 1.2;
     }
+}
+// De paginatitel staat op de brede inhoudskolom, gelijk met de linkerkant van de secties
+main > h1 {
+    @include container-md();
+}
+
+// Klein rood label boven de paginatitel (_includes/pagina-label.html), zoals boven de secties
+main > .pagina-label {
+    @include container-md();
+    margin-top: 0;
+    margin-bottom: .2rem;
+    font-family: HelveticaNeueLTPro-Bd, sans-serif;
+    font-size: $font-size-sm;
+    letter-spacing: .08em;
+    text-transform: uppercase;
+    color: $red;
+    @media screen and (min-width: $breakpoint-md) {
+        margin-top: 0;
+    }
+    + h1 { margin-top: 0; }
+}
+.klant-page .pagina-label {
+    margin: 0 0 .2rem;
+    font-family: HelveticaNeueLTPro-Bd, sans-serif;
+    font-size: $font-size-sm;
+    letter-spacing: .08em;
+    text-transform: uppercase;
+    color: $red;
 }

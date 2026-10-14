@@ -8,6 +8,7 @@ keywords: "gegevensboekhouding, justitie en veiligheid, uitvoerend leiderschap,p
 hideBanner: true
 caption:
 author: Johan Groenen
+image: "/assets/img/mensen/Johan-Groenen-Partner-Tiltshift.jpg"
 ---
 {{ page.description }}
 

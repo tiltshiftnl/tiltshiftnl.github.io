@@ -4,7 +4,7 @@ layout: default
 title: "Iedereen kan tekenen"
 subtitle: "tekenen, ideation, opwarmer, workshop, sessie"
 
-description: "Deze techniek zet je bijvoorbeeld in tijdens een ideation met crazy-8, of bij het uitwerken van concepten."
+description: "Deze techniek zet je bijvoorbeeld in tijdens een ideation met Crazy 8's, of bij het uitwerken van concepten."
 keywords: Tekenen, Design thinking, workshop, Crazy Eight, Ideation, Ideeën, How to, uitleg, instructie
 labels: [tekenen, workshop, ideation, co-creatie, opwarmer]
 hideBanner: true
@@ -16,7 +16,7 @@ back: ..
 Het voordeel van een tekening is dat het in één oogopslag jouw idee overbrengt, veel sneller en beter dan met alleen tekst. Het communiceert dus makkelijker en beter wat jij bedoelt!
 
 <div class="article-image">
-    <img src="/assets/img/materialen/mini-workshop-iedereen-kan-tekenen.jpg">
+    <img src="/assets/img/materialen/Mini-workshop-iedereen-kan-tekenen.jpg">
 </div>
 
 Dan moet je natuurlijk wel kúnnen tekenen. Het goede nieuws is: iedereen kan tekenen! Je hebt namelijk geen realistisch kunstwerk nodig om iets over te brengen, een eenvoudig schetsje is vaak genoeg.
@@ -26,7 +26,7 @@ Dan moet je natuurlijk wel kúnnen tekenen. Het goede nieuws is: iedereen kan te
 Als start van een sessie of workshop kan het een fijne opwarmer zijn om met elkaar een aantal teken-oefeningen te doen. Op die manier weet je zeker dat de deelnemers het niveau van tekenen snappen en als het goed is leer je elkaar gelijk een beetje kennen.
 
 <div class="article-image">
-    <img src="/assets/img/materialen/benodigheden-teken-workshop.jpg">
+    <img src="/assets/img/materialen/Benodigdheden-teken-workshop.jpg">
 </div>
 
 ## Benodigdheden

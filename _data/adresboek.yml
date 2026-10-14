@@ -1,0 +1,54 @@
+# Adresboek: vaste lijnen en mobiele nummers. Overzicht op de verborgen pagina /adresboek/.
+# Overige gegevens (e-mail, LinkedIn, vCard, rol) komen van de mensenpagina's in _mensen/.
+# Alleen nummers die op de site staan; privénummers horen hier niet.
+#
+# Vaste lijnen horen bij een functie, niet bij een persoon. Wie de lijn nu opneemt staat
+# bij belegd_bij (sleutel uit _data/mensen.yml). Schuift de functie, pas dan alleen belegd_bij aan:
+# het contactblok toont vanzelf het portret van de nieuwe persoon.
+#
+# Mobiele nummers horen bij een persoon. Iemand heeft hooguit één mobiel nummer.
+
+functies:
+  - sleutel: algemeen
+    naam: Algemeen
+    mail: info@tiltshift.nl
+    tel: "+31207220207"
+    tel_display: "+31 (0)20 722 02 07"
+    belegd_bij: johan
+    gebruikt_op:
+      - "Contactblok, algemeen (info in _data/mensen.yml)"
+      - "Contactblok Johan (_data/mensen.yml)"
+      - "Footer (_includes/footer.html)"
+      - "/contact/, omschrijving en contactgegevens (pages/contact.md)"
+
+  - sleutel: administratie
+    naam: Administratie
+    mail: administratie@tiltshift.nl
+    tel: "+31307210868"
+    tel_display: "+31 (0)30 721 08 68"
+    belegd_bij: joris
+    gebruikt_op:
+      - "Contactblok Joris (_data/mensen.yml)"
+      - "/mensen/joris-boeren/"
+      - "_includes/contact-info.html (niet in gebruik)"
+
+mobiel:
+  - persoon: johan
+    tel: "+31641518018"
+    tel_display: "+31 (0)6 415 18 0 18"
+    gebruikt_op:
+      - "/mensen/johan-groenen/"
+
+  - persoon: maarten
+    tel: "+31650222771"
+    tel_display: "+31 (0)6 50 22 27 71"
+    gebruikt_op:
+      - "Contactblok Maarten (_data/mensen.yml)"
+      - "/mensen/maarten-geraets/"
+
+  - persoon: rutger
+    tel: "+31628131889"
+    tel_display: "+31 (0)6 28 13 18 89"
+    gebruikt_op:
+      - "Contactblok Rutger (_data/mensen.yml)"
+      - "/mensen/rutger-dik/"

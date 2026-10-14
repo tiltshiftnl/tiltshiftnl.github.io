@@ -1,30 +1,42 @@
+{% comment %}
+Contactblok. Het portret en de naam horen bij wie het nummer opneemt (_data/adresboek.yml):
+bij een vaste lijn wie die functie nu belegd heeft, bij een mobiel nummer de eigenaar.
+Parameters: header, description, persoon (sleutel uit _data/mensen.yml; zonder: algemeen),
+formulier (true: "bel mij terug"-formulier), onderwerp, kies (keuzelijst met workshops),
+knop_link en knop_tekst (een zwarte knop, bijvoorbeeld naar /boeken/).
+{% endcomment %}
 {% if include.persoon and site.data.mensen[include.persoon] %}
 {% assign persoon = site.data.mensen[include.persoon] %}
 {% else %}
 {% assign persoon = site.data.mensen.info %}
 {% endif %}
-<div class="cta container-sm margin-b">
-    {% if include.header %}
-    <h3 class="cta__title">{{ include.header }}</h3>
-    {% endif %}
-    <div class="cta__body">
-        {% if persoon.img %}
-        <div class="cta__body__image">
-            <a href="{{ persoon.link }}">
-                <img class="logo" src="/assets/img/mail/{{ persoon.img }}" style="width: 120px; height: 120px">
-            </a>
-        </div>
-        {% endif %}
-        <div class="cta__body__right">
-            <div class="cta__body__right__text">
-                <p>{{ include.description | default: "Tijdens een vrijblijvend intake- en adviesgesprek bespreken we jouw situatie en hoe we daarbij kunnen helpen." }}</p>
-            </div>
-            <div class="cta__body__right__text" style="width: 100%">
-                <p>
-                    <a href="tel:{{ persoon.tel }}">{{ persoon.tel_display }}</a><br>
-                    <a href="mailto:{{ persoon.mail }}">{{ persoon.mail }}</a>
-                </p>
-            </div>
-        </div>
+{% assign lijn = site.data.adresboek.functies | where: "tel", persoon.tel | first %}
+{% if lijn %}
+    {% assign eigenaar = site.data.mensen[lijn.belegd_bij] %}
+{% else %}
+    {% assign mobiel = site.data.adresboek.mobiel | where: "tel", persoon.tel | first %}
+    {% assign eigenaar = site.data.mensen[mobiel.persoon] | default: persoon %}
+{% endif %}
+{% capture contactgegevens %}
+        <p class="cta__naam"><span>{{ eigenaar.full_name }}</span></p>
+        <p class="cta__gegevens{% if include.formulier %} cta__gegevens--klein{% endif %}">
+            <a class="cta__tel" href="tel:{{ persoon.tel }}">{{ persoon.tel_display }}</a>
+            <a class="cta__mail" href="mailto:{{ persoon.mail }}">{{ persoon.mail }}</a>
+        </p>
+{% endcapture %}
+<section class="cta{% if include.formulier %} cta--formulier{% endif %}">
+    <div class="cta__links">
+        <a class="cta__foto" href="{{ eigenaar.link | default: persoon.link }}" tabindex="-1" aria-hidden="true">
+            <img src="{{ eigenaar.portret }}" alt="">
+        </a>
+        {% if include.formulier %}<div class="cta__bij-foto">{{ contactgegevens }}</div>{% endif %}
     </div>
-</div>
+    <div class="cta__tekst">
+        <p class="cta__label">Contact</p>
+        <h2 class="cta__kop">{{ include.header | default: "Zullen we even bellen?" }}</h2>
+        <p class="cta__intro">{{ include.description | default: "Tijdens een vrijblijvend intake- en adviesgesprek bespreken we jouw situatie en hoe we daarbij kunnen helpen." }}</p>
+        {% if include.formulier %}{% include terugbel-formulier.html onderwerp=include.onderwerp kies=include.kies %}{% endif %}
+        {% if include.knop_link %}<p><a class="sectie__link sectie__link--knop" href="{{ include.knop_link }}">{{ include.knop_tekst }} <span aria-hidden="true">→</span></a></p>{% endif %}
+        {% unless include.formulier %}{{ contactgegevens }}{% endunless %}
+    </div>
+</section>

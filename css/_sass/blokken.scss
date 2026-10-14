@@ -1,0 +1,149 @@
+// Blokken: één groot blok met twee kleine blokken ernaast, boven elkaar (_includes/blok.html).
+// Het grote blok staat links; met .blokken--gespiegeld rechts. Op mobiel onder elkaar.
+
+.blokken {
+    display: grid;
+    gap: 1.2rem;
+    margin: 3rem auto;
+
+    @media screen and (min-width: $breakpoint-md) {
+        grid-template-columns: minmax(0, 1.6fr) minmax(0, 1fr);
+        grid-template-rows: auto auto;
+        gap: 1.2rem 1.6rem;
+        > :first-child { grid-row: 1 / 3; grid-column: 1; }
+        > :nth-child(2) { grid-column: 2; grid-row: 1; }
+        > :nth-child(3) { grid-column: 2; grid-row: 2; }
+
+        &--gespiegeld {
+            grid-template-columns: minmax(0, 1fr) minmax(0, 1.6fr);
+            > :first-child { grid-column: 2; }
+            > :nth-child(2), > :nth-child(3) { grid-column: 1; }
+        }
+    }
+}
+
+.blok {
+    position: relative;
+    display: flex;
+    align-items: flex-end;
+    aspect-ratio: 4 / 3; // groeit mee als de tekst langer is (min-height: auto)
+    color: $white;
+    text-decoration: none;
+    isolation: isolate;
+
+    &__beeld {
+        position: absolute;
+        inset: 0;
+        z-index: -1;
+        overflow: hidden;
+        background: $black;
+        img {
+            width: 100%;
+            height: 100%;
+            max-width: none;
+            object-fit: cover;
+            border: 0;
+            transition: transform .3s ease;
+        }
+        &::after {
+            content: '';
+            position: absolute;
+            inset: 0;
+            background: linear-gradient(to bottom, rgba(0, 0, 0, .1) 0%, rgba(0, 0, 0, .45) 45%, rgba(0, 0, 0, .9) 100%);
+        }
+    }
+    &__tekst {
+        display: flex;
+        flex-direction: column;
+        align-items: flex-start;
+        gap: .4rem;
+        padding: 1.1rem 1.2rem 1.2rem;
+    }
+    &__titel {
+        font-family: HelveticaNeueLTPro-Bd, sans-serif;
+        font-size: $font-size-lg;
+        line-height: 1.15;
+    }
+    &__omschrijving {
+        font-size: $font-size-sm;
+        line-height: 1.45;
+    }
+    &__link {
+        margin-top: .3rem;
+        padding: 6px 14px;
+        background: $black;
+        font-family: HelveticaNeueLTPro-Bd, sans-serif;
+        font-size: $font-size-sm;
+    }
+    &:hover,
+    &:focus-visible {
+        .blok__beeld img { transform: scale(1.04); }
+        .blok__link { background: $red; }
+    }
+}
+
+// Het grote blok: groter, met het gekantelde rode vlak erachter
+.blokken > .blok:first-child {
+    @media screen and (min-width: $breakpoint-md) {
+        aspect-ratio: auto;
+        height: 100%;
+    }
+    &::before {
+        content: '';
+        position: absolute;
+        inset: 0;
+        z-index: -2;
+        background: $red;
+        transform: translate(1.2rem, .8rem) rotate(3deg);
+    }
+    .blok__tekst { padding: 1.8rem 2rem 2rem; gap: .7rem; }
+    .blok__titel { font-size: clamp(1.6rem, 3vw, 2.4rem); line-height: 1.05; }
+    .blok__omschrijving { font-size: $font-size-md; max-width: 28em; }
+    .blok__link { padding: 10px 20px; font-size: $font-size-md; }
+}
+.blokken--gespiegeld > .blok:first-child::before {
+    transform: translate(-1.2rem, .8rem) rotate(-3deg);
+}
+
+// Meer dan drie: de rest in een raster van kleine blokken eronder
+.blokken-meer {
+    display: grid;
+    grid-template-columns: minmax(0, 1fr);
+    gap: 1.2rem 1.6rem;
+    margin: 0 auto 3rem;
+    @media screen and (min-width: $breakpoint-md) {
+        grid-template-columns: repeat(3, minmax(0, 1fr));
+    }
+}
+
+// Groot blok als laatste: twee kleine links, het grote rechts (leesvolgorde 1, 2, 3)
+.blokken--groot-laatst {
+    @media screen and (min-width: $breakpoint-md) {
+        grid-template-columns: minmax(0, 1fr) minmax(0, 1.6fr);
+        > :first-child { grid-column: 1; grid-row: 1; aspect-ratio: 4 / 3; height: auto; }
+        > :nth-child(2) { grid-column: 1; grid-row: 2; }
+        > :nth-child(3) { grid-column: 2; grid-row: 1 / 3; aspect-ratio: auto; height: 100%; }
+    }
+    // het rode vlak en de grote typografie horen bij het laatste blok
+    > .blok:first-child::before { content: none; }
+    > .blok:first-child .blok__tekst { padding: 1.1rem 1.2rem 1.2rem; gap: .4rem; }
+    > .blok:first-child .blok__titel { font-size: $font-size-lg; line-height: 1.15; }
+    > .blok:first-child .blok__omschrijving { font-size: $font-size-sm; }
+    > .blok:first-child .blok__link { padding: 6px 14px; font-size: $font-size-sm; }
+    > .blok:first-child .blok__nr { font-size: 2.6rem; }
+    > .blok:nth-child(3) {
+        &::before {
+            content: '';
+            position: absolute;
+            inset: 0;
+            z-index: -2;
+            background: $red;
+            transform: translate(1.2rem, .8rem) rotate(3deg);
+        }
+        .blok__tekst { padding: 1.8rem 2rem 2rem; gap: .7rem; }
+        .blok__titel { font-size: clamp(1.6rem, 3vw, 2.4rem); line-height: 1.05; }
+        .blok__omschrijving { font-size: $font-size-md; max-width: 28em; }
+        .blok__link { padding: 10px 20px; font-size: $font-size-md; }
+        .blok__nr { font-size: 4rem; }
+    }
+}

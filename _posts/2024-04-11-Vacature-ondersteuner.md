@@ -1,4 +1,5 @@
 ---
+published: false # verborgen: vacature
 layout: default
 subject: "Vacature: Ondersteuner (x/v/m) - 16 uur per week"
 title: "Vacature: Ondersteuner (x/v/m) - 16 uur per week"
@@ -6,7 +7,7 @@ teaser: "Omdat we aan het groeien zijn, is Tiltshift op zoek naar hulp in onze s
 description: "Ben jij die persoon met levenservaring, die niet snel onder de indruk is? Weet precies te vertellen waarom je bij ons past? Dan horen we graag van je!"
 keywords: "Vacature, administratief, ondersteuner, office manager, relatie manager, regelnicht, regelneef"
 hideBanner: true
-image: "assets/img/foto/Wonen-Innovatie-met-Design-Sessies-Afdeling-betrekken.jpg"
+image: "/assets/img/foto/Schulddossier-Veilig-berichtenverkeer-in-schuld-keten.jpg"
 caption: ''
 ---
 
@@ -32,6 +33,6 @@ Wij bieden een warme zakelijke familie en een eerlijk salaris. We werken vanuit 
 
 ## Reageren
 
-Word je enthousiast en weet je precies te vertellen waarom je bij ons past? Dan horen we graag van je. Bel daarvoor met [Joris](/mensen/joris-boeren/) op +31 (0)30 721 08 68 of mail naar [joris@tiltshift.nl](mailto:joris@tiltshift.nl).
+Word je enthousiast en weet je precies te vertellen waarom je bij ons past? Dan horen we graag van je. Mail daarvoor naar [Joris](/mensen/joris-boeren/) via [joris.boeren@tiltshift.nl](mailto:joris.boeren@tiltshift.nl).
 
 [« overzicht van posts](/posts/)

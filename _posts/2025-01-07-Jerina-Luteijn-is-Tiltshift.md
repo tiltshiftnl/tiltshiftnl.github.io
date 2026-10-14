@@ -1,4 +1,5 @@
 ---
+published: false # verborgen: werkt niet meer bij Tiltshift
 layout: default
 subject: Jerina Luteijn is Tiltshift!
 title: Jerina Luteijn is Tiltshift!
@@ -6,7 +7,7 @@ teaser: "Jerina Luteijn is gestart als partner coördinator bij Tiltshift."
 description: "Tiltshift verwelkomt Jerina Luteijn als partner coördinator! 🍾"
 keywords: "uitvoerend leiderschap,partner,publictech,softwaredesign,softwaredesignthinking,designthinking,developers,overheid"
 hideBanner: true
-image: "assets/img/posts/Tiltshift-verwelkomt-Jerina.jpg"
+image: "/assets/img/posts/Tiltshift-verwelkomt-Jerina.jpg"
 caption:
 author: Eva Leffef
 ---

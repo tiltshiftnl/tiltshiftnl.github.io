@@ -1,41 +1,143 @@
-.cta{
-    margin-bottom: 4rem;
-    padding-bottom: 1.5rem;
-    padding: 20px;
-    &__title{
-        color: $primair-blauw;
-        margin-bottom: $gutter-sm;
+// Contactblok (_includes/cta.html): zelfde beeldtaal als de mensenrijen.
+// Portret met gekanteld rood vlak, grote kop, de naam op witte stroken half over de foto.
+
+.cta {
+    @include container-md();
+    box-sizing: border-box;
+    display: grid;
+    grid-template-columns: minmax(0, 1fr);
+    margin-top: 5rem;
+    margin-bottom: 5rem;
+
+    @media screen and (min-width: $breakpoint-md) {
+        grid-template-columns: minmax(0, 4fr) minmax(0, 7fr);
+        align-items: center;
+        margin-top: 7rem;
+        margin-bottom: 7rem;
     }
-    &__body{
-        display: flex;
-        flex-direction: row;
-        justify-content: flex-start;
-        align-items: stretch;
-        &__image{
-            display: flex;
-            margin-right: $gutter-sm;
-            margin-bottom: $gutter-sm;
+
+    &__foto {
+        position: relative;
+        display: block;
+        width: 70%;
+        max-width: 340px;
+        aspect-ratio: 1;
+        isolation: isolate;
+        &::before {
+            content: '';
+            position: absolute;
+            inset: 0;
+            z-index: -1;
+            background: $red;
+            transform: translate(1rem, .7rem) rotate(5deg);
         }
-        &__right{
-            display: flex;
-            flex-direction: column;
-            align-items: center;
-            justify-content: space-between;
-            p{
-                margin: 0;
-            }
-            a{
-                text-align: center;
-            }
-            &__text{
-                margin-bottom: 1rem;
-            }
+        img {
+            display: block;
+            width: 100%;
+            height: 100%;
+            max-width: none;
+            object-fit: cover;
+            border: 0;
+            filter: grayscale(1) contrast(1.1);
+        }
+        @media screen and (min-width: $breakpoint-md) {
+            width: 100%;
         }
     }
 
-    @media only screen and (max-width: 400px) {
-        &__body {
-            display: block;
+    &__tekst {
+        position: relative;
+        z-index: 1;
+        min-width: 0;
+        display: flex;
+        flex-direction: column;
+        align-items: flex-start;
+        padding-top: 2rem;
+        @media screen and (min-width: $breakpoint-md) {
+            padding: 0 0 0 4rem;
         }
+    }
+
+    &__label {
+        margin: 0 0 .6rem;
+        font-family: HelveticaNeueLTPro-Bd, sans-serif;
+        font-size: $font-size-sm;
+        letter-spacing: .08em;
+        text-transform: uppercase;
+        color: $red;
+    }
+    &__kop {
+        margin: 0 0 1rem;
+        font-family: HelveticaNeueLTPro-Bd, sans-serif;
+        font-size: clamp(2rem, 4.4vw, 3rem);
+        line-height: 1.04;
+        letter-spacing: -.02em;
+    }
+    &__intro {
+        margin: 0 0 1.4rem;
+        max-width: 30em;
+        font-size: $font-size-lg;
+        line-height: $line-height-paragraph-lg;
+    }
+
+    // Naam op witte stroken, op desktop half over de foto
+    &__naam {
+        margin: 0 0 .6rem;
+        font-family: HelveticaNeueLTPro-Bd, sans-serif;
+        font-size: $font-size-lg;
+        span {
+            background: $black;
+            color: $white;
+            padding: .1em .35em;
+            box-decoration-break: clone;
+            -webkit-box-decoration-break: clone;
+        }
+        @media screen and (min-width: $breakpoint-md) {
+            margin-left: -6.5rem;
+        }
+    }
+
+    &__gegevens {
+        display: flex;
+        flex-direction: column;
+        gap: .3rem;
+        margin: 0;
+        a { color: $black; }
+    }
+    &__tel {
+        font-family: HelveticaNeueLTPro-Bd, sans-serif;
+        font-size: clamp(1.6rem, 3.4vw, 2.4rem);
+        line-height: 1.1;
+        text-decoration: none;
+        &:hover { color: $red; }
+    }
+    &__mail {
+        font-size: $font-size-lg;
+        overflow-wrap: anywhere;
+    }
+}
+
+// Naast een formulier: telefoon en e-mail als bijzaak
+.cta__gegevens--klein {
+    font-size: $font-size-sm;
+    span { font-family: HelveticaNeueLTPro-Bd, sans-serif; }
+    .cta__tel { font-size: $font-size-lg; }
+    .cta__mail { font-size: $font-size-sm; }
+}
+
+// Met formulier: naam en "Of bel zelf" onder de foto, links
+.cta__links { min-width: 0; }
+.cta--formulier {
+    @media screen and (min-width: $breakpoint-md) {
+        align-items: start;
+    }
+    .cta__bij-foto {
+        margin-top: 2rem;
+        @media screen and (min-width: $breakpoint-md) { margin-top: 2.4rem; }
+    }
+    .cta__naam { margin-left: 0; }
+    .cta__tekst {
+        padding-top: 2.5rem;
+        @media screen and (min-width: $breakpoint-md) { padding-top: 0; }
     }
 }

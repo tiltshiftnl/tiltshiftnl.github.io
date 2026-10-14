@@ -1,0 +1,63 @@
+// "Herken je dit?" (_includes/herkenning.html): lichtgrijs, schuin gesneden vlak.
+// Niet zwart: dat leest als de footer.
+
+.herkenning {
+    margin: 4rem 0 5rem;
+    padding: 4rem 0 4.5rem;
+    background: $grey;
+    color: $black;
+    // schuin gesneden boven- en onderkant, zoals de gekantelde vlakken elders op de site
+    clip-path: polygon(0 3vw, 100% 0, 100% calc(100% - 3vw), 0 100%);
+    @media screen and (min-width: $breakpoint-md) {
+        margin: 6rem 0 7rem;
+        padding: 7rem 0 7.5rem;
+    }
+
+    &__binnen { @include container-md(); box-sizing: border-box; }
+
+    &__label {
+        margin: 0 0 2.4rem;
+        font-family: HelveticaNeueLTPro-Bd, sans-serif;
+        font-size: $font-size-sm;
+        letter-spacing: .08em;
+        text-transform: uppercase;
+        color: $red;
+    }
+
+    &__lijst {
+        list-style: none;
+        margin: 0;
+        padding: 0;
+        display: grid;
+        grid-template-columns: minmax(0, 1fr);
+        gap: 2.8rem;
+        @media screen and (min-width: $breakpoint-md) {
+            grid-template-columns: repeat(3, minmax(0, 1fr));
+            gap: 2.4rem;
+        }
+    }
+
+    &__blok {
+        display: block;
+        width: 2.2rem;
+        height: 2.2rem;
+        margin: 0 0 1.4rem .3rem;
+        background: $red;
+        transform: rotate(-8deg);
+    }
+    &__item:nth-child(2) .herkenning__blok { transform: rotate(6deg); }
+    &__item:nth-child(3) .herkenning__blok { transform: rotate(-3deg); }
+
+    &__titel {
+        margin: 0 0 .9rem;
+        font-family: HelveticaNeueLTPro-Bd, sans-serif;
+        font-size: clamp(1.5rem, 2.4vw, 1.9rem);
+        line-height: 1.1;
+        letter-spacing: -.01em;
+        color: $black;
+    }
+    &__tekst {
+        margin: 0;
+        line-height: $line-height-paragraph-lg;
+    }
+}

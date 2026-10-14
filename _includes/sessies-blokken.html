@@ -1,0 +1,27 @@
+{% comment %}
+Workshops als blokken (zie _includes/blok.html): de eerste workshop als groot blok met de volgende
+twee klein ernaast; eventuele rest daaronder in een raster.
+{% endcomment %}
+{% assign alle = site.sessies | sort: "order" %}
+{% assign sessies = alle | where_exp: "s", "s.reeks == nil" %}
+{% capture losse %}<div class="blokken container-md">
+    {% for s in sessies limit: 3 %}
+    {% capture tekst %}{{ s.uitkomst }}{% if s.duur_kort %} {{ s.duur_kort }}.{% endif %}{% endcapture %}
+    {% include blok.html titel=s.title tekst=tekst afbeelding=s.image url=s.url linktekst="Bekijk workshop" %}
+    {% endfor %}
+</div>{% endcapture %}
+{% include sectie.html breed=true label="Productmanagement" kop="Richting geven aan je product" tekst="Workshops om samen te bepalen wat je maakt, voor wie en hoe je het met elkaar regelt." beeld=losse %}
+{% if sessies.size > 3 %}
+<div class="blokken-meer container-md">
+    {% for s in sessies offset: 3 %}
+    {% capture tekst %}{{ s.uitkomst }}{% if s.duur_kort %} {{ s.duur_kort }}.{% endif %}{% endcapture %}
+    {% include blok.html titel=s.title tekst=tekst afbeelding=s.image url=s.url linktekst="Bekijk workshop" %}
+    {% endfor %}
+</div>
+{% endif %}
+
+{% assign reeksen = alle | where_exp: "s", "s.reeks" | map: "reeks" | uniq %}
+{% for r in reeksen %}
+{% capture reeks %}{% include reeks.html reeks=r %}{% endcapture %}
+{% include sectie.html breed=true label="Reeks" kop="Publieke code, in drie stappen" tekst="Drie workshops met de Standaard voor Publieke Code: bij de start van een opdracht, tussentijds en bij oplevering of overdracht." beeld=reeks %}
+{% endfor %}

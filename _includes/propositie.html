@@ -1,0 +1,21 @@
+{% comment %}
+Waardepropositie naar het landingspagina-template van Strategyzer: pijn (herkenning) en winst
+(wat het oplevert) naast elkaar. Het product zelf staat in de sectie erna ("Wat we gaan doen").
+Parameters: pijn, winst (lijsten met titel en tekst).
+{% endcomment %}
+<section class="propositie">
+    <div class="propositie__binnen">
+        <div class="propositie__kolom propositie__kolom--pijn">
+            <p class="propositie__label">Herken je dit?</p>
+            <ul class="propositie__lijst">
+                {% for item in include.pijn %}<li><strong>{{ item.titel }}</strong>{{ item.tekst }}</li>{% endfor %}
+            </ul>
+        </div>
+        <div class="propositie__kolom propositie__kolom--winst">
+            <p class="propositie__label">Wat het oplevert</p>
+            <ul class="propositie__lijst">
+                {% for item in include.winst %}<li><strong>{{ item.titel }}</strong>{{ item.tekst }}</li>{% endfor %}
+            </ul>
+        </div>
+    </div>
+</section>

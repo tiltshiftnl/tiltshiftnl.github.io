@@ -14,6 +14,9 @@ collections:
   klanten:
     output: true
     permalink: /:collection/:name/
+  sessies:
+    output: true
+    permalink: /workshops/:name/
 
 sass:
   sass_dir: /css/_sass

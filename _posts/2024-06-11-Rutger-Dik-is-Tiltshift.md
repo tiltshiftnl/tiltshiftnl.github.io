@@ -6,7 +6,7 @@ teaser: "Rutger Dik heeft zich als partner aangesloten bij Tiltshift."
 description: "Rutger Dik heeft zich als partner aangesloten bij Tiltshift - Uitvoerend leiderschap in digitale transformatie."
 keywords: "uitvoerend leiderschap,partner,publictech,softwaredesign,softwaredesignthinking,designthinking,developers,overheid"
 hideBanner: true
-image: "assets/img/posts/Rutger-Dik-tekent-bij-Tiltshift.jpg"
+image: "/assets/img/posts/Rutger-Dik-tekent-bij-Tiltshift.jpg"
 caption:
 author: Eva Leffef
 ---

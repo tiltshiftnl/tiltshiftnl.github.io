@@ -1,11 +1,12 @@
 ---
+published: false # verborgen: vacature
 layout: default
 subject: Vacature
 title: Vacature - Strategisch Coördinator
 description: "Ben je een snelle denker, toe aan een volgende stap en weet precies te vertellen waarom je bij ons past? Dan horen we graag van je!"
 keywords: "Vacature, Strategisch Coordinator, Product Owner, Service Designer, UX Researcher, Product Strateeg, Relatie Manager"
 hideBanner: true
-image: "assets/img/foto/Wonen-Innovatie-met-Design-Sessies-Afdeling-betrekken.jpg"
+image: "/assets/img/foto/Wonen-Innovatie-met-Design-Sessies-Afdeling-betrekken.jpg"
 caption: ''
 ---
 _DEZE VACATURE IS INMIDDELS GESLOTEN_
@@ -23,6 +24,6 @@ Wij bieden een warme zakelijke familie, groei, een eerlijk salaris en na verloop
 
 ## Reageren
 
-Ben je een snelle denker, toe aan een volgende stap en weet je precies te vertellen waarom je bij ons past? Dan horen we graag van je. Bel daarvoor met [Joris](/mensen/joris-boeren/) op 030 - 721 08 68. Mag ook in de vroege avond of in het weekeinde.
+Ben je een snelle denker, toe aan een volgende stap en weet je precies te vertellen waarom je bij ons past? Dan horen we graag van je. Mail daarvoor naar [Joris](/mensen/joris-boeren/) via [joris.boeren@tiltshift.nl](mailto:joris.boeren@tiltshift.nl).
 
 [« overzicht van posts](/posts/)

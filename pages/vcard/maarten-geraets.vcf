@@ -1,0 +1,7 @@
+---
+permalink: /vcard/maarten-geraets.vcf
+layout: null
+sitemap:
+  exclude: "yes"
+---
+{% include vcard.vcf url="/mensen/maarten-geraets/" %}

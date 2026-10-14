@@ -1,0 +1,125 @@
+// Waardepropositie: pijn, product, winst (_includes/propositie.html).
+// Lichtgrijs, schuin gesneden vlak; het product in het midden staat op wit met het gekantelde rode vlak.
+
+.propositie {
+    margin: 4rem 0 5rem;
+    padding: 4rem 0 4.5rem;
+    background: $grey;
+    clip-path: polygon(0 3vw, 100% 0, 100% calc(100% - 3vw), 0 100%);
+    @media screen and (min-width: $breakpoint-md) {
+        margin: 6rem 0 7rem;
+        padding: 9rem 0 9.5rem;
+    }
+
+    &__binnen {
+        @include container-md();
+        box-sizing: border-box;
+        display: grid;
+        grid-template-columns: minmax(0, 1fr);
+        gap: 3rem;
+        @media screen and (min-width: $breakpoint-md) {
+            grid-template-columns: repeat(2, minmax(0, 1fr));
+            gap: 6rem;
+            align-items: start;
+        }
+    }
+
+    &__blok {
+        display: block;
+        width: 2rem;
+        height: 2rem;
+        margin: 0 0 1.2rem .2rem;
+        background: $red;
+        transform: rotate(-8deg);
+    }
+    &__kolom--winst .propositie__blok { transform: rotate(6deg); }
+
+    &__label {
+        margin: 0 0 1.4rem;
+        font-family: HelveticaNeueLTPro-Bd, sans-serif;
+        font-size: $font-size-sm;
+        letter-spacing: .08em;
+        text-transform: uppercase;
+        color: $red;
+    }
+
+    &__lijst {
+        list-style: none;
+        margin: 0;
+        padding: 0;
+        li {
+            margin: 0 0 2rem;
+            line-height: 1.55;
+        }
+        strong {
+            display: block;
+            margin-bottom: .45rem;
+            font-family: HelveticaNeueLTPro-Bd, sans-serif;
+            font-size: $font-size-lg;
+            line-height: 1.15;
+        }
+    }
+
+    // Het product: wit vlak met gekanteld rood vlak erachter
+    &__kolom--product {
+        position: relative;
+        isolation: isolate;
+        padding: 2.6rem 2.4rem 2.8rem;
+        background: $white;
+        &::before {
+            content: '';
+            position: absolute;
+            inset: 0;
+            z-index: -1;
+            background: $red;
+            transform: translate(.8rem, .6rem) rotate(3deg);
+        }
+        &::after {
+            content: '';
+            position: absolute;
+            inset: 0;
+            z-index: -1;
+            background: $white;
+        }
+    }
+    &__titel {
+        margin: 0 0 1rem;
+        font-family: HelveticaNeueLTPro-Bd, sans-serif;
+        font-size: clamp(1.8rem, 3vw, 2.4rem);
+        line-height: 1.05;
+        letter-spacing: -.01em;
+    }
+    &__tekst p {
+        margin: 0 0 1rem;
+        line-height: $line-height-paragraph-lg;
+    }
+    &__link {
+        font-family: HelveticaNeueLTPro-Bd, sans-serif;
+        color: $black;
+    }
+}
+
+// Bullets: probleemkant een recht rood vierkantje, veranderkant het onderbroken blauwe frame
+// uit het logo, in de hoek waarin het ook in het logo staat.
+.propositie__kolom--pijn .propositie__lijst li,
+.propositie__kolom--winst .propositie__lijst li {
+    position: relative;
+    padding-left: 2.6rem;
+    &::before {
+        content: '';
+        position: absolute;
+        left: 0;
+        top: .1rem;
+        width: 1.5rem;
+        height: 1.5rem;
+    }
+}
+.propositie__kolom--pijn .propositie__lijst li::before {
+    background: $red;
+}
+.propositie__kolom--winst .propositie__lijst li::before {
+    width: 1.7rem;
+    height: 1.9rem;
+    top: 0;
+    background: url(/assets/img/frame-blauw-bullet.svg) center / contain no-repeat;
+}

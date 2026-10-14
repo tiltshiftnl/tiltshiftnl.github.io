@@ -24,9 +24,8 @@ hideBanner: true
 image: /assets/img/mensen/Johan-Groenen-Partner-Tiltshift.jpg
 sliderPhoto: "/assets/img/slider/Johan-Groenen.jpg"
 personImage: /assets/img/mensen/Johan-Groenen-Partner-Tiltshift.jpg
-email: johan@tiltshift.nl
+email: johan.groenen@tiltshift.nl
 linkedInUrl: https://www.linkedin.com/in/jgroenen/
-vcardUrl: https://go.tiltshift.nl/vcard-Johan
 telephone: <a href="tel:+31641518018">+31 (0)6 415 18 0 18</a>
 
 projects:
@@ -50,6 +49,15 @@ Fixxx manier van werken zijn ondertussen een voorbeeld geworden voor hoe overhed
 
 order: 990
 back: ..
+# Resultaten op deze pagina (slugs uit _projecten/); afgeleid uit teamvermeldingen, contactpersonen en eigen projecten
+resultaten:
+  - datalab-amsterdam
+  - digitaal-indelen-straatmarkten
+  - product-management-ruis-politie-amsterdam
+  - opknippen-straatnotes
+  - makkelijke-markt
+  - de-stadspas-die-geen-stadspas-werd
+  - innovatieprogramma-afdeling-wonen
 ---
 
 {{ page.description }}

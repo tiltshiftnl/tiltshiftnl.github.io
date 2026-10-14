@@ -1,0 +1,16 @@
+// Stapnummers en moment in blokken van een reeks (_includes/reeks.html, _includes/blok.html)
+
+.blok__nr {
+    font-family: HelveticaNeueLTPro-Bd, sans-serif;
+    font-size: 2.6rem;
+    line-height: .9;
+    color: $red;
+}
+.blokken > .blok:first-child .blok__nr { font-size: 4rem; }
+.blok__moment {
+    font-family: HelveticaNeueLTPro-Bd, sans-serif;
+    font-size: $font-size-xs;
+    letter-spacing: .08em;
+    text-transform: uppercase;
+}
+.blok--huidig .blok__link { background: $red; }

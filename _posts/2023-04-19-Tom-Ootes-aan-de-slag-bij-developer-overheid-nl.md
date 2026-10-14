@@ -6,7 +6,7 @@ teaser: "Deze maand is Tom bij Developer Overheid NL begonnen als \"Developer en
 description: "Deze maand is Tom bij Developer Overheid NL begonnen als \"Developer en pleitbezorger Open Source\". Hij sluit aan in een erg fijn team dat de inbedding en de community van dit platform organiseert. Broodnodig, want de bruikbaarheid van dit platform moet zo hoog mogelijke worden, voor en met alle IT'ers die bij de overheid werken."
 keywords: "publictech,softwaredesign,softwaredesignthinking,designthinking,developers,overheid"
 hideBanner: true
-image: "assets/img/posts/Tom-Ootes-developer-overheid.png"
+image: "/assets/img/posts/Tom-Ootes-developer-overheid.jpg"
 caption:
 author: Tom Ootes
 ---
@@ -17,7 +17,7 @@ author: Tom Ootes
 > <small>Tom Ootes</small>
 
 <div class="article-image">
-    <img src="/assets/img/posts/Tom-Ootes-developer-overheid.png">
+    <img src="/assets/img/posts/Tom-Ootes-developer-overheid.jpg">
 </div>
 
 [« overzicht van posts](/posts/)

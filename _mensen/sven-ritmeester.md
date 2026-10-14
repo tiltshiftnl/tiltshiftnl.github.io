@@ -22,6 +22,7 @@ telephone:
 currentwork:
 projects:
 previousProjects:
+  Gemeente Rotterdam - meldingen openbare ruimte (MOR): "Bij het MOR-programma van de gemeente Rotterdam was Sven teamcoach en scrum master van het ontwikkelteam. Hij was voorman bij de implementatie in de organisatie, en bouwde als communitymanager de groep gebruikers op die met het nieuwe systeem werkt."
 
 when:
 - als een team richting en energie nodig heeft;

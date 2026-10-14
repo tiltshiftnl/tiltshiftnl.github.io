@@ -5,7 +5,7 @@ title: Tiltshift ondertekent Common Ground Groeipact
 description: "De manier waarop wij werken is uitgegroeid tot dé manier waarop gemeenten samen software willen maken. Dat is tof! Het was voor ons dan ook logisch om Common Ground partner te worden."
 keywords: ""
 hideBanner: true
-image: "assets/img/foto/Wonen-Innovatie-met-Design-Sessies-Afdeling-betrekken.jpg"
+image: "/assets/img/foto/Straatnotes-opknippen-losse-applicaties.jpg"
 caption:
 author: Johan Groenen
 ---

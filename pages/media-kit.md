@@ -1,12 +1,13 @@
 ---
+label: "Media-kit"
 layout: default
 permalink: /media-kit/
 
 title: Media
-description: "Materialen en informatie voor media. Alle materialen zijn vrij te gebruiken onder Creative Commons licentie CC BY-SA Tiltshift (www.tiltshift.nl)."
+description: "Materialen en informatie voor media."
 keywords: 
 
-image: "assets/img/foto/IMG_8562.jpg"
+image: "/assets/img/foto/Schetsen-en-stickies-op-de-muur.jpg"
 caption: 'Fixxx Ideation "Schulddossier", Gemeente&nbsp;Amsterdam'
 ---
 
@@ -16,7 +17,7 @@ Voor interview aanvragen, podcast guest sprekers, hoge resolutie afbeeldingen, s
 
 ## Pers contact
 
-Johan Groenen - [johan@tiltshift.nl](mailto:johan@tiltshift.nl)
+Johan Groenen - [johan.groenen@tiltshift.nl](mailto:johan.groenen@tiltshift.nl)
 
 Wij zijn altijd bereid om te helpen bij media aanvragen en zullen ons best doen om de nodige informatie en materialen toe te sturen.
 
@@ -25,6 +26,6 @@ Wij zijn altijd bereid om te helpen bij media aanvragen en zullen ons best doen 
 In onze media kit vindt je informatie over Tiltshift en een aantal afbeeldingen. Als je iets anders nodig hebt, neem vooral contact op.
 
 - [Over Tiltshift B.V.](/)
-- [Foto's van het kernteam](/assets/img/mensen)
+- [Foto's van het kernteam](/image-library/#mensen)
 - [In actie foto's](/)
 - [Workshop foto's](/)

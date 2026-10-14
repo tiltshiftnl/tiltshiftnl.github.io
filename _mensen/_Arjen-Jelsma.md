@@ -21,8 +21,6 @@ sliderPhoto: "/assets/img/slider/Arjen-Jelsma.jpg"
 personImage: /assets/img/mensen/Arjen-Jelsma-Partner-Tiltshift.jpg
 email: arjen.jelsma@tiltshift.nl
 linkedInUrl: https://www.linkedin.com/in/arjenjelsma/
-vcardUrl: https://go.tiltshift.nl/vcard-arjen
-telephone: <a href="tel:+31615664944">+31 (0)6 15 66 49 44</a>
 
 order: 2400
 back: ..

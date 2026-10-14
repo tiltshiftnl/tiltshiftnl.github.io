@@ -1,4 +1,5 @@
 ---
+label: "Materialen"
 layout: default
 permalink: /materialen/
 
@@ -7,15 +8,13 @@ backlink: /
 title: "Materialen"
 subtitle: Ontwerp innovatie
 
-description: "Materialen ter ondersteuning van de verschillende Tiltshift diensten zijn vrij te gebruiken onder Creative Commons licentie CC BY-SA Tiltshift B.V."
+description: "Materialen en methodes die wij zelf graag gebruiken ter ondersteuning van de verschillende Tiltshift diensten."
 keywords: ""
 
 hideBanner: true
-image: "assets/img/foto/Matrialen-Software-Design-Thinking-Sessie-Workshop.jpg"
+image: "/assets/img/foto/Materialen-Software-Design-Thinking-Sessie-Workshop.jpg"
 caption: 
 ---
 Hieronder vind je een aantal materialen en methodes die wij zelf graag gebruiken ter ondersteuning van de verschillende Tiltshift diensten.
-
-Alle materialen zijn vrij te gebruiken onder Creative Commons licentie CC BY-SA Tiltshift B.V."
 
 {% include collection.md collection=site.materialen %}

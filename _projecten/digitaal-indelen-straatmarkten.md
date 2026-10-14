@@ -53,4 +53,4 @@ Alle verandering is moeilijk. Zeker op een Amsterdamse markt waar alles al jaren
 
 Samen met medewerkers van het marktbureau en ondernemers hebben we de problemen en onduidelijkheden van de dagelijkse indeling op de markt opgelost. Een element dat we niet konden beïnvloeden was de komst van Covid-19. Het heeft de implementatie vertraagd maar niet afgesteld.
 
-{% include cta.html header="Wil je meer weten over Digitaal Indelen?" persoon="johan" %}
+{% include cta.html header="Wil je meer weten over Digitaal Indelen?" persoon="joris" %}

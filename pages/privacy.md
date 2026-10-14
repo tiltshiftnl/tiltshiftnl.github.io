@@ -1,5 +1,7 @@
 ---
+label: "Privacy"
 layout: default
+contactpersoon: joris
 permalink: /privacy/
 
 title: Privacy
@@ -15,7 +17,7 @@ Tiltshift B.V., gevestigd te Heemstede is verantwoordelijk voor de verwerking va
 
 ## Persoonsgegevens die wij verwerken
 
-Tiltshift B.V. verwerkt je persoonsgegevens doordat je hebt aangegeven om op de hoogte te blijven van onze activiteiten en/of omdat je deze gegevens zelf aan ons verstrekt.
+Tiltshift B.V. verwerkt alleen persoonsgegevens die je zelf aan ons verstrekt, in het kader van contact, een overeenkomst en facturatie.
 
 Hieronder vind je een overzicht van de persoonsgegevens die wij verwerken:
 
@@ -24,14 +26,16 @@ Hieronder vind je een overzicht van de persoonsgegevens die wij verwerken:
 - Telefoonnummer;
 - Adresgegevens;
 - Gegevens die nodig zijn in het kader van het uitvoeren van een overeenkomst (bovenop de eerder genoemde persoonsgegevens: bankrekeningnummer en BTW nummer).
-- Gegevens over jouw activiteiten op onze website (Geografische gegevens, internetbrowser en apparaat-type. Deze gegevens zijn niet gekoppeld aan jouw naam of e-mailadres).
 
 ## Met welk doel en op basis van welke grondslag wij persoonsgegevens verwerken
 
 Tiltshift B.V. verwerkt jouw persoonsgegevens voor de volgende doelen:
 
 - Het afhandelen van jouw contactverzoek;
-- Het afhandelen van jouw betaling.
+- Het uitvoeren van een overeenkomst;
+- Facturatie en het afhandelen van jouw betaling.
+
+Wij houden geen bezoekersstatistieken bij en gebruiken geen analytics op deze website.
 
 ## Hoe lang we persoonsgegevens bewaren
 

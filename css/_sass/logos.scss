@@ -10,3 +10,17 @@
         filter: none;
     }
 }
+
+// Opdrachtgever zonder logo: naam als tekst, in dezelfde grijstint als de logo's
+.logo-block__naam {
+    font-family: HelveticaNeueLTPro-Bd, sans-serif;
+    font-size: $font-size-lg;
+    color: #6b6670;
+    text-decoration: none;
+}
+.logo-block:has(.logo-block__naam) { text-decoration: none; }
+
+// Logo's en kaarten linken naar de klantpagina
+a.logo-block { display: flex; align-items: center; justify-content: center; text-decoration: none; }
+a.klant-card { display: block; color: inherit; text-decoration: none; }
+a.klant-card:hover .klant-card__logo img, a.logo-block:hover img { filter: none; }

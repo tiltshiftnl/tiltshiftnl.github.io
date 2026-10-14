@@ -1,4 +1,5 @@
 ---
+published: false # verborgen: werkt niet meer bij Tiltshift
 layout: default
 subject: Matthijs Goense is Tiltshift!
 title: Matthijs Goense is Tiltshift!
@@ -6,7 +7,7 @@ teaser: "Matthijs Goense heeft zich als partner aangesloten bij Tiltshift."
 description: "Matthijs Goense heeft zich als partner aangesloten bij Tiltshift - Uitvoerend leiderschap in digitale transformatie."
 keywords: "uitvoerend leiderschap,partner,publictech,softwaredesign,softwaredesignthinking,designthinking,developers,overheid"
 hideBanner: true
-image: "assets/img/posts/Matthijs-Goense-nieuwe-partner-Tiltshift.jpg"
+image: "/assets/img/posts/Matthijs-Goense-nieuwe-partner-Tiltshift.jpg"
 caption:
 author: Eva Leffef
 ---

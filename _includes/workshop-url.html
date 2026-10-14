@@ -1,0 +1,2 @@
+{%- comment -%}Het actuele adres van een workshop, op naam van het bestand in _sessies/ (bijvoorbeeld crazy-8s). Zo kloppen links ook als de URL-structuur verandert.{%- endcomment -%}
+{%- assign _ws = site.sessies | where_exp: "s", "s.path contains include.naam" | first -%}{{ _ws.url | strip }}

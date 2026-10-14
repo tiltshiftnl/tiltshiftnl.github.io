@@ -1,57 +1,48 @@
+// Gekantelde rode en blauwe vlakken (12° en 6°), kruisend in het midden.
+// Met clip-path i.p.v. gedraaide rechthoeken: schaalt met de schermbreedte,
+// wordt nooit afgeknipt en loopt altijd door tot onderaan de footer.
+$footer-red-drop: 21.26vw;   // 100vw * tan(12deg)
+$footer-blue-top: 5.34vw;    // waar de 6°-lijn links begint
+$footer-blue-drop: 15.86vw;  // waar de 6°-lijn rechts eindigt
+
 .footer{
     position: relative;
     overflow: hidden;
-    z-index: 1;
+    isolation: isolate;
     margin-top: $gutter-md;
+    padding-top: $footer-red-drop;
     @media screen and (min-width: $breakpoint-md) {
         margin-top: 4.5rem;
     }
 
+    &::before,
+    &::after{
+        content: "";
+        position: absolute;
+        inset: 0;
+        z-index: -1;
+    }
+    &::before{
+        background-color: $red;
+        clip-path: polygon(0 0, 100% $footer-red-drop, 100% 100%, 0 100%);
+    }
+    &::after{
+        background-color: $primair-blauw;
+        mix-blend-mode: multiply;
+        clip-path: polygon(0 $footer-blue-top, 100% $footer-blue-drop, 100% 100%, 0 100%);
+    }
+
     &__inner{
         margin: 0 auto 0;
-        padding: 6rem 0 0;
+        padding: 0;
         display: flex;
         flex-direction: column;
         justify-content: flex-start;
         position: relative;
 
         @media screen and (min-width: $breakpoint-md) {
-            margin: 3rem auto 0;
             flex-direction: column;
             justify-content: space-between;
-        }
-
-        &__blue-sheet{
-            background-color: $primair-blauw;
-            transform: rotate(6deg);
-            width: calc(100% + 400px);
-            mix-blend-mode: multiply;
-            position: absolute;
-            height: 64rem;
-            margin-left: -200px;
-            @media screen and (min-width: $breakpoint-md) {
-                height: 60rem;
-                height: 911px;
-                width: calc(100% + 400px);
-                margin-left: -200px;
-            }
-        }
-
-        &__red-sheet{
-            background-color: $red;
-            transform: rotate(12deg);
-            width: 100%;
-            mix-blend-mode: multiply;
-            position: absolute;
-            height: 64rem;
-            width: calc(100% + 400px);
-            margin-left: -200px;
-            @media screen and (min-width: $breakpoint-md) {
-                height: 60rem;
-                height: 911px;
-                width: calc(100% + 400px);
-                margin-left: -200px;
-            }
         }
 
         &__columns-row{
@@ -59,10 +50,9 @@
             flex-direction: column;
             z-index: 99;
             color: $white;
-            margin-top: 2rem;
+            margin-top: 0; // bovenkant gelijk met waar het donkere vlak de rechterrand raakt
 
             @media screen and (min-width: $breakpoint-xl) {
-                margin-top: 6rem;
                 flex-direction: row;
             }
 

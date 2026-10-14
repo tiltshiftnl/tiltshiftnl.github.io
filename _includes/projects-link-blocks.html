@@ -7,6 +7,6 @@
     <!-- <h2>{{title}}</h2> -->
     <!-- <p class="plane__introduction">{{intro}}</p> -->
     {% for project in projecten  %}
-        {% include image-link-block.html image=project.featured_image title=project.title excerpt=project.excerpt url=project.url %}
+        {% include image-link-block.html image=project.image title=project.title excerpt=project.excerpt url=project.url %}
     {% endfor %}
 </div>

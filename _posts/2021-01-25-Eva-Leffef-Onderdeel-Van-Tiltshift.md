@@ -1,11 +1,12 @@
 ---
+published: false # verborgen: werkt niet meer bij Tiltshift
 layout: default
 subject: mensen
 title: Eva Leffef onderdeel van Tiltshift
 description: "Hoe we een arbeidsovereenkomst tekenen in tijden van social distancing? Gewoon, op gepaste afstand, op kantoor."
 keywords: ""
 hideBanner: true
-image: "assets/img/foto/Wonen-Innovatie-met-Design-Sessies-Afdeling-betrekken.jpg"
+image: "/assets/img/posts/Eva-Leffef-tekent-en-is-onderdeel-van-Tiltshift.jpg"
 caption: ''
 author: Joris Boeren
 ---

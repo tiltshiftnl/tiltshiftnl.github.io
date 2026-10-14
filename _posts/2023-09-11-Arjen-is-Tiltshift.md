@@ -1,4 +1,5 @@
 ---
+published: false # verborgen: werkt niet meer bij Tiltshift
 layout: default
 subject: Arjen Jelsma is Tiltshift!
 title: Arjen Jelsma is Tiltshift!
@@ -6,7 +7,7 @@ teaser: "Arjen Jelsma heeft zich als partner aangesloten bij Tiltshift."
 description: "Arjen Jelsma heeft zich als partner aangesloten bij Tiltshift - Uitvoerend leiderschap in digitale transformatie."
 keywords: "uitvoerend leiderschap,partner,publictech,softwaredesign,softwaredesignthinking,designthinking,developers,overheid"
 hideBanner: true
-image: "assets/img/posts/Arjen-Jelsma-tekent-als-partner-bij-Tiltshift.jpg"
+image: "/assets/img/posts/Arjen-Jelsma-tekent-als-partner-bij-Tiltshift.jpg"
 caption:
 author: Eva Leffef
 ---

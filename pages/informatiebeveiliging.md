@@ -1,4 +1,5 @@
 ---
+label: "Informatiebeveiliging"
 layout: default
 permalink: /informatiebeveiliging/
 

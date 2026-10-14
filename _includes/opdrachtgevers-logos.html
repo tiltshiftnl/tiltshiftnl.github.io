@@ -1,0 +1,12 @@
+{% comment %}Logo's van een lijst opdrachtgevers. Parameter: klanten (lijst slugs uit _klanten/).{% endcomment %}
+<div class="container-md"><div class="logos even-blocks-grid">
+    {% for slug in include.klanten %}
+        {% assign klant_url = "/klanten/" | append: slug | append: "/" %}
+        {% assign klant = site.klanten | where: "url", klant_url | first %}
+        {% if klant %}
+        <a class="logo-block" href="{{ klant.url }}">
+            {% if klant.logo %}<img src="{{ klant.logo }}" alt="{{ klant.title }}"{% if klant.logo_width %} style="width: {{ klant.logo_width }}px"{% endif %}>{% else %}<span class="logo-block__naam">{{ klant.title }}</span>{% endif %}
+        </a>
+        {% endif %}
+    {% endfor %}
+</div></div>

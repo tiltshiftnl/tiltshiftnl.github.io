@@ -18,7 +18,6 @@ personImage: /assets/img/mensen/Joris-Boeren-Partner-Tiltshift.jpg
 email: joris.boeren@tiltshift.nl
 linkedInUrl: https://www.linkedin.com/in/jorisboeren/
 telephone: <a href="tel:+31307210868">+31 (0)30 721 08 68</a>
-vcardUrl: https://go.tiltshift.nl/vcard-joris
 
 currentwork: "<h2>Hier werk ik aan</h2><h3>Woonstad Rotterdam - productmanager vernieuwing (MT)</h3><p>Woonstad Rotterdam is een grote woningcorporatie in Rotterdam. Na een opdracht als wegbereider van een digitale transformatie is Joris gevraagd als productmanager vernieuwing (lid van MT). Met zes Agile teams werkt hij aan het radicaal vernieuwen van het digitale landschap van de organisatie. Radicaal omdat alles in korte tijd volledig op de schop gaat. Radicaal omdat we de traditionele software van de branche verlaten. Radicaal omdat de verantwoordelijkheid voor de roadmaps laag in de organisatie zijn gelegd, in een samenwerking tussen ‘business’ en ‘it’.  Woonstad Rotterdam doet hiermee wat nodig is om haar doel, een betrokken en betrouwbare huisbaas zijn,  nog beter invulling te geven.</p>
 <p>Als productmanager vernieuwing ontwikkelt Joris de visie en houdt hij de domeinteams (klant, buurten, vastgoed, exploitatie en bedrijfsvoering) en twee ondersteunende teams (web/frontend en data) inhoudelijk op koers. Tegelijkertijd representeert hij als MT-lid de visie en de teams op directieniveau.</p>"
@@ -51,6 +50,15 @@ Joris inventariseerde de wensen en te behalen doelen en ontwikkelde een portfoli
 
 order: 980
 back: ..
+# Resultaten op deze pagina (slugs uit _projecten/); afgeleid uit teamvermeldingen, contactpersonen en eigen projecten
+resultaten:
+  - digitaal-indelen-straatmarkten
+  - van-verouderde-it-naar-innovatieve-digitale-woningcorporatie
+  - careyn-ontzorgt
+  - innovatieprogramma-afdeling-wonen
+  - schulddossier-voor-betere-samenwerking-in-de-keten
+  - datalab-amsterdam
+  - makkelijke-markt
 ---
 
 {{ page.description }}

@@ -1,0 +1,8 @@
+{% comment %}
+Mensen als rijen (zie _includes/mensen-rij.html), om en om links en rechts.
+Parameters: zonder (url van een persoon die je niet wilt tonen, bijvoorbeeld de huidige pagina).
+{% endcomment %}
+{% assign mensen = site.mensen | sort: "order" %}
+<ul class="mensen-rijen">
+    {% for persoon in mensen %}{% unless persoon.url == include.zonder %}{% include mensen-rij.html persoon=persoon %}{% endunless %}{% endfor %}
+</ul>

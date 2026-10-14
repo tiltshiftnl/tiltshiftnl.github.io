@@ -1,4 +1,5 @@
 ---
+label: "Algoritmeregister"
 layout: default
 permalink: /algoritmeregister-metadata-standaard/
 
@@ -10,7 +11,7 @@ forward: "https://www.algoritmeregister.org"
 description: ""
 keywords: ""
 
-image: "assets/img/foto/IMG_8562.jpg"
+image: "/assets/img/foto/Schetsen-en-stickies-op-de-muur.jpg"
 caption: 'Fixxx Ideation "Schulddossier", Gemeente&nbsp;Amsterdam'
 ---
 Tiltshift stond aan de wieg van het Algoritmeregister voor de Nederlandse Overheid en heeft dit project succesvol overgedragen naar het Ministerie van Binnenlandse Zaken en Koninkrijksrelaties. Het Algoritmeregister is een initiatief van de Nederlandse overheid om transparantie te bieden over algoritmes die door de overheid worden gebruikt.

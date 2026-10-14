@@ -23,7 +23,7 @@ excerpt: "Met één heldere visie en de opbouw van een wendbare, slagvaardige or
 
 back: ..
 ---
-Stichting Woonstad Rotterdam wil voorop blijven lopen als woningcorporatie en zet hoog in op digitalisering. De ambitie? Een organisatie waar technologie bewoners en medewerkers écht ondersteunt, niet belemmert. Maar met een verouderd IT-systeem en talrijke losse initiatieven was er meer nodig dan alleen een plan. [Joris Boeren](../mensen/joris-boeren/), partner bij Tiltshift, kreeg de taak om de digitale transformatie in goede banen te leiden én in gang te zetten.
+Stichting Woonstad Rotterdam wil voorop blijven lopen als woningcorporatie en zet hoog in op digitalisering. De ambitie? Een organisatie waar technologie bewoners en medewerkers écht ondersteunt, niet belemmert. Maar met een verouderd IT-systeem en talrijke losse initiatieven was er meer nodig dan alleen een plan. [Joris Boeren](/mensen/joris-boeren/), partner bij Tiltshift, kreeg de taak om de digitale transformatie in goede banen te leiden én in gang te zetten.
 
 <div class="article-image">
     <img src="/assets/img/foto/Woonstad-Herinrichting-ICT-afdeling.jpg" alt="Een groep mensen zit rond een vergadertafel in een modern kantoor en is verwikkeld in een discussie. De muren zijn van glas en er hangen sticky notes op.">

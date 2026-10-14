@@ -5,7 +5,7 @@ title: Vijf redenen voor de overheid om te kiezen voor open source
 description: "De overheid zegt primair open source te gaan werken. Maar in de praktijk is dat nog nauwelijks zo, op een enkele vooruitstrevende gemeente na. De vorig jaar ingezette beleidslijn 'open tenzij' blijkt in de praktijk nog flinterdun."
 keywords: "open source, overheid, good public tech"
 hideBanner: true
-image: /assets/img/foto/Wonen-Innovatie-met-Design-Sessies-Afdeling-betrekken.jpg
+image: "/assets/img/foto/Straatnotes-Veilig-Notities-maken-op-straat-jeugdoverlast.jpg"
 caption: ''
 author: Joris Boeren en Johan Groenen
 ---

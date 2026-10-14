@@ -1,6 +1,6 @@
 <head>
   <meta charset="utf-8" />
-  <title>{{ page.title | replace: "<br>", " " }}</title>
+  <title>{{ page.seo_title | default: page.title | replace: "<br>", " " }}</title>
   <meta name="viewport" content="width=device-width, initial-scale=1" />
   <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png" />
   <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png" />
@@ -13,6 +13,8 @@
   <meta property="og:title" content='{{ page.title | replace: "<br>", " " }}' />
   <meta property="og:description" content="{{ page.description }}" />
   <meta name="description" content="{{ page.description }}" />
+  <link rel="me" href="https://mastodon.nl/@tiltshift" />
+  {% if page.noindex %}<meta name="robots" content="noindex" />{% endif %}
   <meta property="og:image" content="{{ page.image }}" />
   <link rel="image_src" href="{{ page.image }}" />
   <meta

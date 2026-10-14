@@ -1,0 +1,35 @@
+{% comment %}
+Eén persoon als rij: groot portret met gekanteld rood vlak, naam groot ernaast en half over de foto.
+Parameters: persoon (een document uit _mensen/), hoofd (true op de eigen pagina: naam als h1, met contactgegevens).
+{% endcomment %}
+{% assign p = include.persoon %}
+<li class="mensen-rij{% if include.hoofd %} mensen-rij--hoofd{% endif %}">
+    {% if include.hoofd %}
+    <span class="mensen-rij__foto"><img src="{{ p.personImage | default: p.image }}" alt="Foto van {{ p.title }}"></span>
+    {% else %}
+    <a class="mensen-rij__foto" href="{{ p.url }}" tabindex="-1" aria-hidden="true"><img src="{{ p.personImage | default: p.image }}" alt="" loading="lazy"></a>
+    {% endif %}
+    <div class="mensen-rij__tekst">
+        {% if p.role %}<p class="mensen-rij__rol">{{ p.role }}</p>{% endif %}
+        {% if include.hoofd %}
+        <h1 class="mensen-rij__naam"><span>{{ p.firstname }}</span><br><span>{{ p.lastname }}</span></h1>
+        {% else %}
+        <h3 class="mensen-rij__naam"><a href="{{ p.url }}"><span>{{ p.firstname }}</span><br><span>{{ p.lastname }}</span></a></h3>
+        {% endif %}
+        {% if p.quote %}<p class="mensen-rij__quote">{{ p.quote }}</p>{% endif %}
+        {% if include.hoofd %}
+        {% assign tel = p.telephone | split: 'tel:' | last | split: '"' | first | strip %}
+        {% assign tel_display = p.telephone | strip_html | strip %}
+        {% assign vcard_url = p.url | split: "/" | last | prepend: "/vcard/" | append: ".vcf" %}
+        {% assign vcard = site.pages | where: "url", vcard_url | first %}
+        <dl class="mensen-rij__contact">
+            {% if p.telephone and tel_display != "" %}<dt>Telefoon</dt><dd><a href="tel:{{ tel }}">{{ tel_display }}</a></dd>{% endif %}
+            {% if p.email %}<dt>E-mail</dt><dd><a href="mailto:{{ p.email }}">{{ p.email }}</a></dd>{% endif %}
+            {% if p.linkedInUrl %}<dt>LinkedIn</dt><dd><a href="{{ p.linkedInUrl }}">{{ p.linkedInUrl | remove: "https://www." | remove: "https://" }}</a></dd>{% endif %}
+            {% if vcard %}<dt>vCard</dt><dd><a href="{{ vcard_url }}" download>Downloaden</a></dd>{% endif %}
+        </dl>
+        {% else %}
+        <a class="mensen-rij__link" href="{{ p.url }}">Meer over {{ p.firstname }} <span aria-hidden="true">→</span></a>
+        {% endif %}
+    </div>
+</li>

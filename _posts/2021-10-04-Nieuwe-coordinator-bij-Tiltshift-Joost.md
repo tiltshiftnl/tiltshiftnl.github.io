@@ -1,4 +1,5 @@
 ---
+published: false # verborgen: werkt niet meer bij Tiltshift
 layout: default
 subject: mensen
 title: Nieuwe coördinator bij Tiltshift Joost

@@ -18,6 +18,7 @@
           </div>
         {% endif %}
 
+        {% include pagina-label.html %}
         <h1>{{ page.title }}</h1>
 
         {% if page.description %}
@@ -43,19 +44,20 @@
         {{ content }}
 
         {% if page.projecten.size > 0 %}
-          <h2>Projecten</h2>
+          <h2>Resultaten</h2>
           <div class="grid grid--three">
             {% for slug in page.projecten %}
               {% assign project_url = "/projecten/" | append: slug | append: "/" %}
               {% assign project = site.projecten | where: "url", project_url | first %}
               {% if project %}
-                {% include image-link-block.html image=project.featured_image title=project.title excerpt=project.excerpt url=project.url %}
+                {% include image-link-block.html image=project.image title=project.title excerpt=project.excerpt url=project.url %}
               {% endif %}
             {% endfor %}
           </div>
         {% endif %}
 
       </div>
+    {% unless page.contactblok == false %}{% include cta.html persoon=page.contactpersoon %}{% endunless %}
     </main>
 
     <footer>{% include footer.html %}</footer>

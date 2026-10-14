@@ -10,7 +10,7 @@ labels: []
 
 projecten: []
 
-image: /assets/img/foto/IMG_9715.JPG
+image: /assets/img/foto/Forza-MOR-programma-dienstverlening-MOR-domein-Rotterdam.jpg
 caption: 'Discovery "Digitaal Indelen Straatmarkten", Gemeente&nbsp;Amsterdam'
 
 logo: /assets/img/relaties/gemeente-rotterdam.svg

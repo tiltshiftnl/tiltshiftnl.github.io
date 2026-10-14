@@ -1,0 +1,7 @@
+{% comment %}Korte genummerde stappen: titel en een regel (kort). Parameters: items, start (standaard 1).{% endcomment %}
+{% assign nr = include.start | default: 1 %}
+<ol class="stappen-kort">
+    {% for stap in include.items %}
+    <li><span class="stappen-kort__nr" aria-hidden="true">{{ nr | plus: forloop.index0 }}</span><strong>{{ stap.titel }}</strong>{% if stap.kort %}<span class="stappen-kort__regel">{{ stap.kort }}</span>{% endif %}</li>
+    {% endfor %}
+</ol>
