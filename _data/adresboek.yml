@@ -19,8 +19,8 @@ functies:
     tel_display: "+31 (0)20 722 02 07"
     belegd_bij: johan
     gebruikt_op:
-      - "Contactblok, algemeen (info in _data/mensen.yml)"
-      - "Contactblok Johan (_data/mensen.yml)"
+      - "Contactblok, algemeen (info in _data/mensen.yml): standaard op pagina's zonder contactpersoon"
+      - "Contactblok Johan: /intake-en-advies/, /projecten/, /mensen/johan-groenen/"
       - "Footer, Contact algemeen (_includes/footer.html)"
       - "/contact/, omschrijving en Algemene vragen, intake en advies (pages/contact.md)"
 
@@ -31,8 +31,7 @@ functies:
     tel_display: "+31 (0)30 721 08 68"
     belegd_bij: joris
     gebruikt_op:
-      - "Contactblok Joris (_data/mensen.yml)"
-      - "/mensen/joris-boeren/"
+      - "Contactblok Joris: /workshops/, alle workshoppagina's (standaard in _layouts/sessie.html), /boeken/, /privacy/, /mensen/joris-boeren/"
       - "/contact/, Offertes, facturen en administratie (pages/contact.md)"
       - "Footer, Contact administratie (_includes/footer.html)"
       - "_includes/contact-info.html (niet in gebruik)"
@@ -48,13 +47,11 @@ mobiel:
     tel: "+31650222771"
     tel_display: "+31 (0)6 50 22 27 71"
     gebruikt_op:
-      - "Contactblok Maarten (_data/mensen.yml)"
+      - "Contactblok Maarten: /begeleiding/, /mensen/maarten-geraets/"
       - "/contact/, Geplande en lopende projecten (pages/contact.md)"
-      - "/mensen/maarten-geraets/"
 
   - persoon: rutger
     tel: "+31628131889"
     tel_display: "+31 (0)6 28 13 18 89"
     gebruikt_op:
-      - "Contactblok Rutger (_data/mensen.yml)"
-      - "/mensen/rutger-dik/"
+      - "Contactblok Rutger: /mensen/rutger-dik/"

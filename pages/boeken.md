@@ -1,7 +1,8 @@
 ---
 layout: default
 contactblok_kop: "Of bel direct."
-contactblok_tekst: "Liever meteen even overleggen? Bel of mail ons gerust."
+contactblok_tekst: "Liever meteen even overleggen? Bel of mail gerust."
+contactpersoon: joris
 label: "Boeken"
 permalink: /boeken/
 sitemap:

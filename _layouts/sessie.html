@@ -44,7 +44,9 @@ layout: default
 {% endif %}
 
 {% capture cta_tekst %}We beginnen met een korte intake: samen kijken we of de {{ page.title }} past bij jouw vraag. Daarna krijg je een vrijblijvende offerte.{% endcapture %}
-{% include cta.html header=page.cta_kop description=cta_tekst persoon=page.contactpersoon knop_link=boek_link knop_tekst=boek_tekst %}
+{% comment %}Workshops lopen via Joris; per workshop aan te passen met contactpersoon: in de front matter.{% endcomment %}
+{% assign contactpersoon = page.contactpersoon | default: "joris" %}
+{% include cta.html header=page.cta_kop description=cta_tekst persoon=contactpersoon knop_link=boek_link knop_tekst=boek_tekst %}
 
 {% assign andere = site.sessies | where_exp: "s", "s.url != page.url" | sort: "order" %}
 {% if andere.size > 0 %}

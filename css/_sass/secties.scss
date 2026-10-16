@@ -104,6 +104,9 @@ $sectie-beeld: 504px; // tekst + tussen + beeld = 1024px, de inhoudsbreedte van 
         font-size: clamp(2rem, 4.4vw, 2.8rem);
         line-height: 1.04;
         letter-spacing: -.02em;
+        // Vangnet: een woord dat breder is dan de kolom breekt af in plaats van over het beeld te lopen.
+        // Zet bij lange samenstellingen zelf een &shy; in de kop (bijvoorbeeld uitvoerings&shy;domeinen).
+        overflow-wrap: break-word;
     }
     &__intro {
         margin: 0 0 1.4rem;

@@ -27,4 +27,4 @@ stappen:
 
 {% include resultaten-sectie.html slugs="open-zaak-samenwerken,de-stadspas-die-geen-stadspas-werd,product-management-ruis-politie-amsterdam" %}
 
-{% include cta.html header="Samen kiezen?" description="Vertel kort wat er speelt. Samen kiezen we de workshop die het beste bij je vraag past." knop_link="/boeken/?workshop=weet-ik-nog-niet" knop_tekst="Neem contact op" %}
+{% include cta.html header="Samen kiezen?" persoon="joris" description="Vertel kort wat er speelt. Samen kiezen we de workshop die het beste bij je vraag past." knop_link="/boeken/?workshop=weet-ik-nog-niet" knop_tekst="Neem contact op" %}

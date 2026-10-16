@@ -195,7 +195,7 @@ De foto is het portret uit `_data/mensen.yml` (veld `portret`). Het veld `img` i
 
 ### Sectie
 
-Een losstaand blok op een pagina: label, kop, tekst en link, met een beeld ernaast. Met `knop=true` wordt de link een zwarte knop, voor de belangrijkste actie. Secties wisselen vanzelf af: de eerste heeft de tekst links en het beeld rechts, de volgende andersom. Je geeft dat niet zelf aan.
+Een losstaand blok op een pagina: label, kop, tekst en link, met een beeld ernaast. Met `knop=true` wordt de link een zwarte knop, voor de belangrijkste actie. De tekst kan uit meer alinea's bestaan: maak hem dan met `capture` en zet elke alinea op een eigen regel, zoals bij "In-house teams" op [/begeleiding/](/begeleiding/). Secties wisselen vanzelf af: de eerste heeft de tekst links en het beeld rechts, de volgende andersom. Je geeft dat niet zelf aan. Past een lang woord in de kop niet in de tekstkolom (zoals "uitvoeringsdomeinen"), zet er dan zelf een `&shy;` in: `uitvoerings&shy;domeinen`. De browser breekt het woord dan alleen daar af, en alleen als het nodig is.
 
 - **Vanaf 1280 pixels**: twee kolommen. De tekst staat op de inhoudskolom, het beeld loopt door tot de schermrand en het rode vlak steekt uit naar de schermrand. Tekst en beeld lijnen boven uit, met veel ruimte boven de sectie.
 - **Tussen 768 en 1280 pixels**: onder elkaar, het beeld schermbreed in 3:2.
@@ -275,7 +275,7 @@ Een lijst met lege vinkvakjes, voor wat er geregeld moet worden. Op een workshop
 
 ### Terugbelformulier
 
-Twee velden: "E-mail of telefoon" (verplicht) en "Extra info" (optioneel). Zonder API opent het een vooraf ingevulde e-mail aan het adres bij `mail` in `_data/terugbellen.yml` (johan.groenen@). Staat er een adres bij `endpoint` in `_data/terugbellen.yml`, dan stuurt het een POST met JSON naar de eigen mini-API (`contact`, `info`, `pagina`, `url`). Mislukt dat, dan valt het terug op e-mail. Een verborgen veld `website` vangt spambots af. Het formulier staat in het contactblok met `formulier=true`. Op de pagina [/boeken/](/boeken/) staat het met een keuzelijst van workshops (`kies=true`); met `?workshop=crazy-8s` in de URL is de juiste workshop al gekozen. Met `?workshop=weet-ik-nog-niet` staat "Weet ik nog niet" gekozen; zo linkt de knop "Neem contact op" op [/workshops/](/workshops/). De workshoppagina's linken daarheen met hun knop "Boek deze workshop". Naam, telefoon en e-mail staan dan onder de foto.
+Twee velden: "E-mail of telefoon" (verplicht) en "Extra info" (optioneel). Zonder API opent het een vooraf ingevulde e-mail aan het adres bij `mail` in `_data/terugbellen.yml` (joris.boeren@, die de workshops doet). Staat er een adres bij `endpoint` in `_data/terugbellen.yml`, dan stuurt het een POST met JSON naar de eigen mini-API (`contact`, `info`, `pagina`, `url`). Mislukt dat, dan valt het terug op e-mail. Een verborgen veld `website` vangt spambots af. Het formulier staat in het contactblok met `formulier=true`. Op de pagina [/boeken/](/boeken/) staat het met een keuzelijst van workshops (`kies=true`); met `?workshop=crazy-8s` in de URL is de juiste workshop al gekozen. Met `?workshop=weet-ik-nog-niet` staat "Weet ik nog niet" gekozen; zo linkt de knop "Neem contact op" op [/workshops/](/workshops/). De workshoppagina's linken daarheen met hun knop "Boek deze workshop". Naam, telefoon en e-mail staan dan onder de foto.
 
 {% include cta.html header="Zullen we je terugbellen?" persoon="johan" formulier=true onderwerp="Design system" %}
 
@@ -360,5 +360,5 @@ De templates gevuld met echte inhoud.
 - [Home](/): een inleiding onder de titel en vier secties. Workshop-etalage, begeleiding met foto-paneel, en resultaten en opdrachtgevers als brede secties
 - [Workshops](/workshops/): de workshops als blokken, begeleiding als sectie, stappen en contactblok
 - [Crazy 8's-workshop]({% include workshop-url.html naam="crazy-8s" %}): de `sessie`-template
-- [Begeleiding](/begeleiding/): quote, secties met foto-paneel, resultaten als brede sectie, de aanpak als tekstsecties en secties met foto, en het contactblok
-- [Mensen](/mensen/): twee secties met foto-paneel en quote, en de mensen als rijen in een brede sectie
+- [Begeleiding](/begeleiding/): quote, drie secties met foto-paneel, resultaten als brede sectie en het contactblok
+- [Over ons](/mensen/): een sectie met foto-paneel en quote, de mensen als rijen in een brede sectie, en hoe we werken als tekstsecties en secties met foto

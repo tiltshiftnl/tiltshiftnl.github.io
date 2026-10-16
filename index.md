@@ -3,7 +3,7 @@ label: "Werken aan publieke tech"
 layout: default
 hideform: true
 
-title: "Software voor de mensen die het moeten doen."
+title: "Software voor de mensen die het doen."
 seo_title: "Tiltshift – Werken aan publieke tech"
 # "Voor wie écht wil beginnen met digitale transformatie of waar interne digitalisering vast loopt"
 description: "Tiltshift organiseert en begeleidt workshops en projecten in publieke digitalisering, zoals software design thinking, opensourcewerken en publieke code. In workshops van één dag maken we samen met het ontwikkelteam, de organisatie en de gebruikers helder wat de volgende stap is."
