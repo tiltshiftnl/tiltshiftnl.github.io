@@ -227,8 +227,8 @@ Alinea's, lijsten en quotes in markdown.
 
 Met `breed=true` staat het beeld niet naast de tekst maar eronder, over de volle breedte. Het tekstblok verspringt dan links en rechts. Zo staan opdrachtgevers en resultaten op de home.
 
-<pre class="ds-code container-sm"><code>{% raw %}{% capture resultaten %}{% include projects-homepage.html zonder_kop=true %}{% endcapture %}
-{% include sectie.html breed=true label="Resultaten" kop="Uitgelichte resultaten" tekst="..." beeld=resultaten %}{% endraw %}</code></pre>
+<pre class="ds-code container-sm"><code>{% raw %}{% capture opdrachtgevers %}{% include klanten-uitgelicht.html %}{% include logos-relaties.html %}{% endcapture %}
+{% include sectie.html breed=true label="Opdrachtgevers" kop="Voor wie we werken" tekst="..." beeld=opdrachtgevers %}{% endraw %}</code></pre>
 
 ### Blokken
 
@@ -304,6 +304,14 @@ Een sectie die naar [/begeleiding/](/begeleiding/) verwijst. Kop en tekst komen 
 Drie resultaten naast elkaar. Met `slugs` kies je welke, zonder `slugs` toont het blok de resultaten met `featured: true`.
 
 <pre class="ds-code container-sm"><code>{% raw %}{% include projects-homepage.html title="Resultaten van begeleiding" slugs="slug-1,slug-2,slug-3" %}{% endraw %}</code></pre>
+
+### Resultaten-sectie
+
+{% include resultaten-sectie.html %}
+
+De resultaten als brede sectie met een link naar alle resultaten, zoals op home, /begeleiding/ en de pagina's van mensen. Kop en tekst komen uit `teaser:` in `pages/projecten.md`, zodat ze overal gelijk blijven. Met `slugs` kies je de resultaten, met `kop` en `tekst` wijk je af (op een persoonspagina: "… in actie" met de voornaam, zonder tekst).
+
+<pre class="ds-code container-sm"><code>{% raw %}{% include resultaten-sectie.html slugs="slug-1,slug-2,slug-3" %}{% endraw %}</code></pre>
 
 ### Opdrachtgevers
 

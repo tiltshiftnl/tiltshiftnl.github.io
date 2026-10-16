@@ -35,8 +35,7 @@ teaser:
 {% include valprop.html title="Design sprints" description="Snel toetsen of een idee in de praktijk werkt. We komen één week langs om het concreet te maken, uit te werken, werkend te krijgen en te testen met gebruikers." image="/assets/img/foto/Schulddossier-Design-Thinking-Schulddienstverlening.jpg" %}
 -->
 
-{% capture resultaten %}{% include projects-homepage.html zonder_kop=true slugs="van-verouderde-it-naar-innovatieve-digitale-woningcorporatie,digitaal-indelen-straatmarkten,de-stadspas-die-geen-stadspas-werd" %}{% endcapture %}
-{% include sectie.html breed=true label="Resultaten" kop="Resultaten van begeleiding" link="/projecten/" linktekst="Alle resultaten" beeld=resultaten %}
+{% include resultaten-sectie.html slugs="van-verouderde-it-naar-innovatieve-digitale-woningcorporatie,digitaal-indelen-straatmarkten,de-stadspas-die-geen-stadspas-werd" %}
 
 {% capture inhoud %}
 Gedoe komt er toch.

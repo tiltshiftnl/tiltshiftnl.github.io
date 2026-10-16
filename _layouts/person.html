@@ -29,9 +29,8 @@
 
       {% if page.resultaten.size > 0 %}
         {% assign slugs = page.resultaten | join: "," %}
-        {% capture resultaten %}{% include projects-homepage.html zonder_kop=true slugs=slugs %}{% endcapture %}
-        {% assign resultaten_kop = "Resultaten met " | append: page.firstname %}
-        {% include sectie.html breed=true label="Resultaten" kop=resultaten_kop link="/projecten/" linktekst="Alle resultaten" beeld=resultaten %}
+        {% assign resultaten_kop = page.firstname | append: " in actie" %}
+        {% include resultaten-sectie.html slugs=slugs kop=resultaten_kop tekst="" %}
       {% endif %}
 
       {% capture anderen %}{% include mensen-rijen.html zonder=page.url %}{% endcapture %}

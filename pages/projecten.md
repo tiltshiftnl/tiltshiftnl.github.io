@@ -10,6 +10,11 @@ description: "In ieder Tiltshift project gaan we altijd als eerste terug naar de
 keywords: ""
 hideBanner: true
 image: "/assets/img/foto/Probleem-gedreven-innovatie-Digitaliserings-Projecten.jpg"
+
+# Korte versie voor op andere pagina's (home, /begeleiding/, mensen), via _includes/resultaten-sectie.html
+teaser:
+  kop: "Onze succesverhalen"
+  tekst: "Voorbeelden van waarom je Tiltshift erbij haalt."
 caption:
 ---
 Digitale transformatie klinkt als een enorm ingewikkeld en groot proces. Maar in de praktijk begint de echte verandering altijd met een eerste project. Pas als je aan de slag gaat met veranderen van de praktijk, wordt echt duidelijk wat daar allemaal voor nodig is.

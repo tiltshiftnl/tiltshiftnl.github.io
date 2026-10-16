@@ -1,0 +1,11 @@
+{% comment %}
+Brede sectie met resultaten en een link naar /projecten/. Kop en tekst komen uit `teaser:` in pages/projecten.md.
+Parameters: slugs (komma-gescheiden; zonder slugs de resultaten met featured: true), kop en tekst (wijken af van de teaser;
+tekst="" laat de tekst weg).
+{% endcomment %}
+{% assign resultaten_pagina = site.pages | where: "url", "/projecten/" | first %}
+{% assign resultaten_kop = include.kop | default: resultaten_pagina.teaser.kop %}
+{% if include.tekst == nil %}{% assign resultaten_tekst = resultaten_pagina.teaser.tekst %}{% else %}{% assign resultaten_tekst = include.tekst %}{% endif %}
+{% capture resultaten_beeld %}{% include projects-homepage.html zonder_kop=true slugs=include.slugs %}{% endcapture %}
+{% if resultaten_tekst == "" %}{% assign resultaten_tekst = nil %}{% endif %}
+{% include sectie.html breed=true label="Resultaten" kop=resultaten_kop tekst=resultaten_tekst link="/projecten/" linktekst="Alle resultaten" beeld=resultaten_beeld %}
