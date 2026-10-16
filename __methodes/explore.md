@@ -47,5 +47,5 @@ In de derde week kiezen we de onderwerpen die zich het best lenen voor realisati
 We voeren een Explore uit in een doorlooptijd van drie weken. We houden korte interviews met met de medewerkers en organiseren en faciliteren de sessies rondom 'waardeer' en 'kies'. Op deze manier ontwikkelen we de startpunten voor innovatie, zowel in de mindset van de medewerkers als op papier. 
 
 ## Meer weten over concrete problemen in kaart brengen tijdens een Explore
-[Neem contact met ons op of maak gelijk een afspraak](/intake-en-advies).
+[Neem contact op of maak gelijk een afspraak](/intake-en-advies).
 

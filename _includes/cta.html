@@ -1,6 +1,7 @@
 {% comment %}
 Contactblok. Het portret en de naam horen bij wie het nummer opneemt (_data/adresboek.yml):
-bij een vaste lijn wie die functie nu belegd heeft, bij een mobiel nummer de eigenaar.
+bij een vaste lijn wie die functie nu belegd heeft, bij een mobiel nummer de eigenaar. Het e-mailadres is altijd
+het persoonlijke adres van die persoon; info@ en administratie@ staan alleen op /contact/ en in de footer.
 Parameters: header, description, persoon (sleutel uit _data/mensen.yml; zonder: algemeen),
 formulier (true: "bel mij terug"-formulier), onderwerp, kies (keuzelijst met workshops),
 knop_link en knop_tekst (een zwarte knop, bijvoorbeeld naar /boeken/).
@@ -21,7 +22,7 @@ knop_link en knop_tekst (een zwarte knop, bijvoorbeeld naar /boeken/).
         <p class="cta__naam"><span>{{ eigenaar.full_name }}</span></p>
         <p class="cta__gegevens{% if include.formulier %} cta__gegevens--klein{% endif %}">
             <a class="cta__tel" href="tel:{{ persoon.tel }}">{{ persoon.tel_display }}</a>
-            <a class="cta__mail" href="mailto:{{ persoon.mail }}">{{ persoon.mail }}</a>
+            <a class="cta__mail" href="mailto:{{ eigenaar.mail }}">{{ eigenaar.mail }}</a>
         </p>
 {% endcapture %}
 <section class="cta{% if include.formulier %} cta--formulier{% endif %}">
@@ -33,7 +34,7 @@ knop_link en knop_tekst (een zwarte knop, bijvoorbeeld naar /boeken/).
     </div>
     <div class="cta__tekst">
         <p class="cta__label">Contact</p>
-        <h2 class="cta__kop">{{ include.header | default: "Zullen we even bellen?" }}</h2>
+        <h2 class="cta__kop">{{ include.header | default: "Even bellen?" }}</h2>
         <p class="cta__intro">{{ include.description | default: "Tijdens een vrijblijvend intake- en adviesgesprek bespreken we jouw situatie en hoe we daarbij kunnen helpen." }}</p>
         {% if include.formulier %}{% include terugbel-formulier.html onderwerp=include.onderwerp kies=include.kies %}{% endif %}
         {% if include.knop_link %}<p><a class="sectie__link sectie__link--knop" href="{{ include.knop_link }}">{{ include.knop_tekst }} <span aria-hidden="true">→</span></a></p>{% endif %}

@@ -185,7 +185,7 @@ Genummerde stappen met alleen een titel en één korte regel (`kort:` per stap).
 
 ### Contactblok
 
-In dezelfde beeldtaal als de mensenrijen: portret met het gekantelde rode vlak, een rood label en een grote kop, de naam als zwarte strook half over de foto, en het telefoonnummer groot. Het portret en de naam horen bij wie het nummer opneemt (zie het [adresboek](/adresboek/)). Zonder `header` is de kop "Zullen we even bellen?".
+In dezelfde beeldtaal als de mensenrijen: portret met het gekantelde rode vlak, een rood label en een grote kop, de naam als zwarte strook half over de foto, en het telefoonnummer groot. Het portret en de naam horen bij wie het nummer opneemt (zie het [adresboek](/adresboek/)). Het e-mailadres is altijd het persoonlijke adres van die persoon, nooit info@ of administratie@: die staan alleen op [/contact/](/contact/) en in de footer. Zonder `header` is de kop "Even bellen?".
 
 {% include cta.html header="Wat kunnen we voor jouw organisatie betekenen?" persoon="johan" %}
 
@@ -275,7 +275,7 @@ Een lijst met lege vinkvakjes, voor wat er geregeld moet worden. Op een workshop
 
 ### Terugbelformulier
 
-Twee velden: "E-mail of telefoon" (verplicht) en "Extra info" (optioneel). Zonder API opent het een vooraf ingevulde e-mail aan info@. Staat er een adres bij `endpoint` in `_data/terugbellen.yml`, dan stuurt het een POST met JSON naar de eigen mini-API (`contact`, `info`, `pagina`, `url`). Mislukt dat, dan valt het terug op e-mail. Een verborgen veld `website` vangt spambots af. Het formulier staat in het contactblok met `formulier=true`. Op de pagina [/boeken/](/boeken/) staat het met een keuzelijst van workshops (`kies=true`); met `?workshop=crazy-8s` in de URL is de juiste workshop al gekozen. De workshoppagina's linken daarheen met hun knop "Boek deze workshop". Naam, telefoon en e-mail staan dan onder de foto.
+Twee velden: "E-mail of telefoon" (verplicht) en "Extra info" (optioneel). Zonder API opent het een vooraf ingevulde e-mail aan het adres bij `mail` in `_data/terugbellen.yml` (johan.groenen@). Staat er een adres bij `endpoint` in `_data/terugbellen.yml`, dan stuurt het een POST met JSON naar de eigen mini-API (`contact`, `info`, `pagina`, `url`). Mislukt dat, dan valt het terug op e-mail. Een verborgen veld `website` vangt spambots af. Het formulier staat in het contactblok met `formulier=true`. Op de pagina [/boeken/](/boeken/) staat het met een keuzelijst van workshops (`kies=true`); met `?workshop=crazy-8s` in de URL is de juiste workshop al gekozen. De workshoppagina's linken daarheen met hun knop "Boek deze workshop". Naam, telefoon en e-mail staan dan onder de foto.
 
 {% include cta.html header="Zullen we je terugbellen?" persoon="johan" formulier=true onderwerp="Design system" %}
 

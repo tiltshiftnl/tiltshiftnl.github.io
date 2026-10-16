@@ -33,4 +33,4 @@ De Push methode is gemaakt voor situaties waarbij er al een duidelijk idee is va
 <p>Iedere Push staat in het teken van een grote functionele wens (een zogenaamde <em>epic</em>). Op die manier kunnen we focussen op het aanbrengen van een samenhangende bundel van functionaliteiten en die aan het einde ook echt opleveren zonder open eindjes.</p>
 
 ## Meer weten over een interventie met Push
-[Neem contact met ons op of maak gelijk een afspraak](/intake-en-advies).
+[Neem contact op of maak gelijk een afspraak](/intake-en-advies).

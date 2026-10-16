@@ -59,5 +59,5 @@ voor_wie:
   - "Voor teams die midden in een opdracht zitten waarin publieke code gemaakt wordt."
   - "Het werkt het best met het ontwikkelteam, de product owner en de opdrachtgever samen."
 
-cta_kop: "Zullen we even meekijken?"
+cta_kop: "Even meekijken?"
 ---

@@ -61,4 +61,4 @@ Na een paar weken kunnen we de in de voorgaande weken ontstane oplossing overhev
 In de laatste week ronden we het project af. We zorgen voor de juiste documentatie, eventuele overdracht aan een beheerafdeling en natuurlijk een grote eindpresentatie aan alle stakeholders en betrokkenen. Meestal is dan ook duidelijk of er behoefte is om de oplossing nog verder door te ontwikkelen. Dat kan aansluitend door een extra push, of later in een nieuw project of met Agile doorontwikkeling.
 
 ## Meer weten over snelle innovatie met Fixxx
-[Neem contact met ons op of maak gelijk een afspraak](/intake-en-advies).
+[Neem contact op of maak gelijk een afspraak](/intake-en-advies).

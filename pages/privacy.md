@@ -13,7 +13,7 @@ image: /assets/img/foto/Tiltshift-Privacy-Policy.jpg
 caption: ''
 ---
 
-Tiltshift B.V., gevestigd te Heemstede is verantwoordelijk voor de verwerking van persoonsgegevens zoals weergegeven in deze privacyverklaring. Wij zijn te bereiken via [info@tiltshift.nl](mailto:info@tiltshift.nl).
+Tiltshift B.V., gevestigd te Heemstede is verantwoordelijk voor de verwerking van persoonsgegevens zoals weergegeven in deze privacyverklaring. Wij zijn te bereiken via [johan.groenen@tiltshift.nl](mailto:johan.groenen@tiltshift.nl).
 
 ## Persoonsgegevens die wij verwerken
 
@@ -57,10 +57,10 @@ Tiltshift B.V. deelt jouw persoonsgegevens met derden als dit noodzakelijk is vo
 
 Je hebt het recht om je persoonsgegevens in te zien, te corrigeren of te verwijderen. Daarnaast heb je het recht om je eventuele toestemming voor de gegevensverwerking in te trekken of bezwaar te maken tegen de verwerking van jouw persoonsgegevens door Tiltshift B.V. en heb je het recht op gegevensoverdraagbaarheid. Dat betekent dat je bij ons een verzoek kan indienen om de persoonsgegevens die wij van jou beschikken in een computerbestand naar jou of een ander, door jou genoemde organisatie, te sturen.
 
-Je kunt een verzoek tot inzage, correctie, verwijdering, gegevensoverdraging van je persoonsgegevens of verzoek tot intrekking van je toestemming of bezwaar op de verwerking van jouw persoonsgegevens sturen naar [info@tiltshift.nl](mailto:info@tiltshift.nl).
+Je kunt een verzoek tot inzage, correctie, verwijdering, gegevensoverdraging van je persoonsgegevens of verzoek tot intrekking van je toestemming of bezwaar op de verwerking van jouw persoonsgegevens sturen naar [johan.groenen@tiltshift.nl](mailto:johan.groenen@tiltshift.nl).
 
 ## Hoe wij persoonsgegevens beveiligen
 
 Tiltshift B.V. neemt de bescherming van jouw gegevens serieus en neemt passende maatregelen om misbruik, verlies, onbevoegde toegang, ongewenste openbaarmaking en ongeoorloofde wijziging tegen te gaan.
 
-Als jij het idee hebt dat jouw gegevens toch niet goed beveiligd zijn of er aanwijzingen zijn van misbruik, neem dan contact op via [info@tiltshift.nl](mailto:info@tiltshift.nl).
+Als jij het idee hebt dat jouw gegevens toch niet goed beveiligd zijn of er aanwijzingen zijn van misbruik, neem dan contact op via [johan.groenen@tiltshift.nl](mailto:johan.groenen@tiltshift.nl).

@@ -25,4 +25,4 @@ stappen:
 
 {% include begeleiding-sectie.html %}
 
-{% include cta.html header="Twijfel je welke workshop past?" description="Vertel ons kort wat er speelt. We denken mee over de workshop die het beste bij je vraag past." knop_link="/boeken/" knop_tekst="Neem contact met ons op" %}
+{% include cta.html header="Twijfel je welke workshop past?" description="Vertel ons kort wat er speelt. We denken mee over de workshop die het beste bij je vraag past." knop_link="/boeken/" knop_tekst="Neem contact op" %}
