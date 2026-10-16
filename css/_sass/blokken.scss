@@ -3,8 +3,15 @@
 
 .blokken {
     display: grid;
+    grid-template-columns: minmax(0, 1fr);
     gap: 1.2rem;
     margin: 3rem auto;
+
+    // Mobiel: blokken groeien in hoogte met de tekst mee. Met aspect-ratio worden ze bij lange tekst
+    // breder dan het scherm en vallen ze over de volgende sectie.
+    @media screen and (max-width: #{$breakpoint-md - 1px}) {
+        > .blok { aspect-ratio: auto; min-height: 15rem; }
+    }
 
     @media screen and (min-width: $breakpoint-md) {
         grid-template-columns: minmax(0, 1.6fr) minmax(0, 1fr);

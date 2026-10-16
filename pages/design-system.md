@@ -239,7 +239,7 @@ Met `breed=true` staat het beeld niet naast de tekst maar eronder, over de volle
 
 ### Blokken
 
-Eén groot blok met twee kleine blokken ernaast, boven elkaar. Bijvoorbeeld een uitgelichte workshop met twee andere workshops. Het grote blok heeft het gekantelde rode vlak, de kleine blokken niet. Met `blokken--gespiegeld` staat het grote blok rechts. Op mobiel staan de blokken onder elkaar.
+Eén groot blok met twee kleine blokken ernaast, boven elkaar. Bijvoorbeeld een uitgelichte workshop met twee andere workshops. Het grote blok heeft het gekantelde rode vlak, de kleine blokken niet. Met `blokken--gespiegeld` staat het grote blok rechts. Op mobiel staan de blokken onder elkaar en worden ze zo hoog als de tekst nodig heeft.
 
 {% capture ds_c8_url %}{% include workshop-url.html naam="crazy-8s" %}{% endcapture %}{% assign ds_c8_url = ds_c8_url | strip %}
 <div class="blokken container-md">

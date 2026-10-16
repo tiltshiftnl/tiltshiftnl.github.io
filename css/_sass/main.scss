@@ -53,9 +53,10 @@ main {
         margin-top: 1rem;
         margin-bottom: .75rem;
         line-height: 1.05;
-        // Lange woorden afbreken in plaats van afknippen; overflow: hidden knipt bij deze regelafstand de bovenkant van hoofdletters af
+        // Op mobiel kleiner, zodat gewone woorden passen
+        font-size: clamp(2.2rem, 11vw, #{$font-size-heading-lg});
+        // Vangnet voor een woord dat toch te lang is; overflow: hidden zou de bovenkant van hoofdletters afknippen
         overflow-wrap: break-word;
-        hyphens: auto;
         @media screen and (min-width: $breakpoint-md) {
             margin-top: 4px;
             margin-bottom: 2.25rem;
