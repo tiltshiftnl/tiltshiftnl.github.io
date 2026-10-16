@@ -52,8 +52,10 @@ main {
     h1 {
         margin-top: 1rem;
         margin-bottom: .75rem;
-        line-height: 1.2;
-        overflow: hidden;
+        line-height: 1.05;
+        // Lange woorden afbreken in plaats van afknippen; overflow: hidden knipt bij deze regelafstand de bovenkant van hoofdletters af
+        overflow-wrap: break-word;
+        hyphens: auto;
         @media screen and (min-width: $breakpoint-md) {
             margin-top: 4px;
             margin-bottom: 2.25rem;
@@ -71,6 +73,8 @@ main {
 // De paginatitel staat op de brede inhoudskolom, gelijk met de linkerkant van de secties
 main > h1 {
     @include container-md();
+    // Smalle tekst, zodat een titel op een regel of drie valt, met regels van gelijke lengte
+    span { display: block; max-width: 10em; text-wrap: balance; }
 }
 
 // Korte inleiding onder de paginatitel (intro: in de front matter), op dezelfde kolom als de titel
@@ -87,7 +91,7 @@ main > .pagina-intro {
 main > .pagina-label {
     @include container-md();
     margin-top: 0;
-    margin-bottom: .2rem;
+    margin-bottom: .5rem;
     font-family: HelveticaNeueLTPro-Bd, sans-serif;
     font-size: $font-size-sm;
     letter-spacing: .08em;
@@ -99,7 +103,7 @@ main > .pagina-label {
     + h1 { margin-top: 0; }
 }
 .klant-page .pagina-label {
-    margin: 0 0 .2rem;
+    margin: 0 0 .5rem;
     font-family: HelveticaNeueLTPro-Bd, sans-serif;
     font-size: $font-size-sm;
     letter-spacing: .08em;

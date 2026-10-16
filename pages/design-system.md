@@ -57,7 +57,7 @@ Rood en zwart dragen de site. Blauw komt terug in het logo, de footer en de tite
     <p>Lopende tekst. Een alinea staat in de tekstkolom van 720 pixels breed, met ruime regelafstand.</p>
 </div>
 
-Elke pagina heeft één h1: de paginatitel uit de front matter. Daaronder werk je met h2 en h3.
+Elke pagina heeft één h1: de paginatitel uit de front matter. Die is smal gezet (zo'n twintig tekens per regel), zodat hij op een regel of drie valt. Daaronder werk je met h2 en h3.
 
 ### Links en knoppen
 
