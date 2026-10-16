@@ -30,7 +30,7 @@ layout: default
 
 {% if page.checklist %}
 {% capture checklist %}<ul class="checklist">{% for regel in page.checklist %}<li>{{ regel | markdownify | remove: "<p>" | remove: "</p>" | strip }}</li>{% endfor %}</ul>{% endcapture %}
-{% include sectie.html label="Checklist" kop="Wat we bij de start regelen" inhoud=checklist %}
+{% include sectie.html label="Checklist" kop="Wat je bij de start regelt" inhoud=checklist %}
 {% endif %}
 
 {% include praktisch.html duur=page.duur deelnemers=page.deelnemers locatie=page.locatie investering=page.investering %}

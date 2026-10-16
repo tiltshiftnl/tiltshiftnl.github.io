@@ -3,7 +3,7 @@ layout: sessie
 
 title: "Publieke Code Check-up"
 seo_title: "Publieke Code Check-up – Tiltshift"
-description: "Tussentijds in een opdracht waarin aan publieke code gewerkt wordt: we kijken samen of jullie nog op koers liggen, met de Standaard voor Publieke Code als leidraad."
+description: "Tussentijds in een project waarin aan publieke code gewerkt wordt: is het nog op koers, of kan het beter? Met de Standaard voor Publieke Code als leidraad, en vaker te doen."
 
 order: 5
 featured: false
@@ -12,7 +12,7 @@ reeks_stap: 2
 reeks_moment: "Tussentijds"
 
 # Kaart op /workshops/
-uitkomst: "Halverwege kijken we samen of jullie nog op koers liggen. Bijsturen kan nu nog makkelijk."
+uitkomst: "Is het project nog op koers, of kan het beter? Bijsturen kan nu nog makkelijk, in één dag."
 image: /assets/img/foto/Woonstad-Prioriteren-Backlog-Agile-werken-woningcorporatie.jpg
 duur_kort: "Eén dag"
 
@@ -25,7 +25,7 @@ investering: "Vraag om offerte"
 
 # Landingspagina
 kop: "Bijsturen zolang het nog kan."
-lead: "Tussentijds in een opdracht kijken we samen met het team of jullie nog op koers liggen. Wat er goed gaat, wat er schuurt en wat er nu moet gebeuren, zodat de oplevering geen verrassingen geeft."
+lead: "Tussentijds kijk je met het team of het project nog op koers is. Wat er goed gaat, wat er schuurt en wat er nu moet gebeuren, zodat de oplevering geen verrassingen geeft. Een check-up kan vaker in een project."
 
 herkenning:
   - titel: "Afspraken van de start zijn uit beeld"
@@ -56,7 +56,7 @@ meenemen:
     tekst: "Als de opdracht onderweg veranderd is."
 
 voor_wie:
-  - "Voor teams die midden in een opdracht zitten waarin publieke code gemaakt wordt."
+  - "Voor teams die midden in een project zitten waarin publieke code gemaakt wordt."
   - "Het werkt het best met het ontwikkelteam, de product owner en de opdrachtgever samen."
 
 cta_kop: "Even meekijken?"

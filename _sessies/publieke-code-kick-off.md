@@ -3,16 +3,16 @@ layout: sessie
 
 title: "Publieke Code Kick-off"
 seo_title: "Publieke Code Kick-off – Tiltshift"
-description: "Aan het begin van een opdracht waarin publieke code gemaakt wordt: we regelen samen de governance, de werkplek en de afspraken, zodat je vanaf de eerste dag open werkt."
+description: "Voor een goede start zijn governance, werkplek en afspraken helder en vastgelegd, zodat je vanaf dag één open werkt."
 
 order: 4
 featured: false
 reeks: publieke-code
 reeks_stap: 1
-reeks_moment: "Bij de start van een opdracht"
+reeks_moment: "Bij de start van een project"
 
 # Kaart op /workshops/
-uitkomst: "Bij de start van een opdracht regelen we samen governance, werkplek en afspraken. Vanaf dag één open."
+uitkomst: "Na de kick-off zijn governance, werkplek en afspraken helder en vastgelegd. Zo werk je vanaf dag één open."
 image: /assets/img/foto/Straatnotes-opknippen-losse-applicaties.jpg
 duur_kort: "Eén dag"
 
@@ -25,7 +25,7 @@ investering: "Vraag om offerte"
 
 # Landingspagina
 kop: "Open werken begint op dag één."
-lead: "Aan het begin van een opdracht waarin publieke code gemaakt wordt, regelen we samen wat je later niet meer makkelijk regelt: wie eigenaar is, waar gewerkt wordt en welke afspraken er gelden voor bijdragen."
+lead: "Aan het begin van een project waarin publieke code gemaakt wordt, maak je met je team helder wat later lastig te veranderen is: wie eigenaar is, waar gewerkt wordt en welke afspraken er gelden voor bijdragen."
 
 herkenning:
   - titel: "Bij de oplevering blijkt wat er mist"
@@ -62,7 +62,7 @@ meenemen:
     tekst: "Die je bij de check-up en de review weer oppakt."
 
 voor_wie:
-  - "Voor opdrachtgevers en leveranciers die aan het begin staan van een opdracht waarin publieke code wordt gemaakt."
+  - "Voor opdrachtgevers en leveranciers die aan het begin staan van een project waarin publieke code wordt gemaakt."
   - "Het werkt het best als de opdrachtgever, de opdrachtnemer en het ontwikkelteam samen aan tafel zitten."
 
 checklist:

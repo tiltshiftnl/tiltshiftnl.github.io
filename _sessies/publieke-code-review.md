@@ -3,7 +3,7 @@ layout: sessie
 
 title: "Publieke Code Review"
 seo_title: "Publieke Code Review – Tiltshift"
-description: "Bij oplevering of overdracht van een codebase: samen met je team leg je de software langs de criteria van de Standaard voor Publieke Code. Je weet daarna waar je staat en wat je eerst moet doen om samen te kunnen werken en hergebruik mogelijk te maken."
+description: "Bij oplevering of overdracht van een codebase: een onafhankelijke beoordeling langs de criteria van de Standaard voor Publieke Code. Zo weet je waar je staat en wat je eerst moet doen om samen te kunnen werken en hergebruik mogelijk te maken."
 
 order: 6
 reeks: publieke-code
@@ -12,7 +12,7 @@ reeks_moment: "Bij oplevering of overdracht"
 featured: false
 
 # Kaart op /workshops/
-uitkomst: "Bij oplevering of overdracht leggen we de codebase langs de Standaard. Je weet wat er nog moet gebeuren."
+uitkomst: "Bij oplevering of overdracht organiseren we een onafhankelijke beoordeling van de codebase langs de Standaard. Zo weet je wat er nog moet gebeuren."
 image: /assets/img/foto/Straatnotes-Veilig-Notities-maken-op-straat-jeugdoverlast.jpg
 duur_kort: "Eén dag"
 
@@ -29,7 +29,7 @@ investering: "Vraag om offerte"
 
 # Landingspagina
 kop: "Weten of je codebase klaar is om over te dragen."
-lead: "Bij oplevering of overdracht leggen we samen met je team de codebase langs de criteria van de Standaard voor Publieke Code. Je weet daarna waar je staat en wat er nog moet gebeuren."
+lead: "Bij oplevering of overdracht organiseren we een onafhankelijke beoordeling van de codebase langs de criteria van de Standaard voor Publieke Code. Samen met je team bespreek je de uitkomst. Zo weet je waar je staat en wat er nog moet gebeuren."
 
 herkenning:
   - titel: "Open source, maar niemand doet mee"

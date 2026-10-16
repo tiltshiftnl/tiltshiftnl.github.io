@@ -23,6 +23,8 @@ stappen:
 
 {% include sessies-blokken.html %}
 
-{% include begeleiding-sectie.html %}
+{% include begeleiding-sectie.html kop_voor="Of" tekst_voor="Meer nodig dan een workshop?" %}
 
-{% include cta.html header="Twijfel je welke workshop past?" description="Vertel ons kort wat er speelt. We denken mee over de workshop die het beste bij je vraag past." knop_link="/boeken/?workshop=weet-ik-nog-niet" knop_tekst="Neem contact op" %}
+{% include resultaten-sectie.html slugs="open-zaak-samenwerken,de-stadspas-die-geen-stadspas-werd,product-management-ruis-politie-amsterdam" %}
+
+{% include cta.html header="Samen kiezen?" description="Vertel kort wat er speelt. Samen kiezen we de workshop die het beste bij je vraag past." knop_link="/boeken/?workshop=weet-ik-nog-niet" knop_tekst="Neem contact op" %}

@@ -269,7 +269,7 @@ Workshops die bij elkaar horen langs de looptijd van een opdracht, zoals de drie
 
 ### Checklist
 
-Een lijst met lege vinkvakjes, voor wat er geregeld moet worden. Op een workshoppagina uit `checklist:` in de front matter, als tekstsectie "Wat we bij de start regelen".
+Een lijst met lege vinkvakjes, voor wat er geregeld moet worden. Op een workshoppagina uit `checklist:` in de front matter, als tekstsectie "Wat je bij de start regelt".
 
 <div class="container-sm"><ul class="checklist"><li>Maak een LICENSE aan in de repository (EUPL 1.2).</li><li>Maak een publiccode.yml aan.</li></ul></div>
 
@@ -293,9 +293,9 @@ Een sectie met de uitgelichte workshops (`featured: true`) als beeld, met daaron
 
 {% include begeleiding-sectie.html %}
 
-Een sectie die naar [/begeleiding/](/begeleiding/) verwijst. Kop en tekst komen uit `teaser:` in `pages/begeleiding.md`, zodat ze op home en /workshops/ gelijk blijven. Met `vraag` zet je een vraag voor de kop; met `beeld` geef je een eigen beeld mee in plaats van de foto met link.
+Een sectie die naar [/begeleiding/](/begeleiding/) verwijst. Kop en tekst komen uit `teaser:` in `pages/begeleiding.md`, zodat ze op home en /workshops/ gelijk blijven. Met `vraag` zet je een vraag voor de kop. Met `kop_voor` sluit de kop aan op wat erboven staat: met `kop_voor="Of"` wordt het "Of we lopen mee tot het werkt.", zoals op /workshops/ onder de workshops. Met `tekst_voor` zet je iets voor de tekst. Met `beeld` geef je een eigen beeld mee in plaats van de foto met link.
 
-<pre class="ds-code container-sm"><code>{% raw %}{% include begeleiding-sectie.html vraag="Meer nodig dan een workshop?" %}{% endraw %}</code></pre>
+<pre class="ds-code container-sm"><code>{% raw %}{% include begeleiding-sectie.html kop_voor="Of" tekst_voor="Meer nodig dan een workshop?" %}{% endraw %}</code></pre>
 
 ### Resultaten
 
