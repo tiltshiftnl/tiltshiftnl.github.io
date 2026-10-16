@@ -126,6 +126,9 @@ $sectie-beeld: 504px; // tekst + tussen + beeld = 1024px, de inhoudsbreedte van 
     main > h1 + .sectie:not(.sectie--breed):not(.sectie--tekst) {
         margin-top: 2rem;
     }
+    main > .pagina-intro + .sectie:not(.sectie--breed):not(.sectie--tekst) {
+        margin-top: 4rem;
+    }
 }
 
 // Opgemaakte inhoud (markdown) in een sectie: alinea's, lijsten en quotes op de kolombreedte

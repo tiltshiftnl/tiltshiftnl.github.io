@@ -1,12 +1,8 @@
 {% assign sessies = site.sessies | where_exp: "s", "s.featured == true" | sort: "order" %}
 {% if sessies.size > 0 %}
-{% capture kaarten %}<div class="sessie-kaarten">{% for sessie in sessies %}{% include sessie-kaart.html sessie=sessie %}{% endfor %}</div>{% endcapture %}
-{% if include.compact %}
-{% include sectie.html tekst=include.intro link="/workshops/" linktekst="Alle workshops" beeld=kaarten %}
-{% else %}
+{% capture kaarten %}<div class="sessie-kaarten">{% for sessie in sessies %}{% include sessie-kaart.html sessie=sessie %}{% endfor %}</div><a href="/workshops/" class="sectie__link sessie-kaarten__alle">Alle workshops <span aria-hidden="true">→</span></a>{% endcapture %}
 {% assign label = include.label | default: "Workshops" %}
 {% assign kop = include.title | default: "Concrete stappen in één dag" %}
 {% assign intro = include.intro | default: "Kies een workshop met een vaste vorm en een concreet resultaat." %}
-{% include sectie.html label=label kop=kop tekst=intro link="/workshops/" linktekst="Alle workshops" beeld=kaarten %}
-{% endif %}
+{% include sectie.html label=label kop=kop tekst=intro beeld=kaarten %}
 {% endif %}

@@ -123,7 +123,7 @@ Zelfstandige blokken die je los op een pagina zet.
 
 ### Foto-paneel (valprop)
 
-{% include valprop.html title="Kwartiermakers van publieke digitalisering" description="We werken bij je in de organisatie, met de mensen die het werk doen. Tot jullie het zelf kunnen." image="/assets/img/foto/Tiltshift-Aanpak-Innovatie-Interventie-Vastgelopen-digitaliserings-project.jpg" url="/begeleiding/" button="Meer over begeleiding" %}
+{% include valprop.html title="Kwartiermakers van publieke digitalisering" description="We begeleiden je in je organisatie, met de mensen die het werk doen. Tot jullie het zelf kunnen." image="/assets/img/foto/Tiltshift-Aanpak-Innovatie-Interventie-Vastgelopen-digitaliserings-project.jpg" url="/begeleiding/" button="Meer over begeleiding" %}
 
 Het kenmerkende blok van de site: foto, gekanteld rood vlak, witte tekst en een zwarte knop. Zonder `url` en `button` linkt de knop naar /contact/.
 
@@ -285,9 +285,9 @@ Twee velden: "E-mail of telefoon" (verplicht) en "Extra info" (optioneel). Zonde
 
 {% include sessies-etalage.html %}
 
-Een sectie met de uitgelichte workshops (`featured: true`) als beeld en een link naar alle workshops. Met `compact=true` vervallen label en kop, zoals op de home direct onder de paginatitel.
+Een sectie met de uitgelichte workshops (`featured: true`) als beeld, met daaronder een link naar alle workshops. Label, kop en tekst pas je aan met `label`, `title` en `intro`.
 
-<pre class="ds-code container-sm"><code>{% raw %}{% include sessies-etalage.html compact=true intro="..." %}{% endraw %}</code></pre>
+<pre class="ds-code container-sm"><code>{% raw %}{% include sessies-etalage.html intro="..." %}{% endraw %}</code></pre>
 
 ### Resultaten
 
@@ -333,7 +333,7 @@ De navigatie boven en de footer onder deze pagina. Ze zitten in elke template en
 
 Het skelet van een pagina. Er zijn er twee, en ze delen dezelfde basis.
 
-- **`default`**: navigatie, de paginatitel als h1, de inhoud in de tekstkolom van 720 pixels, een contactblok onderaan en de footer. Het contactblok vervalt als de pagina er zelf al een heeft, of met `contactblok: false` in de front matter. Met `contactpersoon: joris` kies je wie erin staat. Beelden en rasters mogen breder (1024 pixels). Gebruikt door bijna alle pagina's.
+- **`default`**: navigatie, de paginatitel als h1, de inhoud in de tekstkolom van 720 pixels, een contactblok onderaan en de footer. Het contactblok vervalt als de pagina er zelf al een heeft, of met `contactblok: false` in de front matter. Met `contactpersoon: joris` kies je wie erin staat. Met `intro:` komt er een korte inleiding onder de paginatitel. Beelden en rasters mogen breder (1024 pixels). Gebruikt door bijna alle pagina's.
 - **`person`**: een mensenpagina. Bovenaan de persoon als rij met contactgegevens, dan de eigen tekst en de projecten als tekstsecties, en onderaan de collega's als rijen en het contactblok.
 - **`sessie`**: de `default`-template met een vaste volgorde van workshop-onderdelen, naar het Strategyzer-template: waardepropositie met boekknop als sectie met foto-paneel, opdrachtgevers, pijn/product/winst, dan de details: herkenning, stappen, wat je meeneemt, voor wie, praktisch, andere sessies en het contactblok. De inhoud komt uit de front matter van het sessiebestand.
 
@@ -341,7 +341,7 @@ Het skelet van een pagina. Er zijn er twee, en ze delen dezelfde basis.
 
 De templates gevuld met echte inhoud.
 
-- [Home](/): vier secties. Workshop-etalage (compact), begeleiding met foto-paneel, en opdrachtgevers en resultaten als brede secties
+- [Home](/): een inleiding onder de titel en vier secties. Workshop-etalage, begeleiding met foto-paneel, en resultaten en opdrachtgevers als brede secties
 - [Workshops](/workshops/): de workshops als blokken, begeleiding als sectie, stappen en contactblok
 - [Crazy 8's-workshop]({% include workshop-url.html naam="crazy-8s" %}): de `sessie`-template
 - [Begeleiding](/begeleiding/): quote, secties met foto-paneel, resultaten als brede sectie, de aanpak als tekstsecties en secties met foto, en het contactblok

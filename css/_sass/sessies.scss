@@ -6,6 +6,16 @@
     display: flex;
     flex-direction: column;
 }
+// "Alle workshops" onder de kaarten (homepage). Mobiel loopt het beeld tot de rand, de link niet.
+.sessie-kaarten__alle {
+    display: block;
+    @include container-md();
+    @media screen and (min-width: $breakpoint-lg) {
+        width: auto;
+        margin: 0;
+        padding: 0;
+    }
+}
 
 // Genummerde stappen ("Zo werkt het"), in de tekstkolom
 .stappen {

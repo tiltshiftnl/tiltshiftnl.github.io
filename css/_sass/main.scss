@@ -73,6 +73,16 @@ main > h1 {
     @include container-md();
 }
 
+// Korte inleiding onder de paginatitel (intro: in de front matter), op dezelfde kolom als de titel
+main > .pagina-intro {
+    @include container-md();
+    margin-top: 0;
+    margin-bottom: 3rem;
+    font-size: $font-size-lg;
+    line-height: $line-height-paragraph-lg;
+    span { display: block; max-width: 32em; }
+}
+
 // Klein rood label boven de paginatitel (_includes/pagina-label.html), zoals boven de secties
 main > .pagina-label {
     @include container-md();
