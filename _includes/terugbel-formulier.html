@@ -39,6 +39,8 @@ voorgeselecteerd via ?workshop=<naam> in de URL; ?workshop=weet-ik-nog-niet kies
         var d = {};
         new FormData(form).forEach(function (v, k) { d[k] = String(v).trim(); });
         d.url = location.href;
+        d.aan = form.dataset.mail;
+        d.onderwerp = form.dataset.onderwerp;
         return d;
     }
     function perMail(d) {

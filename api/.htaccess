@@ -1,0 +1,7 @@
+Options -Indexes
+
+# Config en tellerbestanden nooit uitleveren.
+<FilesMatch "^(config(\.example)?\.php|README\.md)$">
+    Require all denied
+</FilesMatch>
+RedirectMatch 404 ^/(api/)?data(/|$)

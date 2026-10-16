@@ -20,3 +20,10 @@ collections:
 
 sass:
   sass_dir: /css/_sass
+
+exclude:
+  - api
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - vendor
