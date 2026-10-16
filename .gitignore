@@ -3,5 +3,5 @@ _site
 .sass-cache
 node_modules
 .DS_Store
-api/config.php
-api/data
+api/private/config.php
+api/private/data

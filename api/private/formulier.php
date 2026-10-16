@@ -36,6 +36,14 @@ if ($herkomst !== '') {
 if ($_SERVER['REQUEST_METHOD'] === 'OPTIONS') { http_response_code(204); exit; }
 if ($_SERVER['REQUEST_METHOD'] !== 'POST') antwoord(405, ['ok' => false, 'fout' => 'alleen POST']);
 
+// Serverinrichting controleren, zodat een fout iets zegt in plaats van een lege 500.
+$map = __DIR__ . '/data';
+if (!is_dir($map)) @mkdir($map, 0700, true);
+foreach (['mb_substr' => 'PHP-extensie mbstring ontbreekt', 'curl_init' => 'PHP-extensie curl ontbreekt'] as $functie => $fout) {
+    if (!function_exists($functie)) { error_log('formulier.php: ' . $fout); antwoord(500, ['ok' => false, 'fout' => $fout]); }
+}
+if (!is_writable($map)) { error_log('formulier.php: map data/ niet beschrijfbaar'); antwoord(500, ['ok' => false, 'fout' => 'map data/ niet beschrijfbaar']); }
+
 // Gegevens inlezen.
 $ruw = file_get_contents('php://input', false, null, 0, 20000);
 if (stripos($_SERVER['CONTENT_TYPE'] ?? '', 'application/json') !== false) {
@@ -52,8 +60,6 @@ $contact = $d['contact'] ?? ($d['email'] ?? ($d['telefoon'] ?? ''));
 if ($contact === '') antwoord(422, ['ok' => false, 'fout' => 'contact ontbreekt']);
 
 // Simpele rem: maximaal N berichten per IP per uur.
-$map = __DIR__ . '/data';
-if (!is_dir($map)) mkdir($map, 0700, true);
 $ipbestand = $map . '/ip-' . hash('sha256', $_SERVER['REMOTE_ADDR'] ?? '') . '.json';
 $nu = time();
 $tijden = is_file($ipbestand) ? (json_decode(file_get_contents($ipbestand), true) ?: []) : [];

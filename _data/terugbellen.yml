@@ -6,9 +6,9 @@
 # Afspraak met de API (POST, Content-Type: application/json):
 #   { "contact" (e-mail of telefoon, verplicht), "info" (optioneel), "pagina", "url",
 #     "aan" (= mail hieronder), "onderwerp" }
-#   De API staat in /api (formulier.php) en mailt alleen naar toegestane domeinen.
+#   De API staat in /api (zie api/README.md) en mailt alleen naar toegestane domeinen.
 #   Antwoord 2xx = gelukt. Al het andere = mislukt; het formulier valt dan terug op e-mail.
 #   Het veld "website" is een honeypot tegen spam: als dat gevuld is, niet verwerken.
 
-endpoint: ""
+endpoint: "https://post.apitecture.io/"
 mail: joris.boeren@tiltshift.nl

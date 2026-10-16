@@ -4,7 +4,7 @@ return [
     // Mailgun: sleutel uit Mailgun > Account > API keys. EU-account: https://api.eu.mailgun.net
     'mailgun_api'     => 'https://api.eu.mailgun.net',
     'mailgun_domein'  => 'mg.tiltshift.nl',
-    'mailgun_sleutel' => 'key-...',
+    'mailgun_sleutel' => '...',   // de sleutel precies zoals Mailgun hem toont
     'afzender'        => 'Tiltshift website <website@mg.tiltshift.nl>',
 
     // Alleen naar adressen op deze domeinen wordt gemaild.

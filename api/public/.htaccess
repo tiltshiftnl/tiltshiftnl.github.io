@@ -1,0 +1,5 @@
+Options -Indexes
+
+# Alles naar index.php: de root en elk pad dat niet bestaat.
+DirectoryIndex index.php
+FallbackResource /index.php
