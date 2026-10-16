@@ -13,7 +13,7 @@ stappen:
   - titel: "Kies een workshop"
     tekst: "Elke workshop beantwoordt één vraag en levert één concreet resultaat op."
   - titel: "Korte intake"
-    tekst: "We scherpen samen de vraag aan en kijken of de workshop past. Daarna krijg je een vrijblijvende offerte."
+    tekst: "We scherpen samen de vraag aan en zorgen dat de workshop past. Daarna krijg je een vrijblijvende offerte."
   - titel: "De workshop"
     tekst: "Met je team, bij jou op kantoor of op een locatie die wij regelen. Je gaat naar huis met iets waar je verder mee kunt."
 ---
@@ -25,4 +25,4 @@ stappen:
 
 {% include begeleiding-sectie.html %}
 
-{% include cta.html header="Twijfel je welke workshop past?" description="Vertel ons kort wat er speelt. We denken mee over de workshop die het beste bij je vraag past." knop_link="/boeken/" knop_tekst="Neem contact op" %}
+{% include cta.html header="Twijfel je welke workshop past?" description="Vertel ons kort wat er speelt. We denken mee over de workshop die het beste bij je vraag past." knop_link="/boeken/?workshop=weet-ik-nog-niet" knop_tekst="Neem contact op" %}

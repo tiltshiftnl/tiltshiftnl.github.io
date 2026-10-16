@@ -1,7 +1,7 @@
 {% comment %}
 "Bel mij terug"-formulier. Stuurt naar de mini-API uit _data/terugbellen.yml, of opent zonder API
 een vooraf ingevulde e-mail. Parameters: onderwerp (bijvoorbeeld de titel van de workshop), kies (true: keuzelijst met workshops,
-voorgeselecteerd via ?workshop=<naam> in de URL).
+voorgeselecteerd via ?workshop=<naam> in de URL; ?workshop=weet-ik-nog-niet kiest "Weet ik nog niet").
 {% endcomment %}
 {% assign tb = site.data.terugbellen %}
 <form class="terugbellen" data-endpoint="{{ tb.endpoint }}" data-mail="{{ tb.mail }}" data-onderwerp="{{ include.onderwerp | default: page.title | escape }}"
@@ -30,7 +30,8 @@ voorgeselecteerd via ?workshop=<naam> in de URL).
     var keuze = form.querySelector('select[name="workshop"]');
     if (keuze) {
         var gevraagd = new URLSearchParams(location.search).get('workshop');
-        if (gevraagd && keuze.querySelector('option[value="' + gevraagd + '"]')) keuze.value = gevraagd;
+        if (gevraagd === 'weet-ik-nog-niet') keuze.value = '';
+        else if (gevraagd && keuze.querySelector('option[value="' + gevraagd + '"]')) keuze.value = gevraagd;
         var zet = function () { form.dataset.onderwerp = keuze.value ? keuze.options[keuze.selectedIndex].text : 'een workshop'; };
         keuze.addEventListener('change', zet); zet();
     }
