@@ -57,7 +57,7 @@
             margin-top: 2px;
             a {
                 color: $white;
-                margin-right: $gutter-sm;
+                margin-right: $gutter-xs; // smal, zodat links en socials onder 1280px naast het logo passen
                 text-decoration: none;
                 @media screen and (min-width: $breakpoint-lg) {
                     margin-right: 2.5rem;
@@ -79,16 +79,16 @@
         }
 
         &__socials{
-            display: none;
+            display: flex;
             margin-right: $gutter-sm;
             a {
                 display: flex;
                 justify-content: center;
                 align-items: center;
-                margin-right: $gutter-sm;
-            }
-            @media screen and (min-width: $breakpoint-xl) {
-                display: flex;
+                margin-right: $gutter-xs;
+                @media screen and (min-width: $breakpoint-lg) {
+                    margin-right: $gutter-sm;
+                }
             }
         }
 
@@ -157,6 +157,12 @@
                     line-height: 2.25;
                     font-size: 1rem;
                     margin: 0;
+                }
+                &__socials{
+                    display: flex;
+                    gap: $gutter-sm;
+                    margin-top: $gutter-xs;
+                    a { line-height: 0; }
                 }
                 &__sub{
                     display: flex;

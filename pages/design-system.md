@@ -327,7 +327,7 @@ Met `zonder` laat je één persoon weg, zoals op een mensenpagina, waar onderaan
 
 ### Navigatie en footer
 
-De navigatie boven en de footer onder deze pagina. Ze zitten in elke template en zet je niet zelf op een pagina. Vanaf 1280 pixels staat het logo onder de zwarte balk, links naast de inhoudskolom, en groeit het mee met de vrije ruimte daar (tot 180 pixels).
+De navigatie boven en de footer onder deze pagina. Ze zitten in elke template en zet je niet zelf op een pagina. Vanaf 1280 pixels staat het logo onder de zwarte balk, links naast de inhoudskolom, en groeit het mee met de vrije ruimte daar (tot 180 pixels). De LinkedIn- en Mastodon-knoppen staan altijd naast de menu-items, en op mobiel in het uitklapmenu onder de menu-items (`_includes/social-links.html`).
 
 ## Templates {#templates}
 

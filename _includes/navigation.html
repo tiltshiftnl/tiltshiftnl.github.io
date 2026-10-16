@@ -5,14 +5,7 @@
 
   <div class="navigation__right">
     <div class="navigation__right__links">{% include main-links.html %}</div>
-    <div class="navigation__right__socials">
-      <a target="_blank" href="https://www.linkedin.com/company/tiltshiftnl/">
-        {% include linkedin-icon.html %}
-      </a>
-      <a target="_blank" rel="me" href="https://mastodon.nl/@tiltshift">
-        {% include mastodon-icon.html %}
-      </a>
-    </div>
+    <div class="navigation__right__socials">{% include social-links.html %}</div>
   </div>
 
   <div class="navigation__hamburger" onclick="toggleNav()">
@@ -33,6 +26,9 @@
       </div>
       <div class="navigation__mobile-menu__panel__links">
         {% include main-links.html %}
+        <div class="navigation__mobile-menu__panel__links__socials">
+          {% include social-links.html %}
+        </div>
         <br />
         <br />
         <div class="navigation__mobile-menu__panel__links__sub">
