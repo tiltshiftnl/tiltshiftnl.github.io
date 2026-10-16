@@ -28,13 +28,13 @@
             left: $header-gutter;
             top: $header-gutter;
         }
+        // Vanaf 1280px staat het logo links naast de inhoudskolom (1024px).
+        // Het groeit mee met de vrije marge, zodat het nooit over de titel valt.
         @media screen and (min-width: $breakpoint-lg) {
-            width: 110px;
+            --logo-left: clamp(#{$gutter-sm}, calc((100vw - #{$container-width-lg}) / 10), #{$gutter-md});
+            width: clamp(60px, calc((100vw - #{$container-width-lg}) / 2 - var(--logo-left) - #{$gutter-sm}), 180px);
             top: calc(#{$gutter-md} + 70px);
-            left: $gutter-md;
-        }
-        @media screen and (min-width: $breakpoint-xl) {
-            width: 180px;
+            left: var(--logo-left);
         }
         img {
             width: 100%;
