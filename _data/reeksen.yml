@@ -1,0 +1,8 @@
+# Reeksen van workshops (zie _includes/reeks.html). Een workshop hoort bij een reeks met
+# `reeks:`, `reeks_stap:` en `reeks_moment:` in de front matter; de sleutel hieronder is de waarde van `reeks:`.
+# Deze tekst staat zowel op /workshops/ als op elke workshoppagina van de reeks.
+
+publieke-code:
+  label: "Publieke code"
+  kop: "Drie momenten in een opdracht"
+  tekst: "Drie workshops met de Standaard voor Publieke Code: bij de start, tussentijds en bij oplevering. Elke workshop kan los, samen houden ze een opdracht op koers."

@@ -1,0 +1,13 @@
+{% comment %}
+Sectie die naar /begeleiding/ verwijst. Kop en tekst komen uit `teaser:` in pages/begeleiding.md.
+Parameters: vraag (komt voor de kop, bijvoorbeeld "Meer nodig dan een workshop?"), beeld (eigen beeld via capture;
+zonder beeld de foto van de begeleidingspagina met een link eronder).
+{% endcomment %}
+{% assign begeleiding_pagina = site.pages | where: "url", "/begeleiding/" | first %}
+{% assign begeleiding_kop = begeleiding_pagina.teaser.kop %}{% if include.vraag %}{% assign begeleiding_kop = include.vraag | append: " " | append: begeleiding_kop %}{% endif %}
+{% if include.beeld %}
+{% include sectie.html label="Begeleiding" kop=begeleiding_kop tekst=begeleiding_pagina.teaser.tekst beeld=include.beeld %}
+{% else %}
+{% capture begeleiding_beeld %}{% include valprop.html image=begeleiding_pagina.image alt="Twee mensen voor een wand met schetsen" %}{% endcapture %}
+{% include sectie.html label="Begeleiding" kop=begeleiding_kop tekst=begeleiding_pagina.teaser.tekst link="/begeleiding/" linktekst="Meer over begeleiding" beeld=begeleiding_beeld %}
+{% endif %}

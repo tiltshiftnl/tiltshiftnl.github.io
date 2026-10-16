@@ -2,7 +2,9 @@
 {% if sessies.size > 0 %}
 {% capture kaarten %}<div class="sessie-kaarten">{% for sessie in sessies %}{% include sessie-kaart.html sessie=sessie %}{% endfor %}</div><a href="/workshops/" class="sectie__link sessie-kaarten__alle">Alle workshops <span aria-hidden="true">→</span></a>{% endcapture %}
 {% assign label = include.label | default: "Workshops" %}
-{% assign kop = include.title | default: "Concrete stappen in één dag" %}
-{% assign intro = include.intro | default: "Kies een workshop met een vaste vorm en een concreet resultaat." %}
+{% comment %}Kop en intro komen standaard van /workshops/ (pages/workshops.md), zodat ze maar op één plek staan.{% endcomment %}
+{% assign overzicht = site.pages | where: "url", "/workshops/" | first %}
+{% assign kop = include.title | default: overzicht.title %}
+{% assign intro = include.intro | default: overzicht.intro %}
 {% include sectie.html label=label kop=kop tekst=intro beeld=kaarten %}
 {% endif %}

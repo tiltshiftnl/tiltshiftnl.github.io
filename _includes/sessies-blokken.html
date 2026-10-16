@@ -23,5 +23,6 @@ twee klein ernaast; eventuele rest daaronder in een raster.
 {% assign reeksen = alle | where_exp: "s", "s.reeks" | map: "reeks" | uniq %}
 {% for r in reeksen %}
 {% capture reeks %}{% include reeks.html reeks=r %}{% endcapture %}
-{% include sectie.html breed=true label="Reeks" kop="Publieke code, in drie stappen" tekst="Drie workshops met de Standaard voor Publieke Code: bij de start van een opdracht, tussentijds en bij oplevering of overdracht." beeld=reeks %}
+{% assign info = site.data.reeksen[r] %}
+{% include sectie.html breed=true label=info.label kop=info.kop tekst=info.tekst beeld=reeks %}
 {% endfor %}

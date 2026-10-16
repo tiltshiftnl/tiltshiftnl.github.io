@@ -10,6 +10,11 @@ keywords: methodes, design thinking, lean startup, service design, government di
 hideBanner: true
 image: /assets/img/foto/Tiltshift-Aanpak-Innovatie-Interventie-Vastgelopen-digitaliserings-project.jpg
 caption: 
+
+# Korte versie voor op andere pagina's (home, /workshops/), via _includes/begeleiding-sectie.html
+teaser:
+  kop: "We lopen mee tot het werkt."
+  tekst: "We begeleiden organisaties in hun digitale transformatie, van kwartiermaken tot de adoptie van andere software en nieuwe manieren van werken, zoals human centered design, agile development, opensourcewerken en community building."
 ---
 {{ page.description }}
 

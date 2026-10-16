@@ -9,7 +9,8 @@ layout: default
 
 {% if page.reeks %}
 {% capture reeks %}{% include reeks.html reeks=page.reeks huidig=page.url %}{% endcapture %}
-{% include sectie.html breed=true label="Publieke code" kop="Drie momenten in een opdracht" tekst="Bij de start, tussentijds en bij oplevering. Elke workshop kan los, samen houden ze een opdracht op koers." beeld=reeks %}
+{% assign info = site.data.reeksen[page.reeks] %}
+{% include sectie.html breed=true label=info.label kop=info.kop tekst=info.tekst beeld=reeks %}
 {% endif %}
 
 {% capture voor_wie %}{% for alinea in page.voor_wie %}

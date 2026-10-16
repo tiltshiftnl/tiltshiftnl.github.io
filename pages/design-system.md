@@ -261,7 +261,7 @@ Een balk die onderin beeld vast blijft staan op de workshoppagina's: links de na
 
 ### Reeks
 
-Workshops die bij elkaar horen langs de looptijd van een opdracht, zoals de drie publieke-codeworkshops. Ze staan als blokken in leesvolgorde: stap 1 en 2 klein links, stap 3 groot rechts (`blokken--groot-laatst`), met een rood stapnummer en het moment boven de titel. Op een workshoppagina van de reeks staat bij de huidige stap "Je bent hier". Een workshop hoort bij een reeks met `reeks:`, `reeks_stap:` en `reeks_moment:` in de front matter. Op /workshops/ krijgt een reeks een eigen sectie.
+Workshops die bij elkaar horen langs de looptijd van een opdracht, zoals de drie publieke-codeworkshops. Ze staan als blokken in leesvolgorde: stap 1 en 2 klein links, stap 3 groot rechts (`blokken--groot-laatst`), met een rood stapnummer en het moment boven de titel. Op een workshoppagina van de reeks staat bij de huidige stap "Je bent hier". Een workshop hoort bij een reeks met `reeks:`, `reeks_stap:` en `reeks_moment:` in de front matter. Op /workshops/ krijgt een reeks een eigen sectie. Label, kop en tekst van de reeks staan in `_data/reeksen.yml`.
 
 {% include reeks.html reeks="publieke-code" %}
 
@@ -285,9 +285,17 @@ Twee velden: "E-mail of telefoon" (verplicht) en "Extra info" (optioneel). Zonde
 
 {% include sessies-etalage.html %}
 
-Een sectie met de uitgelichte workshops (`featured: true`) als beeld, met daaronder een link naar alle workshops. Label, kop en tekst pas je aan met `label`, `title` en `intro`.
+Een sectie met de uitgelichte workshops (`featured: true`) als beeld, met daaronder een link naar alle workshops. Kop en tekst komen standaard uit `title:` en `intro:` van [/workshops/](/workshops/) (`pages/workshops.md`); pas ze per plek aan met `label`, `title` en `intro`.
 
 <pre class="ds-code container-sm"><code>{% raw %}{% include sessies-etalage.html intro="..." %}{% endraw %}</code></pre>
+
+### Begeleiding-sectie
+
+{% include begeleiding-sectie.html %}
+
+Een sectie die naar [/begeleiding/](/begeleiding/) verwijst. Kop en tekst komen uit `teaser:` in `pages/begeleiding.md`, zodat ze op home en /workshops/ gelijk blijven. Met `vraag` zet je een vraag voor de kop; met `beeld` geef je een eigen beeld mee in plaats van de foto met link.
+
+<pre class="ds-code container-sm"><code>{% raw %}{% include begeleiding-sectie.html vraag="Meer nodig dan een workshop?" %}{% endraw %}</code></pre>
 
 ### Resultaten
 
