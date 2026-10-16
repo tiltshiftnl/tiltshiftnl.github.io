@@ -151,12 +151,19 @@ Naar het landingspagina-template van Strategyzer: pijn en winst naast elkaar. Li
 
 ### Herken je dit?
 
-Drie herkenbare situaties op een lichtgrijs, schuin gesneden vlak: een gekanteld rood blokje, een grote zwarte uitspraak en een korte toelichting. Bewust niet zwart, want een zwarte band leest als de footer. Op een workshoppagina komen de items uit `herkenning:` in de front matter.
+Drie herkenbare situaties op een lichtgrijs, schuin gesneden vlak: een gekanteld rood blokje, een grote zwarte uitspraak en een korte toelichting. Bewust niet zwart, want een zwarte band leest als de footer. Op een workshoppagina komen de items uit `herkenning:` in de front matter. Met `label` geef je de band een eigen label, en met `kolommen=2` staan de items twee bij twee, zoals bij "Hoe we werken" op [Over ons](/mensen/). De tekst van een item mag markdown zijn, met meer alinea's.
 
 {% assign ds_herkenning = site.sessies | where_exp: "s", "s.path contains 'crazy-8s'" | first %}
 {% include herkenning.html items=ds_herkenning.herkenning %}
 
 <pre class="ds-code container-sm"><code>{% raw %}{% include herkenning.html items=page.herkenning %}{% endraw %}</code></pre>
+
+Twee bij twee, met een eigen label (op [Over ons](/mensen/)):
+
+{% assign ds_over_ons = site.pages | where: "url", "/mensen/" | first %}
+{% include herkenning.html label="Hoe we werken" items=ds_over_ons.hoe_we_werken kolommen=2 %}
+
+<pre class="ds-code container-sm"><code>{% raw %}{% include herkenning.html label="Hoe we werken" items=page.hoe_we_werken kolommen=2 %}{% endraw %}</code></pre>
 
 ### Stappen
 
@@ -361,4 +368,4 @@ De templates gevuld met echte inhoud.
 - [Workshops](/workshops/): de workshops als blokken, begeleiding als sectie, stappen en contactblok
 - [Crazy 8's-workshop]({% include workshop-url.html naam="crazy-8s" %}): de `sessie`-template
 - [Begeleiding](/begeleiding/): quote, drie secties met foto-paneel, resultaten als brede sectie en het contactblok
-- [Over ons](/mensen/): een sectie met foto-paneel en quote, de mensen als rijen in een brede sectie, en hoe we werken als tekstsecties en secties met foto
+- [Over ons](/mensen/): een sectie met foto-paneel en quote, de mensen als rijen in een brede sectie, een sectie met foto ("Voelbaar anders"), hoe we werken als grijze band met vier punten twee bij twee, en drie secties met foto over software design thinking

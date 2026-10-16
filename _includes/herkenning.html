@@ -1,16 +1,17 @@
 {% comment %}
 "Herken je dit?": zwarte band over de volle breedte met uitspraken in drie kolommen.
-Parameters: items (lijst met titel en tekst), label (standaard "Herken je dit?").
+Parameters: items (lijst met titel en tekst; tekst mag markdown zijn, met meer alinea's), label (standaard "Herken je dit?"),
+kolommen (2: twee bij twee, bijvoorbeeld bij vier items; standaard drie kolommen).
 {% endcomment %}
 <section class="herkenning">
     <div class="herkenning__binnen">
         <p class="herkenning__label">{{ include.label | default: "Herken je dit?" }}</p>
-        <ul class="herkenning__lijst">
+        <ul class="herkenning__lijst{% if include.kolommen == 2 %} herkenning__lijst--twee{% endif %}">
             {% for item in include.items %}
             <li class="herkenning__item">
                 <span class="herkenning__blok" aria-hidden="true"></span>
                 <h3 class="herkenning__titel">{{ item.titel }}</h3>
-                <p class="herkenning__tekst">{{ item.tekst }}</p>
+                <div class="herkenning__tekst">{{ item.tekst | markdownify }}</div>
             </li>
             {% endfor %}
         </ul>

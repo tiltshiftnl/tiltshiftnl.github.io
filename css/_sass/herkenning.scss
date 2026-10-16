@@ -35,6 +35,13 @@
             grid-template-columns: repeat(3, minmax(0, 1fr));
             gap: 2.4rem;
         }
+        // Twee bij twee, bijvoorbeeld bij vier items
+        &--twee {
+            @media screen and (min-width: $breakpoint-md) {
+                grid-template-columns: repeat(2, minmax(0, 1fr));
+                gap: 3.6rem 4rem;
+            }
+        }
     }
 
     &__blok {
@@ -47,6 +54,7 @@
     }
     &__item:nth-child(2) .herkenning__blok { transform: rotate(6deg); }
     &__item:nth-child(3) .herkenning__blok { transform: rotate(-3deg); }
+    &__item:nth-child(4) .herkenning__blok { transform: rotate(9deg); }
 
     &__titel {
         margin: 0 0 .9rem;
@@ -57,7 +65,8 @@
         color: $black;
     }
     &__tekst {
-        margin: 0;
         line-height: $line-height-paragraph-lg;
+        p { margin: 0 0 1rem; }
+        p:last-child { margin-bottom: 0; }
     }
 }

@@ -4,16 +4,16 @@ contactblok: false
 layout: default
 permalink: /contact/
 
-title: Wij maken graag tijd voor een bakkie koffie.
+title: "We denken graag mee."
 quote:
-description: "Neem gerust contact op door een e-mail te sturen naar info@tiltshift.nl of te bellen met +31 (0)20 722 02 07."
+description: "Vertel waar je tegenaan loopt. Dan kijken we samen hoe we kunnen helpen. Bel +31 (0)20 722 02 07 of mail info@tiltshift.nl."
 keywords: 'innovatie, interventie, contact opnemen, contactgegevens, utrecht, tiltshift, good public tech'
 
 hideBanner: true
 image: /assets/img/foto/Leiderschap-bij-starten-of-vastgelopen-digitalisering.jpg
 caption: ''
 ---
-Tijdens een vrijblijvend intake- en adviesgesprek bespreken we jouw situatie en hoe we daarbij kunnen helpen.
+Vertel waar je tegenaan loopt. Dan kijken we samen hoe we kunnen helpen. Een kennismaking is vrijblijvend.
 
 {% assign algemeen = site.data.adresboek.functies | where: "sleutel", "algemeen" | first %}
 {% assign administratie = site.data.adresboek.functies | where: "sleutel", "administratie" | first %}
