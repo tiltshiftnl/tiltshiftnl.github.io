@@ -1,11 +1,11 @@
 {% comment %}
-"Bel mij terug"-formulier. Stuurt naar de mini-API uit _data/terugbellen.yml, of opent zonder API
+"Bel mij terug"-formulier. Stuurt naar formcarry (endpoint uit _data/terugbellen.yml), of opent zonder endpoint
 een vooraf ingevulde e-mail. Parameters: onderwerp (bijvoorbeeld de titel van de workshop), kies (true: keuzelijst met workshops,
 voorgeselecteerd via ?workshop=<naam> in de URL; ?workshop=weet-ik-nog-niet kiest "Weet ik nog niet").
 {% endcomment %}
 {% assign tb = site.data.terugbellen %}
 <form class="terugbellen" data-endpoint="{{ tb.endpoint }}" data-mail="{{ tb.mail }}" data-onderwerp="{{ include.onderwerp | default: page.title | escape }}"
-      action="{% if tb.endpoint != '' %}{{ tb.endpoint }}{% else %}mailto:{{ tb.mail }}{% endif %}" method="post">
+      action="{% if tb.endpoint != '' %}{{ tb.endpoint }}{% else %}mailto:{{ tb.mail }}{% endif %}" method="POST" enctype="multipart/form-data">
     <div class="terugbellen__velden">
         {% if include.kies %}
         {% assign workshops = site.sessies | sort: "order" %}
@@ -16,7 +16,7 @@ voorgeselecteerd via ?workshop=<naam> in de URL; ?workshop=weet-ik-nog-niet kies
         {% endif %}
         <label>E-mail of telefoon<input type="text" name="contact" required autocomplete="email" placeholder="naam@organisatie.nl of 06 12 34 56 78"></label>
         <label>Extra info <span>(optioneel)</span><textarea name="info" rows="3"></textarea></label>
-        <label class="terugbellen__honing" aria-hidden="true">Website<input type="text" name="website" tabindex="-1" autocomplete="off"></label>
+        <label class="terugbellen__honing" aria-hidden="true">Website<input type="text" name="_gotcha" tabindex="-1" autocomplete="off"></label>
     </div>
     <input type="hidden" name="pagina" value="{{ page.title | escape }}">
     <button type="submit">Bel mij terug <span aria-hidden="true">→</span></button>
@@ -39,7 +39,6 @@ voorgeselecteerd via ?workshop=<naam> in de URL; ?workshop=weet-ik-nog-niet kies
         var d = {};
         new FormData(form).forEach(function (v, k) { d[k] = String(v).trim(); });
         d.url = location.href;
-        d.aan = form.dataset.mail;
         d.onderwerp = form.dataset.onderwerp;
         return d;
     }
@@ -57,10 +56,13 @@ voorgeselecteerd via ?workshop=<naam> in de URL; ?workshop=weet-ik-nog-niet kies
     form.addEventListener('submit', function (e) {
         e.preventDefault();
         var d = gegevens();
-        if (d.website) return; // honeypot
+        if (d._gotcha) return; // honeypot
         if (!form.dataset.endpoint) { perMail(d); melding('Je mailprogramma opent met je gegevens erin. Verstuur de mail, dan bellen we je terug.'); return; }
         form.querySelector('button').disabled = true;
-        fetch(form.dataset.endpoint, { method: 'POST', headers: { 'Content-Type': 'application/json' }, body: JSON.stringify(d) })
+        var fd = new FormData(form);
+        fd.append('url', d.url);
+        fd.append('onderwerp', d.onderwerp);
+        fetch(form.dataset.endpoint, { method: 'POST', headers: { 'Accept': 'application/json' }, body: fd })
             .then(function (r) {
                 if (!r.ok) throw new Error(r.status);
                 form.querySelector('.terugbellen__velden').hidden = true;
