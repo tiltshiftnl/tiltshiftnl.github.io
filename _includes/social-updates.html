@@ -1,0 +1,98 @@
+{% comment %}
+Brede sectie met de laatste posts van Mastodon (zie css/_sass/social-updates.scss).
+Het script haalt de posts op in de browser. Lukt dat niet, dan blijft de sectie weg.
+Parameters: aantal (standaard 4), label (standaard "Updates"), kop (standaard "Waar we mee bezig zijn"), tekst, instance, account (het account-ID), profiel (de link onder de posts).
+Posts zonder beeld krijgen een willekeurige foto uit de beeldbank (_data/afbeeldingen.yml), bijna onzichtbaar onder een zwarte laag.
+Het account-ID vind je via https://mastodon.nl/api/v1/accounts/lookup?acct=tiltshift
+{% endcomment %}
+{% assign updates_label = include.label | default: "Updates" %}
+{% assign updates_kop = include.kop | default: "Waar we mee bezig zijn" %}
+{% assign updates_aantal = include.aantal | default: 4 %}
+{% assign updates_instance = include.instance | default: "https://mastodon.nl" %}
+{% assign updates_account = include.account | default: "115620906000602161" %}
+{% assign updates_profiel = include.profiel | default: "https://mastodon.nl/@tiltshift" %}
+{% assign updates_fotos = site.data.afbeeldingen | where: "map", "foto" | where: "soort", "foto" | where_exp: "a", "a.pad != '/assets/img/foto/404-Probleem-Gedreven-Innovatie.jpg'" | map: "pad" %}
+{% capture updates_beeld %}<div class="social-updates__lijst"></div>{% endcapture %}
+<div class="social-updates" hidden data-instance="{{ updates_instance }}" data-account="{{ updates_account }}" data-aantal="{{ updates_aantal }}" data-fotos="{{ updates_fotos | jsonify | escape }}">
+{% include sectie.html breed=true label=updates_label kop=updates_kop tekst=include.tekst beeld=updates_beeld %}
+<p class="social-updates__meer container-md"><a href="{{ updates_profiel }}" class="sectie__link" target="_blank" rel="noopener me">Bekijk meer op Mastodon <span aria-hidden="true">→</span></a></p>
+</div>
+<script>
+(function () {
+    var blok = document.currentScript.previousElementSibling;
+    // Foto's uit de beeldbank voor posts zonder beeld; elke foto één keer
+    var fotos = JSON.parse(blok.dataset.fotos);
+
+    function tekst(html) {
+        var doc = new DOMParser().parseFromString(html, 'text/html');
+        doc.querySelectorAll('.quote-inline').forEach(function (q) { q.remove(); });
+        doc.querySelectorAll('br').forEach(function (br) { br.replaceWith('\n'); });
+        doc.querySelectorAll('p').forEach(function (p) { p.append('\n\n'); });
+        return doc.body.textContent.trim();
+    }
+
+    function kaart(post) {
+        // Bij een boost: de inhoud en link van de oorspronkelijke post, de datum van de boost
+        var bron = post.reblog || post;
+        var kaart = document.createElement('article');
+        kaart.className = 'social-update';
+
+        var media = bron.media_attachments.filter(function (m) { return m.type === 'image'; })[0];
+        var vak = document.createElement('div');
+        vak.className = 'social-update__media' + (media ? '' : ' social-update__media--vervangend');
+        var img = document.createElement('img');
+        img.className = 'social-update__beeld';
+        img.src = media ? media.preview_url : fotos.splice(Math.floor(Math.random() * fotos.length), 1)[0];
+        img.alt = media ? media.description || '' : '';
+        img.loading = 'lazy';
+        vak.append(img);
+        kaart.append(vak);
+
+        var tekstblok = document.createElement('div');
+        tekstblok.className = 'social-update__inhoud';
+        kaart.append(tekstblok);
+
+        var datum = document.createElement('time');
+        datum.className = 'social-update__datum';
+        datum.dateTime = post.created_at;
+        datum.textContent = new Date(post.created_at).toLocaleDateString('nl-NL', { day: 'numeric', month: 'long', year: 'numeric' });
+        tekstblok.append(datum);
+
+        if (post.reblog) {
+            var van = document.createElement('span');
+            van.className = 'social-update__bron';
+            van.textContent = 'Gedeeld van ' + (bron.account.display_name || bron.account.acct);
+            tekstblok.append(van);
+        }
+
+        var inhoud = bron.spoiler_text || tekst(bron.content);
+        if (inhoud) {
+            var p = document.createElement('p');
+            p.className = 'social-update__tekst';
+            p.textContent = inhoud;
+            tekstblok.append(p);
+        }
+
+        var link = document.createElement('a');
+        link.className = 'social-update__link';
+        link.href = bron.url;
+        link.target = '_blank';
+        link.rel = 'noopener';
+        link.innerHTML = 'Bekijk op Mastodon <span aria-hidden="true">→</span>';
+        tekstblok.append(link);
+        return kaart;
+    }
+
+    var url = blok.dataset.instance + '/api/v1/accounts/' + blok.dataset.account +
+        '/statuses?exclude_replies=true&limit=' + blok.dataset.aantal;
+    fetch(url)
+        .then(function (r) { if (!r.ok) throw r; return r.json(); })
+        .then(function (posts) {
+            if (!posts.length) return;
+            var lijst = blok.querySelector('.social-updates__lijst');
+            posts.forEach(function (post) { lijst.append(kaart(post)); });
+            blok.hidden = false;
+        })
+        .catch(function () {});
+})();
+</script>

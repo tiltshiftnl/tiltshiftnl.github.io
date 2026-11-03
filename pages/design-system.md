@@ -320,11 +320,21 @@ De resultaten als brede sectie met een link naar alle resultaten, zoals op home,
 
 <pre class="ds-code container-sm"><code>{% raw %}{% include resultaten-sectie.html slugs="slug-1,slug-2,slug-3" %}{% endraw %}</code></pre>
 
+### Updates
+
+{% include social-updates.html %}
+
+De laatste posts van [Mastodon](https://mastodon.nl/@tiltshift) als brede sectie, met daaronder een link naar het profiel (opent in een nieuw tab). De posts staan onder elkaar. Per post links het eerste beeld, vierkant en in zwart-wit, op een gedraaid rood vlak dat om en om de andere kant op staat. Rechts de datum als rood label en de tekst, afgekapt na vier regels. Heeft een post geen beeld, dan komt er een willekeurige foto uit de [beeldbank](/image-library/) (map foto, soort foto), bijna onzichtbaar onder een zwarte laag. Onder elke post staat "Bekijk op Mastodon →", die de post opent in een nieuw tab. Het script haalt de posts op in de browser. Lukt dat niet, of zijn er geen posts, dan blijft de sectie weg. Boosts tellen mee, met klein en grijs "Gedeeld van …" erbij en een link naar de oorspronkelijke post. Replies aan anderen tellen niet mee. Met `aantal` kies je hoeveel posts (standaard 4), met `label`, `kop` en `tekst` wijk je af. Voor een ander account geef je `instance`, `account` (het ID) en `profiel` mee.
+
+<pre class="ds-code container-sm"><code>{% raw %}{% include social-updates.html aantal=3 kop="..." %}{% endraw %}</code></pre>
+
 ### Opdrachtgevers
 
 {% include klanten-uitgelicht.html %}
 
 {% include logos-relaties.html %}
+
+De uitgelichte opdrachtgevers (`featured: true`, op volgorde van `featured_order`) staan onder elkaar, net als de updates: het logo links in grijs (in kleur als je eroverheen gaat), rechts de beschrijving en een link "Tiltshift bij …" naar de klantpagina, gescheiden door een rode streep. Daaronder de logo's van alle opdrachtgevers.
 
 <pre class="ds-code container-sm"><code>{% raw %}{% include klanten-uitgelicht.html %}
 {% include logos-relaties.html %}{% endraw %}</code></pre>

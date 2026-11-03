@@ -21,3 +21,5 @@ intro: "Tiltshift organiseert en begeleidt workshops en projecten in publieke di
 
 {% capture opdrachtgevers %}{% include klanten-uitgelicht.html %}{% include logos-relaties.html %}{% endcapture %}
 {% include sectie.html breed=true label="Opdrachtgevers" kop="Voor wie we werken" tekst="We werken graag in de publieke uitvoering, zoals gemeenten, provincies, ministeries, uitvoeringsorganisaties, woningcorporaties, zorgorganisaties en universiteiten. Hoe kunnen we jou helpen?" beeld=opdrachtgevers %}
+
+{% include social-updates.html %}

@@ -1,31 +1,50 @@
-.klant-card{
+// Uitgelichte opdrachtgevers (_includes/klanten-uitgelicht.html): onder elkaar, net als de updates.
+// Logo links, beschrijving en link naar de klantpagina rechts, gescheiden door een rode streep.
+.klanten-uitgelicht {
     display: flex;
     flex-direction: column;
-    background-color: $white;
-    padding: $gutter-md $gutter-sm;
-    margin-bottom: $gutter-sm;
+    gap: 1.5rem;
+}
+
+.klant-card{
+    @include rij(5.5rem, 9rem);
 
     &__logo{
+        grid-column: 1;
         display: flex;
-        align-items: center;
-        min-height: 105px;
-        margin-bottom: $gutter-sm;
+        align-items: flex-start;
+        padding-top: .3rem;
+        text-decoration: none;
         img{
-            max-width: 240px;
-            max-height: 105px;
+            width: 100%;
+            max-height: 5rem;
+            object-fit: contain;
+            object-position: left top;
+            border: 0;
         }
-        h3{
-            margin: 0;
-        }
+    }
+    &__naam{
+        font-family: HelveticaNeueLTPro-Bd, sans-serif;
+        font-size: $font-size-sm;
+        line-height: 1.3;
+        color: #6b6670;
+    }
+
+    &__inhoud{
+        grid-column: 2;
+        display: flex;
+        flex-direction: column;
+        align-items: flex-start;
     }
 
     &__description{
-        margin-top: 0;
-        line-height: $line-height-paragraph-lg;
+        margin: 0;
+        font-size: $font-size-sm;
+        line-height: 1.5;
     }
 
     &__quote{
-        margin: 0 0 $gutter-sm 0;
+        margin: .8rem 0 0;
         font-style: italic;
         cite{
             display: block;
@@ -36,17 +55,22 @@
     }
 
     &__link{
-        margin-top: auto;
-        color: $primair-blauw;
+        margin-top: .6rem;
+        font-family: HelveticaNeueLTPro-Bd, sans-serif;
+        font-size: $font-size-sm;
+        color: $black;
+        &:hover, &:focus-visible { color: $red; }
     }
+
+    &:hover .klant-card__logo img { filter: none; }
 }
 
-// Uitgelichte klanten direct gevolgd door de logo-rij: dicht op elkaar
+// Uitgelichte klanten gevolgd door de logo-rij, met wat lucht ertussen
 .klanten-uitgelicht-section{
     margin-top: $gutter-md;
-    margin-bottom: $gutter-sm;
+    margin-bottom: $gutter-lg;
     @media screen and (min-width: $breakpoint-md) {
-        margin-top: $gutter-xl;
+        margin-bottom: $gutter-xl;
     }
     + .container-md .logos{
         margin-top: 0;

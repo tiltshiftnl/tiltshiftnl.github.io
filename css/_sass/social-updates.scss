@@ -1,0 +1,101 @@
+// Updates van Mastodon (_includes/social-updates.html).
+// Een brede sectie met de laatste posts onder elkaar.
+// Per post: links een vierkant zwart-witbeeld op een gedraaid rood vlak (zonder beeld een donkere foto uit de beeldbank), rechts de datum als rood label, bij een boost
+// klein en grijs van wie de post is, de tekst, afgekapt na een paar regels, en een link naar de post.
+
+.social-updates {
+    margin-bottom: 5rem;
+    @media screen and (min-width: $breakpoint-md) { margin-bottom: 8rem; }
+    &[hidden] { display: none; }
+
+    .sectie { margin-bottom: 2rem; }
+
+    &__lijst {
+        @include container-md();
+        display: flex;
+        flex-direction: column;
+        gap: 1.5rem;
+    }
+
+    &__meer { margin-top: 0; }
+}
+
+.social-update {
+    @include rij();
+
+    // Vierkante foto met een gedraaid rood vlak erachter, om en om de andere kant op
+    &__media {
+        grid-column: 1;
+        position: relative;
+        align-self: start;
+        margin: .4rem .6rem 0;
+        &::before {
+            content: '';
+            position: absolute;
+            inset: 0;
+            background: $red;
+            transform: translate(.5rem, .35rem) rotate(6deg);
+        }
+    }
+    &:nth-child(even) &__media::before { transform: translate(-.5rem, .35rem) rotate(-6deg); }
+
+    // Geen beeld bij de post: een foto uit de beeldbank, bijna weg onder een zwarte laag
+    &__media--vervangend::after {
+        content: '';
+        position: absolute;
+        inset: 0;
+        background: rgba($black, .88);
+    }
+
+    &__beeld {
+        position: relative;
+        display: block;
+        width: 100%;
+        max-width: none;
+        aspect-ratio: 1;
+        object-fit: cover;
+        border: 0;
+        filter: grayscale(1) contrast(1.2);
+    }
+
+    &__datum {
+        margin-bottom: .4rem;
+        font-family: HelveticaNeueLTPro-Bd, sans-serif;
+        font-size: $font-size-xs;
+        letter-spacing: .08em;
+        text-transform: uppercase;
+        color: $red;
+    }
+
+    &__inhoud {
+        grid-column: 2;
+        display: flex;
+        flex-direction: column;
+    }
+
+    &__bron {
+        margin-bottom: .4rem;
+        font-size: $font-size-xs;
+        color: #6b6670;
+    }
+
+    &__tekst {
+        display: -webkit-box;
+        -webkit-box-orient: vertical;
+        -webkit-line-clamp: 4;
+        overflow: hidden;
+        margin: 0;
+        font-size: $font-size-sm;
+        line-height: 1.5;
+        white-space: pre-line;
+        overflow-wrap: break-word;
+    }
+
+    &__link {
+        margin-top: .6rem;
+        font-family: HelveticaNeueLTPro-Bd, sans-serif;
+        font-size: $font-size-sm;
+        color: $black;
+        &:hover, &:focus-visible { color: $red; }
+    }
+}

@@ -1,0 +1,16 @@
+// Rij met beeld links en tekst rechts, gescheiden door een rode streep erboven.
+// Gebruikt door de updates (social-updates.scss) en de uitgelichte opdrachtgevers (klant-card.scss).
+@mixin rij($beeld-sm: 4.5rem, $beeld-md: 7.2rem) {
+    display: grid;
+    grid-template-columns: $beeld-sm minmax(0, 1fr);
+    column-gap: 1.5rem;
+    align-content: start;
+    max-width: 36rem;
+    padding: 2rem 0 1rem;
+    border-top: 1px solid $red;
+    color: $black;
+    @media screen and (min-width: $breakpoint-md) {
+        grid-template-columns: $beeld-md minmax(0, 1fr);
+        column-gap: 2.5rem;
+    }
+}
