@@ -14,7 +14,7 @@ intro: "Tiltshift organiseert en begeleidt workshops en projecten in publieke di
 ---
 {% include sessies-etalage.html intro="We organiseren in-house workshops van één dag voor ontwikkelteams, management of bestuur om helder te krijgen wat de volgende stap is." %}
 
-{% capture begeleiding %}{% include valprop.html title="Kwartiermakers van publieke digitalisering" description="We begeleiden je in je organisatie, met de mensen die het werk doen. Tot jullie het zelf kunnen." image="/assets/img/foto/Tiltshift-Aanpak-Innovatie-Interventie-Vastgelopen-digitaliserings-project.jpg" url="/begeleiding/" button="Meer over begeleiding" %}{% endcapture %}
+{% capture begeleiding %}{% include valprop.html title="Kwartiermakers van publieke digitalisering" description="We begeleiden je in je organisatie, met de mensen die het werk doen. Tot jullie het zelf kunnen." image="/assets/img/foto/Straatnotes-meekijken-met-gebruiker-software-design-thinking.jpg" alt="Twee straatcoaches kijken samen op een telefoon" url="/begeleiding/" button="Meer over begeleiding" %}{% endcapture %}
 {% include begeleiding-sectie.html vraag="Meer nodig dan een workshop?" beeld=begeleiding %}
 
 {% include resultaten-sectie.html %}

@@ -38,7 +38,8 @@
         content: '';
         position: absolute;
         inset: 0;
-        background: linear-gradient(to bottom, rgba(0, 0, 0, 0) 0%, rgba(0, 0, 0, 0.75) 100%);
+        /* eerder en dieper donker, zodat witte tekst ook op een lichte foto leesbaar blijft (zoals de resultaatblokken) */
+        background: linear-gradient(to bottom, rgba(0, 0, 0, 0) 10%, rgba(0, 0, 0, 0.6) 45%, rgba(0, 0, 0, 0.9) 75%);
     }
     .valprop__panel--kaal::before {
         display: none;

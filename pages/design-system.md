@@ -125,7 +125,7 @@ Zelfstandige blokken die je los op een pagina zet.
 
 {% include valprop.html title="Kwartiermakers van publieke digitalisering" description="We begeleiden je in je organisatie, met de mensen die het werk doen. Tot jullie het zelf kunnen." image="/assets/img/foto/Tiltshift-Aanpak-Innovatie-Interventie-Vastgelopen-digitaliserings-project.jpg" url="/begeleiding/" button="Meer over begeleiding" %}
 
-Het kenmerkende blok van de site: foto, gekanteld rood vlak, witte tekst en een zwarte knop. Zonder `url` en `button` linkt de knop naar /contact/.
+Het kenmerkende blok van de site: foto, gekanteld rood vlak, witte tekst en een zwarte knop. Over de onderste helft van de foto loopt een zwart verloop, zodat de witte tekst ook op een lichte foto leesbaar blijft. Zonder `url` en `button` linkt de knop naar /contact/.
 
 <pre class="ds-code container-sm"><code>{% raw %}{% include valprop.html title="..." description="..." image="/assets/img/foto/…" url="/begeleiding/" button="Meer over begeleiding" %}{% endraw %}</code></pre>
 

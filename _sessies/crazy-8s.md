@@ -10,7 +10,7 @@ featured: true
 
 # Kaart op homepage en /workshops/
 uitkomst: "Je team schetst ideeën en werkt de beste samen uit. Aan het eind ligt er een concept waar iedereen achter staat."
-image: /assets/img/materialen/Workshop-Crazy-Eight-Ideation-Warroom.jpg
+image: /assets/img/foto/Hand-wijst-naar-geschetst-concept.jpg
 duur_kort: "Eén dag"
 
 # Praktisch (nog in te vullen)
