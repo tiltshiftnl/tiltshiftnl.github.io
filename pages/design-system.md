@@ -341,7 +341,7 @@ De uitgelichte opdrachtgevers (`featured: true`, op volgorde van `featured_order
 
 ### Mensen
 
-Per persoon een groot portret met het gekantelde rode vlak, de naam groot ernaast en half over de foto, op witte stroken. Daaronder rol, eigen quote en een link naar de mensenpagina. De rijen wisselen om en om van links naar rechts. Op mobiel staat de naam over de onderkant van de foto. De gegevens komen van de mensenpagina's in `_mensen/`: `firstname`, `lastname`, `role`, `quote` en `personImage`.
+Per persoon een groot portret met het gekantelde rode vlak, de naam groot ernaast en half over de foto, op witte stroken. De achternaam springt in, weg van de foto, zodat voor- en achternaam als een trapje staan. Daaronder rol, eigen quote en een link naar de mensenpagina. De rijen wisselen om en om van links naar rechts. Op mobiel staat de naam over de onderkant van de foto. De gegevens komen van de mensenpagina's in `_mensen/`: `firstname`, `lastname`, `role`, `quote` en `personImage`.
 
 {% include mensen-rijen.html %}
 
