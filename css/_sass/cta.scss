@@ -106,9 +106,14 @@
     }
     &__tel {
         font-family: HelveticaNeueLTPro-Bd, sans-serif;
-        font-size: clamp(1.6rem, 3.4vw, 2.4rem);
+        // Op mobiel schaalt het nummer mee met de schermbreedte, zodat het op één regel past (ook op 320px)
+        font-size: min(1.6rem, 7vw);
         line-height: 1.1;
+        white-space: nowrap;
         text-decoration: none;
+        @media screen and (min-width: $breakpoint-md) {
+            font-size: clamp(1.6rem, 3.4vw, 2.4rem);
+        }
         &:hover { color: $red; }
     }
     &__mail {
