@@ -334,7 +334,7 @@ De laatste posts van [Mastodon](https://mastodon.nl/@tiltshift) als brede sectie
 
 {% include logos-relaties.html %}
 
-De uitgelichte opdrachtgevers (`featured: true`, op volgorde van `featured_order`) staan onder elkaar, net als de updates: het logo links in grijs (in kleur als je eroverheen gaat), rechts de beschrijving en een link "Tiltshift bij …" naar de klantpagina, gescheiden door een rode streep. Daaronder de logo's van alle opdrachtgevers.
+De uitgelichte opdrachtgevers (`featured: true`, op volgorde van `featured_order`) staan onder elkaar en gecentreerd, net als de logo's eronder. Verder zijn ze opgemaakt als de updates: het logo links in grijs (in kleur als je eroverheen gaat), rechts de beschrijving en een link "Tiltshift bij …" naar de klantpagina, gescheiden door een rode streep. Daaronder de logo's van alle opdrachtgevers.
 
 <pre class="ds-code container-sm"><code>{% raw %}{% include klanten-uitgelicht.html %}
 {% include logos-relaties.html %}{% endraw %}</code></pre>

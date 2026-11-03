@@ -1,13 +1,15 @@
-// Uitgelichte opdrachtgevers (_includes/klanten-uitgelicht.html): onder elkaar, net als de updates.
+// Uitgelichte opdrachtgevers (_includes/klanten-uitgelicht.html): onder elkaar en gecentreerd, verder net als de updates.
 // Logo links, beschrijving en link naar de klantpagina rechts, gescheiden door een rode streep.
 .klanten-uitgelicht {
     display: flex;
     flex-direction: column;
+    align-items: center; // gecentreerd, net als de logo-rij eronder
     gap: 1.5rem;
 }
 
 .klant-card{
     @include rij(5.5rem, 9rem);
+    width: 100%;
 
     &__logo{
         grid-column: 1;
