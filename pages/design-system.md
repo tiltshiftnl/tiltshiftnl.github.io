@@ -243,7 +243,7 @@ Eén groot blok met twee kleine blokken ernaast, boven elkaar. Bijvoorbeeld een 
 
 {% capture ds_c8_url %}{% include workshop-url.html naam="crazy-8s" %}{% endcapture %}{% assign ds_c8_url = ds_c8_url | strip %}
 <div class="blokken container-md">
-    {% include blok.html titel="Crazy 8's-workshop" tekst="Je team schetst ideeën en werkt de beste samen uit. Aan het eind ligt er een concept waar iedereen achter staat." afbeelding="/assets/img/materialen/Workshop-Crazy-Eight-Ideation-Warroom.jpg" url=ds_c8_url linktekst="Bekijk workshop" %}
+    {% include blok.html titel="Ontwerpdag" tekst="Je team schetst ideeën en werkt de beste samen uit. Aan het eind ligt er een concept waar iedereen achter staat." afbeelding="/assets/img/materialen/Workshop-Crazy-Eight-Ideation-Warroom.jpg" url=ds_c8_url linktekst="Bekijk workshop" %}
     {% include blok.html titel="Empathy map-workshop" tekst="Interviews samenvatten in wat gebruikers denken, voelen, zien en doen." afbeelding="/assets/img/posts/Empathy-Map-Gebruiken-Resultaten-Interviews-Verwerken.jpg" url="#blokken" linktekst="Bekijk workshop" %}
     {% include blok.html titel="Design sprint" tekst="Van probleem naar getoetst prototype." afbeelding="/assets/img/foto/Schulddossier-Design-Thinking-Schulddienstverlening.jpg" url="#blokken" linktekst="Bekijk workshop" %}
 </div>
@@ -268,7 +268,7 @@ Een balk die onderin beeld vast blijft staan op de workshoppagina's: links de na
 
 ### Reeks
 
-Workshops die bij elkaar horen langs de looptijd van een opdracht, zoals de drie publieke-codeworkshops. Ze staan als blokken in leesvolgorde: stap 1 en 2 klein links, stap 3 groot rechts (`blokken--groot-laatst`), met een rood stapnummer en het moment boven de titel. Op een workshoppagina van de reeks staat bij de huidige stap "Je bent hier". Een workshop hoort bij een reeks met `reeks:`, `reeks_stap:` en `reeks_moment:` in de front matter. Op /workshops/ krijgt een reeks een eigen sectie. Label, kop en tekst van de reeks staan in `_data/reeksen.yml`.
+Workshops die bij elkaar horen langs de looptijd van een opdracht, zoals de workshops voor opensourcewerken. Ze staan als blokken in leesvolgorde: stap 1 en 2 klein links, stap 3 groot rechts (`blokken--groot-laatst`), met het moment boven de titel. `reeks_stap:` bepaalt alleen de volgorde; een stapnummer staat er niet bij. Op een workshoppagina van de reeks staat bij de huidige stap "Je bent hier". Een workshop hoort bij een reeks met `reeks:`, `reeks_stap:` en `reeks_moment:` in de front matter. Op /workshops/ krijgt een reeks een eigen sectie. Label, kop en tekst van de reeks staan in `_data/reeksen.yml`.
 
 {% include reeks.html reeks="publieke-code" %}
 
@@ -384,6 +384,6 @@ De templates gevuld met echte inhoud.
 
 - [Home](/): een inleiding onder de titel en vier secties. Workshop-etalage, begeleiding met foto-paneel, en resultaten en opdrachtgevers als brede secties
 - [Workshops](/workshops/): de workshops als blokken, begeleiding als sectie, stappen en contactblok
-- [Crazy 8's-workshop]({% include workshop-url.html naam="crazy-8s" %}): de `sessie`-template
+- [Ontwerpdag]({% include workshop-url.html naam="crazy-8s" %}): de `sessie`-template
 - [Begeleiding](/begeleiding/): quote, drie secties met foto-paneel, resultaten als brede sectie en het contactblok
 - [Over ons](/mensen/): een sectie met foto-paneel en quote, de mensen als rijen in een brede sectie, een sectie met foto ("Voelbaar anders"), hoe we werken als grijze band met vier punten twee bij twee, en drie secties met foto over software design thinking

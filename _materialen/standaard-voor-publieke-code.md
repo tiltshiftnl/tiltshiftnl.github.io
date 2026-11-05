@@ -22,4 +22,4 @@ Gedrukte exemplaren van de Nederlandse vertaling kun je bestellen voor 30 euro p
 
 ## Met Tiltshift
 
-Wij gebruiken de Standaard in drie workshops, op drie momenten in een opdracht: de [Publieke Code Kick-off]({% include workshop-url.html naam="publieke-code-kick-off" %}) bij de start, de [Publieke Code Check-up]({% include workshop-url.html naam="publieke-code-check-up" %}) tussentijds en de [Publieke Code Review]({% include workshop-url.html naam="publieke-code-review" %}) bij oplevering of overdracht.
+Wij gebruiken de Standaard in twee workshops: de [Publieke Code Kick-off]({% include workshop-url.html naam="publieke-code-kick-off" %}) bij de start, en de [Publieke Code Review]({% include workshop-url.html naam="publieke-code-review" %}) tussentijds of bij oplevering of overdracht.

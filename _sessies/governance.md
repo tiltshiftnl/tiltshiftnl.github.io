@@ -7,6 +7,9 @@ description: "Een begeleide workshop over governance: welke rollen er zijn, wie 
 
 order: 2
 featured: false
+reeks: publieke-code
+reeks_stap: 2
+reeks_moment: "Als je gaat samenwerken"
 
 # Kaart op /workshops/
 uitkomst: "Welke rollen zijn er, wie bepaalt wat, en hoe organiseer je dat? Aan het eind weet je wat je nu al moet afspreken."

@@ -1,11 +1,11 @@
 ---
 layout: sessie
 
-title: "Productverkenning-workshop"
-seo_title: "Productverkenning-workshop – Tiltshift"
+title: "Inspiratiedag"
+seo_title: "Inspiratiedag: productverkenning in één dag – Tiltshift"
 description: "Collega's en projecten om je heen laten zien waar ze aan werken. Jij laat je eigen product zien en zij denken mee. Samen kijk je waar je open kunt samenwerken."
 
-order: 3
+order: 1
 featured: false
 
 # Kaart op /workshops/

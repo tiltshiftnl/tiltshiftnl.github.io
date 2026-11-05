@@ -59,7 +59,7 @@ meenemen:
   - titel: "Afspraken voor bijdragen"
     tekst: "Over tests, commit messages en het gebruik van AI, vastgelegd in CONTRIBUTING."
   - titel: "Een checklist voor onderweg"
-    tekst: "Die je bij de check-up en de review weer oppakt."
+    tekst: "Die je bij de review weer oppakt."
 
 voor_wie:
   - "Voor opdrachtgevers en leveranciers die aan het begin staan van een project waarin publieke code wordt gemaakt."

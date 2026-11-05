@@ -1,11 +1,11 @@
 ---
 layout: sessie
 
-title: "Crazy 8's-workshop"
-seo_title: "Crazy 8's-workshop – Tiltshift"
+title: "Ontwerpdag"
+seo_title: "Ontwerpdag: Crazy 8's-workshop – Tiltshift"
 description: "Een begeleide workshop van één dag waarin je team schetst, kiest, combineert en aanscherpt. Je gaat naar huis met een uitgewerkt concept en een gezamenlijke visie."
 
-order: 1
+order: 2
 featured: true
 
 # Kaart op homepage en /workshops/
