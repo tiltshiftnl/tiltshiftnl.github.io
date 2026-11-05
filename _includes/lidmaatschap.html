@@ -1,0 +1,14 @@
+{% comment %}
+Lidmaatschappen als logo's met een korte regel, bijvoorbeeld onder de reeks Opensourcewerken (zie css/_sass/lidmaatschap.scss).
+Parameters: leden (lijst met sleutels uit _data/lidmaatschappen.yml; zonder: alle), tekst, zwart (true: zwarte logo's in plaats van grijs),
+onder_elkaar (true: logo's onder elkaar in plaats van naast elkaar).
+Direct in main (bijvoorbeeld op /contact/) staat het op de tekstkolom, net als koppen en alinea's.
+{% endcomment %}
+<div class="lidmaatschap{% if include.zwart %} lidmaatschap--zwart{% endif %}{% if include.onder_elkaar %} lidmaatschap--onder-elkaar{% endif %}">
+    <div class="lidmaatschap__logos">
+        {% for paar in site.data.lidmaatschappen %}{% assign sleutel = paar[0] %}{% assign lid = paar[1] %}
+        {% if include.leden == nil or include.leden contains sleutel %}<a href="{{ lid.url }}" target="_blank" rel="noopener"><img src="{{ lid.logo }}" alt="{{ lid.naam }}" style="--hoogte: {{ lid.hoogte | default: 1.5 }}rem"></a>{% endif %}
+        {% endfor %}
+    </div>
+    {% if include.tekst %}<p class="lidmaatschap__tekst">{{ include.tekst }}</p>{% endif %}
+</div>

@@ -8,8 +8,8 @@ layout: default
 {% include sectie.html kop=page.kop tekst=page.lead link=boek_link linktekst=boek_tekst knop=true beeld=beeld %}
 
 {% if page.reeks %}
-{% capture reeks %}{% include reeks.html reeks=page.reeks huidig=page.url %}{% endcapture %}
 {% assign info = site.data.reeksen[page.reeks] %}
+{% capture reeks %}{% include reeks.html reeks=page.reeks huidig=page.url %}{% if info.lidmaatschappen %}<div class="container-md">{% include lidmaatschap.html leden=info.lidmaatschappen tekst=info.lidmaatschappen_tekst %}</div>{% endif %}{% endcapture %}
 {% include sectie.html breed=true label=info.label kop=info.kop tekst=info.tekst beeld=reeks %}
 {% endif %}
 

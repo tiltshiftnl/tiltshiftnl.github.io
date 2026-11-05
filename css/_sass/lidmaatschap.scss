@@ -1,0 +1,71 @@
+// Lidmaatschappen (_includes/lidmaatschap.html, gegevens in _data/lidmaatschappen.yml).
+// Logo's in grijs, in kleur bij hover, net als de klantlogo's. In de footer wit op zwart.
+
+.lidmaatschap {
+    margin-top: 1.2rem;
+    // Direct in main (zoals op /contact/): zelfde kolom als main > p. Niet via container-sm, want die rekt afbeeldingen op.
+    main > & {
+        width: calc(100% - (2 * #{$gutter-sm}));
+        margin-left: auto;
+        margin-right: auto;
+        padding: 0 20px;
+        @media screen and (min-width: $breakpoint-md) { width: $container-width-sm; }
+    }
+    // Onder de workshops van een reeks: lucht tot het rode vlak van het grote blok
+    .sectie__beeld & { margin-top: 3rem; }
+
+    &__logos {
+        display: flex;
+        flex-wrap: wrap;
+        align-items: center;
+        gap: 1rem 2.5rem;
+        a { display: block; }
+        img {
+            display: block;
+            width: auto;
+            height: var(--hoogte, 1.5rem); // per logo, zie _data/lidmaatschappen.yml
+            border: 0;
+            filter: url(#logo-grijs);
+        }
+        a:hover img, a:focus-visible img { filter: none; }
+    }
+    // Onder elkaar, bijvoorbeeld op /contact/
+    &--onder-elkaar &__logos {
+        flex-direction: column;
+        align-items: flex-start;
+        gap: 1.2rem;
+    }
+
+    // Zwart, bijvoorbeeld op /contact/
+    &--zwart &__logos img,
+    &--zwart &__logos a:hover img,
+    &--zwart &__logos a:focus-visible img { filter: brightness(0); }
+
+    &__tekst {
+        margin: 1rem 0 0;
+        font-size: $font-size-sm;
+        line-height: 1.4;
+        color: #6b6670;
+    }
+}
+
+// In de footer: onder de bedrijfsgegevens, logo's wit
+// Het kopje houdt de marge van de andere footerkopjes; de logo's staan in een eigen blok eronder.
+.footer__lid {
+    margin-top: 1.5rem;
+}
+.footer__lid-logos {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    gap: .9rem;
+    padding-top: .35rem;
+    a { display: block; }
+    img {
+        display: block;
+        width: auto;
+        height: calc(var(--hoogte, 1.5rem) * .8);
+        border: 0;
+        filter: brightness(0) invert(1);
+    }
+}

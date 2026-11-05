@@ -50,3 +50,7 @@ Strawinskylaan 11<br>
 KvK 68994222<br>
 BTW-ID NL857680237B01<br>
 IBAN NL67 SNSB 8846 5901 39
+
+### Tiltshift is lid van
+
+{% include lidmaatschap.html zwart=true onder_elkaar=true %}

@@ -24,6 +24,10 @@
           <p>&nbsp;</p>
           <p>KvK 68994222</p>
           <p>BTW NL857680237B01</p>
+          <div class="footer__lid">
+            <h2 class="heading-neue heading-neue--h2">Lid van</h2>
+            <div class="footer__lid-logos">{% for lid in site.data.lidmaatschappen %}<a href="{{ lid[1].url }}" target="_blank" rel="noopener"><img src="{{ lid[1].logo }}" alt="{{ lid[1].naam }}" style="--hoogte: {{ lid[1].hoogte | default: 1.5 }}rem"></a>{% endfor %}</div>
+          </div>
         </div>
         <div class="footer__inner__columns-row__columns__column">
           {% include sub-links.html %}

@@ -328,6 +328,14 @@ De laatste posts van [Mastodon](https://mastodon.nl/@tiltshift) als brede sectie
 
 <pre class="ds-code container-sm"><code>{% raw %}{% include social-updates.html aantal=3 kop="..." %}{% endraw %}</code></pre>
 
+### Lidmaatschappen
+
+{% include lidmaatschap.html leden=site.data.reeksen.publieke-code.lidmaatschappen tekst=site.data.reeksen.publieke-code.lidmaatschappen_tekst %}
+
+De logo's van verenigingen waar Tiltshift lid van is, in grijs en in kleur als je eroverheen gaat, met een korte regel eronder. Elk logo linkt naar de vereniging (nieuw tab). De verenigingen staan in `_data/lidmaatschappen.yml`. Een reeks toont ze onder de workshops met `lidmaatschappen:` en `lidmaatschappen_tekst:` in `_data/reeksen.yml`, zoals bij Opensourcewerken. Zonder `leden` toont het alle lidmaatschappen. Met `zwart=true` zijn de logo's zwart en met `onder_elkaar=true` staan ze onder elkaar, zoals onderaan /contact/. In de footer staan alle lidmaatschappen onder "Lid van", wit op zwart.
+
+<pre class="ds-code container-sm"><code>{% raw %}{% include lidmaatschap.html leden=info.lidmaatschappen tekst=info.lidmaatschappen_tekst %}{% endraw %}</code></pre>
+
 ### Opdrachtgevers
 
 {% include klanten-uitgelicht.html %}
@@ -360,7 +368,7 @@ Met `zonder` laat je één persoon weg, zoals op een mensenpagina, waar onderaan
 
 ### Navigatie en footer
 
-De navigatie boven en de footer onder deze pagina. Ze zitten in elke template en zet je niet zelf op een pagina. Vanaf 1280 pixels staat het logo onder de zwarte balk, links naast de inhoudskolom, en groeit het mee met de vrije ruimte daar (tot 180 pixels). De LinkedIn- en Mastodon-knoppen staan altijd naast de menu-items, en op mobiel in het uitklapmenu onder de menu-items (`_includes/social-links.html`).
+De navigatie boven en de footer onder deze pagina. Ze zitten in elke template en zet je niet zelf op een pagina. Vanaf 1280 pixels staat het logo onder de zwarte balk, links naast de inhoudskolom, en groeit het mee met de vrije ruimte daar (tot 180 pixels). Onder de bedrijfsgegevens staan in de footer de lidmaatschappen (zie Lidmaatschappen). De LinkedIn- en Mastodon-knoppen staan altijd naast de menu-items, en op mobiel in het uitklapmenu onder de menu-items (`_includes/social-links.html`).
 
 ## Templates {#templates}
 

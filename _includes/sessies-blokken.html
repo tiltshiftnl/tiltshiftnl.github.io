@@ -22,7 +22,8 @@ twee klein ernaast; eventuele rest daaronder in een raster.
 
 {% assign reeksen = alle | where_exp: "s", "s.reeks" | map: "reeks" | uniq %}
 {% for r in reeksen %}
-{% capture reeks %}{% include reeks.html reeks=r %}{% endcapture %}
 {% assign info = site.data.reeksen[r] %}
+{% comment %}Lidmaatschappen onder de workshops van de reeks{% endcomment %}
+{% capture reeks %}{% include reeks.html reeks=r %}{% if info.lidmaatschappen %}<div class="container-md">{% include lidmaatschap.html leden=info.lidmaatschappen tekst=info.lidmaatschappen_tekst %}</div>{% endif %}{% endcapture %}
 {% include sectie.html breed=true label=info.label kop=info.kop tekst=info.tekst beeld=reeks %}
 {% endfor %}

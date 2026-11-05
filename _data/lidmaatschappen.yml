@@ -1,0 +1,16 @@
+# Verenigingen waar Tiltshift lid van is. Staan in de footer (_includes/footer.html) en, per reeks, onder de
+# reekstekst (lidmaatschappen: in _data/reeksen.yml, via _includes/lidmaatschap.html).
+# Logo in kleur of zwart, zonder lege rand; de footer maakt het wit, elders wordt het grijs en in kleur bij hover.
+# hoogte (rem): zo kiezen dat de logo's naast elkaar even groot ogen (een dun logo iets hoger dan een vet logo).
+
+dosba:
+  naam: "Dutch Open Source Business Alliance (DOSBA)"
+  url: "https://dosba.nl/nl"
+  logo: /assets/img/relaties/dosba.svg
+  hoogte: 1.9
+
+opennederland:
+  naam: "Vereniging Open Nederland"
+  url: "https://www.opennederland.nl"
+  logo: /assets/img/relaties/open-nederland.png
+  hoogte: 1.15

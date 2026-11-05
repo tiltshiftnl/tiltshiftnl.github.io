@@ -6,3 +6,6 @@ publieke-code:
   label: "Opensourcewerken"
   kop: "Belangrijke momenten in een publiek softwareproject"
   tekst: "Drie workshops met de Standaard voor Publieke Code: bij de start, tussentijds en bij oplevering. Elke workshop kan los. Samen houden ze de codebase open, herbruikbaar, leesbaar, te verantwoorden, toegankelijk en duurzaam."
+  # Onder de workshops van de reeks: logo's van verenigingen (sleutels uit _data/lidmaatschappen.yml)
+  lidmaatschappen: [dosba, opennederland]
+  lidmaatschappen_tekst: "Tiltshift is lid van de Dutch Open Source Business Alliance en van Vereniging Open Nederland."
