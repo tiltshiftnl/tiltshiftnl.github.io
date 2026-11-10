@@ -67,5 +67,5 @@ voor_wie:
   - "Het hele team kijkt mee: ontwikkelaars, ontwerpers en de productowner. Bij de bespreking na de tests is de productowner er in elk geval bij, want die kiest wat belangrijk is."
 
 cta_kop: "Zien hoe gebruikers jullie product ervaren?"
-contactpersoon: maarten  # sleutel uit _data/mensen.yml; tijdelijk, wordt sander zodra er een goede foto is
+contactpersoon: sander  # sleutel uit _data/mensen.yml
 ---

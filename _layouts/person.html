@@ -15,6 +15,28 @@
         {% include sectie.html kop=over_kop inhoud=bio %}
       {% endif %}
 
+      {% if page.when.size > 0 %}
+        {% capture wanneer %}{% for w in page.when %}
+- {{ w }}{% endfor %}
+{% endcapture %}
+        {% assign wanneer_kop = "Haal " | append: page.firstname | append: " erbij" %}
+        {% include sectie.html label="Wanneer" kop=wanneer_kop inhoud=wanneer %}
+      {% endif %}
+
+      {% if page.workshops.size > 0 %}
+        {% capture workshop_blokken %}<div class="blokken container-md">
+          {% for slug in page.workshops %}
+            {% assign s = site.sessies | where: "slug", slug | first %}
+            {% if s %}
+              {% capture tekst %}{{ s.uitkomst }}{% if s.duur_kort %} {{ s.duur_kort }}.{% endif %}{% endcapture %}
+              {% include blok.html titel=s.title tekst=tekst afbeelding=s.image url=s.url linktekst="Bekijk workshop" %}
+            {% endif %}
+          {% endfor %}
+        </div>{% endcapture %}
+        {% assign workshops_kop = "Workshops met " | append: page.firstname %}
+        {% include sectie.html breed=true label="Workshops" kop=workshops_kop beeld=workshop_blokken link="/workshops/" linktekst="Alle workshops" %}
+      {% endif %}
+
       {% for p in page.projects %}
         {% if forloop.first %}{% assign label = "Hier werk ik aan" %}{% else %}{% assign label = nil %}{% endif %}
         {% assign project_kop = p[0] %}{% assign project_tekst = p[1] %}
@@ -32,14 +54,6 @@
         {% assign resultaten_kop = page.firstname | append: " in actie" %}
         {% include resultaten-sectie.html slugs=slugs kop=resultaten_kop tekst="" %}
       {% endif %}
-
-      {% capture anderen %}{% include mensen-rijen.html zonder=page.url %}{% endcapture %}
-      {% include sectie.html breed=true label="Tiltshift" kop="Collega's" beeld=anderen %}
-
-      {% assign sleutel = nil %}
-      {% for m in site.data.mensen %}{% if m[1].mail == page.email %}{% assign sleutel = m[0] %}{% endif %}{% endfor %}
-      {% assign cta_kop = "Even bellen met " | append: page.firstname | append: "?" %}
-      {% include cta.html header=cta_kop persoon=sleutel %}
     </main>
     <footer>{% include footer.html %}</footer>
   </body>

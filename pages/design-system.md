@@ -356,7 +356,7 @@ Per persoon een groot portret met het gekantelde rode vlak, de naam groot ernaas
 <pre class="ds-code container-sm"><code>{% raw %}{% include mensen-rijen.html %}
 {% include mensen-rijen.html zonder=page.url %}{% endraw %}</code></pre>
 
-Met `zonder` laat je één persoon weg, zoals op een mensenpagina, waar onderaan de collega's staan. Eén rij los, als opening van een mensenpagina: de naam wordt dan de h1 en in plaats van de link staan de contactgegevens (telefoon, e-mail, LinkedIn en vCard).
+Met `zonder` laat je één persoon weg. Eén rij los, als opening van een mensenpagina: de naam wordt dan de h1 en in plaats van de link staan de contactgegevens (telefoon, e-mail, LinkedIn en vCard).
 
 <ul class="mensen-rijen">
 {% assign ds_persoon = site.mensen | where: "url", "/mensen/rutger-dik/" | first %}{% include mensen-rij.html persoon=ds_persoon hoofd=true %}
