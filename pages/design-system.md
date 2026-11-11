@@ -59,6 +59,19 @@ Rood en zwart dragen de site. Blauw komt terug in het logo, de footer en de tite
 
 Elke pagina heeft één h1: de paginatitel uit de front matter. Die is smal gezet (zo'n twintig tekens per regel), zodat hij op een regel of drie valt. Daaronder werk je met h2 en h3.
 
+### Wisseltitel
+
+<div class="ds-voorbeeld container-sm">
+{% include wisseltitel.html wisseltitel=site.data.ds_wisseltitel %}
+</div>
+
+Een paginatitel waarvan het laatste deel wisselt, zoals op de voorpagina. Het eerste woord staat er vast. Na een paar seconden wist het script dat woord en typt het de andere woorden na elkaar, met een rode cursor. Dat gebeurt één keer; daarna staat het eerste woord er weer en stopt de cursor. De hoogte is die van het langste woord, zodat de tekst eronder niet verspringt. Schermlezers lezen alleen de vaste titel. Zonder JavaScript, of als iemand "beweging beperken" aan heeft staan, blijft het eerste woord gewoon staan. Zet in de front matter `wisseltitel` naast `title`; de layout pakt hem dan vanzelf. `title` blijft de volledige titel voor zoekmachines en het tabblad. Een woord dat te lang is voor de regel breekt gewoon af waar het niet meer past.
+
+<pre class="ds-code container-sm"><code>title: "Aan de slag met publieke digitalisering"
+wisseltitel:
+  begin: "Aan de slag met"
+  woorden: [publieke digitalisering, opensourcewerken, publieke code]</code></pre>
+
 ### Links en knoppen
 
 <div class="ds-voorbeeld container-sm">

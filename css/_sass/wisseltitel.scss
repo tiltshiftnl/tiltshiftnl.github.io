@@ -1,0 +1,42 @@
+// Paginatitel met een wisselend laatste deel (_includes/wisseltitel.html)
+
+.wisseltitel {
+    // Vaste titel voor schermlezers, visueel verborgen
+    &__vast {
+        position: absolute;
+        width: 1px;
+        height: 1px;
+        overflow: hidden;
+        clip: rect(0 0 0 0);
+        white-space: nowrap;
+    }
+
+    // Alle woorden op dezelfde plek: de onzichtbare bepalen de hoogte, het zichtbare wordt getypt
+    &__woorden {
+        display: grid;
+        // min-width: 0, zodat een te lang woord op mobiel mag afbreken (overflow-wrap van de h1)
+        > * { grid-area: 1 / 1; min-width: 0; }
+    }
+    // Niet opnieuw verdelen bij elke letter (de h1 erft text-wrap: balance)
+    &__woorden { text-wrap: wrap; }
+    &__maat,
+    &__rest { visibility: hidden; }
+
+    // Cursor tijdens het typen, absoluut gepositioneerd aan het eind van de laatste regel van het getypte deel.
+    // Zo telt hij niet mee bij het afbreken van de regels en verspringt er niets.
+    &__getypt { position: relative; }
+    &__woorden.is-actief &__getypt::after {
+        content: "";
+        position: absolute;
+        right: -.12em;
+        bottom: .12em;
+        width: .07em;
+        height: .8em;
+        background: $red;
+        animation: wisseltitel-knipper 1s steps(1) infinite;
+    }
+}
+
+@keyframes wisseltitel-knipper {
+    50% { opacity: 0; }
+}

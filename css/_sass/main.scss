@@ -75,7 +75,7 @@ main {
 main > h1 {
     @include container-md();
     // Smalle tekst, zodat een titel op een regel of drie valt, met regels van gelijke lengte
-    span { display: block; max-width: 10em; text-wrap: balance; }
+    > span { display: block; max-width: 10em; text-wrap: balance; }
 }
 
 // Korte inleiding onder de paginatitel (intro: in de front matter), op dezelfde kolom als de titel

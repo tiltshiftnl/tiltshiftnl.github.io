@@ -30,7 +30,7 @@ Het hoeft geen keuze te zijn tussen one-size-fits-none inkoop en alles zelf bouw
 {% include sectie.html label="In-house teams" kop="Transformeren naar open source werken" tekst=tekst beeld=beeld %}
 
 {% capture beeld %}{% include valprop.html image="/assets/img/foto/Careyn-Joris-Boeren-leiderschap-traject-nieuwe-website.jpg" alt="Joris Boeren belt bij de nieuwe Careyn-website" %}{% endcapture %}
-{% include sectie.html label="Open source hergebruik" kop="Publieke digitalisering die werkt" tekst="Liever bestaande open source software inzetten, uit de markt of van andere publieke organisaties? We verkennen wat past, organiseren de pilot en begeleiden implementatie en adoptie. We brengen in kaart wat nodig is en blijven als adoptiepartner betrokken om te zorgen voor succesvol gebruik. Vanuit de uitvoering, met de mensen die het doen." beeld=beeld %}
+{% include sectie.html label="Open source hergebruik" kop="Publieke digitalisering die werkt" tekst="Liever bestaande open source software inzetten, uit de markt of van andere publieke organisaties? We verkennen wat past, organiseren de pilot en begeleiden implementatie en adoptie. En we regelen wat er verder nodig is: afspraken met leveranciers, levering als dienst of intern, en wat er binnen de organisatie nog vastzit. We blijven erbij tot het in de organisatie werkt. Vanuit de uitvoering, met de mensen die het doen." beeld=beeld %}
 
 {% capture beeld %}{% include valprop.html image="/assets/img/foto/Stadspas-Zwolle-Sessie.jpg" alt="Werksessie in Zwolle" %}{% endcapture %}
 {% capture tekst %}

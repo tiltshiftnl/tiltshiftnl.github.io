@@ -1,0 +1,50 @@
+{% comment %}
+Paginatitel met een wisselend laatste deel (zie css/_sass/wisseltitel.scss).
+Gebruik in de front matter, naast title (die blijft de volledige titel voor zoekmachines):
+  wisseltitel:
+    begin: "Aan de slag met"
+    woorden: [publieke digitalisering, opensourcewerken, publieke code]
+Het eerste woord staat er vast. Het script typt de andere woorden één keer na elkaar en eindigt weer op het eerste.
+Schermlezers lezen alleen de vaste titel. Zonder JavaScript of met "beweging beperken" blijft het eerste woord staan.
+De hoogte is die van het langste woord, zodat de tekst eronder niet verspringt.
+{% endcomment %}
+{% assign wt = include.wisseltitel | default: page.wisseltitel %}
+<h1 class="wisseltitel"><span>
+  <span class="wisseltitel__vast">{{ wt.begin }} {{ wt.woorden[0] }}</span>
+  <span aria-hidden="true">{{ wt.begin }} <span class="wisseltitel__woorden" data-woorden="{{ wt.woorden | jsonify | escape }}">{% for woord in wt.woorden %}<span class="wisseltitel__maat">{{ woord }}</span>{% endfor %}<span class="wisseltitel__woord"><span class="wisseltitel__getypt">{{ wt.woorden[0] }}</span><span class="wisseltitel__rest"></span></span></span></span>
+</span></h1>
+<script>
+(function () {
+  var houder = document.currentScript.previousElementSibling.querySelector('.wisseltitel__woorden');
+  if (!houder || !window.matchMedia || window.matchMedia('(prefers-reduced-motion: reduce)').matches) return;
+  var woorden = JSON.parse(houder.getAttribute('data-woorden'));
+  if (woorden.length < 2) return;
+  // Het hele woord staat er steeds; het nog niet getypte deel is onzichtbaar. Zo liggen de regels vast en springt er niets.
+  var getypt = houder.querySelector('.wisseltitel__getypt');
+  var rest = houder.querySelector('.wisseltitel__rest');
+  var huidig = woorden[0];
+  var wacht = function (ms) { return new Promise(function (r) { setTimeout(r, ms); }); };
+  function zet(tekst, n) { getypt.textContent = tekst.slice(0, n); rest.textContent = tekst.slice(n); }
+  async function wis() {
+    for (var n = huidig.length; n >= 0; n--) { zet(huidig, n); await wacht(35); }
+  }
+  async function typ(tekst) {
+    huidig = tekst;
+    for (var n = 1; n <= tekst.length; n++) { zet(tekst, n); await wacht(70); }
+  }
+  async function ronde() {
+    houder.classList.add('is-actief');
+    var reeks = woorden.slice(1).concat([woorden[0]]);
+    await wacht(2500);
+    for (var i = 0; i < reeks.length; i++) {
+      await wis();
+      await wacht(400);
+      await typ(reeks[i]);
+      if (i < reeks.length - 1) await wacht(2500);
+    }
+    await wacht(1500);
+    houder.classList.remove('is-actief');
+  }
+  ronde();
+})();
+</script>

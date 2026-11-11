@@ -16,7 +16,7 @@
     {% endif %}
 
     {% include pagina-label.html %}
-    <h1><span>{{ page.title }}</span></h1>
+    {% if page.wisseltitel %}{% include wisseltitel.html %}{% else %}<h1><span>{{ page.title }}</span></h1>{% endif %}
     {% if page.intro %}<p class="pagina-intro"><span>{{ page.intro }}</span></p>{% endif %}
 
     {{ content }}
