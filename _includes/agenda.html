@@ -1,0 +1,40 @@
+{% comment %}
+Brede sectie met de komende bijeenkomsten uit _data/agenda.yml (zie css/_sass/agenda.scss).
+Voorbije bijeenkomsten vallen weg bij het bouwen, en ook in de browser (de site wordt niet elke dag gebouwd).
+Zijn er geen komende bijeenkomsten, dan blijft de sectie weg.
+Parameters: label (standaard "Agenda"), kop (standaard "Bijeenkomsten"), tekst.
+{% endcomment %}
+{% assign agenda_vandaag = site.time | date: "%Y%m%d" | plus: 0 %}
+{% assign agenda_items = site.data.agenda | sort: "datum" %}
+{% assign agenda_maanden = "jan,feb,mrt,apr,mei,jun,jul,aug,sep,okt,nov,dec" | split: "," %}
+{% assign agenda_maanden_lang = "januari,februari,maart,april,mei,juni,juli,augustus,september,oktober,november,december" | split: "," %}
+{% assign agenda_dagen = "maandag,dinsdag,woensdag,donderdag,vrijdag,zaterdag,zondag" | split: "," %}
+{% capture agenda_lijst %}{% for e in agenda_items %}{% assign e_dag = e.datum | date: "%Y%m%d" | plus: 0 %}{% if e_dag >= agenda_vandaag %}{% assign e_maand = e.datum | date: "%-m" | minus: 1 %}{% assign e_weekdag = e.datum | date: "%u" | minus: 1 %}
+<article class="agenda-item" data-datum="{{ e.datum | date: '%Y-%m-%d' }}">
+    <div class="agenda-item__datum" aria-hidden="true"><span class="agenda-item__dag">{{ e.datum | date: "%-d" }}</span><span class="agenda-item__maand">{{ agenda_maanden[e_maand] }}</span></div>
+    <div class="agenda-item__inhoud">
+        <p class="agenda-item__wanneer">{{ agenda_dagen[e_weekdag] }} {{ e.datum | date: "%-d" }} {{ agenda_maanden_lang[e_maand] }}{% if e.tijd %} · {{ e.tijd }}{% endif %}{% if e.plek %} · {{ e.plek }}{% endif %}</p>
+        <h3 class="agenda-item__titel">{{ e.titel }}</h3>
+        {% if e.tekst %}<p class="agenda-item__tekst">{{ e.tekst }}</p>{% endif %}
+        {% if e.organisatie %}<p class="agenda-item__organisatie">Organisatie: {{ e.organisatie }}</p>{% endif %}
+        {% if e.link %}<a class="agenda-item__link" href="{{ e.link }}" target="_blank" rel="noopener">{{ e.linktekst | default: "Meer informatie" }} <span aria-hidden="true">→</span></a>{% endif %}
+    </div>
+</article>{% endif %}{% endfor %}{% endcapture %}
+{% assign agenda_inhoud = agenda_lijst | strip %}
+{% if agenda_inhoud != "" %}
+{% assign agenda_label = include.label | default: "Agenda" %}
+{% assign agenda_kop = include.kop | default: "Bijeenkomsten" %}
+{% capture agenda_beeld %}<div class="agenda__lijst">{{ agenda_lijst }}</div>{% endcapture %}
+<div class="agenda">
+{% include sectie.html breed=true label=agenda_label kop=agenda_kop tekst=include.tekst beeld=agenda_beeld %}
+</div>
+<script>
+(function () {
+  // Voorbije bijeenkomsten weghalen; is er niets meer over, dan de hele sectie
+  var blok = document.currentScript.previousElementSibling;
+  var vandaag = new Date().toISOString().slice(0, 10);
+  blok.querySelectorAll('.agenda-item').forEach(function (e) { if (e.dataset.datum < vandaag) e.remove(); });
+  if (!blok.querySelector('.agenda-item')) blok.remove();
+})();
+</script>
+{% endif %}

@@ -64,7 +64,7 @@ Voor plekken waar de hoogte beperkt is, zoals een e-mailhandtekening, een banner
 
 - **Vrije ruimte:** houd rondom minstens een kwart van de logobreedte vrij van tekst en beeld.
 - **Kleinste maat:** het logo minstens 75 pixels breed op een scherm en 20 millimeter op papier. Kleiner wordt de tagline onleesbaar; gebruik dan het logo zonder tagline.
-- **Op een foto:** alleen op een rustig, egaal deel. Anders de donkere versie op een zwart vlak.
+- **Op een foto:** de donkere versie (wit logo, witte tekst), liggend, rechtsonder, met een donker verloop onderin zodat het leesbaar blijft. Zo zien de beelden bij social posts eruit (sjabloon in `.claude/skills/social-post/beeld.html`, 1200 × 675). Niet over een gezicht of iets belangrijks.
 - **Niet doen:** de tagline in een andere letter of kleur zetten, de punt weglaten, de tagline los van het logo ergens anders op de pagina zetten, de tagline rechts van of boven het logo zetten, of het geheel uitrekken of draaien.
 
 Zonder tagline staat het logo alleen in de navigatie, omdat het daar klein is en "Aan de slag." dan niet meer te lezen is.
@@ -390,6 +390,14 @@ De laatste posts van [Mastodon](https://mastodon.nl/@tiltshift) als brede sectie
 
 <pre class="ds-code container-sm"><code>{% raw %}{% include social-updates.html aantal=3 kop="..." %}{% endraw %}</code></pre>
 
+### Agenda
+
+{% include agenda.html tekst="Naast workshops en begeleiding organiseren we bijeenkomsten." %}
+
+De komende bijeenkomsten uit `_data/agenda.yml` als brede sectie, in de opmaak van de updates. Links de datum in wit op een rood vlak, licht gedraaid zoals het logo. Rechts in een rood label de dag, de tijd en de plek, dan de titel, een korte tekst, wie het organiseert (klein en grijs) en een link om je aan te melden (opent in een nieuw tab). Voorbije bijeenkomsten vallen weg, bij het bouwen en ook in de browser, omdat de site niet elke dag gebouwd wordt. Is er niets meer te komen, dan blijft de hele sectie weg. Met `label`, `kop` en `tekst` wijk je af van "Agenda" en "Bijeenkomsten". Staat op [Meetups](/meetups/), boven de updates.
+
+<pre class="ds-code container-sm"><code>{% raw %}{% include agenda.html tekst="..." %}{% endraw %}</code></pre>
+
 ### Lidmaatschappen
 
 {% include lidmaatschap.html leden=site.data.reeksen.publieke-code.lidmaatschappen tekst=site.data.reeksen.publieke-code.lidmaatschappen_tekst %}
@@ -430,7 +438,7 @@ Met `zonder` laat je één persoon weg. Eén rij los, als opening van een mensen
 
 ### Navigatie en footer
 
-De navigatie boven en de footer onder deze pagina. Ze zitten in elke template en zet je niet zelf op een pagina. Vanaf 1280 pixels staat het logo onder de zwarte balk, links naast de inhoudskolom, en groeit het mee met de vrije ruimte daar (tot 180 pixels). Onder de bedrijfsgegevens staan in de footer de lidmaatschappen (zie Lidmaatschappen). De LinkedIn- en Mastodon-knoppen staan altijd naast de menu-items, en op mobiel in het uitklapmenu onder de menu-items (`_includes/social-links.html`).
+De navigatie boven en de footer onder deze pagina. Ze zitten in elke template en zet je niet zelf op een pagina. Het menu (`_includes/main-links.html`): Home, Workshops, Meetups, Begeleiding, Over ons en Contact. Vanaf 1280 pixels staat het logo onder de zwarte balk, links naast de inhoudskolom, en groeit het mee met de vrije ruimte daar (tot 180 pixels). Onder de bedrijfsgegevens staan in de footer de lidmaatschappen (zie Lidmaatschappen). De LinkedIn- en Mastodon-knoppen staan altijd naast de menu-items, en op mobiel in het uitklapmenu onder de menu-items (`_includes/social-links.html`).
 
 ## Templates {#templates}
 
@@ -444,8 +452,10 @@ Het skelet van een pagina. Er zijn er twee, en ze delen dezelfde basis.
 
 De templates gevuld met echte inhoud.
 
-- [Home](/): een inleiding onder de titel en vier secties. Workshop-etalage, begeleiding met foto-paneel, en resultaten en opdrachtgevers als brede secties
+- [Home](/): de wisseltitel, een inleiding en vier secties: workshop-etalage, opdrachtgevers als brede sectie, begeleiding met foto-paneel en resultaten
 - [Workshops](/workshops/): de workshops als blokken, begeleiding als sectie, stappen en contactblok
 - [Ontwerpdag]({% include workshop-url.html naam="crazy-8s" %}): de `sessie`-template
+- [Meetups](/meetups/): de agenda met komende meetups, een tekstsectie over de maandelijkse meetup Werken aan Publieke Code, de updates van Mastodon en het contactblok
 - [Begeleiding](/begeleiding/): quote, drie secties met foto-paneel, resultaten als brede sectie en het contactblok
 - [Over ons](/mensen/): een sectie met foto-paneel en quote, de mensen als rijen in een brede sectie, een sectie met foto ("Voelbaar anders"), hoe we werken als grijze band met vier punten twee bij twee, en drie secties met foto over software design thinking
+- Een social post, zoals [Meekijkdag](/2026/11/12/meekijkdag.html): de `social`-template. Het beeld en de LinkedIn-tekst als artikel, de link als pijllink, zonder hashtags. Lokaal staat eronder een blok om te plaatsen: status, beeld met alt-tekst en download, de tekst voor Mastodon en LinkedIn met tekenteller (Mastodon 500, een link telt als 23) en kopieerknoppen. Op tiltshift.nl staat dat blok er niet (`jekyll.environment` is daar `production`)

@@ -3,6 +3,12 @@ Klein rood label boven de paginatitel. Volgorde: label in de front matter, dan e
 {% endcomment %}
 {% assign collectie_labels = "sessies:Workshop,projecten:Resultaat,posts:Post,materialen:Materiaal,klanten:Opdrachtgever,mensen:Mensen" | split: "," %}
 {% assign pagina_label = page.label %}
+{% if pagina_label == nil and page.soort == "social" %}
+    {% comment %}Social post: "Social post" met de datum, in het Nederlands{% endcomment %}
+    {% assign label_maanden = "januari,februari,maart,april,mei,juni,juli,augustus,september,oktober,november,december" | split: "," %}
+    {% assign label_maand = page.date | date: "%-m" | minus: 1 %}
+    {% capture pagina_label %}Social post {{ page.date | date: "%-d" }} {{ label_maanden[label_maand] }} {{ page.date | date: "%Y" }}{% endcapture %}
+{% endif %}
 {% unless pagina_label %}
     {% for paar in collectie_labels %}
         {% assign delen = paar | split: ":" %}

@@ -1,0 +1,86 @@
+---
+layout: default
+---
+{% comment %}
+Een social post als gewone post op de site (soort: social in _posts/).
+Toont het beeld en de tekst als artikel (de LinkedIn-tekst, of anders die voor Mastodon): de link wordt een link, de regel met hashtags valt weg.
+Lokaal (jekyll serve, niet in production) staat eronder alles om te plaatsen: status, beeld met alt-tekst,
+de tekst per kanaal met tekenteller en kopieerknoppen (zie css/_sass/social-posts.scss).
+{% endcomment %}
+{% if page.image %}<div class="article-image">
+    <img src="{{ page.image }}" alt="{{ page.alt | escape }}">
+</div>{% endif %}
+{% capture social_witregel %}
+
+{% endcapture %}
+{% assign social_artikel = page.linkedin | default: page.mastodon %}
+{% assign social_alineas = social_artikel | strip | split: social_witregel %}
+{% for alinea in social_alineas %}{% assign a = alinea | strip %}{% assign eerste = a | slice: 0 %}{% if a == "" or eerste == "#" %}{% continue %}{% endif %}{% assign begin = a | slice: 0, 4 %}
+{% if begin == "http" %}<p><a href="{{ a }}" class="sectie__link">{{ a | remove: "https://www." | remove: "https://" }} <span aria-hidden="true">→</span></a></p>
+{% else %}<p>{{ a | escape | newline_to_br }}</p>
+{% endif %}{% endfor %}
+
+{{ content }}
+
+{% if page.linkedin_url or page.mastodon_url %}<p class="social-post-link">{% if page.linkedin_url %}<a href="{{ page.linkedin_url }}" class="sectie__link" target="_blank" rel="noopener">Deze post op LinkedIn <span aria-hidden="true">→</span></a>{% endif %}{% if page.linkedin_url and page.mastodon_url %}<br>{% endif %}{% if page.mastodon_url %}<a href="{{ page.mastodon_url }}" class="sectie__link" target="_blank" rel="noopener">Deze post op Mastodon <span aria-hidden="true">→</span></a>{% endif %}</p>{% endif %}
+
+{% if jekyll.environment != "production" %}
+{% assign plaats_beeld = page.social_beeld | default: page.image %}
+{% assign kanalen = "" | split: "" %}{% if page.linkedin %}{% assign kanalen = kanalen | push: "linkedin" %}{% endif %}{% if page.mastodon %}{% assign kanalen = kanalen | push: "mastodon" %}{% endif %}
+<div class="social-post container-md">
+{% for kanaal in kanalen %}
+{% if kanaal == "linkedin" %}{% assign k_naam = "LinkedIn" %}{% assign k_tekst = page.linkedin %}{% assign k_url = page.linkedin_url %}{% else %}{% assign k_naam = "Mastodon" %}{% assign k_tekst = page.mastodon %}{% assign k_url = page.mastodon_url %}{% endif %}
+<section class="social-kaart" data-kanaal="{{ kanaal }}">
+    <header class="social-kaart__kop">
+        <h2 class="social-kaart__titel">Plaatsen op {{ k_naam }}</h2>
+        <span class="social-kaart__status social-kaart__status--{{ page.status | default: 'concept' }}">{{ page.status | default: "concept" }}</span>
+        {% if k_url %}<a class="social-kaart__bekijk" href="{{ k_url }}" target="_blank" rel="noopener">Bekijk op {{ k_naam }} <span aria-hidden="true">→</span></a>{% endif %}
+    </header>
+    <div class="social-kaart__inhoud">
+        <div class="social-kaart__beeld">
+            <p class="social-kaart__stap">1. Beeld</p>
+            {% if plaats_beeld %}<img src="{{ plaats_beeld }}" alt="{{ page.alt | escape }}">
+            <p class="social-kaart__knoppen"><a class="social-kaart__knop" href="{{ plaats_beeld }}" download>Download beeld</a></p>
+            {% unless page.social_beeld %}<p class="social-kaart__let-op">Nog zonder logo en tagline (<code>social_beeld:</code>).</p>{% endunless %}
+            {% else %}<p class="social-kaart__let-op">Nog geen beeld (<code>image:</code>).</p>{% endif %}
+            <p class="social-kaart__stap">2. Alt-tekst</p>
+            <p class="social-kaart__alt" data-bron="alt">{{ page.alt }}</p>
+            <p class="social-kaart__knoppen"><button type="button" class="social-kaart__knop" data-kopieer="alt">Kopieer alt-tekst</button></p>
+        </div>
+        <div class="social-kaart__tekstvak">
+            <p class="social-kaart__stap">3. Tekst <span class="social-kaart__tekens" data-tekens data-max="{% if kanaal == 'mastodon' %}500{% else %}3000{% endif %}"></span></p>
+            <div class="social-kaart__tekst" data-bron="tekst">{{ k_tekst | strip | escape }}</div>
+            <p class="social-kaart__knoppen"><button type="button" class="social-kaart__knop" data-kopieer="tekst">Kopieer tekst</button></p>
+        </div>
+    </div>
+    <p class="social-kaart__voet">Alleen lokaal zichtbaar, niet op tiltshift.nl. Na het plaatsen: zet <code>status: geplaatst</code> en vul <code>{{ kanaal }}_url</code> in.</p>
+</section>
+{% endfor %}
+</div>
+<script>
+(function () {
+  var blok = document.currentScript.previousElementSibling;
+  blok.querySelectorAll('.social-kaart').forEach(function (kaart) {
+    // Tekens tellen zoals Mastodon: een link telt als 23 tekens
+    var tekst = kaart.querySelector('[data-bron="tekst"]');
+    var teller = kaart.querySelector('[data-tekens]');
+    var n = tekst.textContent.replace(/https?:\/\/\S+/g, new Array(24).join('x')).length;
+    var max = +teller.dataset.max;
+    teller.textContent = n + ' / ' + max + ' tekens';
+    if (n > max) teller.classList.add('is-te-lang');
+    kaart.querySelectorAll('[data-kopieer]').forEach(function (knop) {
+      knop.addEventListener('click', function () {
+        var bron = kaart.querySelector('[data-bron="' + knop.dataset.kopieer + '"]');
+        navigator.clipboard.writeText(bron.textContent.trim()).then(function () {
+          var oud = knop.textContent;
+          knop.textContent = 'Gekopieerd';
+          setTimeout(function () { knop.textContent = oud; }, 1500);
+        });
+      });
+    });
+  });
+})();
+</script>
+{% endif %}
+
+<p><a href="/posts/">« overzicht van posts</a></p>

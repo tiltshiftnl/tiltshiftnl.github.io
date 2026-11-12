@@ -22,4 +22,6 @@ Gedrukte exemplaren van de Nederlandse vertaling kun je bestellen voor 30 euro p
 
 ## Met Tiltshift
 
-Wij gebruiken de Standaard in twee workshops: de [Publieke Code Kick-off]({% include workshop-url.html naam="publieke-code-kick-off" %}) bij de start, en de [Publieke Code Review]({% include workshop-url.html naam="publieke-code-review" %}) tussentijds of bij oplevering of overdracht.
+Tiltshift organiseert samen met ICATT de maandelijkse meetup Werken aan Publieke Code: een online inloopspreekuur over de criteria en hoe je de Standaard in je werk gebruikt. De data staan op [standaardvoorpubliekecode.nl](https://standaardvoorpubliekecode.nl/) en in de [agenda van Opensourcewerken](https://opensourcewerken.nl/events).
+
+We gebruiken de Standaard ook in twee workshops: de [Publieke Code Kick-off]({% include workshop-url.html naam="publieke-code-kick-off" %}) bij de start, en de [Publieke Code Review]({% include workshop-url.html naam="publieke-code-review" %}) tussentijds of bij oplevering of overdracht.

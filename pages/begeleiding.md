@@ -35,7 +35,7 @@ Het hoeft geen keuze te zijn tussen one-size-fits-none inkoop en alles zelf bouw
 {% capture beeld %}{% include valprop.html image="/assets/img/foto/Stadspas-Zwolle-Sessie.jpg" alt="Werksessie in Zwolle" %}{% endcapture %}
 {% capture tekst %}
 Publieke software heeft een levende community nodig. Een uitvoeringsdomein in digitale transformatie ook. Daar wordt kennis gedeeld, wordt software hergebruikt en hoeft niet elke organisatie hetzelfde werk opnieuw te doen.
-We bouwen en organiseren die communities, rond publieke tech en rond uitvoeringsdomeinen. Hoe doen we ons werk, hoe helpt technologie daarbij, wat kunnen we van elkaar leren en hergebruiken, en hoe werken we samen? Dat is open samenwerking. We leveren ook de online ondersteuning die daarvoor nodig is.
+We bouwen en organiseren die communities, rond publieke tech en rond uitvoeringsdomeinen. Hoe doen we ons werk, hoe helpt technologie daarbij, wat kunnen we van elkaar leren en hergebruiken, en hoe werken we samen? Dat is open samenwerking. We leveren ook de online ondersteuning die daarvoor nodig is. Zo organiseren we samen met ICATT de maandelijkse meetup over de <a href="/materialen/standaard-voor-publieke-code/">Standaard voor Publieke Code</a>.
 {% endcapture %}
 {% include sectie.html label="Community building" kop="Sterke communities rond publieke digitalisering" tekst=tekst beeld=beeld %}
 

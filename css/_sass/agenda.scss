@@ -1,0 +1,79 @@
+// Komende bijeenkomsten (_includes/agenda.html), in de opmaak van de updates:
+// links de datum op een gedraaid rood vlak, rechts wanneer en waar, de titel, de tekst en de link.
+
+.agenda {
+    margin-bottom: 5rem;
+    @media screen and (min-width: $breakpoint-md) { margin-bottom: 8rem; }
+
+    .sectie { margin-bottom: 2rem; }
+
+    &__lijst {
+        @include container-md();
+        display: flex;
+        flex-direction: column;
+        gap: 1.5rem;
+    }
+}
+
+.agenda-item {
+    @include rij();
+
+    // Datum: dag en maand in wit op een rood vlak, licht gedraaid zoals het logo
+    &__datum {
+        grid-column: 1;
+        align-self: start;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+        aspect-ratio: 1;
+        margin: .4rem .6rem 0;
+        color: $white;
+        background: $red;
+        transform: rotate(-4deg);
+        font-family: HelveticaNeueLTPro-Bd, sans-serif;
+        line-height: 1;
+    }
+    &__dag {
+        font-size: 1.8rem;
+        @media screen and (min-width: $breakpoint-md) { font-size: 3rem; }
+    }
+    &__maand {
+        margin-top: .2em;
+        font-size: $font-size-xs;
+        letter-spacing: .08em;
+        text-transform: uppercase;
+    }
+
+    &__inhoud {
+        grid-column: 2;
+        display: flex;
+        flex-direction: column;
+    }
+    &__wanneer {
+        margin: 0 0 .4rem;
+        font-family: HelveticaNeueLTPro-Bd, sans-serif;
+        font-size: $font-size-xs;
+        letter-spacing: .08em;
+        text-transform: uppercase;
+        color: $red;
+    }
+    &__titel { margin: 0 0 .4rem; }
+    &__tekst {
+        margin: 0;
+        font-size: $font-size-sm;
+        line-height: 1.5;
+    }
+    &__organisatie {
+        margin: .4rem 0 0;
+        font-size: $font-size-xs;
+        color: #6b6670;
+    }
+    &__link {
+        margin-top: .6rem;
+        font-family: HelveticaNeueLTPro-Bd, sans-serif;
+        font-size: $font-size-sm;
+        color: $black;
+        &:hover, &:focus-visible { color: $red; }
+    }
+}

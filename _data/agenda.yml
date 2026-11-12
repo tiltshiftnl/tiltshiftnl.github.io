@@ -1,0 +1,12 @@
+# Bijeenkomsten die Tiltshift organiseert of mede organiseert. Staan op /meetups/ (_includes/agenda.html).
+# Voorbije bijeenkomsten verdwijnen vanzelf (bij het bouwen en in de browser); je mag ze hier laten staan als log.
+# datum: JJJJ-MM-DD. tijd, plek, organisatie en linktekst zijn optioneel.
+
+- titel: "Werken aan Publieke Code"
+  datum: 2026-11-16
+  tijd: "14:00 – 15:00"
+  plek: "Online"
+  tekst: "Het maandelijkse inloopspreekuur over de Standaard voor Publieke Code. We kijken samen naar de criteria en hoe we de Standaard in ons werk gebruiken."
+  organisatie: "Tiltshift en ICATT"
+  link: "https://opensourcewerken.nl/events/view/f8be3e70-76de-478c-9ba0-a0f7f6fb81ae/werken-aan-publieke-code"
+  linktekst: "Aanmelden via Opensourcewerken"

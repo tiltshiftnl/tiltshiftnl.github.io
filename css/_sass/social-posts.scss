@@ -1,0 +1,122 @@
+// Kaart om een social post te plaatsen, onder de post zelf (_layouts/social.html). Alleen lokaal zichtbaar.
+// Eén kaart per kanaal: kop met kanaal en status, links beeld en alt-tekst, rechts de tekst, elk met een knop.
+
+.social-post {
+    margin-top: 3rem;
+    margin-bottom: 3rem;
+    padding: 0 20px;
+}
+
+// Link naar de geplaatste post, onder het artikel (ook op tiltshift.nl)
+.social-post-link { margin-top: 2rem; }
+
+.social-kaart {
+    background: $off-white;
+    border: 1px solid #E4E1E6;
+    & + & { margin-top: 2rem; }
+
+    &__kop {
+        display: flex;
+        flex-wrap: wrap;
+        align-items: center;
+        gap: .5rem 1rem;
+        padding: 1rem 1.5rem;
+        color: $white;
+        background: $black;
+    }
+    &__titel {
+        margin: 0;
+        font-size: $font-size-md;
+        color: $white;
+    }
+    &__status {
+        padding: .1rem .5rem;
+        font-family: HelveticaNeueLTPro-Bd, sans-serif;
+        font-size: $font-size-xs;
+        letter-spacing: .08em;
+        text-transform: uppercase;
+        background: $red;
+        &--geplaatst { background: $primair-blauw; }
+    }
+    &__bekijk {
+        margin-left: auto;
+        color: $white;
+        font-family: HelveticaNeueLTPro-Bd, sans-serif;
+        font-size: $font-size-sm;
+    }
+
+    &__inhoud {
+        display: grid;
+        gap: 2rem;
+        padding: 1.5rem;
+        @media screen and (min-width: $breakpoint-md) {
+            grid-template-columns: minmax(0, 2fr) minmax(0, 3fr);
+        }
+    }
+
+    &__stap {
+        display: flex;
+        justify-content: space-between;
+        align-items: baseline;
+        margin: 0 0 .5rem;
+        font-family: HelveticaNeueLTPro-Bd, sans-serif;
+        font-size: $font-size-xs;
+        letter-spacing: .08em;
+        text-transform: uppercase;
+        color: $red;
+        * + & { margin-top: 1.5rem; }
+    }
+
+    &__beeld img {
+        display: block;
+        width: 100%;
+        max-width: none;
+        border: 0;
+    }
+
+    &__alt,
+    &__tekst {
+        margin: 0;
+        padding: .9rem 1.1rem;
+        background: $white;
+        border: 1px solid #E4E1E6;
+        line-height: 1.5;
+    }
+    &__tekst {
+        white-space: pre-wrap;
+        overflow-wrap: anywhere;
+    }
+
+    &__tekens {
+        font-family: AtkinsonHyperlegible, sans-serif;
+        letter-spacing: 0;
+        text-transform: none;
+        color: #6B6470;
+        &.is-te-lang { color: $red; font-weight: bold; }
+    }
+
+    &__knoppen { margin: .75rem 0 0; }
+    &__knop {
+        display: inline-block;
+        padding: .45rem 1rem;
+        font: inherit;
+        font-family: HelveticaNeueLTPro-Bd, sans-serif;
+        font-size: $font-size-sm;
+        color: $white;
+        background: $black;
+        border: 0;
+        text-decoration: none;
+        cursor: pointer;
+        &:hover, &:focus-visible { color: $white; background: $red; }
+    }
+
+    &__let-op { margin: .5rem 0 0; color: $red; font-size: $font-size-sm; }
+
+    &__voet {
+        margin: 0;
+        padding: .75rem 1.5rem;
+        border-top: 1px solid #E4E1E6;
+        font-size: $font-size-xs;
+        color: #6B6470;
+    }
+}

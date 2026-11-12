@@ -1,0 +1,58 @@
+<!doctype html>
+<!--
+Sjabloon voor het beeld bij een social post: de foto met het transparante logo en "Aan de slag." links ervan, onderin.
+Maak er een PNG van met headless Chrome (vanuit de root van de repo), bijvoorbeeld:
+
+  "/Applications/Google Chrome.app/Contents/MacOS/Google Chrome" --headless=new --disable-gpu --hide-scrollbars \
+    --allow-file-access-from-files --window-size=1200,675 --virtual-time-budget=3000 \
+    --screenshot="$PWD/assets/img/social/2026-11-12-meekijkdag.png" \
+    "file://$PWD/.claude/skills/social-post/beeld.html?foto=/assets/img/foto/Careyn-Joost-Bout-en-Sanne-Schuur-onderzoeken-doelgroep.jpg"
+
+Zet de PNG daarna om naar JPG (kleiner), bijvoorbeeld:
+  sips -s format jpeg -s formatOptions 85 assets/img/social/<naam>.png --out assets/img/social/<naam>.jpg && rm assets/img/social/<naam>.png
+
+foto: pad vanaf de root van de repo. De foto wordt bijgesneden tot 1200 × 675 (16:9, goed voor LinkedIn en Mastodon).
+-->
+<html lang="nl">
+<head>
+<meta charset="utf-8">
+<link rel="stylesheet" href="../../../assets/fonts/TILTSHIFT.css">
+<style>
+  html, body { margin: 0; width: 1200px; height: 675px; overflow: hidden; background: #1D1621; }
+  .beeld { position: relative; width: 1200px; height: 675px; }
+  .beeld__foto { position: absolute; inset: 0; width: 100%; height: 100%; object-fit: cover; }
+  /* Donker verloop onderin, zodat het witte logo en de tekst leesbaar zijn */
+  .beeld::after {
+    content: ""; position: absolute; inset: 0;
+    background: linear-gradient(to top, rgba(29, 22, 33, .8) 0%, rgba(29, 22, 33, .35) 30%, rgba(29, 22, 33, 0) 55%);
+  }
+  /* Het merk, liggend: tagline links van het logo, onderkant gelijk met het vierkant (zie css/_sass/merk.scss) */
+  .merk {
+    --merk: 150px;
+    position: absolute; right: 56px; bottom: 44px; z-index: 1;
+    display: flex; flex-direction: row-reverse; align-items: flex-end;
+    color: #fff;
+  }
+  .merk__logo { display: block; width: var(--merk); height: auto; }
+  .merk__tagline {
+    font-family: HelveticaNeueLTPro-Bd, sans-serif;
+    font-size: calc(var(--merk) * .24);
+    line-height: 1; white-space: nowrap;
+    margin: 0 calc(var(--merk) * .12) calc(var(--merk) * .06) 0;
+  }
+</style>
+</head>
+<body>
+<div class="beeld">
+  <img class="beeld__foto" id="foto" alt="">
+  <div class="merk">
+    <img class="merk__logo" src="../../../assets/img/logo_transparent_cropped.svg" alt="Tiltshift">
+    <span class="merk__tagline">Aan de slag.</span>
+  </div>
+</div>
+<script>
+  var foto = new URLSearchParams(location.search).get('foto') || '/assets/img/foto/Careyn-Joost-Bout-en-Sanne-Schuur-onderzoeken-doelgroep.jpg';
+  document.getElementById('foto').src = '../../..' + foto;
+</script>
+</body>
+</html>
