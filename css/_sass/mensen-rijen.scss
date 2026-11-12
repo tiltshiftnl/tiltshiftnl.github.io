@@ -148,3 +148,64 @@
     dd { margin: 0; font-size: $font-size-sm; overflow-wrap: anywhere; }
     a { color: $black; }
 }
+
+// Mensen als kaarten in de carrousel (_includes/mensen-carrousel.html): foto boven, naam half over de foto,
+// dan rol, quote en link. Eén kaart per keer op mobiel, twee op tablet, drie vanaf 1280 pixels, vier vanaf 1600.
+.carrousel--mensen .carrousel__baan {
+    display: flex;
+    > .mensen-rij--kaart {
+        flex: 0 0 100%;
+        min-width: 0; // anders duwt een lange naam de kaart breder dan zijn plek
+        box-sizing: border-box;
+        padding: 1rem 2.75rem 0; // ruimte voor het rode vlak en, op mobiel, voor de knoppen
+        scroll-snap-align: start;
+        @media screen and (min-width: $breakpoint-md) { flex-basis: 50%; padding: 1rem 2rem 0 1rem; }
+        @media screen and (min-width: $breakpoint-lg) { flex-basis: calc(100% / 3); }
+        @media screen and (min-width: $breakpoint-xl) { flex-basis: 25%; }
+    }
+}
+// Kaarten wisselen niet af: de regels voor even rijen (foto rechts, tekst rechts) gelden hier niet
+.mensen-rij.mensen-rij--kaart:nth-child(n) {
+    @media screen and (min-width: $breakpoint-md) {
+        .mensen-rij__foto { order: 0; }
+        .mensen-rij__foto::before { transform: translate(1.2rem, .8rem) rotate(5deg); }
+        .mensen-rij__tekst { margin: -3rem 0 0; text-align: left; align-items: flex-start; }
+        .mensen-rij__quote, .mensen-rij__link { margin-left: 0; margin-right: 0; }
+        .mensen-rij__naam span + br + span { margin-left: .6em; margin-right: 0; }
+    }
+}
+.mensen-rij--kaart {
+    display: flex;
+    flex-direction: column;
+    margin: 0;
+    * { box-sizing: border-box; }
+    .mensen-rij__foto { width: 100%; max-width: none; }
+    .mensen-rij__tekst {
+        width: 100%;
+        margin: -3rem 0 0;
+        padding: 0 .5rem;
+    }
+    // Label kleiner, zodat ook "Opensourcewerken" op één regel in de kaart past
+    .mensen-rij__rol {
+        max-width: 100%;
+        font-size: $font-size-xs;
+        letter-spacing: .06em;
+        white-space: nowrap;
+    }
+    .mensen-rij__naam {
+        margin-bottom: .8rem;
+        font-size: min(2.2rem, 10vw);
+        @media screen and (min-width: $breakpoint-md) { font-size: 1.9rem; }
+    }
+    .mensen-rij__quote {
+        max-width: 100%;
+        margin-left: 0;
+        font-size: $font-size-md;
+        // lange quotes afkappen, zodat de kaarten even hoog blijven
+        display: -webkit-box;
+        -webkit-box-orient: vertical;
+        -webkit-line-clamp: 4;
+        overflow: hidden;
+    }
+    .mensen-rij__link { margin-left: 0; margin-top: auto; }
+}

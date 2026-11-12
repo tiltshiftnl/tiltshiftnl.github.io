@@ -1,0 +1,25 @@
+{% comment %}
+Script voor een carrousel (zie css/_sass/carrousel.scss). Zet deze include direct na het element met class "carrousel".
+De knoppen schuiven een hele pagina op (de zichtbare breedte) en worden licht aan het begin of eind.
+{% endcomment %}
+<script>
+(function () {
+  var carrousel = document.currentScript.previousElementSibling;
+  var baan = carrousel.querySelector('.carrousel__baan');
+  var knoppen = carrousel.querySelectorAll('.carrousel__knop');
+  function bij() {
+    knoppen[0].disabled = baan.scrollLeft <= 2;
+    knoppen[1].disabled = baan.scrollLeft + baan.clientWidth >= baan.scrollWidth - 2;
+  }
+  knoppen.forEach(function (knop) {
+    knop.addEventListener('click', function () {
+      var stijl = getComputedStyle(baan);
+      var stap = baan.clientWidth - parseFloat(stijl.paddingLeft) - parseFloat(stijl.paddingRight);
+      baan.scrollBy({ left: +knop.dataset.richting * stap, behavior: 'smooth' });
+    });
+  });
+  baan.addEventListener('scroll', bij, { passive: true });
+  window.addEventListener('resize', bij);
+  bij();
+})();
+</script>

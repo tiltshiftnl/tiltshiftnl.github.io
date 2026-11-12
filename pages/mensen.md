@@ -37,7 +37,7 @@ Sinds 2015 doen we dat voor onder meer overheden, uitvoeringsorganisaties, wonin
 {% capture beeld %}{% include valprop.html image="/assets/img/posts/Programma-opzetten-Meldingen-Rotterdam-vervanging-msb.jpg" alt="Twee medewerkers legen containers bij een vuilniswagen in Rotterdam" %}{% endcapture %}
 {% include sectie.html label="Over Tiltshift" kop="Kwartiermakers van digitale transformatie" inhoud=inhoud link="/begeleiding/" linktekst="Lees meer over onze begeleiding" beeld=beeld %}
 
-{% capture mensen %}{% include mensen-rijen.html %}{% endcapture %}
+{% capture mensen %}{% include mensen-carrousel.html %}{% endcapture %}
 {% include sectie.html breed=true label="Mensen" kop="Wie we zijn" beeld=mensen %}
 
 {% capture inhoud %}

@@ -23,3 +23,37 @@
 // Logo's linken naar de klantpagina
 a.logo-block { display: flex; align-items: center; justify-content: center; text-decoration: none; }
 a.logo-block:hover img { filter: none; }
+
+// Logo's van de opdrachtgevers in de carrousel (_includes/logos-relaties.html, zie ook carrousel.scss):
+// altijd twee rijen. Op mobiel twee kolommen; de logo's zijn smaller dan hun vak, zodat de knoppen
+// aan de rand ze niet raken. Daarboven drie, vier of vijf kolommen.
+.carrousel--logos .carrousel__baan {
+    display: grid;
+    grid-template-rows: repeat(2, 7rem);
+    grid-auto-flow: column;
+    grid-auto-columns: 50%;
+    @media screen and (min-width: $breakpoint-md) { grid-template-rows: repeat(2, 8rem); grid-auto-columns: calc(100% / 3); }
+    @media screen and (min-width: $breakpoint-lg) { grid-auto-columns: 25%; }
+    @media screen and (min-width: $breakpoint-xl) { grid-auto-columns: 20%; }
+
+    > .logo-block {
+        box-sizing: border-box;
+        margin: 0;
+        padding: 0 .75rem;
+        scroll-snap-align: start;
+        @media screen and (min-width: $breakpoint-md) { padding: 0 1.25rem; }
+
+        // Op mobiel 65% van het vak, gecentreerd; daarboven naar logo_width
+        img {
+            width: 65%;
+            height: 4.5rem;
+            max-width: 100%;
+            object-fit: contain;
+            @media screen and (min-width: $breakpoint-md) {
+                width: calc(var(--breedte, 120px) * 1.4);
+                height: auto;
+                max-height: 6rem;
+            }
+        }
+    }
+}

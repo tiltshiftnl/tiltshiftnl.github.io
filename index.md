@@ -17,7 +17,7 @@ intro: "We zorgen ervoor dat software werkt voor de mensen die het doen. Met wor
 ---
 {% include sessies-etalage.html intro="We organiseren in-house workshops van één dag voor ontwikkelteams, management of bestuur om helder te krijgen wat de volgende stap is." %}
 
-{% capture opdrachtgevers %}{% include klanten-uitgelicht.html %}{% include logos-relaties.html %}{% endcapture %}
+{% capture opdrachtgevers %}{% include logos-relaties.html %}{% endcapture %}
 {% include sectie.html breed=true label="Opdrachtgevers" kop="Voor wie we werken" tekst="We werken graag in de publieke uitvoering, zoals gemeenten, provincies, ministeries, uitvoeringsorganisaties, woningcorporaties, zorgorganisaties en universiteiten. Hoe kunnen we jou helpen?" beeld=opdrachtgevers %}
 
 {% capture begeleiding %}{% include valprop.html title="Kwartiermakers van publieke digitalisering" description="We begeleiden je in je organisatie, met de mensen die het werk doen. Tot jullie het zelf kunnen." image="/assets/img/foto/Straatnotes-meekijken-met-gebruiker-software-design-thinking.jpg" alt="Twee straatcoaches kijken samen op een telefoon" url="/begeleiding/" button="Meer over begeleiding" %}{% endcapture %}

@@ -1,11 +1,18 @@
-{% assign klanten = site.klanten | where_exp: "klant", "klant.featured != true" | sort: "order" %}
+{% comment %}
+Logo's van alle opdrachtgevers als carrousel in twee rijen, op volgorde van order (zie css/_sass/carrousel.scss
+en css/_sass/logos.scss). Elk logo linkt naar de klantpagina. De breedte per logo komt uit logo_width.
+{% endcomment %}
+{% assign klanten = site.klanten | sort: "order" %}
 
-<div class="container-md ">
-    <div class="logos even-blocks-grid margin-y">
+<div class="carrousel carrousel--logos margin-y">
+    <button type="button" class="carrousel__knop" data-richting="-1" aria-label="Vorige opdrachtgevers"><span aria-hidden="true">&lt;</span></button>
+    <div class="carrousel__baan" tabindex="0" role="region" aria-label="Opdrachtgevers">
         {% for klant in klanten %}
             <a class="logo-block" href="{{ klant.url }}" title="{{ klant.title }}">
-                {% if klant.logo %}<img src="{{ klant.logo }}" alt="{{ klant.title }}"{% if klant.logo_width %} style="width: {{ klant.logo_width }}px"{% endif %}>{% else %}<span class="logo-block__naam">{{ klant.title }}</span>{% endif %}
+                {% if klant.logo %}<img src="{{ klant.logo }}" alt="{{ klant.title }}"{% if klant.logo_width %} style="--breedte: {{ klant.logo_width }}px"{% endif %}>{% else %}<span class="logo-block__naam">{{ klant.title }}</span>{% endif %}
             </a>
         {% endfor %}
     </div>
+    <button type="button" class="carrousel__knop" data-richting="1" aria-label="Volgende opdrachtgevers"><span aria-hidden="true">&gt;</span></button>
 </div>
+{% include carrousel-script.html %}

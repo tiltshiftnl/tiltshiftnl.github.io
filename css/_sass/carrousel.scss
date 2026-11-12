@@ -1,0 +1,58 @@
+// Carrousel: een rij die je opschuift met knoppen < en >, of met swipen (_includes/carrousel-script.html).
+// Gebruikt door de logo's van de opdrachtgevers (logos.scss) en de mensen (mensen-rijen.scss).
+// Over de volle paginabreedte; op mobiel liggen de knoppen over de rand. Vanaf 1280 pixels blijft er
+// links en rechts ruimte voor het logo dat naast de inhoud staat.
+
+.carrousel {
+    position: relative;
+    display: flex;
+    align-items: center;
+    gap: .75rem;
+    padding: 0;
+    @media screen and (min-width: $breakpoint-md) { padding: 0 40px; }
+    @media screen and (min-width: $breakpoint-lg) { padding: 0 220px; }
+
+    &__baan {
+        flex: 1;
+        min-width: 0;
+        margin: 0;
+        padding: 0;
+        list-style: none;
+        overflow-x: auto;
+        scroll-snap-type: x mandatory;
+        scrollbar-width: none;
+        &::-webkit-scrollbar { display: none; }
+    }
+
+    &__knop {
+        // Op mobiel over de inhoud heen, links en rechts aan de rand
+        position: absolute;
+        top: 50%;
+        z-index: 2;
+        transform: translateY(-50%);
+        &:first-child { left: 0; }
+        &:last-child { right: 0; }
+        flex: none;
+        width: 2.25rem;
+        height: 2.25rem;
+        padding: 0;
+        font-family: HelveticaNeueLTPro-Bd, sans-serif;
+        font-size: 1.4rem;
+        line-height: 1;
+        color: $white;
+        background: $black;
+        border: 0;
+        cursor: pointer;
+        &:hover, &:focus-visible { background: $red; }
+        &:disabled { opacity: .2; cursor: default; background: $black; }
+        @media screen and (max-width: $breakpoint-md - 1) {
+            &:disabled { opacity: 0; pointer-events: none; }
+        }
+        @media screen and (min-width: $breakpoint-md) {
+            position: static;
+            transform: none;
+            width: 3rem;
+            height: 3rem;
+        }
+    }
+}

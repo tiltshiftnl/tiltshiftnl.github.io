@@ -4,7 +4,7 @@ layout: person
 title: "Sander Haaksma"
 firstname: "Sander"
 lastname: "Haaksma"
-role: "Strategisch UX lead / workshopbegeleider"
+role: "Strategisch UX"
 description: "Sander helpt organisaties scherp te krijgen wat hun digitale dienst moet doen, voor wie, en wat de eerstvolgende stap is. Dat doet hij niet met dikke rapporten. Hij brengt bestuur, management, ontwikkelteams en gebruikers bij elkaar en maakt in korte tijd zichtbaar waar het knelt. Hij werkt al ruim twintig jaar als usability consultant en UX lead, het grootste deel daarvan in de publieke uitvoering. Daardoor weet hij hoe je beleidsdoelen, techniek en de dagelijkse praktijk van gebruikers op één lijn krijgt, juist als er veel partijen aan tafel zitten."
 quote: '"Ik promoot geen UX. Ik kijk naar het probleem dat je hebt en help je het op te lossen."'
 type: Consultant

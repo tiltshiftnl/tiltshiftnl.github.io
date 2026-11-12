@@ -296,7 +296,7 @@ Alinea's, lijsten en quotes in markdown.
 
 Met `breed=true` staat het beeld niet naast de tekst maar eronder, over de volle breedte. Het tekstblok verspringt dan links en rechts. Zo staan opdrachtgevers en resultaten op de home.
 
-<pre class="ds-code container-sm"><code>{% raw %}{% capture opdrachtgevers %}{% include klanten-uitgelicht.html %}{% include logos-relaties.html %}{% endcapture %}
+<pre class="ds-code container-sm"><code>{% raw %}{% capture opdrachtgevers %}{% include logos-relaties.html %}{% endcapture %}
 {% include sectie.html breed=true label="Opdrachtgevers" kop="Voor wie we werken" tekst="..." beeld=opdrachtgevers %}{% endraw %}</code></pre>
 
 ### Blokken
@@ -406,27 +406,43 @@ De logo's van verenigingen waar Tiltshift lid van is, in grijs en in kleur als j
 
 <pre class="ds-code container-sm"><code>{% raw %}{% include lidmaatschap.html leden=info.lidmaatschappen tekst=info.lidmaatschappen_tekst %}{% endraw %}</code></pre>
 
-### Opdrachtgevers
+### Carrousel
 
-{% include klanten-uitgelicht.html %}
+Een rij die je opschuift met een zwarte knop < en >, of op een touchscreen met swipen. Over de volle paginabreedte; vanaf 1280 pixels blijft er links en rechts ruimte voor het logo naast de inhoud. Op mobiel liggen de knoppen (kleiner) over de rand. Een klik schuift een hele pagina op; aan het begin of eind wordt de knop licht, op mobiel onzichtbaar. De rij is met het toetsenbord te scrollen en de knoppen hebben een label voor schermlezers. Gebruikt door de [opdrachtgevers](#opdrachtgevers) (twee rijen logo's) en de [mensen](#mensen) (één rij kaarten). CSS in `css/_sass/carrousel.scss`, het script in `_includes/carrousel-script.html`.
+
+<pre class="ds-code container-sm"><code>{% raw %}&lt;div class="carrousel carrousel--…"&gt;
+    &lt;button type="button" class="carrousel__knop" data-richting="-1" aria-label="Vorige …"&gt;&lt;span aria-hidden="true"&gt;&amp;lt;&lt;/span&gt;&lt;/button&gt;
+    &lt;div class="carrousel__baan" tabindex="0" role="region" aria-label="…"&gt;…&lt;/div&gt;
+    &lt;button type="button" class="carrousel__knop" data-richting="1" aria-label="Volgende …"&gt;&lt;span aria-hidden="true"&gt;&amp;gt;&lt;/span&gt;&lt;/button&gt;
+&lt;/div&gt;
+{% include carrousel-script.html %}{% endraw %}</code></pre>
+
+### Opdrachtgevers
 
 {% include logos-relaties.html %}
 
-De uitgelichte opdrachtgevers (`featured: true`, op volgorde van `featured_order`) staan onder elkaar en gecentreerd, net als de logo's eronder. Verder zijn ze opgemaakt als de updates: het logo links in grijs (in kleur als je eroverheen gaat), rechts de beschrijving en een link "Tiltshift bij …" naar de klantpagina, gescheiden door een rode streep. Daaronder de logo's van alle opdrachtgevers.
+De logo's van alle opdrachtgevers als carrousel over de volle paginabreedte, altijd in twee rijen, op volgorde van `order`: twee kolommen op mobiel (over de volle breedte, met kleinere knoppen over de rand), drie op tablet, vier vanaf 1280 pixels en vijf vanaf 1600 pixels. Links en rechts een zwarte knop < en >; die schuift een hele pagina op en wordt licht (op mobiel onzichtbaar) aan het begin of eind. Op een touchscreen kun je ook swipen. Vanaf 1280 pixels blijft er links en rechts ruimte voor het logo naast de inhoud.
 
-<pre class="ds-code container-sm"><code>{% raw %}{% include klanten-uitgelicht.html %}
-{% include logos-relaties.html %}{% endraw %}</code></pre>
+<pre class="ds-code container-sm"><code>{% raw %}{% include logos-relaties.html %}{% endraw %}</code></pre>
 
 ### Mensen
 
 Per persoon een groot portret met het gekantelde rode vlak, de naam groot ernaast en half over de foto, op witte stroken. De achternaam springt in, weg van de foto, zodat voor- en achternaam als een trapje staan. Daaronder rol, eigen quote en een link naar de mensenpagina. De rijen wisselen om en om van links naar rechts. Op mobiel staat de naam over de onderkant van de foto. De gegevens komen van de mensenpagina's in `_mensen/`: `firstname`, `lastname`, `role`, `quote` en `personImage`.
 
+Op [Over ons](/mensen/) staan de mensen als carrousel: één rij kaarten met de foto boven en de naam half over de foto, dan rol, quote (afgekapt na vier regels) en link. Eén kaart per keer op mobiel, twee op tablet, drie vanaf 1280 pixels en vier vanaf 1600. De kaarten wisselen niet af. Knoppen en gedrag zijn die van de [carrousel](#carrousel).
+
+{% include mensen-carrousel.html %}
+
+<pre class="ds-code container-sm"><code>{% raw %}{% include mensen-carrousel.html %}
+{% include mensen-carrousel.html zonder=page.url %}{% endraw %}</code></pre>
+
+Als rijen onder elkaar, om en om links en rechts:
+
 {% include mensen-rijen.html %}
 
-<pre class="ds-code container-sm"><code>{% raw %}{% include mensen-rijen.html %}
-{% include mensen-rijen.html zonder=page.url %}{% endraw %}</code></pre>
+<pre class="ds-code container-sm"><code>{% raw %}{% include mensen-rijen.html %}{% endraw %}</code></pre>
 
-Met `zonder` laat je één persoon weg. Eén rij los, als opening van een mensenpagina: de naam wordt dan de h1 en in plaats van de link staan de contactgegevens (telefoon, e-mail, LinkedIn en vCard).
+Met `zonder` laat je één persoon weg (bij beide). Eén rij los, als opening van een mensenpagina: de naam wordt dan de h1 en in plaats van de link staan de contactgegevens (telefoon, e-mail, LinkedIn en vCard).
 
 <ul class="mensen-rijen">
 {% assign ds_persoon = site.mensen | where: "url", "/mensen/rutger-dik/" | first %}{% include mensen-rij.html persoon=ds_persoon hoofd=true %}
@@ -457,5 +473,5 @@ De templates gevuld met echte inhoud.
 - [Ontwerpdag]({% include workshop-url.html naam="crazy-8s" %}): de `sessie`-template
 - [Meetups](/meetups/): de agenda met komende meetups, een tekstsectie over de maandelijkse meetup Werken aan Publieke Code, de updates van Mastodon en het contactblok
 - [Begeleiding](/begeleiding/): quote, drie secties met foto-paneel, resultaten als brede sectie en het contactblok
-- [Over ons](/mensen/): een sectie met foto-paneel en quote, de mensen als rijen in een brede sectie, een sectie met foto ("Voelbaar anders"), hoe we werken als grijze band met vier punten twee bij twee, en drie secties met foto over software design thinking
+- [Over ons](/mensen/): een sectie met foto-paneel en quote, de mensen als carrousel in een brede sectie, een sectie met foto ("Voelbaar anders"), hoe we werken als grijze band met vier punten twee bij twee, en drie secties met foto over software design thinking
 - Een social post, zoals [Meekijkdag](/2026/11/12/meekijkdag.html): de `social`-template. Het beeld en de LinkedIn-tekst als artikel, de link als pijllink, zonder hashtags. Lokaal staat eronder een blok om te plaatsen: status, beeld met alt-tekst en download, de tekst voor Mastodon en LinkedIn met tekenteller (Mastodon 500, een link telt als 23) en kopieerknoppen. Op tiltshift.nl staat dat blok er niet (`jekyll.environment` is daar `production`)

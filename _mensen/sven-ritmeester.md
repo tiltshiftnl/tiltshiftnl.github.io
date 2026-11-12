@@ -4,7 +4,7 @@ layout: person
 title: "Sven Ritmeester"
 firstname: "Sven"
 lastname: "Ritmeester"
-role: "Consultant"
+role: "Agile/Scrum"
 description: "Sven is een gangmaker. Hij krijgt mensen in beweging, ook als ze dat zelf nog niet weten. Als Scrum Master en implementatiemanager spreekt hij de taal van de werkvloer, haalt op waar het écht knelt, en zorgt dat wat er gebouwd wordt aansluit op de dagelijkse praktijk van de mensen die ermee moeten werken. Niet de mens naar het systeem, maar het systeem naar de mens. Hij weet hoe je een team motiveert, hoe je een implementatie in goede banen leidt, en hoe je 2.500 medewerkers meekrijgt in een nieuwe werkwijze zonder dat iemand afhaakt. Met zijn theaterachtergrond presenteert hij moeiteloos, met zijn horeca-instinct weet hij wanneer hij moet aanpakken. De energie die hij meebrengt is geen trucje, het is wie hij is."
 quote: '"Bizar toch? Waarom volgt de uitvoerder een training voor de techniek. De techniek zou de uitvoerder moeten volgen."'
 type: Consultant

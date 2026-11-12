@@ -1,9 +1,10 @@
 {% comment %}
 Eén persoon als rij: groot portret met gekanteld rood vlak, naam groot ernaast en half over de foto.
-Parameters: persoon (een document uit _mensen/), hoofd (true op de eigen pagina: naam als h1, met contactgegevens).
+Parameters: persoon (een document uit _mensen/), hoofd (true op de eigen pagina: naam als h1, met contactgegevens),
+kaart (true in de mensen-carrousel: foto boven, tekst eronder).
 {% endcomment %}
 {% assign p = include.persoon %}
-<li class="mensen-rij{% if include.hoofd %} mensen-rij--hoofd{% endif %}">
+<li class="mensen-rij{% if include.hoofd %} mensen-rij--hoofd{% endif %}{% if include.kaart %} mensen-rij--kaart{% endif %}">
     {% if include.hoofd %}
     <span class="mensen-rij__foto"><img src="{{ p.personImage | default: p.image }}" alt="Foto van {{ p.title }}"></span>
     {% else %}

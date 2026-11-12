@@ -1,0 +1,13 @@
+{% comment %}
+Mensen als carrousel: één rij kaarten (zie _includes/mensen-rij.html met kaart=true, css/_sass/carrousel.scss
+en css/_sass/mensen-rijen.scss). Parameters: zonder (url van een persoon die je niet wilt tonen).
+{% endcomment %}
+{% assign mensen = site.mensen | sort: "order" %}
+<div class="carrousel carrousel--mensen margin-y">
+    <button type="button" class="carrousel__knop" data-richting="-1" aria-label="Vorige mensen"><span aria-hidden="true">&lt;</span></button>
+    <ul class="carrousel__baan" tabindex="0" role="region" aria-label="Mensen">
+        {% for persoon in mensen %}{% unless persoon.url == include.zonder %}{% include mensen-rij.html persoon=persoon kaart=true %}{% endunless %}{% endfor %}
+    </ul>
+    <button type="button" class="carrousel__knop" data-richting="1" aria-label="Volgende mensen"><span aria-hidden="true">&gt;</span></button>
+</div>
+{% include carrousel-script.html %}
