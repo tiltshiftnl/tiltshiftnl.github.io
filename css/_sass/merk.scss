@@ -1,0 +1,44 @@
+// Het merk: logo met de tagline "Aan de slag." (_includes/merk.html)
+// Alles schaalt mee met --merk, de breedte van het logo.
+// Staand is de tagline even breed als het rode vlak van het logo (86% van de logobreedte)
+// en staat hij links gelijk met dat vlak.
+
+.merk {
+    --merk: 120px;
+    display: inline-flex;
+    flex-direction: column;
+    align-items: flex-start;
+    color: $black;
+    text-decoration: none;
+
+    // Dubbele klasse, zodat algemene img-regels (zoals .container-sm img) er niet overheen gaan
+    & &__logo {
+        display: block;
+        width: var(--merk);
+        max-width: none;
+        height: auto;
+        border: 0;
+    }
+
+    &__tagline {
+        // "Aan de slag." is 5,85 em breed in Helvetica Neue Bold: 0,857 / 5,85 = 0,1465
+        font-family: HelveticaNeueLTPro-Bd, sans-serif;
+        font-size: calc(var(--merk) * .1465);
+        line-height: 1;
+        white-space: nowrap;
+        margin-top: calc(var(--merk) * .08);
+    }
+
+    &--donker { color: $white; }
+
+    // Liggend: tagline links van het logo, onderkant gelijk met de onderkant van het rode vlak
+    &--liggend {
+        flex-direction: row-reverse;
+        align-items: flex-end;
+
+        .merk__tagline {
+            font-size: calc(var(--merk) * .24);
+            margin: 0 calc(var(--merk) * .12) calc(var(--merk) * .06) 0;
+        }
+    }
+}

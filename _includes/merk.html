@@ -1,0 +1,11 @@
+{% comment %}
+Het merk: logo met de tagline "Aan de slag." (zie css/_sass/merk.scss en /design-system/#merk).
+Parameters:
+  liggend=true  tagline links naast het logo in plaats van eronder
+  donker=true   voor op een donkere achtergrond: wit logo, witte tekst
+  maat="120px"  breedte van het logo; de tagline schaalt mee
+  link=false    geen link naar de voorpagina
+{% endcomment %}
+{% capture merk_klasse %}merk{% if include.liggend %} merk--liggend{% endif %}{% if include.donker %} merk--donker{% endif %}{% endcapture %}
+{% capture merk_inhoud %}<img class="merk__logo" src="/assets/img/{% if include.donker %}logo_transparent_cropped.svg{% else %}logo_cropped.svg{% endif %}" alt="Tiltshift"><span class="merk__tagline">Aan de slag.</span>{% endcapture %}
+{% if include.link == false %}<span class="{{ merk_klasse }}"{% if include.maat %} style="--merk: {{ include.maat }}"{% endif %}>{{ merk_inhoud }}</span>{% else %}<a class="{{ merk_klasse }}" href="/"{% if include.maat %} style="--merk: {{ include.maat }}"{% endif %}>{{ merk_inhoud }}</a>{% endif %}

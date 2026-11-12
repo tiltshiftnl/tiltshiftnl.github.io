@@ -64,14 +64,10 @@ $footer-blue-drop: 15.86vw;  // waar de 6°-lijn rechts eindigt
                     margin-bottom: 0;
                     flex-direction: row;
                 }
-                a {
-                    img {
-                        height: 75px;
-                        width: 75px;
-                        @media screen and (min-width: $breakpoint-md) {
-                            height: 120px;
-                            width: 120px;
-                        }
+                .merk {
+                    --merk: 75px;
+                    @media screen and (min-width: $breakpoint-md) {
+                        --merk: 120px;
                     }
                 }
             }

@@ -10,15 +10,64 @@ sitemap:
 title: "Design system"
 description: "De bouwstenen van tiltshift.nl: van kleuren en letters tot complete pagina's."
 ---
-Alle bouwstenen van deze site, opgebouwd volgens atomic design: atomen, moleculen, organismen, templates en pagina's. Wat hier staat, is de echte component, met de aanroep die je in een pagina gebruikt.
+Eerst het merk, daarna alle bouwstenen van deze site, opgebouwd volgens atomic design: atomen, moleculen, organismen, templates en pagina's. Wat hier staat, is de echte component, met de aanroep die je in een pagina gebruikt.
 
 <nav class="ds-inhoud container-sm">
+    <a href="#merk">Merk</a>
     <a href="#atomen">Atomen</a>
     <a href="#moleculen">Moleculen</a>
     <a href="#organismen">Organismen</a>
     <a href="#templates">Templates</a>
     <a href="#paginas">Pagina's</a>
 </nav>
+
+## Merk {#merk}
+
+Het merk is drie dingen samen: de naam Tiltshift, het logo en de tagline "Aan de slag." Die drie staan waar het kan bij elkaar: in de footer, op posters, in presentaties en op drukwerk. Zo worden ze samen herkenbaar.
+
+### Naam
+
+Tiltshift, als één woord, met een hoofdletter T. Alleen in het logo staat TILT SHIFT in hoofdletters op twee regels. Tiltshift B.V. gebruik je alleen bij bedrijfsgegevens, zoals in de footer en op facturen.
+
+### Tagline
+
+<div class="ds-voorbeeld container-sm">
+    <p class="ds-letter ds-letter--kop">Aan de slag<span style="color:#E64544">.</span></p>
+</div>
+
+"Aan de slag." Altijd met de punt en altijd in Helvetica Neue Bold. Op zichzelf, zonder logo, is de punt rood. Bij het logo is de punt gewoon zwart (of wit op donker), want daar is het rode vierkant het accent. Bij het logo staat de tagline altijd zo, kort. Uitgeschreven komt hij terug als zin, zoals in de kop van de voorpagina: "Aan de slag met publieke digitalisering", "… met Tiltshift" (zie [Wisseltitel](#wisseltitel)).
+
+### Logo met tagline
+
+<div class="ds-merk container-sm">
+    <div class="ds-merk__vak">{% include merk.html link=false %}</div>
+    <div class="ds-merk__vak ds-merk__vak--donker">{% include merk.html donker=true link=false %}</div>
+</div>
+
+"Aan de slag." staat altijd op een van twee manieren bij het logo: onder het logo (dit, de standaard) of links ervan (liggend, hieronder). De tagline staat onder het logo, links uitgelijnd met het rode vlak en even breed als dat vlak. De afstand tussen logo en tagline is 8% van de breedte van het logo. Op licht is de tekst zwart, op donker wit, zoals in de footer. Alles schaalt mee met de breedte van het logo (`maat`, standaard 120 pixels).
+
+<pre class="ds-code container-sm"><code>{% raw %}{% include merk.html %}
+{% include merk.html donker=true maat="160px" %}{% endraw %}</code></pre>
+
+### Logo met tagline, liggend
+
+<div class="ds-merk container-sm">
+    <div class="ds-merk__vak">{% include merk.html liggend=true maat="90px" link=false %}</div>
+    <div class="ds-merk__vak ds-merk__vak--donker">{% include merk.html liggend=true donker=true maat="90px" link=false %}</div>
+</div>
+
+Voor plekken waar de hoogte beperkt is, zoals een e-mailhandtekening, een banner of de onderrand van een dia. De tagline staat links van het logo, met de onderkant gelijk aan de onderkant van het rode vlak.
+
+<pre class="ds-code container-sm"><code>{% raw %}{% include merk.html liggend=true maat="90px" %}{% endraw %}</code></pre>
+
+### Gebruik
+
+- **Vrije ruimte:** houd rondom minstens een kwart van de logobreedte vrij van tekst en beeld.
+- **Kleinste maat:** het logo minstens 75 pixels breed op een scherm en 20 millimeter op papier. Kleiner wordt de tagline onleesbaar; gebruik dan het logo zonder tagline.
+- **Op een foto:** alleen op een rustig, egaal deel. Anders de donkere versie op een zwart vlak.
+- **Niet doen:** de tagline in een andere letter of kleur zetten, de punt weglaten, de tagline los van het logo ergens anders op de pagina zetten, de tagline rechts van of boven het logo zetten, of het geheel uitrekken of draaien.
+
+Zonder tagline staat het logo alleen in de navigatie, omdat het daar klein is en "Aan de slag." dan niet meer te lezen is.
 
 ## Atomen {#atomen}
 

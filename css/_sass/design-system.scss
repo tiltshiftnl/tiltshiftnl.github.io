@@ -170,3 +170,20 @@
     color: $red;
     font-family: HelveticaNeueLTPro-Bd, sans-serif;
 }
+
+// Merk: logo met tagline op licht en op donker naast elkaar
+.ds-merk {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 1rem;
+    margin-bottom: 1.5rem;
+    &__vak {
+        flex: 1 1 260px;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        padding: 2.5rem 20px;
+        border: 1px dashed #CFCBD3;
+        &--donker { background: $black; border-color: $black; }
+    }
+}
