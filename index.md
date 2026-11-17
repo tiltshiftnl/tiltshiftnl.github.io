@@ -13,7 +13,7 @@ description: "Tiltshift organiseert en begeleidt workshops en projecten in publi
 keywords: "kwartiermaker, digitalisering, oude ICT, digitale transformatie, probleemgedreven innovatie, software design thinking, human centered design, service design, lean startup, lean ux, agile development, xp, scrum, labs, apps, projecten, advies, consultancy, overheid, overheden, publieke sector, mens centraal, common ground, open source, creative commons, creative thinking, open collaboration"
 image: /assets/img/foto/Tiltshift-Aanpak-Innovatie-Interventie-Vastgelopen-digitaliserings-project.jpg
 caption:
-intro: "We zorgen ervoor dat software werkt voor de mensen die het doen. Met workshops en begeleiding voor overheden en publieke organisaties."
+intro: "Ervoor zorgendat software werkt voor de mensen die het doen. Met workshops en begeleiding voor overheden en publieke organisaties."
 ---
 {% include sessies-etalage.html intro="We organiseren in-house workshops van één dag voor ontwikkelteams, management of bestuur om helder te krijgen wat de volgende stap is." %}
 
