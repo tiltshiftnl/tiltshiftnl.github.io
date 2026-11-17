@@ -6,7 +6,7 @@ hideform: true
 title: "Aan de slag met publieke digitalisering"
 wisseltitel:
   begin: "Aan de slag met"
-  woorden: [publieke digitalisering, opensourcewerken, publieke code, software design thinking, Tiltshift]
+  woorden: [publieke digitalisering, opensourcewerken, publieke code, software design thinking, digitale soevereiniteit, autonome alternatieven]
 seo_title: "Tiltshift – Werken aan publieke tech"
 # "Voor wie écht wil beginnen met digitale transformatie of waar interne digitalisering vast loopt"
 description: "Tiltshift organiseert en begeleidt workshops en projecten in publieke digitalisering, zoals software design thinking, opensourcewerken en publieke code. In workshops van één dag maken we samen met het ontwikkelteam, de organisatie en de gebruikers helder wat de volgende stap is."
