@@ -1,0 +1,55 @@
+---
+layout: default
+---
+{% comment %}
+Landingspagina van een begeleidingsdienst (_begeleiding/), naar het voorbeeld van de workshoppagina (_layouts/sessie.html).
+Elke dienst heeft een verantwoordelijke partner: `partner:` in de front matter (sleutel uit _data/mensen.yml).
+Die staat in het contactblok en daar linken de knoppen naar.
+{% endcomment %}
+{% assign partner = site.data.mensen[page.partner] %}
+{% assign partner_naam = partner.first_name | default: partner.full_name %}
+{% assign knop_tekst = "Plan een kennismaking" %}
+{% assign knop_link = "#contact" %}
+
+{% capture beeld %}{% if page.image %}{% include valprop.html image=page.image alt=page.title %}{% endif %}{% endcapture %}
+{% include sectie.html kop=page.kop tekst=page.lead link=knop_link linktekst=knop_tekst knop=true beeld=beeld %}
+
+{% capture voor_wie %}{% for alinea in page.voor_wie %}
+{{ alinea }}
+{% endfor %}{% endcapture %}
+{% include sectie.html label="Voor wie" kop="Met wie gaan we aan de slag" inhoud=voor_wie %}
+
+{% include propositie.html pijn=page.herkenning winst=page.meenemen %}
+
+<div id="aanpak"></div>
+{% capture stappen %}{% include stappen-kort.html items=page.stappen start=0 %}{% endcapture %}
+{% capture beeld %}{% if page.aanpak_beeld %}{% include valprop.html image=page.aanpak_beeld alt="Wat we gaan doen" %}{% endif %}{% endcapture %}
+{% capture aanpak %}{{ page.aanpak_intro }}
+
+{{ stappen }}{% endcapture %}
+{% include sectie.html label="Aanpak" kop="Wat we gaan doen" inhoud=aanpak beeld=beeld %}
+
+{% include praktisch.html duur=page.looptijd duur_label="Looptijd" deelnemers=page.met_wie deelnemers_label="Met wie" locatie=page.locatie investering=page.investering %}
+
+{% capture waarom %}Tiltshift organiseert en begeleidt workshops en projecten in publieke digitalisering. We beginnen bij de mensen en hun werk, niet bij de techniek. Soms is minder techniek het beste antwoord, en dan zeggen we dat ook.{% endcapture %}
+{% include sectie.html label="Waarom Tiltshift" kop="Doe het met Tiltshift" inhoud=waarom %}
+
+{% if page.gedaan_voor %}
+{% capture logos %}{% include opdrachtgevers-logos.html klanten=page.gedaan_voor %}{% endcapture %}
+{% include sectie.html breed=true label="Opdrachtgevers" kop="Wij deden dit eerder met" beeld=logos %}
+{% endif %}
+
+{% if page.resultaten %}{% include resultaten-sectie.html slugs=page.resultaten %}{% endif %}
+
+<div id="contact"></div>
+{% capture cta_tekst %}We beginnen met een kennismaking: samen kijken we wat er speelt en wat er nodig is. Daarna krijg je een vrijblijvend voorstel.{% endcapture %}
+{% include cta.html header=page.cta_kop description=cta_tekst persoon=page.partner %}
+
+{% assign andere = site.begeleiding | where_exp: "d", "d.url != page.url" | sort: "order" %}
+{% if andere.size > 0 %}
+{% capture kaarten %}<div class="blokken-meer container-md">{% for d in andere %}{% include blok.html titel=d.title tekst=d.uitkomst afbeelding=d.image url=d.url linktekst="Bekijk" %}{% endfor %}</div>{% endcapture %}
+{% include sectie.html breed=true label="Begeleiding" kop="Waar we verder bij helpen" link="/begeleiding/" linktekst="Alle begeleiding" beeld=kaarten %}
+{% endif %}
+
+{% capture balk_tekst %}{{ page.looptijd }}{% if page.investering %} · {{ page.investering }}{% endif %}{% endcapture %}
+{% include boek-balk.html titel=page.title tekst=balk_tekst link=knop_link knoptekst=knop_tekst %}

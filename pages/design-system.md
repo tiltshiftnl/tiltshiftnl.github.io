@@ -252,6 +252,12 @@ Genummerde stappen met alleen een titel en één korte regel (`kort:` per stap).
 
 <pre class="ds-code container-sm"><code>{% raw %}{% include praktisch.html duur=page.duur deelnemers=page.deelnemers locatie=page.locatie investering=page.investering %}{% endraw %}</code></pre>
 
+Met `duur_label` en `deelnemers_label` wijken de eerste twee labels af. Op een begeleidingspagina staan er "Looptijd" en "Met wie".
+
+{% include praktisch.html duur="In overleg" duur_label="Looptijd" deelnemers="De opdrachtgever, de productowner, het team en de mensen in de uitvoering" deelnemers_label="Met wie" locatie="Bij jou in de organisatie" investering="Vraag om offerte" %}
+
+<pre class="ds-code container-sm"><code>{% raw %}{% include praktisch.html duur=page.looptijd duur_label="Looptijd" deelnemers=page.met_wie deelnemers_label="Met wie" locatie=page.locatie investering=page.investering %}{% endraw %}</code></pre>
+
 ### Contactblok
 
 In dezelfde beeldtaal als de mensenrijen: portret met het gekantelde rode vlak, een rood label en een grote kop, de naam als zwarte strook half over de foto, en het telefoonnummer groot. Het portret en de naam horen bij wie het nummer opneemt (zie het [adresboek](/adresboek/)). Het e-mailadres is altijd het persoonlijke adres van die persoon, nooit info@ of administratie@: die staan alleen op [/contact/](/contact/) en in de footer. Zonder `header` is de kop "Even bellen?".
@@ -322,11 +328,17 @@ Eén groot blok met twee kleine blokken ernaast, boven elkaar. Bijvoorbeeld een 
     {% include blok.html ... %}
 &lt;/div&gt;{% endraw %}</code></pre>
 
+Met `moment` staat er een kleine regel boven de titel, zoals het moment bij een [reeks](#reeks).
+
 ### Boekbalk
 
 Een balk die onderin beeld vast blijft staan op de workshoppagina's: links de naam, duur en prijs van de workshop, rechts de knop "Boek deze workshop" naar `/boeken/?workshop=…`. Op mobiel alleen de naam en de knop. Omdat hij vast staat, is hij hier niet als voorbeeld getoond.
 
 <pre class="ds-code container-sm"><code>{% raw %}{% include boek-balk.html titel=page.title tekst="Eén dag · Vraag om offerte" link="/boeken/?workshop=crazy-8s" %}{% endraw %}</code></pre>
+
+Op een begeleidingspagina staat links de naam van de dienst met looptijd en prijs, en rechts de knop "Plan een kennismaking" naar het contactblok (`knoptekst` past de knop aan).
+
+<pre class="ds-code container-sm"><code>{% raw %}{% include boek-balk.html titel=page.title tekst="100 dagen / 14 weken · Vraag om offerte" link="#contact" knoptekst="Plan een kennismaking" %}{% endraw %}</code></pre>
 
 ### Reeks
 
@@ -458,11 +470,12 @@ De navigatie boven en de footer onder deze pagina. Ze zitten in elke template en
 
 ## Templates {#templates}
 
-Het skelet van een pagina. Er zijn er twee, en ze delen dezelfde basis.
+Het skelet van een pagina. Ze delen dezelfde basis.
 
 - **`default`**: navigatie, de paginatitel als h1, de inhoud in de tekstkolom van 720 pixels, een contactblok onderaan en de footer. Het contactblok vervalt als de pagina er zelf al een heeft, of met `contactblok: false` in de front matter. Met `contactpersoon: joris` kies je wie erin staat. Met `intro:` komt er een korte inleiding onder de paginatitel. Beelden en rasters mogen breder (1024 pixels). Gebruikt door bijna alle pagina's.
 - **`person`**: een mensenpagina. Bovenaan de persoon als rij met contactgegevens, dan de eigen tekst en de projecten als tekstsecties, en onderaan de collega's als rijen en het contactblok.
 - **`sessie`**: de `default`-template met een vaste volgorde van workshop-onderdelen, naar het Strategyzer-template: waardepropositie met boekknop als sectie met foto-paneel, opdrachtgevers, pijn/product/winst, dan de details: herkenning, stappen, wat je meeneemt, voor wie, praktisch, andere sessies en het contactblok. De inhoud komt uit de front matter van het sessiebestand.
+- **`dienst`**: dezelfde opbouw als `sessie`, voor een begeleidingsdienst uit `_begeleiding/` (op `/begeleiding/<naam>/`). Elke dienst heeft een verantwoordelijke partner (`partner:`, sleutel uit `_data/mensen.yml`). Die staat in het contactblok, en de knoppen "Plan een kennismaking" linken daarheen. Praktisch heeft `looptijd:` en `met_wie:` in plaats van duur en deelnemers. Daarna optioneel opdrachtgevers (`gedaan_voor:`) en resultaten (`resultaten:`, komma-gescheiden slugs), en onderaan de andere diensten als blokken.
 
 ## Pagina's {#paginas}
 
@@ -472,6 +485,7 @@ De templates gevuld met echte inhoud.
 - [Workshops](/workshops/): de workshops als blokken, begeleiding als sectie, stappen en contactblok
 - [Ontwerpdag]({% include workshop-url.html naam="crazy-8s" %}): de `sessie`-template
 - [Meetups](/meetups/): de agenda met komende meetups, een tekstsectie over de maandelijkse meetup Werken aan Publieke Code, de updates van Mastodon en het contactblok
-- [Begeleiding](/begeleiding/): quote, drie secties met foto-paneel, resultaten als brede sectie en het contactblok
+- [Begeleiding](/begeleiding/): quote, de diensten als blokken, community building als eigen sectie met foto-paneel (`eigen_sectie: true` in de front matter van de dienst), resultaten als brede sectie en het contactblok
+- [In-house development](/begeleiding/in-house-development/): de `dienst`-template
 - [Over ons](/mensen/): een sectie met foto-paneel en quote, de mensen als carrousel in een brede sectie, een sectie met foto ("Voelbaar anders"), hoe we werken als grijze band met vier punten twee bij twee, en drie secties met foto over software design thinking
 - Een social post, zoals [Meekijkdag](/2026/11/12/meekijkdag.html): de `social`-template. Het beeld en de LinkedIn-tekst als artikel, de link als pijllink, zonder hashtags. Lokaal staat eronder een blok om te plaatsen: status, beeld met alt-tekst en download, de tekst voor Mastodon en LinkedIn met tekenteller (Mastodon 500, een link telt als 23) en kopieerknoppen. Op tiltshift.nl staat dat blok er niet (`jekyll.environment` is daar `production`)

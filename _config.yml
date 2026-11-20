@@ -17,6 +17,9 @@ collections:
   sessies:
     output: true
     permalink: /workshops/:name/
+  begeleiding:
+    output: true
+    permalink: /begeleiding/:name/
 
 sass:
   sass_dir: /css/_sass

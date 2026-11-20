@@ -1,8 +1,9 @@
+{% comment %}Parameters: titel, duur, deelnemers, locatie, investering; duur_label en deelnemers_label wijken af van "Duur" en "Deelnemers" (bijvoorbeeld "Looptijd" en "Met wie" bij begeleiding).{% endcomment %}
 <div class="praktisch container-sm">
     <h3>{{ include.titel | default: "Praktisch" }}</h3>
     <dl>
-        {% if include.duur %}<dt>Duur</dt><dd>{{ include.duur }}</dd>{% endif %}
-        {% if include.deelnemers %}<dt>Deelnemers</dt><dd>{{ include.deelnemers }}</dd>{% endif %}
+        {% if include.duur %}<dt>{{ include.duur_label | default: "Duur" }}</dt><dd>{{ include.duur }}</dd>{% endif %}
+        {% if include.deelnemers %}<dt>{{ include.deelnemers_label | default: "Deelnemers" }}</dt><dd>{{ include.deelnemers }}</dd>{% endif %}
         {% if include.locatie %}<dt>Locatie</dt><dd>{{ include.locatie }}</dd>{% endif %}
         {% if include.investering %}<dt>Investering</dt><dd>{{ include.investering }}</dd>{% endif %}
     </dl>

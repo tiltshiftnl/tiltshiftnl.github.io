@@ -1,8 +1,8 @@
-{% comment %}Balk die onderin beeld vast blijft staan, met de knop om te boeken. Parameters: titel, tekst, link.{% endcomment %}
+{% comment %}Balk die onderin beeld vast blijft staan, met de knop om te boeken. Parameters: titel, tekst, link, knoptekst (standaard "Boek deze workshop").{% endcomment %}
 <div class="boek-balk" role="region" aria-label="Boeken">
     <div class="boek-balk__binnen">
         <p class="boek-balk__titel"><strong>{{ include.titel }}</strong>{% if include.tekst %}<span>{{ include.tekst }}</span>{% endif %}</p>
-        <a class="boek-balk__knop" href="{{ include.link }}">Boek deze workshop <span aria-hidden="true">→</span></a>
+        <a class="boek-balk__knop" href="{{ include.link }}">{{ include.knoptekst | default: "Boek deze workshop" }} <span aria-hidden="true">→</span></a>
     </div>
 </div>
 <script>

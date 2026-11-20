@@ -15,6 +15,7 @@ caption:
 teaser:
   kop: "We lopen mee tot het werkt."
   tekst: "We begeleiden organisaties in hun digitale transformatie, van kwartiermaken tot de adoptie van andere software en nieuwe manieren van werken, zoals human centered design, agile development, opensourcewerken en community building."
+
 ---
 {{ page.description }}
 
@@ -22,22 +23,30 @@ teaser:
 >
 > <small>Pierre Groenen, timmerman (en vader van Johan)</small>
 
-{% capture beeld %}{% include valprop.html image="/assets/img/foto/Straatnotes-Veilig-Notities-maken-op-straat-jeugdoverlast.jpg" alt="Ontwikkelteam aan het werk" %}{% endcapture %}
-{% capture tekst %}
-Wil je werk maken van digitale autonomie, maar blijf je hangen in discussies, verkenningen en planning? Sinds 2015 helpen we overheden en publieke organisaties bij het opzetten van in-house development teams met een bewezen manier van werken: open source, agile en human centered.
-Het hoeft geen keuze te zijn tussen one-size-fits-none inkoop en alles zelf bouwen. Vaak zit de winst ertussen: bestaande open source bouwblokken, slim ingericht en geconfigureerd, met maatwerk voor de laatste meters naar de uitvoering.
-{% endcapture %}
-{% include sectie.html label="In-house teams" kop="Transformeren naar open source werken" tekst=tekst beeld=beeld %}
+{% comment %}De diensten uit _begeleiding/ als blokken: de eerste groot, de volgende twee klein ernaast.
+Diensten met eigen_sectie: true (zoals community building) staan daaronder als eigen sectie met foto-paneel.{% endcomment %}
+{% assign alle_diensten = site.begeleiding | sort: "order" %}
+{% assign diensten = alle_diensten | where_exp: "d", "d.eigen_sectie != true" %}
+{% capture blokken %}<div class="blokken container-md">
+    {% for d in diensten limit: 3 %}
+    {% include blok.html titel=d.title tekst=d.uitkomst afbeelding=d.image url=d.url linktekst="Bekijk" %}
+    {% endfor %}
+</div>{% endcapture %}
+{% include sectie.html breed=true label="Begeleiding" kop="Waar we bij helpen" beeld=blokken %}
+{% if diensten.size > 3 %}
+<div class="blokken-meer container-md">
+    {% for d in diensten offset: 3 %}
+    {% include blok.html titel=d.title tekst=d.uitkomst afbeelding=d.image url=d.url linktekst="Bekijk" %}
+    {% endfor %}
+</div>
+{% endif %}
 
-{% capture beeld %}{% include valprop.html image="/assets/img/foto/Careyn-Joris-Boeren-leiderschap-traject-nieuwe-website.jpg" alt="Joris Boeren belt bij de nieuwe Careyn-website" %}{% endcapture %}
-{% include sectie.html label="Open source hergebruik" kop="Publieke digitalisering die werkt" tekst="Liever bestaande open source software inzetten, uit de markt of van andere publieke organisaties? We verkennen wat past, organiseren de pilot en begeleiden implementatie en adoptie. En we regelen wat er verder nodig is: afspraken met leveranciers, levering als dienst of intern, en wat er binnen de organisatie nog vastzit. We blijven erbij tot het in de organisatie werkt. Vanuit de uitvoering, met de mensen die het doen." beeld=beeld %}
-
-{% capture beeld %}{% include valprop.html image="/assets/img/foto/Stadspas-Zwolle-Sessie.jpg" alt="Werksessie in Zwolle" %}{% endcapture %}
-{% capture tekst %}
-Publieke software heeft een levende community nodig. Een uitvoeringsdomein in digitale transformatie ook. Daar wordt kennis gedeeld, wordt software hergebruikt en hoeft niet elke organisatie hetzelfde werk opnieuw te doen.
-We bouwen en organiseren die communities, rond publieke tech en rond uitvoeringsdomeinen. Hoe doen we ons werk, hoe helpt technologie daarbij, wat kunnen we van elkaar leren en hergebruiken, en hoe werken we samen? Dat is open samenwerking. We leveren ook de online ondersteuning die daarvoor nodig is. Zo organiseren we samen met ICATT de maandelijkse meetup over de <a href="/materialen/standaard-voor-publieke-code/">Standaard voor Publieke Code</a>.
-{% endcapture %}
-{% include sectie.html label="Community building" kop="Sterke communities rond publieke digitalisering" tekst=tekst beeld=beeld %}
+{% assign apart = alle_diensten | where_exp: "d", "d.eigen_sectie == true" %}
+{% for d in apart %}
+{% capture beeld %}{% include valprop.html image=d.image alt=d.title %}{% endcapture %}
+{% capture linktekst %}Meer over {{ d.title | downcase }}{% endcapture %}
+{% include sectie.html label=d.title kop=d.kop tekst=d.uitkomst link=d.url linktekst=linktekst beeld=beeld %}
+{% endfor %}
 
 <!--
 {% include valprop.html title="Design sprints" description="Snel toetsen of een idee in de praktijk werkt. We komen één week langs om het concreet te maken, uit te werken, werkend te krijgen en te testen met gebruikers." image="/assets/img/foto/Schulddossier-Design-Thinking-Schulddienstverlening.jpg" %}
